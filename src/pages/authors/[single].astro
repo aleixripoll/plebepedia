@@ -46,7 +46,7 @@ const currentPosts = sortPostsByDate.filter((post) => {
       <div class="container">
         <h2 class="mb-8 text-center h3">Recent Posts</h2>
         <div class={`row gy-4 ${currentPosts.length < 3 ? "justify-center" : ""}`}>
-          {currentPosts.map((post: any, i: number) => (
+          {currentPosts.map((post: any) => (
           <div class="col-12 sm:col-6 lg:col-4">
             {post.data.image && (
               <a href={`/${post.slug}`} class="rounded-lg block hover:text-primary overflow-hidden group">

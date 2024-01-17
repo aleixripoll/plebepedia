@@ -1,6 +1,6 @@
 ---
 import Base from "@layouts/Base.astro";
-import Search from "@layouts/Search";
+import SearchCustom from "@layouts/Search";
 import { getSinglePage } from "@lib/contentParser.astro";
 
 // Retrieve all articles
@@ -17,7 +17,7 @@ const searchList = posts.map((item: any) => ({
 <Base title={`Search`}>
   <section class="section">
     <div class="container">
-      <Search client:load searchList={searchList} />
+      <SearchCustom client:load searchList={searchList} />
     </div>
   </section>
 </Base>
