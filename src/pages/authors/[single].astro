@@ -13,7 +13,7 @@ import { BiCalendarEdit,BiCategoryAlt } from "react-icons/bi/index.js";
 export async function getStaticPaths() {
   const authors = await getSinglePage("authors");
 
-  const paths = authors.map((author) => ({
+  const paths = authors.map((author: any) => ({
     params: {
       single: author.slug,
     },
