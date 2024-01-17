@@ -18,7 +18,8 @@
   "fonts": {
     "font_family": {
       "primary": "Mulish:wght@400;600;700",
-      "primary_type": "sans-serif"
+      "primary_type": "sans-serif",
+      "secondary": "serif"
     },
     "font_size": {
       "base": "16",

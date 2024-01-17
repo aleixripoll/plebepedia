@@ -28,12 +28,12 @@ const { className, posts, fluid } = Astro.props;
         <ul class="mt-6 mb-4 flex flex-wrap items-center text-text">
           <li class="mr-5">
             {authors
-              .filter((author) =>
+              .filter((author: any) =>
                 post.data.authors
                   .map((author: string) => slugify(author))
                   .includes(slugify(author.data.title))
               )
-              .map((author) => (
+              .map((author: any) => (
                 <a
                   href={`/authors/${slugify(author.data.title)}`}
                   class="flex items-center hover:text-primary font-medium"
