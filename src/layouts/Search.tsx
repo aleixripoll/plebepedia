@@ -54,14 +54,15 @@ export default function SearchBar({ searchList }: Props) {
     let inputResult = inputVal.length > 2 ? fuse.search(inputVal) : [];
     setSearchResults(inputResult);
 
+    // Update search string in URL
     if (inputVal.length > 0) {
       const searchParams = new URLSearchParams(window.location.search);
       searchParams.set("q", inputVal);
       const newRelativePathQuery =
         window.location.pathname + "?" + searchParams.toString();
-      history.pushState(null, "", newRelativePathQuery);
+      history.replaceState(history.state, "", newRelativePathQuery);
     } else {
-      history.pushState(null, "", window.location.pathname);
+      history.replaceState(history.state, "", window.location.pathname);
     }
   }, [inputVal]);
 
