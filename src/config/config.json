@@ -1,8 +1,8 @@
 {
   "site": {
     "title": "Bookworm Light Astro | Blog Template",
-    "base_url": "https://aleixripoll.github.io/bookworm",
-    "base_path": "/",
+    "base_url": "https://aleixripoll.github.io",
+    "base_path": "/bookworm",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
     "logo": "/images/logo.png",
