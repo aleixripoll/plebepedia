@@ -2,6 +2,7 @@
   "name": "bookworm",
   "version": "4.1.3",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro check && astro build",

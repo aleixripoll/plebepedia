@@ -1,4 +1,4 @@
-const theme = require("./src/config/theme.json");
+import theme from './src/config/theme.json';
 
 let font_base = Number(theme.fonts.font_size.base.replace("px", ""));
 let font_scale = Number(theme.fonts.font_size.scale);
@@ -23,7 +23,7 @@ if (theme.fonts.font_family.secondary) {
 }
 
 /** @type {import('tailwindcss').Config} */
-module.exports = {
+export default {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
   theme: {
     screens: {
