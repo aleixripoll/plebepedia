@@ -1,18 +1,21 @@
 ---
+import type { ImageMetadata } from 'astro';
 import { Image } from 'astro:assets'
 import { markdownify } from "@lib/utils/textConverter";
 import { BsArrowRightCircle } from "react-icons/bs/index.js";
 const { authors } = Astro.props;
+
+const images = import.meta.glob<{ default: ImageMetadata }>("/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}");
 ---
 
 <div class="row justify-center">
   {
     authors.map((author: any) => (
       <div class="col-12 mb-8 sm:col-6 md:col-4">
-        {author.data.image && (
+        {images[author.data.image] && (
           <div class="mb-4">
             <Image
-              src={author.data.image}
+              src={images[author.data.image]()}
               alt={author.data.title}
               height={150}
               width={150}
