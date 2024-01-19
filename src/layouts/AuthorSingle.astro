@@ -1,21 +1,25 @@
 ---
-import { Image } from 'astro:assets'
+import { Image } from "astro:assets";
 import Social from "@components/Social.astro";
 import { markdownify } from "@lib/utils/textConverter";
 
 const { author } = Astro.props;
 const { title, image, social } = author.data;
 const { Content } = await author.render();
+
+const authorImages = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}"
+);
 ---
 
 <section class="section">
   <div class="container">
     <div class="mb-4 text-center md:px-24">
       {
-        image && (
+        authorImages[image] && (
           <div class="mb-8">
             <Image
-              src={image}
+              src={authorImages[image]()}
               class="mx-auto rounded-lg"
               height={150}
               width={150}
