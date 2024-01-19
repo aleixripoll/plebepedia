@@ -93,6 +93,7 @@ export default function SearchBar({ searchList }: Props) {
       <div className="row">
         {searchResults?.map(({ item }) => (
           <div key={item.slug} className={"col-12 mb-8 sm:col-6"}>
+            {/*
             {item.data.image && (
               <a href={`/${item.slug}`} className="rounded-lg block hover:text-primary overflow-hidden group">
                 <img
@@ -104,6 +105,7 @@ export default function SearchBar({ searchList }: Props) {
                 />
               </a>
             )}
+            */}
 
             <ul className="mt-6 mb-4 flex flex-wrap items-center text-text">
               <li className="mr-5 flex items-center flex-wrap font-medium">
