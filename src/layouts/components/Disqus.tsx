@@ -5,14 +5,16 @@ import React from "react";
 const Disqus = ({ className }: { className?: string }) => {
   const { disqus } = config;
   return (
-    <div className={className}>
-      {disqus.enable && (
+    <>
+    {disqus.enable && (
+      <div className={className}>
         <DiscussionEmbed
           shortname={disqus.shortname}
           config={disqus.settings}
         />
-      )}
-    </div>
+      </div>
+    )}
+    </>
   );
 };
 
