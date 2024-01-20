@@ -20,7 +20,9 @@
     "github-slugger": "^2.0.0",
     "marked": "^4.2.12",
     "react-icons": "^4.7.1",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "disqus-react": "^1.1.5",
+    "prop-types": "^15.8.1"
   },
   "devDependencies": {
     "@astrojs/react": "^3.0.9",

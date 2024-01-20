@@ -8,6 +8,7 @@ import dateFormat from "@lib/utils/dateFormat";
 import similarItems from "@lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@lib/utils/textConverter";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
+import Disqus from "@components/Disqus";
 
 const allAuthors = await getSinglePage("authors");
 const posts = await getSinglePage("posts");
@@ -127,8 +128,11 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
         </div>
       </div>
     </article>
+    <Disqus className="mt-20" client:load />
+
   </div>
 </section>
+
 
 <!-- similar posts -->
 {
