@@ -31,6 +31,7 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
     <article class="row justify-center">
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h2" />
+        <h5 class="pt-4 font-light">{description}</h5>
         <ul class="mt-4 flex flex-wrap items-center justify-center text-text">
           <li class="mx-3">
             {

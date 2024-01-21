@@ -1,7 +1,7 @@
 ---
 title: "Vitamina A"
 slug: vitamina-a
-description: "La de las zanahorias"
+description: '"Si no comes zanahorias te quedarás ciego"'
 date: 2024-01-20T17:30:00Z
 image: "/src/assets/images/posts/05.jpg"
 categories: ["nutrición"]
@@ -10,13 +10,27 @@ tags: ["micronutrientes", "vitaminas"]
 draft: true
 ---
 
+Seguramente muchos os hagáis la siguiente pregunta:
 
-Vitamin A is a fat-soluble life-essential group of compounds both of animal and vegetal origin characterized by an unsaturated isoprenoid chain structure. 
+> Profesor Ensaladín, si me da un venazo y me meto 8 kilos de zanahorias entre pecho y espalda, **¿podré ver en la oscuridad como los gatos, las lechuzas o Batman?**
 
-The vitamin can be provided in the diet either via products of an animal origin in the form of vitamin A (retinol and its close derivatives) or as provitamin A (carotenoids) from vegetables [1]. Although the term vitamin A is mostly associated with retinol, and retinol is, in fact, the predominant form of retinoids in the human body, the main biologically active molecules are the oxidized derivates 11-cis-retinal and all-trans-retinoid acid (ATRA) [1,2].
-Carotenoids are yellow- to orange-colored organic pigments found in several fruit and vegetables. In addition to their relationship to vitamin A, they are known for their antioxidant activities. Some of the most well-known carotenoids are β-carotene, α-carotene, lutein, lycopene and cryptoxanthin. Carotenoids are tetraterpenoids in contrast to animal-origin diterpenoid retinoids but can be eventually metabolized to retinol. However, not all carotenoids can be converted into vitamin A in the human body. Only those molecules, which contain at least one unsubstituted β-ionone ring, have the nature of provitamin A.
+Efectivamente **no**.
+
+Hecha esta puntualización, vayamos al trapo.
+
 
 ## Fuentes
+
+La vitamina A es una vitamina liposoluble (por lo tanto almacenable en el cuerpo). El cuerpo humano no puede producir vitamina A y debe obtenerlo de la dieta mediante:
+
+**A.** Productos de origen animal en forma de vitamina A (retinol y derivados como el ácido trans-retinoico, ATRA).
+
+**B.** Productos de origen vegetal en forma de **provitamina A** (carotenoides).
+
+El objetivo final es transformar los carotenoides en retinol, pero, al contrario que los retinoides de origen animal, no todos los carotenoides pueden ser metabolizados en retinol por el cuerpo, por lo tanto no todos los carotenoides son provitamina A. Existen más de 50 carotenoides con esas características pero en la dieta humana se reducen a tres, y de esos tres el más abundante son los **beta-carotenos** así que vamos a obviar los demás.
+
+Los carotenoides se encuentran en frutas y hortalizas de coloración amarilla-naranja-roja, como zanahorias, tomates o espinacas (esta última no cumple la regla de los colores, pero sale en todos los estudios y artículos del Marca. Tengo varias teorías: el país de donde salen todos estos estudios tiene espinacas rojas y no se han enterado de que son los únicos. Otra teoría: las pintan para que los niños de los 80 que idolatraban a Popeye y querían ponerse mazas para ligarse a la Olivia de turno se las coman. ¿Quizá habría sido más fácil pintar las espinacas de Popeye de color rojo en vez de echar colorante a todas las espinacas del planeta durante los siguientes 50 años (excepto las del país de los estudios)? Tal vez. Otra opción es que soy daltónico y nadie me lo ha dicho. Que alguien me saque de dudas en los comentarios, de qué color son las espinacas por dios).
+
 
 The human body is not able to produce vitamin A, and therefore, it is necessary to obtain it from the diet either as preformed vitamin A or in the form of provitamin A carotenoids. There are more than 50 provitamin A carotenoids, but only β-carotene, α-carotene, and β-cryptoxanthin are present in significant amounts in the human diet [9]. These carotenoids have been identified in all groups of photosynthetic organisms, bacteria, fungi, and many animals [10]. β-Carotene is the most abundant in the diet. It is mostly ingested through red and orange vegetables and partially through the same colored fruits and green vegetables (Table 1). In Europe, carrots, spinach, and tomato products are the main contributors to β-carotene intake, while β-cryptoxanthin is most commonly taken from various citruses and citrus juices [11,12]. β-Cryptoxanthin, as well as other carotenoids, occurs in plants both as free and esterified with fatty acids (lauric, myristic, palmitic), and these esters contribute to total vitamin A content due to their comparable bioavailability [13]. Rich sources of cryptoxanthin or its esters include, in addition to the already-mentioned citruses (satsuma mandarins, tangerines, clementines, mineolas and oranges), persimmons, chili peppers and red peppers, papaya, sea buckthorn, loquat, mango and apricots [12,14,15,16]. Other sources of provitamin A carotenoids also include various medicinal plants and herbs, cereals, and specific vegetable oils (Table 1).
 
