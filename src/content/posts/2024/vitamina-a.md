@@ -1,5 +1,6 @@
 ---
 title: "Vitamina A"
+slug: vitamina-a
 description: "La de las zanahorias"
 date: 2024-01-20T17:30:00Z
 image: "/src/assets/images/posts/05.jpg"
