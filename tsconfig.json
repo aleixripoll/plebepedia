@@ -10,10 +10,7 @@
         "./src/layouts/*"
       ],
       "@components/*": [
-        "./src/layouts/components/*"
-      ],
-      "@partials/*": [
-        "./src/layouts/partials/*"
+        "./src/components/*"
       ],
       "@shortcodes/*": [
         "./src/layouts/shortcodes/*"
