@@ -2,10 +2,12 @@
 import { getCollection } from "astro:content";
 
 export const getSinglePage = async (collection: any) => {
-  const allPage = await getCollection(collection);
-  const removeIndex = allPage.filter((entry: any) => entry.id.match(/^(?!-)/));
-  const removeDrafts = removeIndex.filter((entry: any) =>
-    import.meta.env.PROD ? !entry.data.draft : true
+  const allPages = await getCollection(collection);
+  // used to filter out -index.md pages but renamed them to _index.md, which are ignored by Astro by default
+  //const removeIndex = allPages.filter((page: any) => page.id.match(/^(?!-)/));
+  // if prod, filter out drafts
+  const removeDrafts = allPages.filter((page: any) =>
+    import.meta.env.PROD ? !page.data.draft : true
   );
   return removeDrafts;
 };
