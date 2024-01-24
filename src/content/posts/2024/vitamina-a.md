@@ -23,32 +23,27 @@ Hecha esta puntualización, vayamos al trapo.
 
 - Es una vitamina liposoluble (no se disuelve en agua y se puede almacenar).
 - El cuerpo humano no puede producir vitamina A.
-- Se obtiene de alimentos de origen animal (**retinol** y derivados como el ácido trans-retinoico, ATRA) y de origen vegetal en forma de **provitamina A** (**carotenoides**).
+- Se obtiene de alimentos de origen animal (**retinoides**) y de origen vegetal en forma de **provitamina A** (**carotenoides**).
+
+- El retinol es una de las tres formas de la vitamina A, junto con el retinal y el ácido retinoico (ATRA). Estos 3 ingredientes forman parte de la familia de los retinoides (su nombre viene de retina, ya que fue ahi donde se aisló por primera vez).
+- En los animales la mayor fuente de vitamina A es con gran diferencia el hígado, seguido de lácteos, carne, huevos y pescado.
+- La leche con más grasa tiene más retinol.
+- La cantidad de vitamina A en alimentos de origen animal depende de la cantidad de beta-carotenos (o suplementos) consumidos por esos animales. Por ejemplo, las vacas de pasto tienen más vitamina A que las alimentadas con cereales.
+
 - Los carotenoides se deben transformar en retinol, pero **no todos los carotenoides son provitamina A**; de los más de 50 que **sí** lo son, en la dieta humana se reducen a tres: **alfa-carotenos, beta-carotenos y beta-criptoxantina**.
 - La principal fuente de carotenoides son frutas y hortalizas de coloración amarilla-naranja (zanahoria, tomate, mango, melocotón, melón, naranja, mandarina), y verduras de hoja verde oscura (espinaca, brócoli).
-- La mayoría de los carotenoides sobreviven el cocinado, siendo la fritura el método que más negativamente les afecta.
-- En los animales la mayor fuente de vitamina A es el hígado, seguido de lácteos, carne, huevos y pescado.
-- El higado con más contenido en vitamina A es el del cerdo.
-- La leche con más grasa contiene más retinol.
+- Los carotenoides sobreviven mayormente al cocinado, siendo la fritura la que más contenido pierde.
 
-
-The amount of vitamin A is significantly dependent on the amount of β-carotene contained in the feed or food supplements with preformed vitamin or β-carotene given to the animals. Large differences can be observed, for example, in cows fed a diet based mainly on grains or that are grass-fed
-
-The content of vitamin A is significantly lower in other animal organs, and it reaches only units up to tens of micrograms per 100 g in meat [58,61]. The same is true for both freshwater and sea fish. Their livers also contain units up to tens of milligrams of vitamin A per 100 g (some tropical fish even up to hundreds), while their muscles contain only tens of micrograms per 100 g. As with other animals, the highest vitamin A levels are found in the livers of the top predators, i.e., carnivorous fish. One of the most important sources of vitamin A is the liver oil of various marine species, including sharks.
-
-Chicken egg yolks can contain up to almost one milligram of vitamin A per 100 mg.
 
 ## Absorción
 
-Absorption differs significantly between animal vitamin A (retinol and its derivatives) and carotenoids [1,71]. The retinyl esters found in animal-origin foods are almost completely absorbed, while carotenoid absorption is significantly lower.
-
-Its absorption is increased if consumed with fatty meals since micelle formation supports the absorption of fat-soluble compounds, such as animal vitamin A in the small intestine [71]. In addition to fat, some micronutrients, such as zinc, are also needed for the absorption of the vitamin [73]. 
-
-When carotene intake is high, there is only a small conversion rate, and most of the carotene is stored in the adipose tissue and other fat reserves.
-
-Not all retinol in the hepatocytes is secreted with RBP. Some retinol is transported to the stellate cells of the liver, where it is metabolized into retinyl esters and forms the main storage of vitamin A in the body [93,105]. In general, vitamin A is stored in the form of retinyl esters [106]. In addition, adipose tissue and other organs can store retinoids. Examples include the testes, adrenal glands, lungs, kidneys and interstitial cells. This storage ability is important for organs with a high vitamin A requirement, especially retinal epithelium. In cases of a vitamin A-deficient diet, physiological levels can be maintained for several months thanks to these stored reserves. When needed, these storage organs release retinoids into the blood.
-
-Alcohol consumption is an important factor mediating the inhibition of vitamin A metabolism.
+- La absorción de vitamina A a partir de retinoides (origen animal) es casi del 100%. La de los carotenoides es mucho menor.
+- Consumirlos junto con grasa aumenta su índice de absorción.
+- El zinc es necesario para su absorción.
+- A medida que aumenta la dosis de carotenos se reduce el índice de absorción.
+- La vitamina A se almacena principalmente en el hígado como ésteres de retinilo, la forma inactiva del retinol. Otros órganos como los pulmones, los riñones o el tejido adiposo (grasa) también pueden almacenarlo.
+- La deficiencia de vitamina A puede pasar meses inadvertida debido a esos almacenes.
+- El alcohol inhibe el metabolismo de vitamina A.
 
 ---
 
