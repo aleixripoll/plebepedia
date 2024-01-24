@@ -21,29 +21,16 @@ Hecha esta puntualización, vayamos al trapo.
 
 ## Fuentes
 
-La vitamina A es una vitamina liposoluble (por lo tanto almacenable en el cuerpo). El cuerpo humano no puede producir vitamina A y debe obtenerla mediante:
+- Es una vitamina liposoluble (no se disuelve en agua y se puede almacenar).
+- El cuerpo humano no puede producir vitamina A.
+- Se obtiene de alimentos de origen animal (**retinol** y derivados como el ácido trans-retinoico, ATRA) y de origen vegetal en forma de **provitamina A** (**carotenoides**).
+- Los carotenoides se deben transformar en retinol, pero **no todos los carotenoides son provitamina A**; de los más de 50 que **sí** lo son, en la dieta humana se reducen a tres: **alfa-carotenos, beta-carotenos y beta-criptoxantina**.
+- La principal fuente de carotenoides son frutas y hortalizas de coloración amarilla-naranja (zanahoria, tomate, mango, melocotón, melón, naranja, mandarina), y verduras de hoja verde oscura (espinaca, brócoli).
+- La mayoría de los carotenoides sobreviven el cocinado, siendo la fritura el método que más negativamente les afecta.
+- En los animales la mayor fuente de vitamina A es el hígado, seguido de lácteos, carne, huevos y pescado.
+- El higado con más contenido en vitamina A es el del cerdo.
+- La leche con más grasa contiene más retinol.
 
-**A.** Productos de origen animal en forma de vitamina A (retinol y derivados como el ácido trans-retinoico, ATRA).
-
-**B.** Productos de origen vegetal en forma de **provitamina A** (carotenoides).
-
-**C.** Suplementación.
-
-Vamos a centrarnos en los dos primeros. Por lo que respecta al origen vegetal, el objetivo final es transformar los carotenoides en retinol, pero, al contrario que los retinoides de origen animal, no todos los carotenoides pueden ser metabolizados en retinol por el cuerpo, por lo tanto **no todos los carotenoides son provitamina A**. Existen más de 50 carotenoides con esas características, que en la dieta humana se reducen básicamente a tres, y de esos tres el más abundante son los **beta-carotenos**.
-
-Los carotenoides se encuentran en frutas y hortalizas de coloración amarilla-naranja (zanahoria, tomate, mango, melocotón, melón), y verduras de hoja verde oscura (espinaca, brócoli). En los productos animales la mayor fuente es el hígado (el almacén de vitaminas).
-
-
-The human body is not able to produce vitamin A, and therefore, it is necessary to obtain it from the diet either as preformed vitamin A or in the form of provitamin A carotenoids. There are more than 50 provitamin A carotenoids, but only β-carotene, α-carotene, and β-cryptoxanthin are present in significant amounts in the human diet [9]. These carotenoids have been identified in all groups of photosynthetic organisms, bacteria, fungi, and many animals [10]. β-Carotene is the most abundant in the diet. It is mostly ingested through red and orange vegetables and partially through the same colored fruits and green vegetables (Table 1). In Europe, carrots, spinach, and tomato products are the main contributors to β-carotene intake, while β-cryptoxanthin is most commonly taken from various citruses and citrus juices [11,12]. β-Cryptoxanthin, as well as other carotenoids, occurs in plants both as free and esterified with fatty acids (lauric, myristic, palmitic), and these esters contribute to total vitamin A content due to their comparable bioavailability [13]. Rich sources of cryptoxanthin or its esters include, in addition to the already-mentioned citruses (satsuma mandarins, tangerines, clementines, mineolas and oranges), persimmons, chili peppers and red peppers, papaya, sea buckthorn, loquat, mango and apricots [12,14,15,16]. Other sources of provitamin A carotenoids also include various medicinal plants and herbs, cereals, and specific vegetable oils (Table 1).
-
-The highest content of carotenoids is found in fully ripe fruit [19,20,21]. Of course, other factors can also have an effect, such as the method and location of cultivation [19,22]. All of the above apply to fresh fruit and vegetables, but most species are processed or modified in various ways for better digestibility or storability. Many kinds of fruit, vegetables and herbs are dried before storage, and the method of drying used has been shown to have a large influence on the final content of carotenoids. Up to 90% losses can occur in sun-dried material, while up to 70% carotenoids can be retained when dried in a tray dryer at high temperatures (up to 80 °C) [23,24,25]. As for conventional heat treatment methods, bleaching and cooking are comparable, maintaining an average of 75% carotenoids, whereas frying is less gentle on carotenoid content but still retains more than one-half of the content [21,25,26]. Jams are a common product of various kinds of fruit processing. The loss of β-carotene in these preparations is comparable to conventional cooking, even when using a microwave oven
-
-An important source of the human intake of vitamin A is the preformed version of the vitamin, which is found in foods of an animal origin. Milk and dairy products, as well as meat and its products, are the largest contributors, followed by eggs, egg products and fish [11]. 
-
-
-The higher the fat content in the milk, the higher the retinol content
-
-One of the richest sources of vitamin A is the livers of various livestock and poultry, the highest vitamin A content in the liver is usually reported in pigs
 
 The amount of vitamin A is significantly dependent on the amount of β-carotene contained in the feed or food supplements with preformed vitamin or β-carotene given to the animals. Large differences can be observed, for example, in cows fed a diet based mainly on grains or that are grass-fed
 
