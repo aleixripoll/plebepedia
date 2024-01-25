@@ -1,7 +1,7 @@
 ---
 title: "Vitamina A"
 slug: vitamina-a
-description: "La que te deja ciego"
+description: "Que Dios te conserve la vista"
 date: 2024-01-20T17:30:00Z
 image: "/src/assets/images/posts/05.jpg"
 categories: ["nutrición"]
@@ -12,17 +12,17 @@ draft: true
 
 Seguramente muchos os hagáis la siguiente pregunta:
 
-> Profesor Ensaladín, si me da un venazo y me meto 8 kilos de zanahorias entre pecho y espalda, **¿podré ver en la oscuridad como los gatos, las lechuzas o Batman?**
+> Si como 12 toneladas de vitamina A, **¿podré ver en la oscuridad como gatos, lechuzas o Batman?**
 
-Efectivamente **no**.
+Efectivamente no.
 
-Hecha esta puntualización, vayamos al trapo.
+Y ahora que hemos reducido las expectativas a la nada, empecemos.
 
 
 ## Fuentes
 
-- Es una vitamina liposoluble (no se disuelve en agua y se puede almacenar).
-- El cuerpo humano no puede producir vitamina A.
+- Es una vitamina liposoluble, por lo tanto se puede almacenar.
+- El cuerpo humano no puede producirla.
 - Se obtiene de alimentos de origen animal (**retinoides**) y de origen vegetal en forma de **provitamina A** (**carotenoides**).
 
 - El retinol es una de las tres formas de la vitamina A, junto con el retinal y el ácido retinoico (ATRA). Estos 3 ingredientes forman parte de la familia de los retinoides (su nombre viene de retina, ya que fue ahi donde se aisló por primera vez).
@@ -30,48 +30,22 @@ Hecha esta puntualización, vayamos al trapo.
 - La leche con más grasa tiene más retinol.
 - La cantidad de vitamina A en alimentos de origen animal depende de la cantidad de beta-carotenos (o suplementos) consumidos por esos animales. Por ejemplo, las vacas de pasto tienen más vitamina A que las alimentadas con cereales.
 
-- Los carotenoides se deben transformar en retinol, pero **no todos los carotenoides son provitamina A**; de los más de 50 que **sí** lo son, en la dieta humana se reducen a tres: **alfa-carotenos, beta-carotenos y beta-criptoxantina**.
+- Los carotenoides se deben transformar en retinol, pero **no todos los carotenoides son provitamina A**; de los más de 50 que **sí** lo son, en la dieta humana se reducen a tres: **alfa-carotenos**, **beta-carotenos** y **beta-criptoxantina**, siendo los beta-carotenos los que más vitamina A aportan.
 - La principal fuente de carotenoides son frutas y hortalizas de coloración amarilla-naranja (zanahoria, tomate, mango, melocotón, melón, naranja, mandarina), y verduras de hoja verde oscura (espinaca, brócoli).
-- Los carotenoides sobreviven mayormente al cocinado, siendo la fritura la que más contenido pierde.
 
 
 ## Absorción
 
-- La absorción de vitamina A a partir de retinoides (origen animal) es casi del 100%. La de los carotenoides es mucho menor.
-- Consumirlos junto con grasa aumenta su índice de absorción.
-- El zinc es necesario para su absorción.
+- Su absorción a partir de retinoides (origen animal) es casi del 100%. La de los carotenoides varia entre el 5 y el 65%.
+- Los carotenoides sobreviven mayormente al cocinado, siendo la fritura el método menos recomendable.
+- A mayor complejidad de la matriz alimentaria de un alimento, menor biodisponiblidad de beta-carotenos. Las verduras de hoja verde son más complejas que las frutas. El cocinado (ligero) aumenta la biodisponibilidad al descomponer la matriz.
+- Consumirlos junto con grasa aumenta su índice de absorción. Se necesita más grasa cuando se consumen crudos por la mayor complejidad de la matriz.
+- La fibra soluble reduce la biodisponibilidad de carotenoides en un 30-40%.
+- La deficiencia de zinc, hierro y proteina afecta a su absorción.
 - A medida que aumenta la dosis de carotenos se reduce el índice de absorción.
-- La vitamina A se almacena principalmente en el hígado como ésteres de retinilo, la forma inactiva del retinol. Otros órganos como los pulmones, los riñones o el tejido adiposo (grasa) también pueden almacenarlo.
-- La deficiencia de vitamina A puede pasar meses inadvertida debido a esos almacenes.
-- El alcohol inhibe el metabolismo de vitamina A.
-
----
-
-β-Carotene is an important dietary source of vitamin A for humans. However, the bioavailability and vitamin A equivalency of β-carotene are highly variable and can be affected by food- and diet-related factors, including the food matrix, food-processing techniques, size of the dose of β-carotene, and the amounts of dietary fat, fiber, vitamin A, and other carotenoids in the diet as well as by characteristics of the target population, such as vitamin A status, nutrient deficiencies, gut integrity, and genetic polymorphisms associated with β-carotene metabolism. The absorption of β-carotene from plant sources ranges from 5% to 65% in humans. Vitamin A equivalency ratios for β-carotene to vitamin A from plant sources range from 3.8:1 to 28:1, by weight. 
-
-Provitamin A carotenoids are an important source of dietary vitamin A that are found primarily in dark-green leafy vegetables (DGLVs), such as spinach, and in orange and yellow vegetables and fruit, such as carrot, mango, and papaya. Provitamin A carotenoids provide ≤30% of daily vitamin A intake in the United States, whereas animal products that contain preformed vitamin A, such as dairy products, egg yolk, and liver, provide ≥70% of daily vitamin A intake (1). In contrast, in low-income populations in developing countries, dietary carotenoids provide ∼80% of daily vitamin A intake (2). This is an important difference because preformed dietary vitamin A is well absorbed by humans, whereas provitamin A carotenoids from plant sources are less well absorbed and need to be converted to vitamin A in human intestinal cells (3). Of the provitamin A carotenoids commonly found in foods, β-carotene has the greatest vitamin A activity (3). The other provitamin A carotenoids are assumed to have approximately half the vitamin A activity of β-carotene, although recent data suggest that the bioavailability of β-cryptoxanthin and α-carotene is greater than previously assumed (4). The vitamin A equivalency ratio for β-carotene to vitamin A is currently estimated as 12:1, by weight (12 μg β-carotene is equal to 1 μg retinol), for plant sources of β-carotene in a mixed diet
-
-FACTORS THAT AFFECT THE BIOAVAILABILITY OF β-CAROTENE
-
-Food- and diet-related factors that affect the bioavailability of β-carotene include the food matrix, food-preparation techniques, size of the dose of β-carotene, and the amounts of fat, fiber, preformed vitamin A, or other carotenoids in the diet (3, 16, 19, 20). The bioavailability of β-carotene tends to be lower in foods with complex foods matrices, such as DGLVs, and higher in foods with simpler foods matrices, such as fruit and red palm oil (19). β-Carotene must be released from the food matrix to be absorbed, and food-processing techniques that disrupt the food matrix such as mild cooking and homogenization increase the bioavailability of β-carotene
-
-The amount of fat that is required for optimal absorption of β-carotene has been reported to range from 2.4 to 5 g/meal for cooked vegetables.
-
- Larger amounts of dietary fat may be required for optimal absorption of β-carotene from raw vegetables than from cooked vegetables because the food matrix of uncooked vegetables may reduce bioavailability to a greater extent. In contrast, sucrose polyester, a nonabsorbable fat found in some processed foods, has been shown to reduce the plasma β-carotene response by 21% (29). Water-soluble dietary fibers can also affect β-carotene bioavailability; pectin, guar, and alginates reduced absorption of carotenoids by ∼33–43%
-
-
- Intestinal conversion of β-carotene to vitamin A is affected by vitamin A status.  Recently, vitamin A deficiency has been shown to induce BCMO1 (β,β-carotene 15,15′-monooxygenase 1) expression, which is the key enzyme that converts β-carotene to vitamin A in intestinal cells 
- Animal studies suggest that nutritional deficiencies of iron, zinc, and protein may also affect estimates of the vitamin A equivalency of β-carotene. 
-
-Iron deficiency disrupts retinol homeostasis and results in decreased mobilization of vitamin A from the liver and low serum retinol concentrations in rats (36). Marginal zinc deficiency results in a significant reduction in β-carotene absorption in rats (37)
-
-The absorption of pure β-carotene has been reported to range from 8.7% to 65% in humans
-The absorption of β-carotene from plant sources has been reported to range from ∼7% to 65% in humans
-β-Carotene absorption from mixed diets in adults was reported to range from 11.9% to 16% (51, 52, 54). The absorption of β-carotene from specific foods was reported to range from ∼5% to 26% for spinach (55, 56) and from ∼7% to 65% for carrots (53, 57) and was 12% for broccoli 
-
-Within studies, β-carotene tended to be better absorbed from foods that were more highly processed. Absorption was significantly greater from liquefied spinach than from whole leaf spinach (55), and significantly greater from cooked carrots than from raw carrots
-The vitamin A equivalency of pure β-carotene in oil has been reported to range from 2:1 to 55:1, by weight, in humans
-Vitamin A equivalency ratios for plant β-carotene range from 3.8:1 to 28:1 in humans
+- Se almacena principalmente en el hígado como ésteres de retinilo, la forma inactiva del retinol. Otros órganos como los pulmones, los riñones o el tejido adiposo (grasa) también pueden almacenarlo.
+- Como consecuencia del punto anterior, la deficiencia de vitamina A se detecta tras varios meses.
+- El alcohol inhibe su metabolismo.
 
 
 ## Eliminación
