@@ -14,10 +14,7 @@ Seguramente muchos os hagáis la siguiente pregunta:
 
 > Si como 12 toneladas de vitamina A, **¿podré ver en la oscuridad como gatos, lechuzas o Batman?**
 
-Efectivamente no.
-
-Y ahora que hemos reducido las expectativas a la nada, empecemos.
-
+Efectivamente no. Y ahora que hemos reducido las expectativas a la nada, empecemos.
 
 ## Fuentes
 
@@ -32,7 +29,6 @@ Y ahora que hemos reducido las expectativas a la nada, empecemos.
 
 - Los carotenoides se deben transformar en retinol, pero **no todos los carotenoides son provitamina A**; de los más de 50 que **sí** lo son, en la dieta humana se reducen a tres: **alfa-carotenos**, **beta-carotenos** y **beta-criptoxantina**, siendo los beta-carotenos los que más vitamina A aportan.
 - La principal fuente de carotenoides son frutas y hortalizas de coloración amarilla-naranja (zanahoria, tomate, mango, melocotón, melón, naranja, mandarina), y verduras de hoja verde oscura (espinaca, brócoli).
-
 
 ## Absorción
 
