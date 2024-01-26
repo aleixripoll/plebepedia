@@ -1,9 +1,9 @@
 ---
 title: "Vitamina A"
 slug: vitamina-a
-description: "La vitamina de la vista"
-authors: ["Fenilalanino"]
-date: 2024-01-20T17:30:00Z
+description: "Todo lo que querías saber de la vitamina A, y lo que no también."
+authors: ["Doctor Fenilalanino"]
+date: 2024-01-26T17:30:00Z
 image: "/src/assets/images/posts/05.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
@@ -32,7 +32,7 @@ Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empe
 
 ### Absorción
 
-![image alt <](../../../assets/images/posts/04.jpg)
+![Vitamina A <](../../../assets/images/posts/04.jpg)
 
 - La de origen animal (retinoides) se absorbe casi al 100%. Los beta-carotenos varian entre el 5 y el 65%.
 - En los alimentos de origen vegetal, a mayor complejidad de la matriz alimentaria, menor biodisponibilidad de beta-carotenos. Las verduras son más complejas que las frutas; los alimentos crudos son más complejos que cocinados.
