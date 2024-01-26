@@ -92,3 +92,17 @@
 footer p a {
   @apply transition-all duration-200 hover:text-white;
 }
+
+// markdown align images
+// https://stackoverflow.com/questions/255170/markdown-and-image-alignment
+img[alt$=">"] {
+  float: right;
+  max-width: 50%;
+  padding-left: 30px; 
+}
+
+img[alt$="<"] {
+  float: left;
+  max-width: 50%;
+  padding-right: 40px; 
+}
