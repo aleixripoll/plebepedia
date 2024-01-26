@@ -70,10 +70,10 @@ export default {
           css: {
             'blockquote p:first-of-type::before': {
               fontSize: "6em",
-              color: "#ddd",
+              color: "#ccc",
               float: "left",
               paddingTop: "10px",
-              paddingRight: "10px",
+              paddingRight: "15px",
             },
             'blockquote p:last-of-type::after': false,
           },
