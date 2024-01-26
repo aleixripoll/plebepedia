@@ -70,7 +70,7 @@ export default {
           css: {
             'blockquote p:first-of-type::before': {
               fontSize: "4em",
-              color: "#999",
+              color: "#aaa",
               paddingRight: "18px",
               float: "left",
             },
