@@ -62,31 +62,30 @@ Efectivamente **no**. Tras aclarar este punto, empecemos.
 - Formación del  sistema nervioso central
 - Antioxidante (carotenoides)
 
-#### Visión
+##### Visión
 - La percepción visual requiere dos estructuras en la retina: **conos** y **bastones**. Los bastones son sensibles a la luz tenue y por tanto necesarios para la visión nocturna. Los conos son responsables de la visión en condiciones de alta intensidad lumínica (colores).
 - La proteína **rodopsina** es el receptor lumínico de los bastones, para su síntesis se requiere vitamina A.
 - La deficiencia de retinol conlleva deficiencia de rodopsina, causando **nictalopia** (ceguera nocturna).
 - La visión nocturna se recupera tras restablecer los niveles de retinol en sangre, la recuperación total demora varias semanas.
 
-#### Receptores nucleares
+##### Receptores nucleares
 - El ácido retinoico (ATRA) es la forma de vitamina A que interviene en la diferenciación celular, el desarrollo y regeneración de los tejidos y la apoptosis (muerte controlada) celular, entre otros procesos celulares.
 
-#### Sistema inmune
+##### Sistema inmune
 - Interviene en la síntesis de **células T reguladoras**, que como su nombre indica regula el sistema inmune para evitar una respuesta/inflamación excesiva.
 - La severidad y duración del sarampión y las enfermedades parasitarias es superior en deficiencia de vitamina A.
 
-#### Mucosa intestinal
+##### Mucosa intestinal
 - Interviene en la formación de **células caliciformes** (*goblet cells*), encargadas de sintetizar la mucosa intestinal, la primera barrera defensiva del intestino.
 - Promueve la regeneración de los tejidos y la piel mediante la síntesis y proliferación de colágeno, fibronectina y queratinocitos.
 
-#### Otras funciones
-Through NR activation, retinoids are involved in lipid metabolism and insulin sensitivity. The activation of RAR and PPAR regulates genes that are directly involved in glucose transport, fatty acid oxidation, lipolysis and adipocyte differentiation [178,226,227]. Elevated RBP levels in the blood have been linked with insulin resistance [228]. Contrarily, retinal has been reported to improve metabolic syndrome by preventing adipose tissue generation, playing a direct role in obesity
+##### Otras funciones
+- Cofactores en varias reacciones enzimáticas (metabolismo grasas, transporte glucosa, ...).
+- Mejora la sensibilidad a la insulina.
+- Mejora síndrome metabólico.
+- Los carotenoides son antioxidantes, aunque en exceso podrían ser pro-oxidantes.
 
-Since the levels of vitamin A circulating throughout the body are higher than the amount of vitamin needed for vision and the already reported genetic functions, it is understandable to suggest that retinoids can be involved in additional biological processes. In the second half of the last century, a decreased activity of several enzymes was observed in vitamin A deficiency, indicating that retinoids can act as cofactors in some enzymatic reactions [215,243,244]. These non-genomic activities of retinoids explain many of their activities, such as the effects observed at the dermatological level [245].
-
-Vitamin A participates in reduction–oxidation homeostasis [247,248]. Carotenoids, as reported above, are well-known antioxidants [253,254]. However, research has indicated that in excess, carotenoids may have pro-oxidant effects as well [255,256].
-
-Retinoids also play a role in bone homeostasis [265,266]. Elevated levels of retinoids have been described to have undesirable effects in bones in experimental animals by promoting their fragility and thinning [267,268]. However, decreased levels of vitamin A have deleterious effects on bone metabolism as well [269]. On the other hand, carotenoids have been reported to contribute to correct bone formation via their antioxidant properties. However, such effects are not related to the physiological function of vitamin A [265]. In addition, crosstalk between vitamins has been described regarding bone metabolism, which is understandable, mainly among the fat-soluble vitamins A, D, E and K. Several examples confirm this finding, e.g., (1) Vitamin A has been reported to prevent vitamin D and E absorption in in vitro models [270], (2). Although it is well-known that decreased vitamin D promotes bone fragility, this effect has been reported to be worsened in individuals also presenting a high intake of vitamin A [271,272,273] and similarly, high vitamin A levels decrease calcium absorption by mediating the vitamin D-calcium response [274,275], (3). A high vitamin A intake has been proposed to decrease vitamin D toxicity and toxic effects on bone metabolism [276], (4). In addition, vitamin D deficiency and a high blood concentration of vitamin A have been linked with bone fragility [272], (5). A potential synergetic effect between both vitamins causing apoptosis in cancer cells and preventing lung cancer development, has also been suggested [277,278]. Therefore, vitamin A levels in the body may have consequences regarding the metabolism of other vitamins or in the effects produced by them.
+(1) Vitamin A has been reported to prevent vitamin D and E absorption in in vitro models [270], (2). Although it is well-known that decreased vitamin D promotes bone fragility, this effect has been reported to be worsened in individuals also presenting a high intake of vitamin A [271,272,273] and similarly, high vitamin A levels decrease calcium absorption by mediating the vitamin D-calcium response [274,275], (3). A high vitamin A intake has been proposed to decrease vitamin D toxicity and toxic effects on bone metabolism [276], (4). In addition, vitamin D deficiency and a high blood concentration of vitamin A have been linked with bone fragility [272], (5). A potential synergetic effect between both vitamins causing apoptosis in cancer cells and preventing lung cancer development, has also been suggested [277,278]. Therefore, vitamin A levels in the body may have consequences regarding the metabolism of other vitamins or in the effects produced by them.
 
 
 ### Deficiencia 
