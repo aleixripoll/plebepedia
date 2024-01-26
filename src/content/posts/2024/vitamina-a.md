@@ -60,8 +60,6 @@ Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empe
 - Formación del sistema nervioso central
 - Antioxidante (en carotenoides)
 
-Veamos algunos en más detalle.
-
 ##### Visión
 - La percepción visual requiere dos estructuras en la retina: **conos** y **bastones**. Los bastones son sensibles a la luz tenue y por tanto necesarios para la visión nocturna. Los conos son responsables de la visión en condiciones de alta intensidad lumínica (visión cromática).
 - La proteína **rodopsina** es el receptor lumínico de los bastones; para su síntesis se requiere vitamina A.
