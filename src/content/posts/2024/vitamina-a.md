@@ -84,6 +84,7 @@ Efectivamente **no**. Tras aclarar este punto, empecemos.
 - Mejora la sensibilidad a la insulina.
 - Mejora síndrome metabólico.
 - Los carotenoides son antioxidantes, aunque en exceso podrían ser pro-oxidantes.
+- Los niveles de vitamina A tienen efectos en la absorción, el metabolismo y las funciones de las vitaminas D (fragilidad ósea, reducción absorción calcio) y K.
 
 (1) Vitamin A has been reported to prevent vitamin D and E absorption in in vitro models [270], (2). Although it is well-known that decreased vitamin D promotes bone fragility, this effect has been reported to be worsened in individuals also presenting a high intake of vitamin A [271,272,273] and similarly, high vitamin A levels decrease calcium absorption by mediating the vitamin D-calcium response [274,275], (3). A high vitamin A intake has been proposed to decrease vitamin D toxicity and toxic effects on bone metabolism [276], (4). In addition, vitamin D deficiency and a high blood concentration of vitamin A have been linked with bone fragility [272], (5). A potential synergetic effect between both vitamins causing apoptosis in cancer cells and preventing lung cancer development, has also been suggested [277,278]. Therefore, vitamin A levels in the body may have consequences regarding the metabolism of other vitamins or in the effects produced by them.
 
