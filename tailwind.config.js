@@ -69,9 +69,9 @@ export default {
         DEFAULT: {
           css: {
             'blockquote p:first-of-type::before': {
-              fontSize: "4em",
+              fontSize: "3em",
               color: "#aaa",
-              paddingRight: "18px",
+              paddingRight: "10px",
               float: "left",
             },
             'blockquote p:last-of-type::after': false,

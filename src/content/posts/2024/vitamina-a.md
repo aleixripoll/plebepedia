@@ -12,7 +12,7 @@ draft: true
 
 Seguramente muchos os hagáis la siguiente pregunta:
 
-> Si como 12 toneladas de vitamina A, **¿podré ver en la oscuridad como gatos, lechuzas y Batman?**
+> Si como 12 toneladas de vitamina A, **¿podré ver en la oscuridad como los gatos, las lechuzas y Batman?**
 
 Efectivamente **no**. Tras aclarar este punto, empecemos.
 
