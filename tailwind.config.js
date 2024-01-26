@@ -65,6 +65,19 @@ export default {
         primary: [fontPrimary, fontPrimaryType],
         secondary: [fontSecondary, fontSecondaryType],
       },
+      typography: {
+        DEFAULT: {
+          css: {
+            'blockquote p:first-of-type::before': {
+              fontSize: "4em",
+              color: "#777",
+              paddingRight: "18px",
+              float: "left",
+            },
+            'blockquote p:last-of-type::after': false,
+          },
+        },
+      },
     },
   },
   plugins: [
