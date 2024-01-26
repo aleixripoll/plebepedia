@@ -104,6 +104,6 @@ Efectivamente **no**. Tras aclarar este punto, empecemos.
 
 [Vitamin A Update: Forms, Sources, Kinetics, Detection, Function, Deficiency, Therapeutic Use and Toxicity | National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157347/)
 
-[The challenge to reach nutritional adequacy for vitamin A: β-carotene bioavailability and conversion—evidence in humans1234 | Science Direct](https://www.sciencedirect.com/science/article/pii/S0002916523030289)
+[The challenge to reach nutritional adequacy for vitamin A: β-carotene bioavailability and conversion—evidence in humans | Science Direct](https://www.sciencedirect.com/science/article/pii/S0002916523030289)
 
 [Enciclopedia médica: Vitamina A | Medline Plus](https://medlineplus.gov/spanish/ency/article/002400.htm)
