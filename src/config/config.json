@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Fenilalanino",
+    "title": "Dr. Fenilalanino",
     "base_url": "https://aleixripoll.github.io",
     "base_path": "/",
     "trailing_slash": false,
@@ -19,7 +19,7 @@
   "metadata": {
     "meta_author": "Dr. Fenilalanino",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Fenilalanino"
+    "meta_description": "Las aventuras del doctor Fenilalanino"
   },
 
   "params": {
