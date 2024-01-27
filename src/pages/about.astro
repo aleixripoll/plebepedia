@@ -3,6 +3,7 @@ import { Image } from 'astro:assets'
 import Base from "@layouts/Base.astro";
 import { markdownify } from "@lib/utils/textConverter";
 import { getEntry } from "astro:content";
+import Disqus from "@components/Disqus";
 
 const entry = await getEntry("about", "index");
 const { Content } = await entry.render();
@@ -39,7 +40,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>("/src/assets/images/
           <div class="content">
             <Content />
           </div>
-          <a href="/contact" class="btn btn-primary text-white py-2">Get In Touch</a>
+          <!--<a href="/contact" class="btn btn-primary text-white py-2">Dime algo</a>-->
         </div>
       </div>
     </div>
@@ -57,6 +58,7 @@ const images = import.meta.glob<{ default: ImageMetadata }>("/src/assets/images/
           </div>
         ))}
       </div>
+      <Disqus className="mt-20" client:load />
     </div>
   </section>
 </Base>

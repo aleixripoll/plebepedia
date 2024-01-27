@@ -28,13 +28,13 @@
   },
 
   "contactinfo": {
-    "address": "No Name Street",
-    "email": "info@bookworm.org",
-    "phone": "1234567890"
+    "address": "En algún lugar de La Mancha",
+    "email": "drfenilalanino@gmail.com",
+    "phone": "555-123-456"
   },
 
   "disqus": {
-    "enable": false,
+    "enable": true,
     "shortname": "aleixripoll",
     "settings": {}
   }

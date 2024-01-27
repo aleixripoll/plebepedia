@@ -1,23 +1,25 @@
 ---
-title: "I’m John Doe, A content writer based in LDN, Currently at Bookworm"
-meta_title: "About"
+title: "A vegades hago cosas"
+meta_title: "Acerca de todo este percal"
 image: "/src/assets/images/authors/author.png"
 draft: false
 
 what_i_do:
-  title: "What I Do"
+  title: "Lo que hago"
   items:
-  - title: "Content Writing"
-    description: "Purus eget ipsum elementum venenatis, quis rutrum mi semper nonpurus eget ipsum elementum venenatis."
+  - title: "Leer cosas"
+    description: "Leo mucho, desde novelas a ensayos de psicología y nutrición a Tintín en el Congo. Demasiado tal vez? Sin duda. No llegiu."
   
-  - title: "Photography"
-    description: "Aenean maximus urna magna elementum, quis rutrum mi semper non purus eget ipsum venenatis."
+  - title: "Dibujar cosas"
+    description: "Dibujo entre regular y mal pero me entretiene y mientras dibujo no delinco."
   
-  - title: "Web Research"
-    description: "Aenean maximus urna magna elementum venenatis, quis semper non purus eget ipsum venenatis."
+  - title: "Escribir cosas"
+    description: "Lo que menos hago de las tres, he empezado con este blog, si hago faltas de hortografía avisadme."
 
 ---
 
-A content writer with over 12 years experience working across brand identity, publishing and digital products. Maecenas sit amet purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis quis non purus.
+Un porrón de años de experiencia como ingeniero informático me han llevado al precipicio de escribir un blog sobre temas que no tienen nada que ver con lo que he hecho durante ese porrón de años.
 
-Purus eget ipsum elementum venenatis. Aenean maximus urna magna elementum venenatis, quis rutrum mi semper non purus eget ipsum elementum venenatis, aenean maximus urna magna elementum.
+¿No tiene ningún sentido verdad?
+
+Dejadme en paz.

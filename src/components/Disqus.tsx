@@ -8,6 +8,7 @@ const Disqus = ({ className }: { className?: string }) => {
     <>
     {disqus.enable && (
       <div className={className}>
+        <hr className="mb-20" />
         <DiscussionEmbed
           shortname={disqus.shortname}
           config={disqus.settings}

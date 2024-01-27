@@ -5,16 +5,12 @@
       "url": "/"
     },
     {
-      "name": "Acerca de",
-      "url": "/about"
-    },
-    {
       "name": "Autores",
       "url": "/authors"
     },
     {
-      "name": "Contacto",
-      "url": "/contact"
+      "name": "Acerca de",
+      "url": "/about"
     },
     {
       "name": "Más",
@@ -36,10 +32,6 @@
     {
       "name": "Acerca de",
       "url": "/about"
-    },
-    {
-      "name": "Contacto",
-      "url": "/contact"
     },
     {
       "name": "Markdown",
