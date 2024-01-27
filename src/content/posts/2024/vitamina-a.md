@@ -25,7 +25,7 @@ Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empe
 - Se obtiene de alimentos de origen animal (**retinoides**) y de origen vegetal en forma de provitamina A (**carotenoides**).
 
 ##### Origen animal
-- El **retinol** es una de las tres formas de la vitamina A, junto con el **retinal** y el ácido retinoico (**ATRA**). Estos 3 elementos forman parte de la familia de los **retinoides** (su nombre viene de retina, donde se descubrió).
+- El **retinol** es una de las tres formas de la vitamina A, junto con el **retinal** y el ácido retinoico (**ATRA**). Estos 3 elementos forman parte de la familia de los **retinoides** (de retina, donde fue descubierto).
 - En los animales la mayor fuente de vitamina A es, con diferencia, el hígado, seguido de lácteos, carne, huevos y pescado.
 - En los lácteos el retinol se encuentra en la grasa, a más grasa más vitamina A.
 - La cantidad de vitamina A de un alimento depende de la cantidad de vitamina A en la dieta del animal. Las vacas de pasto proporcionan más vitamina A que las alimentadas con cereales.
