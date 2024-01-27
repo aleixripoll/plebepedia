@@ -31,8 +31,8 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
     <article class="row justify-center">
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h2" />
-        <h5 class="pt-4 font-light">{description}</h5>
-        <ul class="mt-4 flex flex-wrap items-center justify-center text-text">
+        <h5 class="py-4 text-text font-light">{description}</h5>
+        <ul class="mt-4 flex flex-wrap items-center justify-center">
           <li class="mx-3">
             {
               allAuthors
@@ -61,11 +61,11 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
             }
           </li>
           <li class="mx-3 flex flex-wrap items-center font-medium">
-            <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
+            <BiCalendarEdit className="mr-1 h-5 w-5" />
             <>{dateFormat(date)}</>
           </li>
           <li class="mx-3 flex flex-wrap items-center">
-            <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
+            <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />
             <>
               <ul>
                 {
