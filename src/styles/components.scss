@@ -89,11 +89,7 @@
 }
 
 .sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-  background-color: white;
-  z-index: 100;
+  @apply fixed top-0 w-full bg-white z-50
 }
 
 a > svg {

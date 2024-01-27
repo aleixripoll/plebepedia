@@ -33,10 +33,11 @@ export default function SearchBar({ searchList }: Props) {
   };
 
   const fuse = new Fuse(searchList, {
-    keys: ["data.title", "data.categories", "data.tags"],
+    keys: ["data.title", "data.description", "content", "data.categories", "data.tags"],
     includeMatches: true,
-    minMatchCharLength: 2,
-    threshold: 0.5,
+    minMatchCharLength: 3,
+    ignoreLocation: true,
+    threshold: 0.4,
   });
 
   useEffect(() => {
