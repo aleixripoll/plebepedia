@@ -17,9 +17,10 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Mulish:wght@400;600;700",
+      "primary": "Mulish:wght@300;400",
       "primary_type": "sans-serif",
-      "secondary": "serif"
+      "secondary": "Pompiere:wght@400",
+      "secondary_type": "sans-serif"
     },
     "font_size": {
       "base": "16",
