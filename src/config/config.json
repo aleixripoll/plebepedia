@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Bookworm Light Astro | Blog Template",
+    "title": "Fenilalanino",
     "base_url": "https://aleixripoll.github.io",
     "base_path": "/",
     "trailing_slash": false,
@@ -24,7 +24,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2023 a theme by [Themefisher](https://themefisher.com)"
+    "copyright": "Copyright © 2024. Basado en tema [Bookworm Light](https://astro.build/themes/details/bookworm-light/) de [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
