@@ -1,5 +1,5 @@
 ---
-title: Doctor Fenilalanino
+title: Dr. Fenilalanino
 image: /src/assets/images/authors/mark-dinn.jpg
 description: Lino para los amigos
 ---

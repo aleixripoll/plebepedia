@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_width": "200",
     "logo_height": "34",
-    "logo_text": "Bookworm Light"
+    "logo_text": "Fenilalanino"
   },
 
   "settings": {
@@ -17,9 +17,9 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
+    "meta_author": "Dr. Fenilalanino",
     "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_description": "Fenilalanino"
   },
 
   "params": {
@@ -28,9 +28,9 @@
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "address": "No Name Street",
     "email": "info@bookworm.org",
-    "phone": "+800 567 1234"
+    "phone": "1234567890"
   },
 
   "disqus": {
