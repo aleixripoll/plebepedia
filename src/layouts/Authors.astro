@@ -29,9 +29,9 @@ const images = import.meta.glob<{ default: ImageMetadata }>("/src/assets/images/
           </a>
         </h3>
         {author.data.description &&
-          <p class="mb-3 italic" set:text={author.data.description} />
+          <p class="mb-3 text-lg" set:text={author.data.description} />
         }
-        <p class="mb-3" set:text={markdownify(author.body.slice(0, 70) + "...")} />
+        <p class="mb-3" set:text={markdownify(author.body.slice(0, 68) + "...")} />
         <a href={`/authors/${author.slug}`} class="inline-flex items-center text-primary transition duration-200 hover:opacity-70">
           Saber más <BsArrowRightCircle className="inline ml-2" />
         </a>
