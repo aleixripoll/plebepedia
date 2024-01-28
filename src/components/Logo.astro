@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets'
+import { Image } from "astro:assets";
 import config from "@config/config.json";
 
 const { src } = Astro.props;
@@ -18,7 +18,10 @@ const {
 } = config.site;
 ---
 
-<a href="/" class="navbar-brand block font-secondary text-2xl font-bold hover:text-primary">
+<a
+  href="/"
+  class="navbar-brand block font-secondary text-2xl font-bold hover:text-primary lg:hover:brightness-110"
+>
   {
     src || logo ? (
       <Image

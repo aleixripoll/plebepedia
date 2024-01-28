@@ -11,7 +11,7 @@ draft: true
 
 Seguramente muchos de ustedes se hagan la siguiente pregunta:
 
-> Si caigo en una marmita de vitamina A, **¿podré ver en la oscuridad como Batman?**
+> Si caigo en una marmita de vitamina A, ¿podré ver en la oscuridad como Batman?
 
 Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empecemos.
 
