@@ -3,7 +3,7 @@ import dateFormat from "@lib/utils/dateFormat";
 import { humanize, slugify } from "@lib/utils/textConverter";
 import Fuse from "fuse.js";
 import { useEffect, useRef, useState } from "react";
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
+import { BiCalendarEdit, BiCategoryAlt, BiUser } from "react-icons/bi/index.js";
 const { summary_length } = config.settings;
 
 export type SearchItem = {
@@ -111,10 +111,27 @@ export default function SearchBar({ searchList }: Props) {
             )}
 
             <ul className="mt-6 mb-4 flex flex-wrap items-center text-text">
-              <li className="mr-5 flex items-center flex-wrap font-medium">
+              <li className="mr-5 flex items-center flex-wrap">
+                <BiUser className="mr-1 h-[18px] w-[18px] text-gray-600" />
+                <>
+                  <ul>
+                    {item.data.authors.map((author: string, i: number) => (
+                      <li className="inline-block">
+                        <a
+                          href={`/authors/${slugify(author)}`}
+                          className="mr-2 hover:text-primary font-medium"
+                        >
+                          {humanize(author)}{i !== item.data.authors.length - 1 && ","}
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                </>
+              </li>
+              {/*<li className="mr-5 flex items-center flex-wrap font-medium">
                 <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
                 <>{dateFormat(item.data.date)}</>
-              </li>
+              </li>*/}
               <li className="mr-5 flex items-center flex-wrap">
                 <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
                 <>
