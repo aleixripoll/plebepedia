@@ -6,9 +6,6 @@ import { defineConfig } from "astro/config";
 import config from "./src/config/config.json";
 import { remarkModifiedTime } from "./src/lib/utils/remarkModifiedTime.mjs";
 import remarkToc from "remark-toc";
-import { rehypeHeadingIds } from '@astrojs/markdown-remark';
-import rehypeSlug from "rehype-slug";
-import rehypeToc from "rehype-toc";
 
 // https://astro.build/config
 export default defineConfig({
@@ -26,19 +23,7 @@ export default defineConfig({
     mdx(),
   ],
   markdown: {
-    remarkPlugins: [remarkModifiedTime, [remarkToc, { maxDepth: 3, tight: true, ordered: false }]],
-    rehypePlugins: [ 
-      rehypeHeadingIds,
-      [rehypeToc, 
-      {
-        headings: ["h1", "h2", "h3", "h4", "h5"],
-        cssClasses: {
-          toc: "toc-post", 
-          link: "toc-link", 
-        },
-      }], 
-      rehypeSlug, 
-    ],
+    remarkPlugins: [remarkModifiedTime, [remarkToc, { heading: "Índice", maxDepth: 4 }]],
     shikiConfig: {
       theme: "one-dark-pro",
       wrap: true,
