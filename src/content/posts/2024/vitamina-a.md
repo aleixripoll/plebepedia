@@ -3,7 +3,6 @@ title: "Vitamina A"
 slug: vitamina-a
 description: "Todo lo que querías saber de la vitamina A, y lo que no también."
 authors: ["Prof. Fenilalanino"]
-date: 2024-01-26T17:30:00Z
 image: "/src/assets/images/posts/05.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]

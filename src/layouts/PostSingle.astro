@@ -26,6 +26,7 @@ const postImages = import.meta.glob<{ default: ImageMetadata }>(
 const authorImages = import.meta.glob<{ default: ImageMetadata }>(
   "/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}"
 );
+// last modified date (https://docs.astro.build/en/recipes/modified-time/)
 dayjs.extend(utc);
 const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
   .utc()
@@ -68,8 +69,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
           </li>
           <li class="mx-3 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5" />
-            <>{dateFormat(date)}</>
-            Actualizado en: <>{dateFormat(lastModified)}</>
+            <>{dateFormat(lastModified)}</>
           </li>
           <li class="mx-3 flex flex-wrap items-center">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />
