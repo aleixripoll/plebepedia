@@ -1,11 +1,13 @@
 ---
-import type { ImageMetadata } from 'astro';
-import { Image } from 'astro:assets'
+import type { ImageMetadata } from "astro";
+import { Image } from "astro:assets";
 import { markdownify } from "@lib/utils/textConverter";
 import { BsArrowRightCircle } from "react-icons/bs/index.js";
 const { authors } = Astro.props;
 
-const images = import.meta.glob<{ default: ImageMetadata }>("/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}");
+const images = import.meta.glob<{ default: ImageMetadata }>(
+  "/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}"
+);
 ---
 
 <div class="row justify-center">
@@ -23,17 +25,29 @@ const images = import.meta.glob<{ default: ImageMetadata }>("/src/assets/images/
             />
           </div>
         )}
-        <h3 class="h4 mt-8 mb-3">
-          <a href={`/authors/${author.slug}`} class="block hover:text-primary transition duration-200">
+        <h3 class="h4 mb-3 mt-8">
+          <a
+            href={`/authors/${author.slug}`}
+            class="block transition duration-200 hover:text-primary"
+          >
             {author.data.title}
           </a>
         </h3>
-        {author.data.description &&
-          <p class="mb-3 text-lg" set:text={author.data.description} />
-        }
-        <p class="mb-3" set:text={markdownify(author.body.slice(0, 68) + "...")} />
-        <a href={`/authors/${author.slug}`} class="inline-flex items-center text-primary transition duration-200 hover:opacity-70">
-          Saber más <BsArrowRightCircle className="inline ml-2" />
+        {author.data.description && (
+          <p
+            class="mb-3 text-lg font-light"
+            set:text={author.data.description}
+          />
+        )}
+        <p
+          class="mb-3"
+          set:text={markdownify(author.body.slice(0, 68) + "...")}
+        />
+        <a
+          href={`/authors/${author.slug}`}
+          class="inline-flex items-center text-primary transition duration-200 hover:opacity-70"
+        >
+          Saber más <BsArrowRightCircle className="ml-2 inline" />
         </a>
       </div>
     ))
