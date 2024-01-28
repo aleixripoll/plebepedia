@@ -9,8 +9,6 @@ tags: ["micronutrientes", "vitaminas"]
 draft: true
 ---
 
-### Índice
-
 ### Introducción
 
 Seguramente muchos de ustedes se hagan la siguiente pregunta:
