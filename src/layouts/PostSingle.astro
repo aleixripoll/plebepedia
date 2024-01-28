@@ -69,7 +69,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
           </li>
           <li class="mx-3 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5" />
-            <>{dateFormat(lastModified)}</>
+            <>{post.data.date ? dateFormat(post.data.date) : dateFormat(lastModified)}</>
           </li>
           <li class="mx-3 flex flex-wrap items-center">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />
