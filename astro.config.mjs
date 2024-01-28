@@ -4,6 +4,7 @@ import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
 import { defineConfig } from "astro/config";
 import config from "./src/config/config.json";
+import { remarkModifiedTime } from "./src/lib/utils/remarkModifiedTime.mjs";
 
 // https://astro.build/config
 export default defineConfig({
@@ -21,7 +22,7 @@ export default defineConfig({
     mdx(),
   ],
   markdown: {
-    remarkPlugins: [],
+    remarkPlugins: [remarkModifiedTime],
     shikiConfig: {
       theme: "one-dark-pro",
       wrap: true,

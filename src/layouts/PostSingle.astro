@@ -9,12 +9,14 @@ import similarItems from "@lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@lib/utils/textConverter";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
 import Disqus from "@components/Disqus";
+import dayjs from "dayjs";
+import utc from "dayjs/plugin/utc";
 
 const allAuthors = await getSinglePage("authors");
 const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similarItems(post, posts, post.slug);
-const { Content } = await post.render();
+const { Content, remarkPluginFrontmatter } = await post.render();
 const { title, description, authors, categories, image, date, tags } =
   post.data;
 
@@ -24,6 +26,11 @@ const postImages = import.meta.glob<{ default: ImageMetadata }>(
 const authorImages = import.meta.glob<{ default: ImageMetadata }>(
   "/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}"
 );
+// last modified date (https://docs.astro.build/en/recipes/modified-time/)
+dayjs.extend(utc);
+const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
+  .utc()
+  .format("HH:mm:ss DD MMMM YYYY UTC");
 ---
 
 <section class="section">
@@ -62,7 +69,7 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
           </li>
           <li class="mx-3 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5" />
-            <>{dateFormat(date)}</>
+            <>{post.data.date ? dateFormat(post.data.date) : dateFormat(lastModified)}</>
           </li>
           <li class="mx-3 flex flex-wrap items-center">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />

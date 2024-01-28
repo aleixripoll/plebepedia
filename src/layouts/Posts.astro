@@ -6,6 +6,7 @@ import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
 import { humanize, slugify } from "@lib/utils/textConverter";
 import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
+
 const authors = await getSinglePage("authors");
 const { summary_length } = config.settings;
 
@@ -73,10 +74,10 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
                 </a>
               ))}
           </li>
-          <li class="mr-5 flex flex-wrap items-center font-medium">
+          <!--<li class="mr-5 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
             <>{dateFormat(post.data.date)}</>
-          </li>
+          </li>-->
           <li class="mr-5 flex flex-wrap items-center">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
             <>
@@ -105,14 +106,13 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
           </a>
         </h3>
         <p class="text-text">
-          {post.data.description}
-          {/*post.body?.slice(
-            0,
-            Number(
-              i === 0 && fluid != false ? summary_length * 2 : summary_length
-            )
-          )
-          ...*/}
+          {
+            post.data.description ? post.data.description :
+            post.body?.slice(
+              0,
+              Number(i === 0 && fluid != false ? summary_length * 2 : summary_length)
+            ) + "..."
+          }
         </p>
       </div>
     ))
