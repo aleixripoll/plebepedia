@@ -23,6 +23,7 @@
     "marked": "^4.2.12",
     "prop-types": "^15.8.1",
     "react-icons": "^4.7.1",
+    "remark-toc": "^9.0.0",
     "typescript": "^5.3.3"
   },
   "devDependencies": {

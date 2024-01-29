@@ -9,6 +9,8 @@ tags: ["micronutrientes", "vitaminas"]
 draft: true
 ---
 
+### Introducción
+
 Seguramente muchos de ustedes se hagan la siguiente pregunta:
 
 > Si caigo en una marmita de vitamina A, ¿podré ver en la oscuridad como Batman?
@@ -23,13 +25,13 @@ Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empe
 ### Fuentes
 - Se obtiene de alimentos de origen animal (**retinoides**) y de origen vegetal en forma de provitamina A (**carotenoides**).
 
-##### Origen animal
+#### Origen animal
 - El **retinol** es una de las tres formas de la vitamina A, junto con el **retinal** y el ácido retinoico (**ATRA**). Estos 3 elementos forman parte de la familia de los **retinoides** (de retina, donde fue descubierto).
 - En los animales la mayor fuente de vitamina A es, con diferencia, el hígado, seguido de lácteos, carne, huevos y pescado.
 - En los lácteos el retinol se encuentra en la grasa, a más grasa más vitamina A.
 - La cantidad de vitamina A de un alimento depende de la cantidad de vitamina A en la dieta del animal. Las vacas de pasto proporcionan más vitamina A que las alimentadas con cereales.
 
-##### Origen vegetal
+#### Origen vegetal
 - Los carotenoides se deben transformar en retinol, pero no todos los carotenoides son provitamina A. En la dieta humana el principal es el **beta-caroteno**, seguido del **alfa-caroteno** y la **beta-criptoxantina**.
 - La principal fuente de carotenoides son **frutas y hortalizas de coloración amarilla-naranja** (zanahoria, tomate, mango, melocotón, melón, naranja, mandarina) y verduras de hoja verde oscura (espinaca, brócoli).
 
@@ -63,22 +65,22 @@ Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empe
 - Formación del sistema nervioso central
 - Antioxidante (en carotenoides)
 
-##### Visión
+#### Visión
 - La percepción visual requiere dos estructuras en la retina: **conos** y **bastones**. Los bastones son sensibles a la luz tenue y necesarios para la visión nocturna. Los conos son responsables de la visión en condiciones de alta intensidad lumínica (visión cromática).
 - La proteína **rodopsina** es el receptor lumínico de los bastones; para su síntesis se requiere vitamina A.
 - La deficiencia de retinol conlleva deficiencia de rodopsina, causando **nictalopia** (ceguera nocturna).
 - La visión nocturna se recupera tras restablecer los niveles de retinol, la recuperación total puede requerir varias semanas.
 
-##### Procesos celulares
+#### Procesos celulares
 - El ácido retinoico (ATRA) interviene en la diferenciación celular, el desarrollo y regeneración de los tejidos y la apoptosis (muerte controlada) celular.
 - Interviene en la formación de **células caliciformes** (*goblet cells*), encargadas de sintetizar la mucosa intestinal, la primera barrera defensiva del intestino.
 - Promueve la regeneración de los tejidos y la piel mediante la síntesis y proliferación de colágeno, fibronectina y queratinocitos.
 
-##### Sistema inmune
+#### Sistema inmune
 - Interviene en la síntesis de **células T reguladoras**, que regulan el sistema inmune para evitar una respuesta (inflamación) excesiva.
 - Su deficiencia aumenta la severidad y duración del sarampión y las enfermedades parasitarias.
 
-##### Otras funciones
+#### Otras funciones
 - Cofactor en varias reacciones enzimáticas (metabolismo de grasas, transporte de glucosa, etc.).
 - Mejora la sensibilidad a la insulina.
 - Mejora del síndrome metabólico.
@@ -106,7 +108,7 @@ Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empe
 
 ---
 
-#### Referencias
+### Referencias
 
 *[Vitamin A Update: Forms, Sources, Kinetics, Detection, Function, Deficiency, Therapeutic Use and Toxicity | National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157347/)*
 

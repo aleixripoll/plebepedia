@@ -5,6 +5,7 @@ import tailwind from "@astrojs/tailwind";
 import { defineConfig } from "astro/config";
 import config from "./src/config/config.json";
 import { remarkModifiedTime } from "./src/lib/utils/remarkModifiedTime.mjs";
+import remarkToc from "remark-toc";
 
 // https://astro.build/config
 export default defineConfig({
@@ -22,7 +23,7 @@ export default defineConfig({
     mdx(),
   ],
   markdown: {
-    remarkPlugins: [remarkModifiedTime],
+    remarkPlugins: [remarkModifiedTime, [remarkToc, { heading: "Tabla de contenidos", maxDepth: 4 }]],
     shikiConfig: {
       theme: "one-dark-pro",
       wrap: true,
