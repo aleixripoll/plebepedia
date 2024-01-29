@@ -3,7 +3,7 @@ title: "Elements"
 draft: false
 ---
 
-### Índice
+### Tabla de contenidos
 
 #### Heading example
 

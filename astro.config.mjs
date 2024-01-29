@@ -23,7 +23,7 @@ export default defineConfig({
     mdx(),
   ],
   markdown: {
-    remarkPlugins: [remarkModifiedTime, [remarkToc, { heading: "Índice", maxDepth: 4 }]],
+    remarkPlugins: [remarkModifiedTime, [remarkToc, { heading: "Tabla de contenidos", maxDepth: 4 }]],
     shikiConfig: {
       theme: "one-dark-pro",
       wrap: true,
