@@ -151,3 +151,43 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
     </section>
   )
 }
+
+<button id="back-to-top" class="hidden text-3xl font-extrabold whitespace-nowrap opacity-75 bg-white hover:bg-gray-200 fixed bottom-2 lg:bottom-10 rounded right-5 lg:right-20 px-4 py-2">
+  ^
+</button>
+
+<script is:inline>
+  /** Attaches links to headings in the document, allowing sharing of sections easily.
+      From astropaper theme: https://github.com/satnaing/astro-paper/blob/main/src/layouts/PostDetails.astro */
+  function addHeadingLinks() {
+    let headings = Array.from(document.querySelectorAll("h2, h3, h4"));
+    for (let heading of headings) {
+      heading.classList.add("group");
+      let link = document.createElement("a");
+      link.innerText = "#";
+      link.className = "heading-link hidden group-hover:inline-block hover:text-primary ml-2 text-light no-underline";
+      link.href = "#" + heading.id;
+      link.ariaHidden = "true";
+      heading.appendChild(link);
+    }
+  }
+  addHeadingLinks();
+
+  // When the user scrolls down 400px from the top of the document, show the "Back to Top" button.
+  window.onscroll = function() {scrollFunction()};
+  function scrollFunction() {
+    if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+      document.querySelector("#back-to-top").style.display = "block";
+    } else {
+      document.querySelector("#back-to-top").style.display = "none";
+    }
+  }
+  // Scrolls the document to the top when the "Back to Top" button is clicked.
+  function backToTop() {
+    document.querySelector("#back-to-top")?.addEventListener("click", () => {
+      document.body.scrollTop = 0; // For Safari
+      document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    });
+  }
+  backToTop();
+</script>
