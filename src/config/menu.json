@@ -9,10 +9,6 @@
       "url": "/authors"
     },
     {
-      "name": "Acerca de",
-      "url": "/about"
-    },
-    {
       "name": "Categorías",
       "url": "/categories"
     },
@@ -27,8 +23,12 @@
       "url": "/about"
     },
     {
-      "name": "Elements",
-      "url": "/elements"
+      "name": "Categorías",
+      "url": "/categories"
+    },
+    {
+      "name": "Tags",
+      "url": "/tags"
     }
   ]
 }
