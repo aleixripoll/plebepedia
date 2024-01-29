@@ -21,14 +21,6 @@
     {
       "name": "Acerca de",
       "url": "/about"
-    },
-    {
-      "name": "Categorías",
-      "url": "/categories"
-    },
-    {
-      "name": "Tags",
-      "url": "/tags"
     }
   ]
 }
