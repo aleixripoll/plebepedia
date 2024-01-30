@@ -5,7 +5,7 @@ import config from "@config/config.json";
 import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
 import { humanize, slugify } from "@lib/utils/textConverter";
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
+import { BiCalendarEdit, BiCategoryAlt, BiUser } from "react-icons/bi/index.js";
 
 const authors = await getSinglePage("authors");
 const { summary_length } = config.settings;
@@ -61,7 +61,7 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
                   href={`/authors/${slugify(author.data.title)}`}
                   class="flex items-center font-medium hover:text-primary"
                 >
-                  {authorImages[author.data.image] && (
+                  {/*authorImages[author.data.image] && (
                     <Image
                       src={authorImages[author.data.image]()}
                       alt={author.data.title}
@@ -69,7 +69,8 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
                       width={50}
                       class="mr-2 h-6 w-6 rounded-full"
                     />
-                  )}
+                  )*/}
+                  <BiUser className="mr-1 h-[18px] w-[18px] text-gray-600" />
                   <span>{author.data.title}</span>
                 </a>
               ))}
