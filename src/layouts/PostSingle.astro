@@ -7,7 +7,7 @@ import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
 import similarItems from "@lib/utils/similarItems";
 import { humanize, markdownify, slugify } from "@lib/utils/textConverter";
-import { BiCalendarEdit, BiCategoryAlt } from "react-icons/bi/index.js";
+import { BiCalendarEdit, BiCategoryAlt, BiUser } from "react-icons/bi/index.js";
 import Disqus from "@components/Disqus";
 import dayjs from "dayjs";
 import utc from "dayjs/plugin/utc";
@@ -38,7 +38,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
     <article class="row justify-center">
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h2" />
-        <h5 class="py-4 text-text font-light">{description}</h5>
+        <h5 class="py-4 font-light text-text">{description}</h5>
         <ul class="mt-4 flex flex-wrap items-center justify-center">
           <li class="mx-3">
             {
@@ -53,7 +53,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                     href={`/authors/${slugify(author.slug)}`}
                     class="flex items-center font-medium hover:text-primary"
                   >
-                    {authorImages[author.data.image] && (
+                    {/*authorImages[author.data.image] && (
                       <Image
                         src={authorImages[author.data.image]()}
                         alt={author.data.title}
@@ -61,7 +61,8 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                         width={50}
                         class="mr-2 h-6 w-6 rounded-full"
                       />
-                    )}
+                    )*/}
+                    <BiUser className="mr-1 h-[18px] w-[18px] text-gray-600" />
                     <span>{author.data.title}</span>
                   </a>
                 ))
@@ -69,7 +70,13 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
           </li>
           <li class="mx-3 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5" />
-            <>{post.data.date ? dateFormat(post.data.date) : dateFormat(lastModified)}</>
+            <>
+              {
+                post.data.date
+                  ? dateFormat(post.data.date)
+                  : dateFormat(lastModified)
+              }
+            </>
           </li>
           <li class="mx-3 flex flex-wrap items-center">
             <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />
@@ -119,7 +126,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                 <li class="inline-block">
                   <a
                     href={`/tags/${slugify(tag)}`}
-                    class="block rounded-lg bg-theme-light px-4 py-2 text-md font-semibold text-dark transition duration-300 hover:text-primary"
+                    class="text-md block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark transition duration-300 hover:text-primary"
                   >
                     # {humanize(tag)}
                   </a>
@@ -152,7 +159,10 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
   )
 }
 
-<button id="back-to-top" class="hidden text-3xl font-extrabold whitespace-nowrap opacity-75 bg-white hover:bg-gray-200 fixed bottom-2 lg:bottom-10 rounded right-5 lg:right-20 px-4 py-2">
+<button
+  id="back-to-top"
+  class="fixed bottom-2 right-5 hidden whitespace-nowrap rounded bg-white px-4 py-2 text-3xl font-extrabold opacity-75 hover:bg-gray-200 lg:bottom-10 lg:right-20"
+>
   ^
 </button>
 
@@ -165,7 +175,8 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
       heading.classList.add("group");
       let link = document.createElement("a");
       link.innerText = "#";
-      link.className = "heading-link hidden group-hover:inline-block hover:text-primary ml-2 text-light no-underline";
+      link.className =
+        "heading-link hidden group-hover:inline-block hover:text-primary ml-2 text-light no-underline";
       link.href = "#" + heading.id;
       link.ariaHidden = "true";
       heading.appendChild(link);
@@ -174,9 +185,14 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
   addHeadingLinks();
 
   // When the user scrolls down 400px from the top of the document, show the "Back to Top" button.
-  window.onscroll = function() {scrollFunction()};
+  window.onscroll = function () {
+    scrollFunction();
+  };
   function scrollFunction() {
-    if (document.body.scrollTop > 400 || document.documentElement.scrollTop > 400) {
+    if (
+      document.body.scrollTop > 400 ||
+      document.documentElement.scrollTop > 400
+    ) {
       document.querySelector("#back-to-top").style.display = "block";
     } else {
       document.querySelector("#back-to-top").style.display = "none";
