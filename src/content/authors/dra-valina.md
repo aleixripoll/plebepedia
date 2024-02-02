@@ -1,6 +1,6 @@
 ---
 title: Dra. Valina
-image: /src/assets/images/authors/john-doe.jpg
+image: /src/assets/images/authors/dra-valina.webp
 description: Lina para las amigas
 ---
 
