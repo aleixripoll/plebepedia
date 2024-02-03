@@ -4,7 +4,7 @@ description: "meta description"
 date: 2022-04-02T06:00:00+00:00
 image: "/src/assets/images/posts/03.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
+authors: ["Dr. Fenilalanino"]
 tags: ["diy", "toy"]
 draft: false
 ---

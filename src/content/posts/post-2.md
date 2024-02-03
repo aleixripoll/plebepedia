@@ -4,7 +4,7 @@ description: "meta description"
 date: 2022-04-04T05:00:00Z
 image: "/src/assets/images/posts/02.jpg"
 categories: ["development"]
-authors: ["John Doe"]
+authors: ["Dra. Valina"]
 tags: ["diy", "toy"]
 draft: false
 ---

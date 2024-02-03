@@ -4,7 +4,7 @@ description: "meta description"
 image: "/src/assets/images/posts/06.jpg"
 date: 2021-02-03T16:56:47+06:00
 draft: false
-authors: ["Mark Dinn"]
+authors: ["Dr. Fenilalanino"]
 tags: ["Alarm", "Clock"]
 categories: ["LifeStyle"]
 ---

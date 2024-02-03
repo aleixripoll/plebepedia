@@ -4,7 +4,7 @@ title: "How to make toys from old Olarpaper"
 date: 2022-04-04T05:00:00Z
 image: "/src/assets/images/posts/01.jpg"
 categories: ["art"]
-authors: ["Mark Dinn"]
+authors: ["Dra. Valina"]
 tags: ["diy", "toy"]
 draft: false
 ---
