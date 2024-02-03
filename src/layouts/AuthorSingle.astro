@@ -15,24 +15,26 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
 <section class="section">
   <div class="container">
     <div class="mb-4 text-center md:px-24">
-      {authorImages[image] && (
+      {
+        authorImages[image] && (
           <div class="mb-8">
             <Image
               src={authorImages[image]()}
               class="mx-auto rounded-lg"
-              height={150}
-              width={150}
+              height={200}
+              width={200}
               alt={title}
             />
           </div>
-      )}
-      <h1 set:html={markdownify(title)} class="page-heading h2 mb-8" />
-      {author.data.description &&
-        <h5 class="mb-8 font-light text-text">{author.data.description}</h5>
+        )
       }
-      {social && (
-          <Social source={social} className="social-icons-simple" />
-      )}
+      <h1 set:html={markdownify(title)} class="page-heading h2 mb-8" />
+      {
+        author.data.description && (
+          <h5 class="mb-8 font-light text-text">{author.data.description}</h5>
+        )
+      }
+      {social && <Social source={social} className="social-icons-simple" />}
       <div class="content">
         <Content />
       </div>
