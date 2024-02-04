@@ -71,7 +71,7 @@ export default function SearchBar({ searchList }: Props) {
     <div className="min-h-[45vh]">
       <input
         className="form-input w-full text-center"
-        placeholder="Type here to Search posts"
+        placeholder="Escribe aquí para buscar artículos"
         type="text"
         name="search"
         value={inputVal}
