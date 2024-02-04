@@ -16,20 +16,21 @@ Seguramente muchos se hagan la siguiente pregunta:
 Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empecemos.
 
 
-#### Datos generales
-- Vitamina liposoluble, por lo tanto se puede almacenar durante semanas/meses antes de padecer síntomas de deficiencia.
+## Datos generales
+- Vitamina liposoluble, por lo tanto se puede almacenar en el cuerpo, por lo tanto su deficiencia se detecta tras varios meses.
+
 - No podemos producirla, hay que obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 
-##### Retinoides
+#### Retinoides
 - Solo 3 retinoides son formas activas de la vitamina A: retinol, retinal y ácido retinoico (ATRA).
-- Se absorbe casi al 100%.
+- La vitamina A se absorbe casi al 100%.
 - La mayor fuente es el **hígado** seguido de las **grasas**: carne, leche, huevo (yema) y pescado (aceite).
 - Los animales que consumen más vitamina A aportan más vitamina A (**pasto > cereales**).
 
-##### Carotenoides
-- Los carotenoides **no contienen vitamina A**, son provitamina A y se deben convertir a retinol.
-- No todos los carotenoides son provitamina A. En la dieta humana el principal es el **beta-caroteno**.
-- La principal fuente de beta-carotenos son **frutas y hortalizas de coloración amarilla-naranja** (zanahoria, tomate, mango, melocotón, melón, naranja, mandarina) y verduras de hoja verde oscura (espinaca, brócoli).
+#### Carotenoides
+- Los carotenoides **no contienen vitamina A**, son precursores que deben convertirse a retinol.
+- No todos los carotenoides son precursores de vitamina A. En la dieta humana el principal es el **beta-caroteno**.
+- La principal fuente de beta-carotenos son frutas y hortalizas de color amarillo, naranja y rojo (*zanahoria, tomate, mango, melocotón, melón, naranja, mandarina*) y verduras de hoja verde oscura (*espinacas, brócoli*).
 - Su absorción es muy variable y mucho menor que en los retinoides.
 - A mayor complejidad de la matriz alimentaria, menor biodisponibilidad y absorción: las verduras son más complejas que las frutas; los alimentos crudos son más complejos que cocinados.
 - El cocinado descompone la matriz y aumenta la biodisponibilidad, pero un cocinado excesivo, especialmente en frituras, aumenta su destrucción.
@@ -37,38 +38,36 @@ Efectivamente **no**. Ni cargar menhires como Obélix. Aclarado este punto, empe
 - Consumirlos con fibra soluble disminuye su absorción.
 - Las deficiencias de zinc y hierro disminuyen su absorción.
 - A medida que aumenta la dosis se reduce su absorción, por lo tanto no es posible la intoxicación por vitamina A con carotenoides.
-- Extra bonus: los carotenoides son **antioxidantes**.
+- Bonus: los carotenoides son **antioxidantes**.
 
 
-#### Funciones principales
+## Funciones principales
 
-##### Visión
+#### Visión
 - La percepción visual requiere dos estructuras en la retina: **conos** y **bastones**. Los bastones son sensibles a la luz tenue y necesarios para la visión nocturna. Los conos son responsables de la visión en condiciones de mucha luz (color).
 - La proteína **rodopsina** es el receptor lumínico de los bastones; para su síntesis se requiere vitamina A.
 - La deficiencia de retinol conlleva deficiencia de rodopsina, causando **nictalopia** (ceguera nocturna).
 - La visión nocturna se recupera tras restablecer los niveles de retinol.
 
-##### Procesos celulares
+#### Procesos celulares
 - El ácido retinoico (ATRA) interviene en la diferenciación celular, el desarrollo y regeneración de los tejidos (piel) y la apoptosis (muerte controlada) celular.
-- Interviene en la formación de **células caliciformes** (*goblet cells*), encargadas de sintetizar la mucosa intestinal, la primera barrera defensiva del intestino.
+- Interviene en la formación de células caliciformes (*goblet cells*), encargadas de sintetizar la **mucosa intestinal**, la primera barrera defensiva del intestino.
 
-##### Sistema inmune
+#### Sistema inmune
 - Interviene en la síntesis de **células T reguladoras**, encargadas de evitar una respuesta inmune (inflamación) excesiva.
 - Su deficiencia aumenta la severidad y duración del sarampión y las enfermedades parasitarias.
 
 
-#### Deficiencia 
-
-- Pérdida de visión en condiciones de poca luz, que de no ser corregida puede derivar en ceguera total.
+## Deficiencia 
+- Pérdida de visión en condiciones de poca luz, de no ser corregida puede derivar en ceguera total.
 - Sequedad, descamación y picor de la piel.
-- Aumento de las infecciones respiratorias debido a la afectación del tejido epitelial.
+- Aumento de las infecciones por la afectación del tejido epitelial.
 - Anemia.
 
 
-#### Toxicidad
-
+## Toxicidad
 - Prácticamente imposible por carotenoides, muy rara por retinoides, posible por suplementos.
-- Algunos síntomas son dolor abdominal, nauseas y piel seca.
+- Algunos síntomas son dolor abdominal, nauseas, irritabilidad, piel seca.
 - Un alto consumo podría interferir en la absorción y funciones de la vitamina D (reducción de la absorción de calcio y mayor riesgo de fracturas).
 
 
