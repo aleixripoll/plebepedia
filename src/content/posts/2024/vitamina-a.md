@@ -1,15 +1,15 @@
 ---
-title: "Vitamina A: lo esencial"
+title: "Vitamina A para plebeyos"
 slug: vitamina-a
 description: "Todo lo que hace falta saber sobre la vitamina A, y ya."
 authors: ["Dr. Fenilalanino"]
-image: "/src/assets/images/posts/05.jpg"
+image: "/src/assets/images/posts/vitamina_A.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
-draft: true
+draft: false
 ---
 
-Seguramente muchos os hagáis la siguiente pregunta:
+Seguramente muchos se hagan la siguiente pregunta:
 
 > Si caigo en una marmita de vitamina A, ¿podré ver en la oscuridad como Batman?
 
