@@ -93,7 +93,7 @@ export default function SearchBar({ searchList }: Props) {
 
       <div className="row">
         {searchResults?.map(({ item }) => (
-          <div key={item.slug} className={"col-12 mb-8 sm:col-6"}>
+          <div key={item.slug} className={"col-12 mb-8 sm:col-6 text-center"}>
             {/* 
               Post images had to be duplicated from /src to /public as Search.tsx runs in the browser and it can't access
               build-time server images in /src. If fully moved to /public we lose Astro's server-side <Image/> optimization.
@@ -110,7 +110,7 @@ export default function SearchBar({ searchList }: Props) {
               </a>
             )}
 
-            <ul className="mt-6 mb-4 flex flex-wrap items-center text-text">
+            <ul className="mt-6 mb-4 flex flex-wrap items-center justify-center text-text">
               <li className="mr-5 flex items-center flex-wrap">
                 <BiUser className="mr-1 h-[18px] w-[18px] text-gray-600" />
                 <>
@@ -157,7 +157,10 @@ export default function SearchBar({ searchList }: Props) {
               </a>
             </h3>
             <p className="text-text">
-              {item.content?.slice(0, Number(summary_length))}...
+            {
+              item.data.description ? item.data.description :
+              item.content?.slice(0, Number(summary_length)) + "..."
+            }
             </p>
           </div>
         ))}
