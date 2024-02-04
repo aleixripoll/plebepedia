@@ -1,6 +1,6 @@
 ---
 title: "A vegades hago cosas"
-meta_title: "Acerca de todo este percal"
+meta_title: "Acerca de"
 image: "/src/assets/images/authors/about.webp"
 draft: false
 
