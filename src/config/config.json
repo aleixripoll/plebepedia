@@ -1,14 +1,14 @@
 {
   "site": {
-    "title": "Dr. Fenilalanino",
+    "title": "Plebepedia",
     "base_url": "https://aleixripoll.github.io",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon_io/favicon.ico",
     "logo": "/images/logo.webp",
-    "logo_width": "180",
-    "logo_height": "30",
-    "logo_text": "Dr. Fenilalanino"
+    "logo_width": "160",
+    "logo_height": "24",
+    "logo_text": "Plebepedia.com"
   },
 
   "settings": {
@@ -19,7 +19,7 @@
   "metadata": {
     "meta_author": "Doctor Fenilalanino",
     "meta_image": "/images/favicon_io/android-chrome-192x192.png",
-    "meta_description": "Las aventuras del doctor Fenilalanino"
+    "meta_description": "Ciencia para plebeyos"
   },
 
   "params": {
@@ -28,7 +28,7 @@
   },
 
   "contactinfo": {
-    "address": "En algún lugar de La Mancha",
+    "address": "No adress",
     "email": "drfenilalanino@gmail.com",
     "phone": "555-123-456"
   },

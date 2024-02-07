@@ -23,7 +23,8 @@ export interface Props {
 }
 
 // distructure frontmatters
-const { title, meta_title, description, image, noindex, canonical } = Astro.props;
+const { title, meta_title, description, image, noindex, canonical } =
+  Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -65,7 +66,15 @@ const { title, meta_title, description, image, noindex, canonical } = Astro.prop
 
     <!-- title -->
     <title>
-      {plainify(meta_title ? meta_title : title ? title : config.site.title)}
+      {
+        plainify(
+          meta_title
+            ? `${meta_title} | ${config.site.title}`
+            : title
+            ? `${title} | ${config.site.title}`
+            : config.site.title
+        )
+      }
     </title>
 
     <!-- canonical url -->
@@ -140,7 +149,6 @@ const { title, meta_title, description, image, noindex, canonical } = Astro.prop
     <meta name="twitter:card" content="summary_large_image" />
 
     <ViewTransitions />
-
   </head>
   <body>
     <TwSizeIndicator />

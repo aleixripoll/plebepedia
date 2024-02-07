@@ -1,5 +1,5 @@
 ---
-title: "A vegades hago cosas"
+title: "A veces hago cosas"
 meta_title: "Acerca de"
 image: "/src/assets/images/authors/about.webp"
 draft: false
@@ -18,6 +18,6 @@ what_i_do:
 
 ---
 
-Un porrón de años de experiencia como ingeniero me han llevado al precipicio de escribir un blog sobre temas que no tienen nada que ver con lo que he hecho durante ese porrón de años.
+Un porrón de años pensando demasiado me han llevado al precipicio de escribir un blog sobre temas que no tienen nada que ver con nada de lo que se supone que sé.
 
 ¿No tiene ningún sentido verdad? Dejadme en paz.
