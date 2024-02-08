@@ -5,7 +5,7 @@ authors: ["Dra. Valina"]
 image: "/src/assets/images/posts/hidro_vs_lipo.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
-draft: true
+draft: false
 ---
 
 Somos seres de agua. Algunos lo son también de luz, pero menos.
