@@ -11,7 +11,7 @@ draft: false
 
 Empecemos desmintiendo **plebemitos**:
 
-- *"Si caigo en una marmita de vitamina A, podré ver en la oscuridad como Batman".* Efectivamente **no**, ni cargar menhires como Obélix.
+- *"Si caigo en una marmita de vitamina A podré ver en la oscuridad como Batman".* Efectivamente **no**, ni cargar menhires como Obélix.
 
 Aclarado esto, vamos con los plebedatos.
 
@@ -48,7 +48,7 @@ Es una vitamina **[liposoluble](./hidro-vs-lipo)**. No podemos producirla, debem
 ## Deficiencia
 - La deficiencia de retinol conlleva deficiencia de rodopsina, causando **nictalopia** (ceguera nocturna). La visión nocturna se recupera tras restablecer los niveles de retinol, en caso contrario puede derivar en ceguera total.
 - Sequedad, descamación y picor de la piel.
-- Aumento de las infecciones por la afectación de los mucosas (intestinal, vías respiratorias) y la piel.
+- Aumento de las infecciones por la afectación de la piel y las mucosas (intestinal, vías respiratorias).
 - Anemia.
 
 
