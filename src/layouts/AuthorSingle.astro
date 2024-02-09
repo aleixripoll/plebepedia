@@ -31,9 +31,7 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
       <h1 set:html={markdownify(title)} class="page-heading h2 mb-8" />
       {
         author.data.description && (
-          <h5 class="mb-8 font-primary font-light text-text">
-            {author.data.description}
-          </h5>
+          <h5 class="mb-8 font-light text-text">{author.data.description}</h5>
         )
       }
       {social && <Social source={social} className="social-icons-simple" />}
