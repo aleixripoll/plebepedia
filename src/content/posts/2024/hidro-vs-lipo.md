@@ -1,5 +1,6 @@
 ---
 title: "Hidrosoluble vs liposoluble"
+slug: hidro-vs-lipo
 description: "Be water my friend."
 authors: ["Dra. Valina"]
 image: "/src/assets/images/posts/hidro_vs_lipo_cover.webp"

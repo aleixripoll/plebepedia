@@ -16,7 +16,7 @@ Empecemos desmintiendo **plebemitos**:
 Aclarado esto, vamos con los plebedatos.
 
 ## Plebedatos 
-Es una vitamina **[liposoluble](./hidro-vs-lipo)**. No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
+Es una vitamina **[liposoluble](/hidro-vs-lipo)**. No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 
 #### Retinoides
 - Solo 3 retinoides son formas activas de la vitamina A: retinol, retinal y ácido retinoico (ATRA).
@@ -31,10 +31,10 @@ Es una vitamina **[liposoluble](./hidro-vs-lipo)**. No podemos producirla, debem
 - Su absorción es muy variable y mucho menor que en los retinoides (5-65%).
 - A mayor complejidad de la matriz alimentaria, menor biodisponibilidad y absorción: las verduras son más complejas que las frutas; los alimentos crudos son más complejos que cocinados. El cocinado descompone la matriz y aumenta la biodisponibilidad, pero un cocinado excesivo, especialmente en frituras, aumenta su destrucción.
 - Consumirlos con grasa aumenta su absorción.
-- Consumirlos junto con [fibra soluble](./fibra) **disminuye** su absorción.
-- Las deficiencias de [zinc y hierro](./oligoelementos) **disminuyen** su absorción.
+- Consumirlos junto con [fibra soluble](/fibra) **disminuye** su absorción.
+- Las deficiencias de [zinc y hierro](/oligoelementos) **disminuyen** su absorción.
 - A medida que aumenta la dosis se reduce su absorción, por lo tanto no es posible la intoxicación por vitamina A con carotenoides.
-- Bonus: los carotenoides son **[antioxidantes](./antioxidantes)**.
+- Bonus: los carotenoides son **[antioxidantes](/antioxidantes)**.
 
 
 ## Funciones principales
