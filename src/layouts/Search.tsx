@@ -101,7 +101,7 @@ export default function SearchBar({ searchList }: Props) {
             {item.data.image && (
               <a href={`/${item.slug}`} className="rounded-lg block hover:text-primary overflow-hidden group">
                 <img
-                  className="group-hover:scale-[1.03] transition duration-300 w-full"
+                  className="group-hover:scale-[1.03] transition duration-300 w-full max-h-52 object-cover"
                   src={item.data.image.replace('/src/assets', '')}
                   alt={item.data.title}
                   width={445}
