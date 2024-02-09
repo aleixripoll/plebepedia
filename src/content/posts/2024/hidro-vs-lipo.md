@@ -15,4 +15,6 @@ El aceite no se mezcla con el agua, por lo tanto **podemos almacenar compuestos*
 
 La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
 
+La vitamina B12, hidrosoluble, es la excepción y se comporta como una vitamina liposoluble.
+
 ![Hidrosoluble vs liposoluble](../../../assets/images/posts/hidro_vs_lipo.webp)
