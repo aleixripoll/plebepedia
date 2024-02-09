@@ -24,7 +24,9 @@ Los radicales libres se producen por el propio metabolismo celular y por agentes
 
 ### Antioxidantes
 
-Ahora que sabemos que son los oxidantes, veamos los antioxidantes.
+Ahora que sabemos qué son los oxidantes, veamos los antioxidantes.
+
+Los antioxidantes son substancias que dan electrones a los radicales libres: vitaminas (D, E), beta-carotenos, minerales (selenio, manganesio), entre otros.
 
 
 ---
