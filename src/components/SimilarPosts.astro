@@ -31,7 +31,7 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
             />
           </a>
         )}
-        <ul class="mt-4 flex flex-wrap items-center text-sm text-text">
+        <ul class="mt-4 flex flex-wrap items-center justify-center text-sm text-text">
           {post.data.date && (
           <li class="mb-2 mr-4 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-[16px] w-[16px] text-gray-600" />
@@ -59,7 +59,7 @@ const authorImages = import.meta.glob<{ default: ImageMetadata }>(
         <h3 class="h5">
           <a
             href={`/${post.slug}`}
-            class="block transition duration-300 hover:text-primary font-primary"
+            class="block transition duration-300 hover:text-primary text-center"
           >
             {post.data.title}
           </a>
