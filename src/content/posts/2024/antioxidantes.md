@@ -15,18 +15,19 @@ Para hablar de antioxidantes primero tenemos que entender qué es un oxidante, y
 
 ### Radicales libres
 
-Un radical libre es un compuesto altamento reactivo. La homeoestasis del cuerpo requiere moléculas estables para mantener este tinglado en pie, un radical libre es un elefante en una chatarrería y el cuerpo necesita deshacerse de ellos.
+Un radical libre es un compuesto altamento reactivo. Un radical libre es un elefante en una chatarrería y el cuerpo necesita deshacerse de ellos.
 
-Los radicales libres tienen en común la presencia de átomos de oxígeno en su composición, este es el principal culpable de la actividad oxidativa, de ahí el nombre de "oxidación". Su reactividad es debida a que tienen un electrón libre (desapareado) en su última órbita, en su búsqueda de aparear ese electrón pueden cambiar la composición química de otras moléculas. Esto puede provocar cambios en los lípidos, proteínas y ADN (nuclear y mitocondrial), que pueden derivar en una gran variedad de problemas de salud.
+Los radicales libres presentan átomos de oxígeno en su composición, de ahí el nombre de "oxidación". Su reactividad es debida a que tienen un electrón libre (desapareado) en su última órbita, en su intento por aparear este electrón provocan cambios en la composición química de otras moléculas (lípidos, proteínas, ADN). Esto puede derivar en una gran variedad de problemas de salud (enfermedades cardiovasculares, respiratorias, Parkinson, cáncer). El daño al ADN, en particular el mitocondrial, está relacionado con las enfermemdades neurodegenerativas y el envejecimiento.
 
-Los radicales libres se producen por el propio metabolismo celular y por agentes externos (contaminación atmosférica).
+Se producen por el propio metabolismo celular y por agentes externos (contaminación atmosférica, exposición solar, tabaco).
 
+El cuerpo requiere radicales libres para ciertas funciones, el problema es la pérdida de equilibrio entre su producción y eliminación.
 
 ### Antioxidantes
 
 Ahora que sabemos qué son los oxidantes, veamos los antioxidantes.
 
-Los antioxidantes son substancias que dan electrones a los radicales libres: vitaminas (D, E), beta-carotenos, minerales (selenio, manganesio), entre otros.
+Un antioxidante es una substancia que da electrones a los radicales libres. Algunos los produce el cuerpo (glutatión, enzimas) y otros se obtienen de la dieta: vitaminas (C, E), carotenoides, minerales (selenio, manganesio), polifenoles, flavonoides, etc.
 
 
 ---
