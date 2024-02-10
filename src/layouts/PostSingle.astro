@@ -73,7 +73,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
             <>
               {
                 post.data.date
-                  ? `${dateFormat(post.data.date)} (Actualizado: ${dateFormat(lastModified)})`
+                  ? dateFormat(post.data.date)
                   : dateFormat(lastModified)
               }
             </>
