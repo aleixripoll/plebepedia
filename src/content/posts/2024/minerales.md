@@ -10,7 +10,7 @@ draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
-Existen una serie de minerales que el cuerpo necesita para realizar diversas funciones. Se dividen en dos grupos según la cantidad requerida: macroelementos (que en algunas fuentes se denominan esenciales, a pesar de que los otros también lo son) y elementos traza.
+Hay ciertos minerales que el cuerpo necesita para realizar algunas funciones. Se dividen en dos grupos: macroelementos (que en algunas fuentes se denominan esenciales, a pesar de que los otros también lo son) y elementos traza.
 
 ### Macroelementos
 
@@ -24,18 +24,6 @@ Minerales que necesitamos en "grandes" cantidades (> 50mg/día):
 - [Sodio](/sodio)
 - [Azufre](/azufre)
 
-#### Calcio
-###### Funciones
-- Formación huesos y dientes.
-- Coagulación sangre.
-- Contracción muscular.
-- Regulación ritmo cardíaco.
-- Transmisión corriente nerviosa.
-###### Fuentes
-- Lácteos (biodisponibilidad baja, ~30%).
-- Sardinas enlatadas (alta disponibilidad, casi 100%).
-- Almendras (biodisponibilidad baja, ~20%).
-- Hojas de las verduras (col, espinaca, acelga). Biodisponibilidad muy baja debido a oxalatos y fitatos que se adhieren al calcio y no permiten su absorción.
 
 ### Elementos traza
 
