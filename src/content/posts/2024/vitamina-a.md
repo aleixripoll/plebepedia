@@ -61,7 +61,7 @@ Es una vitamina **[liposoluble](/hidro-vs-lipo)**. No podemos producirla, debemo
 
 ---
 
-*Principales fuentes no-plebeyas consultadas para la realización de este artículo plebeyo:*
+*Principales fuentes no-plebeyas consultadas para la realización de este artículo:*
 
 *[Vitamin A Update: Forms, Sources, Kinetics, Detection, Function, Deficiency, Therapeutic Use and Toxicity | National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157347/)*
 

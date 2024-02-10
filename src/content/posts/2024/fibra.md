@@ -7,6 +7,7 @@ image: "/src/assets/images/posts/fibra.webp"
 categories: ["nutrición"]
 tags: []
 draft: true
+date: 2024-02-09T07:00:00Z
 ---
 
 

@@ -7,12 +7,13 @@ image: "/src/assets/images/posts/oligoelementos.webp"
 categories: ["biología"]
 tags: ["mineral", "zinc", "hierro"]
 draft: true
+date: 2024-02-09T07:00:00Z
 ---
 
 
 
 ---
-Principales fuentes no-plebeyas consultadas para la realización de este artículo plebeyo:
+Principales fuentes no-plebeyas consultadas para la realización de este artículo:
 
 *[Antioxidants | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/antioxidants/)*
 

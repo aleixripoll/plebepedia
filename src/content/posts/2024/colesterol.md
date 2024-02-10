@@ -7,6 +7,7 @@ image: "/src/assets/images/posts/colesterol.webp"
 categories: ["nutrición"]
 tags: ["LDL", "HDL", "VLDL"]
 draft: true
+date: 2024-02-09T07:00:00Z
 ---
 
 

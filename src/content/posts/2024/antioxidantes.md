@@ -7,6 +7,7 @@ image: "/src/assets/images/posts/antioxidantes.webp"
 categories: ["biología"]
 tags: ["radical libre", "oxígeno"]
 draft: true
+date: 2024-02-09T07:00:00Z
 ---
 
 ¿Es usted uno de esos plebeyo-cuñados que dan la turra con los antioxidantes en las cenas de navidad sin tener la menor idea de lo que habla? Pues eso se acabó.
