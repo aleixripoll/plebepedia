@@ -1,7 +1,7 @@
 ---
 title: "Antioxidantes"
 slug: antioxidantes
-description: "Hablar de ellos sin saber lo que son es bien."
+description: "Hablar de ellos sin saber lo que son hace llorar al niño Jesús."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/antioxidantes.webp"
 categories: ["biología"]

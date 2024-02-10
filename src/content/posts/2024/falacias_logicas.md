@@ -1,7 +1,7 @@
 ---
 title: "Falacias lógicas"
 slug: falacias-logicas
-description: "No eres tú, soy yo."
+description: "Por consiguiente tengo razón."
 authors: ["Dra. Valina"]
 image: "/src/assets/images/posts/falacias_logicas.webp"
 categories: ["psicología"]

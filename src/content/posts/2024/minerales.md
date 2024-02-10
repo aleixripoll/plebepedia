@@ -1,20 +1,18 @@
 ---
 title: "Minerales"
 slug: minerales
-description: "Resumen de todos los que un plebeyo necesita."
+description: "Todo lo que un plebeyo necesita comer de la tabla periódica."
 authors: ["Dr. Fenilalanino"]
-image: "/src/assets/images/posts/oligoelementos.webp"
+image: "/src/assets/images/posts/minerales.webp"
 categories: ["biología", "nutrición"]
-tags: ["oligoelemento", "elemento traza", "calcio", "sodio", "magnesio", "potasio", "cloro", "fósforo", "zinc", "hierro", "yodo", "flúor", "selenio", "cobre", "manganeso", "cromo", "molibdeno", "cobalto", "niquel"]
+tags: ["esencial", "oligoelemento", "elemento traza"]
 draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
-Hay ciertos minerales que el cuerpo necesita para realizar diversas funciones (minerales esenciales). Se suelen dividir en dos grupos.
+Existen una serie de minerales que el cuerpo necesita para realizar diversas funciones. Se dividen en dos grupos según la cantidad requerida: macroelementos (que en algunas fuentes se denominan esenciales, a pesar de que los otros también lo son) y elementos traza.
 
 ### Macroelementos
-
-*(En algunas fuentes los macroelementos se denominan esenciales, lo cual personalmente, como plebeyo, me genera confusión, ya que los del otro grupo también son supuestamente esenciales).*
 
 Minerales que necesitamos en "grandes" cantidades (> 50mg/día):
 
@@ -41,17 +39,16 @@ Minerales que necesitamos en "grandes" cantidades (> 50mg/día):
 
 ### Elementos traza
 
-Los oligoelementos o elementos traza son los minerales que necesitamos en muy bajas cantidades (< 50mg/día):
+Los oligoelementos o elementos traza son minerales que necesitamos en muy bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada, los principales son:
 
+- Cobalto
 - Cobre
-- Selenio
-- Yodo
+- Cromo
 - Flúor
 - Manganeso
-- Cromo
 - Molibdeno
-- Cobalto
-- Níquel
+- Selenio
+- Yodo
 - Zinc
 
 
