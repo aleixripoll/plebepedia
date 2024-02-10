@@ -1,7 +1,7 @@
 ---
 title: "Minerales"
 slug: minerales
-description: "Resumen de todos los que un plebeyo necesita"
+description: "Resumen de todos los que un plebeyo necesita."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/oligoelementos.webp"
 categories: ["biología", "nutrición"]
