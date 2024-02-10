@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Truculenta
-- Font Author: Copyright 2020 The Truculenta Project Authors (https://github.com/Omnibus-Type/Truculenta)
-- Font Source: http://fonts.gstatic.com/s/truculenta/v22/LhWfMVvBKusVIfNYGi1-WvRVyDdZeeiySNppcu32Mb2f06y6Oa21F6XHi0VYDX_PzOupMlAiswcFHnJMMhg.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
