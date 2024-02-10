@@ -5,12 +5,12 @@ description: "Todo lo que un plebeyo necesita comer de la tabla periódica."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/minerales.webp"
 categories: ["biología", "nutrición"]
-tags: ["esencial", "oligoelemento", "elemento traza"]
+tags: ["oligoelemento", "elemento traza"]
 draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
-Hay ciertos minerales que el cuerpo necesita para realizar algunas funciones. Se dividen en dos grupos: macroelementos (que en algunas fuentes se denominan esenciales, a pesar de que los otros también lo son) y elementos traza.
+El cuerpo necesita ciertos minerales para realizar algunas funciones. Se dividen en dos grupos: macroelementos (que en algunas fuentes se denominan esenciales, a pesar de que los otros también lo son) y elementos traza.
 
 ### Macroelementos
 
@@ -27,7 +27,7 @@ Minerales que necesitamos en "grandes" cantidades (> 50mg/día):
 
 ### Elementos traza
 
-Los oligoelementos o elementos traza son minerales que necesitamos en muy bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada, los principales son:
+Los oligoelementos o elementos traza son minerales que necesitamos en bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada, los principales son:
 
 - Cobalto
 - Cobre
@@ -42,4 +42,4 @@ Los oligoelementos o elementos traza son minerales que necesitamos en muy bajas 
 
 ---
 
-https://www.hsph.harvard.edu/nutritionsource/vitamins/
+- *[Vitamins and minerals | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamins/)*
