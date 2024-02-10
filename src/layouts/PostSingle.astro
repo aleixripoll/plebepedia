@@ -21,7 +21,7 @@ const { title, description, authors, categories, image, date, tags } =
   post.data;
 
 const postImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/images/posts/*.{jpeg,jpg,png,gif,webp}"
+  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
 );
 const authorImages = import.meta.glob<{ default: ImageMetadata }>(
   "/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}"
@@ -73,7 +73,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
             <>
               {
                 post.data.date
-                  ? dateFormat(post.data.date)
+                  ? `${dateFormat(post.data.date)} (Actualizado: ${dateFormat(lastModified)})`
                   : dateFormat(lastModified)
               }
             </>

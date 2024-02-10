@@ -1,19 +1,19 @@
 ---
-title: "Become a morning person with the help of alarm clock"
+title: "How to make toys from old Olarpaper"
 description: "meta description"
-image: "/src/assets/images/posts/06.jpg"
-date: 2021-02-03T16:56:47+06:00
+date: 2022-04-04T05:00:00Z
+image: "/src/assets/images/posts/2023/07.jpg"
+categories: ["art"]
+authors: ["Dra. Valina"]
+tags: ["diy", "toy"]
 draft: false
-authors: ["Dr. Fenilalanino"]
-tags: ["Alarm", "Clock"]
-categories: ["LifeStyle"]
 ---
 
-Almost every day for the past nine or so months has felt like March 13, and that can sometimes make it difficult to want to wake up for the day ahead of you.
+Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
-To make a morning person out of you, the wake-up light simulates the sunrise to gradually ease you awake. This allows you to wake up more naturally rather than being jolted awake by the default iPhone alarm sound, which honestly triggers my fight or flight response.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
 
-### Creative Design
+## Creative Design
 
 Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 

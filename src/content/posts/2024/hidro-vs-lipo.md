@@ -3,10 +3,11 @@ title: "Hidrosoluble vs liposoluble"
 slug: hidro-vs-lipo
 description: "Be water my friend."
 authors: ["Dra. Valina"]
-image: "/src/assets/images/posts/hidro_vs_lipo_cover.webp"
+image: "/src/assets/images/posts/2024/hidro_vs_lipo_cover.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
+date: 2024-02-07T07:00:00Z
 ---
 
 Somos seres de agua. Algunos lo son también de luz, pero menos.
@@ -17,4 +18,4 @@ La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas
 
 La vitamina B12, hidrosoluble, es la excepción y se comporta como una vitamina liposoluble.
 
-![Hidrosoluble vs liposoluble](../../../assets/images/posts/hidro_vs_lipo.webp)
+![Hidrosoluble vs liposoluble](../../../assets/images/posts/2024/hidro_vs_lipo.webp)

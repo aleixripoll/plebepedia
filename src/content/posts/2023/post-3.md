@@ -1,10 +1,10 @@
 ---
-title: "How to make toys from old Olarpaper"
+title: What you need to know about Photography
 description: "meta description"
-date: 2022-04-04T05:00:00Z
-image: "/src/assets/images/posts/07.jpg"
+date: 2022-04-02T06:00:00+00:00
+image: "/src/assets/images/posts/2023/03.jpg"
 categories: ["art"]
-authors: ["Dra. Valina"]
+authors: ["Dr. Fenilalanino"]
 tags: ["diy", "toy"]
 draft: false
 ---

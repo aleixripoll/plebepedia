@@ -3,10 +3,11 @@ title: "Vitamina A: lo esencial"
 slug: vitamina-a
 description: "Todo lo que un plebeyo debe saber sobre la vitamina A."
 authors: ["Dr. Fenilalanino"]
-image: "/src/assets/images/posts/vitamina_A.webp"
+image: "/src/assets/images/posts/2024/vitamina_A.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
+date: 2024-01-04T07:00:00Z
 ---
 
 Empecemos desmintiendo **plebemitos**:

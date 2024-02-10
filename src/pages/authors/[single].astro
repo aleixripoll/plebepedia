@@ -34,7 +34,7 @@ const currentPosts = sortPostsByDate.filter((post) => {
     .includes(slugify(title));
 });
 const postImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/images/posts/*.{jpeg,jpg,png,gif,webp}"
+  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
 );
 ---
 
