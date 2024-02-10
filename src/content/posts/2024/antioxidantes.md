@@ -1,7 +1,7 @@
 ---
 title: "Antioxidantes"
 slug: antioxidantes
-description: "Hablar de ellos sin saber lo que son ya no será de plebeyo."
+description: "Hablar de ellos sin saber lo que son es bien."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/antioxidantes.webp"
 categories: ["biología"]
@@ -31,7 +31,7 @@ Ahora que sabemos qué son los oxidantes podemos responder a la pregunta:
 
 Un antioxidante es una substancia que tiene la capacidad de dar electrones a los radicales libres. Algunos los produce el cuerpo (glutatión, enzimas) y otros se obtienen de la dieta: vitaminas (C, E), carotenoides, minerales (selenio, manganesio), polifenoles, flavonoides, etc.
 
-No hay evidencias de que los suplementos que contienen esas substancias de forma aislada produzcan el mismo efecto antioxidante que los alimentos de los que provienen. 
+No hay evidencias de que los suplementos que contienen esas substancias de forma aislada produzcan el mismo efecto antioxidante que los alimentos de los que provienen, bien porque los distintos componentes que forman dicho alimento se complementan, bien porque los suplementos ofrecen versiones "incompletas" de esa substancia. 
 
 
 ---
