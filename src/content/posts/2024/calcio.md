@@ -1,16 +1,16 @@
 ---
 title: "Calcio"
 slug: calcio
-description: "Entre la cantidad y la biodisponibilidad."
+description: "El mineral de los huesos."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/calcio.webp"
 categories: ["biología", "nutrición"]
-tags: ["minerales", "macroelementos"]
+tags: ["micronutrientes", "minerales", "macrominerales"]
 draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
-El calcio es uno de los 7 [macroelementos](/minerales) esenciales.
+El calcio es uno de los 7 [macrominerales](/minerales) esenciales.
 
 #### Funciones
 - Formación de huesos y dientes.
@@ -20,10 +20,10 @@ El calcio es uno de los 7 [macroelementos](/minerales) esenciales.
 - Transmisión de la corriente nerviosa.
 
 #### Fuentes
-La biodisponibilidad del calcio es muy variable, los alimentos con mayor contenido no necesariamente aportan más:
+La biodisponibilidad del calcio es muy variable, los alimentos con mayor contenido no necesariamente aportan más.
 
 - **Lácteos**: Biodisponibilidad baja, ~30%. Aún así son la principal fuente.
-- **Sardinas enlatadas**: Alta disponibilidad en los huesos y espinas.
+- **Sardinas enlatadas**: Alta disponibilidad en huesos y espinas.
 - **Almendras**: Biodisponibilidad baja, ~20%.
 - Hoja de algunas verduras (col, espinaca, acelga). Biodisponibilidad baja en general y muy baja en las espinacas (~5%) debido a oxalatos y fitatos que se adhieren al calcio y no permiten su absorción.
 

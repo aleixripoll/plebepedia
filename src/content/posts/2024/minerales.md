@@ -5,16 +5,16 @@ description: "Todo lo que un plebeyo necesita comer de la tabla periódica."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/minerales.webp"
 categories: ["biología", "nutrición"]
-tags: ["oligoelemento", "elemento traza"]
+tags: ["micronutrientes", "minerales"]
 draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
-El cuerpo necesita ciertos minerales para realizar algunas funciones. Se dividen en dos grupos: macroelementos (que en algunas fuentes se denominan esenciales, a pesar de que los otros también lo son) y elementos traza.
+El cuerpo necesita ciertos minerales para realizar algunas funciones. Se dividen en dos grupos: macroelementos y elementos traza.
 
 ### Macroelementos
 
-Minerales que necesitamos en "grandes" cantidades (> 50mg/día):
+Minerales que necesitamos en "grandes" cantidades (> 50mg/día). Son 7:
 
 - [Calcio](/calcio)
 - [Cloro](/cloro)

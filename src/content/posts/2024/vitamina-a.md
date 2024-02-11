@@ -1,7 +1,7 @@
 ---
-title: "Vitamina A: lo esencial"
+title: "Vitamina A"
 slug: vitamina-a
-description: "Todo lo que un plebeyo debe saber sobre la vitamina A."
+description: "Todo lo que un plebeyo debe saber sobre el retinol."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/2024/vitamina_A.webp"
 categories: ["nutrición"]
@@ -10,7 +10,7 @@ draft: false
 date: 2024-01-04T07:00:00Z
 ---
 
-No, si caes en una marmita de vitamina A no podrás ver en la oscuridad como Batman, ni como [Natilla](/authors/natilla) disfrazada de Batman, ni cargar menhires como Obélix.
+No, si caes en una marmita de vitamina A no podrás ver en la oscuridad como Batman, ni cargar menhires como Obélix.
 
 Aclarado esto, empecemos.
 
