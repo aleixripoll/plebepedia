@@ -10,13 +10,11 @@ draft: false
 date: 2024-01-04T07:00:00Z
 ---
 
-Empecemos desmintiendo **plebemitos**:
+No, si caes en una marmita de vitamina A no podrás ver en la oscuridad como Batman, ni como [Natilla](/authors/natilla) disfrazada de Batman, ni cargar menhires como Obélix.
 
-- *"Si caigo en una marmita de vitamina A podré ver en la oscuridad como Batman".* Efectivamente **no**, ni cargar menhires como Obélix.
+Aclarado esto, empecemos.
 
-Aclarado esto, vamos con los plebedatos.
-
-## Plebedatos 
+## ¿Qué y dónde? 
 Es una vitamina **[liposoluble](/hidro-vs-lipo)**. No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 
 #### Retinoides

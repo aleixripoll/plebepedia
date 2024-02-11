@@ -42,4 +42,6 @@ Los oligoelementos o elementos traza son minerales que necesitamos en bajas cant
 
 ---
 
+Principales referencias:
+
 - *[Vitamins and minerals | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamins/)*

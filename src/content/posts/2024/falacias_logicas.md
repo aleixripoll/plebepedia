@@ -4,7 +4,7 @@ slug: falacias-logicas
 description: "Por consiguiente tengo razón."
 authors: ["Dra. Valina"]
 image: "/src/assets/images/posts/falacias_logicas.webp"
-categories: ["psicología"]
+categories: ["neurociencia"]
 tags: []
 draft: true
 date: 2024-02-10T07:00:00Z

@@ -1,29 +1,45 @@
 ---
-title: "Calcio: lo esencial"
+title: "Calcio"
 slug: calcio
-description: "Huesos fuertes para plebeyos documentados."
+description: "Entre la cantidad y la biodisponibilidad."
 authors: ["Dr. Fenilalanino"]
 image: "/src/assets/images/posts/calcio.webp"
 categories: ["biología", "nutrición"]
-tags: ["minerales"]
+tags: ["minerales", "macroelementos"]
 draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
-### Calcio
-###### Funciones
-- Formación huesos y dientes.
-- Coagulación sangre.
+El calcio es uno de los 7 [macroelementos](/minerales) esenciales.
+
+#### Funciones
+- Formación de huesos y dientes.
+- Coagulación de la  sangre.
 - Contracción muscular.
-- Regulación ritmo cardíaco.
-- Transmisión corriente nerviosa.
-###### Fuentes
-- Lácteos (biodisponibilidad baja, ~30%).
-- Sardinas enlatadas (alta disponibilidad, casi 100%).
-- Almendras (biodisponibilidad baja, ~20%).
-- Hojas de las verduras (col, espinaca, acelga). Biodisponibilidad muy baja debido a oxalatos y fitatos que se adhieren al calcio y no permiten su absorción.
+- Regulación del ritmo cardíaco.
+- Transmisión de la corriente nerviosa.
+
+#### Fuentes
+La biodisponibilidad del calcio es muy variable, los alimentos con mayor contenido no necesariamente aportan más:
+
+- **Lácteos**: Biodisponibilidad baja, ~30%. Aún así son la principal fuente.
+- **Sardinas enlatadas**: Alta disponibilidad en los huesos y espinas.
+- **Almendras**: Biodisponibilidad baja, ~20%.
+- Hoja de algunas verduras (col, espinaca, acelga). Biodisponibilidad baja en general y muy baja en las espinacas (~5%) debido a oxalatos y fitatos que se adhieren al calcio y no permiten su absorción.
+
+
+#### Deficiencia
+- Sensación de debilidad general.
+- Rampas musculares.
+- Pérdida de apetito
+- Hormigueo o falta de sensibilidad en los dedos.
+- Desestabilización del ritmo cardíaco (taquicardia).
 
 
 ---
 
-https://www.hsph.harvard.edu/nutritionsource/vitamins/
+*Principales referencias:*
+
+- *[Vitamins and minerals | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamins/)*
+
+- *[Calcium Absorption from Food Products: Food Matrix Effects | National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8746734/)*

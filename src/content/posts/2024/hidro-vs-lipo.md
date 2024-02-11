@@ -4,7 +4,7 @@ slug: hidro-vs-lipo
 description: "Be water my friend."
 authors: ["Dra. Valina"]
 image: "/src/assets/images/posts/2024/hidro_vs_lipo_cover.webp"
-categories: ["nutrición"]
+categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-02-07T07:00:00Z
