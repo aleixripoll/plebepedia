@@ -3,7 +3,7 @@ title: "Minerales"
 slug: minerales
 description: "Todo lo que un plebeyo necesita comer de la tabla periódica."
 authors: ["Dr. Fenilalanino"]
-image: "/src/assets/images/posts/minerales.webp"
+image: "/src/assets/images/posts/2024/minerales.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales"]
 draft: true
