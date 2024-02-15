@@ -9,7 +9,7 @@ const postsCollection = defineCollection({
     meta_title: z.string().optional(),
     description: z.string().optional(),
     date: z.date().optional(),
-    //image: z.string().optional(),
+    // https://docs.astro.build/en/guides/images/#images-in-content-collections
     image: image().refine((img) => img.width >= 800, {
       message: "Cover image must be at least 800 pixels wide!",
     }).optional(),

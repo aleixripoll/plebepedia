@@ -24,7 +24,7 @@ const { title, description, authors, categories, image, date, tags } =
 //  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
 //);
 
-// last modified date (https://docs.astro.build/en/recipes/modified-time/)
+// Enable last modified date (https://docs.astro.build/en/recipes/modified-time/)
 dayjs.extend(utc);
 const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
   .utc()
