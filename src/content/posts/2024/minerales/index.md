@@ -3,7 +3,7 @@ title: "Minerales"
 slug: minerales
 description: "Todo lo que un plebeyo necesita comer de la tabla periódica."
 authors: ["Dr. Fenilalanino"]
-image: "./minerales_cover.webp"
+image: "./minerales.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales"]
 draft: true
@@ -70,12 +70,10 @@ Los oligoelementos o elementos traza son minerales que necesitamos en bajas cant
 - Yodo
 - Zinc
 
-![Minerales, alineación](./minerales.webp)
-
 
 ---
 
-Principales referencias:
+*Principales referencias:*
 
 - *[Vitamins and minerals | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamins/)*
 
