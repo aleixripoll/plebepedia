@@ -3,7 +3,7 @@ title: "Calcio"
 slug: calcio
 description: "El mineral de los huesos."
 authors: ["Dr. Fenilalanino"]
-image: "/src/assets/images/posts/calcio.webp"
+#image: "/src/assets/images/posts/2024/vitamina_A.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales", "macrominerales"]
 draft: true

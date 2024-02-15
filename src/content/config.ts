@@ -3,13 +3,16 @@ import { z, defineCollection } from 'astro:content';
 // Post collection schema
 const postsCollection = defineCollection({
   type: 'content',
-  schema: z.object({
+  schema: ({ image }) => z.object({
     id: z.string().optional(),
     title: z.string(),
     meta_title: z.string().optional(),
     description: z.string().optional(),
     date: z.date().optional(),
-    image: z.string().optional(),
+    //image: z.string().optional(),
+    image: image().refine((img) => img.width >= 800, {
+      message: "Cover image must be at least 800 pixels wide!",
+    }).optional(),
     authors: z.array(z.string()).default(["admin"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),

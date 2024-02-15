@@ -18,9 +18,9 @@ interface Props {
 
 const { className, posts, fluid } = Astro.props;
 
-const postImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
-);
+//const postImages = import.meta.glob<{ default: ImageMetadata }>(
+//  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
+//);
 ---
 
 <div
@@ -31,14 +31,14 @@ const postImages = import.meta.glob<{ default: ImageMetadata }>(
   {
     posts.map((post: any, i: number) => (
       <div class={i === 0 && fluid != false ? "col-12" : "col-12 sm:col-6"}>
-        {postImages[post.data.image] && (
+        {post.data.image && (
           <a
             href={`/${post.slug}`}
             class="group block overflow-hidden rounded-lg hover:text-primary"
           >
             <Image
               class={`w-full transition duration-300 group-hover:scale-[1.03] ${i === 0 ? "max-h-full" : "max-h-56"} object-cover`}
-              src={postImages[post.data.image]()}
+              src={post.data.image}
               alt={post.data.title}
               width={i === 0 ? 925 : 445}
               height={i === 0 ? 475 : 230}

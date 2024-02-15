@@ -20,12 +20,10 @@ const { Content, remarkPluginFrontmatter } = await post.render();
 const { title, description, authors, categories, image, date, tags } =
   post.data;
 
-const postImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
-);
-const authorImages = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}"
-);
+//const postImages = import.meta.glob<{ default: ImageMetadata }>(
+//  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
+//);
+
 // last modified date (https://docs.astro.build/en/recipes/modified-time/)
 dayjs.extend(utc);
 const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
@@ -103,9 +101,9 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 
       <div class="col-12 mb-2 mt-8">
         {
-          postImages[image] && (
+          post.data.image && (
             <Image
-              src={postImages[image]()}
+              src={post.data.image}
               height={500}
               width={1000}
               alt={title}

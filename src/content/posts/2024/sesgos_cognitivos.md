@@ -3,7 +3,7 @@ title: "Sesgos cognitivos"
 slug: sesgos-cognitivos
 description: "No eres tú, soy yo."
 authors: ["Dra. Valina"]
-image: "/src/assets/images/posts/sesgos_cognitivos.webp"
+#image: "/src/assets/images/posts/2024/vitamina_A.webp"
 categories: ["neurociencia"]
 tags: []
 draft: true
