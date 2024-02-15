@@ -6,7 +6,7 @@ authors: ["Dr. Fenilalanino"]
 image: "./minerales_cover.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales"]
-draft: false
+draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
