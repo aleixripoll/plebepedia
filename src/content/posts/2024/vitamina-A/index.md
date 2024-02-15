@@ -1,7 +1,7 @@
 ---
 title: "Vitamina A"
 slug: vitamina-a
-description: "Todo lo que un plebeyo debe saber sobre el retinol."
+description: "Lo esencial para plebeyos y punto."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_A.webp"
 categories: ["nutrición"]
@@ -10,28 +10,24 @@ draft: false
 date: 2024-01-04T07:00:00Z
 ---
 
-No, si caes en una marmita de vitamina A no podrás ver en la oscuridad como Batman, ni cargar menhires como Obélix.
+Es una vitamina **[liposoluble](/hidro-vs-lipo)**.
 
-Aclarado esto, empecemos.
-
-## ¿Qué y dónde? 
-Es una vitamina **[liposoluble](/hidro-vs-lipo)**. No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
+No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 
 #### Retinoides
-- Solo 3 retinoides son formas activas de la vitamina A: retinol, retinal y ácido retinoico (ATRA).
-- La vitamina A se absorbe casi al 100%.
+- Sólo 3 de ellos son formas activas de la vitamina A: retinol, retinal y ácido retinoico (ATRA).
+- Se absorben al ~100%.
 - La mayor fuente es el **hígado** seguida de las **grasas**: carne, leche, huevo (yema) y pescado (aceite).
-- Los animales que consumen más vitamina A aportan más vitamina A (**pasto > cereales**).
+- Los animales que consumen más vitamina A aportan más vitamina A (pasto > cereales).
 
 #### Carotenoides
-- Los carotenoides **no contienen vitamina A**, son precursores que deben convertirse a retinol.
-- No todos los carotenoides son precursores de vitamina A. En la dieta humana el principal es el **beta-caroteno**.
+- **No contienen vitamina A** y sólo algunos son precursores que pueden convertirse a retinol. En la dieta humana el principal es el **beta-caroteno**.
 - La principal fuente de beta-carotenos son **frutas y hortalizas de color amarillo, naranja y rojo** (*zanahoria, tomate, mango, melocotón, melón, naranja, mandarina*) y **verduras de hoja verde oscura** (*espinacas, brócoli*).
 - Su absorción es muy variable y mucho menor que en los retinoides (5-65%).
 - A mayor complejidad de la matriz alimentaria, menor biodisponibilidad y absorción: las verduras son más complejas que las frutas; los alimentos crudos son más complejos que cocinados. El cocinado descompone la matriz y aumenta la biodisponibilidad, pero un cocinado excesivo, especialmente en frituras, aumenta su destrucción.
 - Consumirlos con grasa aumenta su absorción.
-- Consumirlos junto con [fibra soluble](/fibra) **disminuye** su absorción.
-- Las deficiencias de [zinc y hierro](/oligoelementos) **disminuyen** su absorción.
+- Consumirlos junto con fibra soluble **disminuye** su absorción.
+- Las deficiencias de [zinc y hierro](/minerales) **disminuyen** su absorción.
 - A medida que aumenta la dosis se reduce su absorción, por lo tanto no es posible la intoxicación por vitamina A con carotenoides.
 - Bonus: los carotenoides son **[antioxidantes](/antioxidantes)**.
 
@@ -39,7 +35,7 @@ Es una vitamina **[liposoluble](/hidro-vs-lipo)**. No podemos producirla, debemo
 ## Funciones principales
 
 - **Visión**: La percepción visual requiere dos estructuras en la retina: **conos** y **bastones**. Los bastones son sensibles a la luz tenue y necesarios para la visión nocturna. Los conos son responsables de la visión en condiciones de mucha luz (color). La proteína **rodopsina** es el receptor lumínico de los bastones; para su síntesis se requiere vitamina A.
-- Diferenciación y apoptosis (muerte controlada) celular.
+- Procesos celulares como la especialización o la apoptosis (muerte controlada).
 - Desarrollo y regeneración de los tejidos (mucosas, piel).
 - Síntesis de **células T reguladoras**, encargadas de evitar una respuesta inmune (inflamación) excesiva.
 
@@ -59,7 +55,7 @@ Es una vitamina **[liposoluble](/hidro-vs-lipo)**. No podemos producirla, debemo
 
 ---
 
-*Principales fuentes no-plebeyas consultadas para la realización de este artículo:*
+*Principales referencias:*
 
 *[Vitamin A Update: Forms, Sources, Kinetics, Detection, Function, Deficiency, Therapeutic Use and Toxicity | National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157347/)*
 
