@@ -94,15 +94,11 @@ export default function SearchBar({ searchList }: Props) {
       <div className="row">
         {searchResults?.map(({ item }) => (
           <div key={item.slug} className={"col-12 mb-8 sm:col-6 text-center"}>
-            {/* 
-              Post images had to be duplicated from /src to /public as Search.tsx runs in the browser and it can't access
-              build-time server images in /src. If fully moved to /public we lose Astro's server-side <Image/> optimization.
-            */}
             {item.data.image && (
               <a href={`/${item.slug}`} className="rounded-lg block hover:text-primary overflow-hidden group">
                 <img
                   className="group-hover:scale-[1.03] transition duration-300 w-full max-h-52 object-cover"
-                  src={item.data.image.replace('/src/assets', '')}
+                  src={item.data.image.src}
                   alt={item.data.title}
                   width={445}
                   height={230}

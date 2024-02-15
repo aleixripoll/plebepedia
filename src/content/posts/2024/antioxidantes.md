@@ -3,7 +3,7 @@ title: "Antioxidantes"
 slug: antioxidantes
 description: "Hablar de ellos sin saber lo que son hace llorar al niño Jesús."
 authors: ["Dr. Fenilalanino"]
-image: "/src/assets/images/posts/antioxidantes.webp"
+#image: "/src/assets/images/posts/2024/vitamina_A.webp"
 categories: ["biología"]
 tags: ["radical libre", "oxígeno"]
 draft: true

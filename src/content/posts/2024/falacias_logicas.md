@@ -3,7 +3,7 @@ title: "Falacias lógicas"
 slug: falacias-logicas
 description: "Por consiguiente tengo razón."
 authors: ["Dra. Valina"]
-image: "/src/assets/images/posts/falacias_logicas.webp"
+#image: "/src/assets/images/posts/2024/vitamina_A.webp"
 categories: ["neurociencia"]
 tags: []
 draft: true

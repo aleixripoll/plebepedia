@@ -3,7 +3,7 @@ title: "Vitamina A"
 slug: vitamina-a
 description: "Todo lo que un plebeyo debe saber sobre el retinol."
 authors: ["Dr. Fenilalanino"]
-image: "/src/assets/images/posts/2024/vitamina_A.webp"
+image: "./vitamina_A.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
