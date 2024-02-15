@@ -36,7 +36,7 @@ No hay evidencias de que los suplementos que contienen esas substancias de forma
 
 ---
 
-*Principales fuentes no-plebeyas consultadas para la realización de este artículo plebeyo:*
+*Principales referencias:*
 
 *[Antioxidants | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/antioxidants/)*
 
