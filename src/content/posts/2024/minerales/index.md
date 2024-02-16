@@ -6,7 +6,7 @@ authors: ["Dr. Fenilalanino"]
 image: "./minerales.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales"]
-draft: true
+draft: false
 date: 2024-02-09T07:00:00Z
 ---
 
@@ -17,17 +17,17 @@ El cuerpo necesita ciertos minerales para algunas funciones. Se dividen en dos g
 
 ## Macroelementos
 
-Son los 7 minerales de los que requerimos más de 50mg al día.
+Son los 7 minerales de los que requerimos **más de 50mg al día**.
 
 ### Calcio
 - Formación de huesos y dientes.
 - Coagulación de la sangre.
 - Contracción muscular.
 - Regulación del ritmo cardíaco.
-- Transmisión nerviosa.
+- Neurotransmisor.
 
 ##### Fuentes
-La biodisponibilidad del calcio es muy variable, los alimentos con mayor contenido no necesariamente aportan más.
+Biodisponibilidad muy variable:
 
 - **Lácteos**: Biodisponibilidad baja, ~30%. Aún así son la principal fuente.
 - **Sardinas enlatadas**: Alta disponibilidad en huesos y espinas.
@@ -44,14 +44,14 @@ La biodisponibilidad del calcio es muy variable, los alimentos con mayor conteni
 - Rampas musculares.
 - Pérdida de apetito.
 - Hormigueo o falta de sensibilidad en los dedos.
-- Desestabilización del ritmo cardíaco (taquicardia).
+- Taquicardias.
 
 ### Cloro
-- Es un electrolito (tiene carga eléctrica) lo que cual le confiere propiedades de regulador de líquidos, pH y nutrientes en las células.
+- Es un electrolito (tiene carga eléctrica) lo que le confiere propiedades de regulador de fluidos, pH y nutrientes en las células.
 - Forma parte de los jugos digestivos.
 
 ##### Fuentes
-- Se obtiene principalmente del cloruro de sodio, también conocido como **"sal de cocina"**.
+- Se obtiene principalmente del cloruro de sodio, también conocido como **sal de cocina**.
 
 ##### Toxicidad
 - Aumento de la presión arterial.
@@ -67,6 +67,7 @@ La biodisponibilidad del calcio es muy variable, los alimentos con mayor conteni
 - Regulación pH sangre.
 - Regulador de la función de nervios y músculos.
 - Necesario para la formación de ADN, ARN y ATP.
+- Se almacena principalmente en los huesos.
 
 ##### Fuentes
 - Lácteos, carne, pescado, marisco, huevos, legumbres, frutos secos, semillas, cereales integrales.
@@ -80,8 +81,22 @@ La biodisponibilidad del calcio es muy variable, los alimentos con mayor conteni
 - Llamada **hipofosfatemia**, también rara, se suele producir por disfunción renal o exceso de **hormona paratiroidea**, que provoca la eliminación del fósforo a través de la orina. Síntomas: pérdida de apetito, dolor de huesos, anemia, debilidad muscular, aumento de las infecciones.
 
 ### Magnesio
+Cofactor en más de 300 reacciones enzimáticas, por lo que tiene efectos en casi todos los sistemas del cuerpo, para destacar algunos:
+- Es un componente de los huesos.
+- Absorción de vitamina D y calcio.
+- Regulación de la glucosa y la presión sanguínea (reduce la hipertensión).
+- Relajación muscular, desarrollo de neurotransmisores.
+
 ##### Fuentes
+- Legumbres, verduras de hoja oscura
+- Frutos secos, semillas, cereales integrales
+- Pescado, huevos, carne roja, lácteos
+
 ##### Deficiencia
+- Como otros minerales almacenados en los huesos, puede ser difícil detectar su deficiencia a partir de un análisis de sangre.
+- El cuerpo tiende a preservarlo más cuanto mayor es la deficiencia.
+- En general consumimos menos del necesario.
+- Síntomas parecidos a los ya vistos en otros minerales: fatiga, debilidad, pérdida de apetito, nauseas, hormigueo en la piel, rampas musculares, convulsiones, taquicardias.
 
 ### Potasio
 ##### Fuentes
@@ -98,14 +113,16 @@ La biodisponibilidad del calcio es muy variable, los alimentos con mayor conteni
 
 ## Elementos traza
 
-También llamados oligoelementos, son minerales que necesitamos en bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada, los principales son:
+También llamados oligoelementos, son minerales que necesitamos en bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada pero al final me salen 11 (desmontando la imagen de portada donde solo salen 9):
 
 ### Cobalto
 ### Cobre
 ### Cromo
 ### Flúor
+### Hierro
 ### Manganeso
 ### Molibdeno
+### Níquel
 ### Selenio
 ### Yodo
 ### Zinc
@@ -124,3 +141,4 @@ Principales referencias:
 - *[Ácido fítico | Wikipedia](https://es.wikipedia.org/wiki/%C3%81cido_f%C3%ADtico)
 
 - *[Trastornos del fosfato y actitud clínica ante situaciones de hipofosfatemia e hiperfosfatemia | Elsevier](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-avance-resumen-trastornos-del-fosfato-actitud-clinica-S2530016419301715)
+
