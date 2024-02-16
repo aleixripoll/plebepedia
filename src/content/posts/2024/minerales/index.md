@@ -13,11 +13,11 @@ date: 2024-02-09T07:00:00Z
 ## Tabla de contenidos
 
 ## Introducción
-El cuerpo necesita algunos minerales para realizar ciertas funciones. Se dividen en dos grupos: macroelementos y elementos traza.
+El cuerpo necesita ciertos minerales para algunas funciones. Se dividen en dos grupos: macroelementos y elementos traza.
 
 ## Macroelementos
 
-Minerales que necesitamos en "grandes" cantidades (> 50mg/día). Son 7.
+Son los 7 minerales de los que requerimos más de 50mg al día.
 
 ### Calcio
 - Formación de huesos y dientes.
@@ -81,7 +81,6 @@ La biodisponibilidad del calcio es muy variable, los alimentos con mayor conteni
 
 ### Magnesio
 ##### Fuentes
-
 ##### Deficiencia
 
 ### Potasio
@@ -99,17 +98,17 @@ La biodisponibilidad del calcio es muy variable, los alimentos con mayor conteni
 
 ## Elementos traza
 
-Los oligoelementos o elementos traza son minerales que necesitamos en bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada, los principales son:
+También llamados oligoelementos, son minerales que necesitamos en bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada, los principales son:
 
-- Cobalto
-- Cobre
-- Cromo
-- Flúor
-- Manganeso
-- Molibdeno
-- Selenio
-- Yodo
-- Zinc
+### Cobalto
+### Cobre
+### Cromo
+### Flúor
+### Manganeso
+### Molibdeno
+### Selenio
+### Yodo
+### Zinc
 
 
 ---
