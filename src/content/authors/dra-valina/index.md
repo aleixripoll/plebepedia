@@ -1,6 +1,6 @@
 ---
 title: Dra. Valina
-image: /src/assets/images/authors/dra-valina.webp
+image: ./dra-valina.webp
 description: Lina para las amigas
 ---
 

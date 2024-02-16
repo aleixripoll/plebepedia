@@ -1,7 +1,7 @@
 ---
 title: "Vitamina A"
 slug: vitamina-a
-description: "Lo esencial para plebeyos y punto."
+description: "Todo lo que un plebeyo necesita saber para que Dios le conserve la vista."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_A.webp"
 categories: ["nutrición"]

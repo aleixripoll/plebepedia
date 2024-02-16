@@ -8,10 +8,6 @@ import Disqus from "@components/Disqus";
 const entry = await getEntry("about", "index");
 const { Content } = await entry.render();
 const { title, description, meta_title, image, what_i_do } = entry.data;
-
-const images = import.meta.glob<{ default: ImageMetadata }>(
-  "/src/assets/images/authors/*.{jpeg,jpg,png,gif,webp}"
-);
 ---
 
 <Base
@@ -25,10 +21,10 @@ const images = import.meta.glob<{ default: ImageMetadata }>(
       <div class="row md:gx-4">
         <div class="sm:col-5 md:col-4">
           {
-            images[image] && (
+            image && (
               <div class="mb-2">
                 <Image
-                  src={images[image]()}
+                  src={image}
                   width={295}
                   height={395}
                   alt={title}

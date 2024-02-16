@@ -1,6 +1,6 @@
 ---
 title: Dr. Fenilalanino
-image: /src/assets/images/authors/dr-fenilalanino.webp
+image: ./dr-fenilalanino.webp
 description: Nino para los amigos
 ---
 

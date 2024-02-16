@@ -23,11 +23,13 @@ const postsCollection = defineCollection({
 // Author collection schema
 const authorsCollection = defineCollection({
   type: 'content',
-  schema: z.object({
+  schema: ({ image }) => z.object({
     id: z.string().optional(),
     title: z.string(),
     meta_title: z.string().optional(),
-    image: z.string().optional(),
+    image: image().refine((img) => img.height >= 400, {
+      message: "Author image must be at least 400 pixels tall!",
+    }).optional(),
     description: z.string().optional(),
     social: z
       .object({

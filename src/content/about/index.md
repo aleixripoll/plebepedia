@@ -1,7 +1,7 @@
 ---
 title: "A veces hago cosas"
 meta_title: "Acerca de"
-image: "/src/assets/images/authors/about.webp"
+image: "/src/assets/about.webp"
 draft: false
 
 what_i_do:

@@ -1,6 +1,6 @@
 ---
 title: Natilla
-image: /src/assets/images/authors/natilla.webp
+image: ./natilla.webp
 description: Natilla para todo el mundo
 ---
 
