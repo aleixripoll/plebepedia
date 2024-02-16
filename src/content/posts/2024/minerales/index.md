@@ -6,18 +6,27 @@ authors: ["Dr. Fenilalanino"]
 image: "./minerales.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales"]
-draft: false
+draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
 ## Tabla de contenidos
 
 ## Introducción
-El cuerpo necesita ciertos minerales para algunas funciones. Se dividen en dos grupos: macroelementos y elementos traza.
+El cuerpo utiliza ciertos minerales para realizar algunas funciones. Se dividen en dos grupos según si se recomienda consumir más o menos de 50mg al día de ese mineral.
+
+Hay un montón y es imposible para un plebeyo recordar todo sobre todos, así que intentaré resumir muy a saco lo principal de cada uno. Tras mi primera incursión la impresión general es que:
+- Las deficiencias de un mineral tienen síntomas bastante similares a las toxicidades.
+- Las deficiencias/toxicidades de todos los minerales son bastante similares.
+- Todos los alimentos son fuente de casi todos los minerales.
+
+Por estos motivos es casi imposible recordar absolutamente nada de nadie, así que si algo hace de todo no entraré en detalles y me centraré en alguna característica que pueda ser recordada en vez de 20 que no recordaremos.
+
+Vamos a ello.
 
 ## Macroelementos
 
-Son los 7 minerales de los que requerimos **más de 50mg al día**.
+Son 7, como les boles de drac, pero si los juntas no aparece un dragón que resucita a Son Goku por vigésimoquinta vez, si no todo lo contrario, si no los juntas te quedas *moñeco*. Vamos a verlos uno por uno con un poco de ritmo.
 
 ### Calcio
 - Formación de huesos y dientes.
