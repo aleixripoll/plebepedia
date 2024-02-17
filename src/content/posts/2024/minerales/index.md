@@ -157,7 +157,7 @@ Varias actividades enzimáticas, necesario para la absorción del hierro y la s�
 ### Cromo
 Aumenta la acción de la insulina, interviene en la absorción de hidratos, proteínas y grasas. Presente en cereales integrales.
 ### Flúor
-Formación huesos y dientes. La obtenemos principalmente del agua (fluorada) y la pasta dentrífica.
+Formación huesos y dientes. Lo obtenemos principalmente del agua (fluorada) y la pasta dentrífica.
 ### Hierro
 - Principal componente de la hemoglobina (proteína transportadora de oxígeno de los glóbulos rojos).
 - Se almacena como **ferritina** en huesos, tejidos e hígado, se transporta en la sangre como **transferrina**.
