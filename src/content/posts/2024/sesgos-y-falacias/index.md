@@ -7,7 +7,7 @@ image: ./03.jpg
 categories: ["neurociencia"]
 tags: ["psicología"]
 draft: false
-date: 2024-02-10T07:00:00Z
+date: 2024-02-17T07:00:00Z
 ---
 
 ## Tabla de contenidos

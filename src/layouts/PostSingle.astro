@@ -1,5 +1,4 @@
 ---
-import type { ImageMetadata } from "astro";
 import { Image } from "astro:assets";
 import Share from "@components/Share.astro";
 import SimilarPosts from "@components/SimilarPosts.astro";
@@ -17,14 +16,9 @@ const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similarItems(post, posts, post.slug);
 const { Content, remarkPluginFrontmatter } = await post.render();
-const { title, description, authors, categories, image, date, tags } =
-  post.data;
+const { title, description, authors, categories, image, date, tags } = post.data;
 
-//const postImages = import.meta.glob<{ default: ImageMetadata }>(
-//  "/src/assets/images/posts/*/*.{jpeg,jpg,png,gif,webp}"
-//);
-
-// Enable last modified date (https://docs.astro.build/en/recipes/modified-time/)
+// https://docs.astro.build/en/recipes/modified-time/
 dayjs.extend(utc);
 const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
   .utc()
@@ -36,7 +30,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
     <article class="row justify-center">
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h1" />
-        <!--<p class="py-4 text-text">{description}</p>-->
+        <p class="py-4 text-text">{description}</p>
         <ul class="mt-4 flex flex-wrap items-center justify-center">
           <li class="mx-3">
             {
@@ -51,9 +45,9 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                     href={`/authors/${slugify(author.slug)}`}
                     class="flex items-center font-medium hover:text-primary"
                   >
-                    {/*authorImages[author.data.image] && (
+                    {/*author.data.image && (
                       <Image
-                        src={authorImages[author.data.image]()}
+                        src={author.data.image}
                         alt={author.data.title}
                         height={50}
                         width={50}
@@ -70,9 +64,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
             <BiCalendarEdit className="mr-1 h-5 w-5" />
             <>
               {
-                post.data.date
-                  ? dateFormat(post.data.date)
-                  : dateFormat(lastModified)
+                date ? dateFormat(date) : dateFormat(lastModified)
               }
             </>
           </li>
@@ -101,9 +93,9 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 
       <div class="col-12 mb-2 mt-8">
         {
-          post.data.image && (
+          image && (
             <Image
-              src={post.data.image}
+              src={image}
               height={500}
               width={1000}
               alt={title}
