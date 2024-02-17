@@ -81,7 +81,3 @@ Principales referencias:
 - *[Cognitive Bias | ScienceDirect](https://www.sciencedirect.com/topics/neuroscience/cognitive-bias)*
 
 - *[Sesgos cognitivos | Wikipedia](https://es.wikipedia.org/wiki/Anexo:Sesgos_cognitivos)*
-
-https://psicologiaymente.com/inteligencia/tipos-falacias-logicas-argumentativas
-
-https://carlosvelo.net/sesgos-falacias-pensamiento/
