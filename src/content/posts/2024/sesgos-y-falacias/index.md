@@ -6,7 +6,7 @@ authors: ["Dra. Valina"]
 image: ./03.jpg
 categories: ["neurociencia"]
 tags: ["psicología"]
-draft: false
+draft: true
 date: 2024-02-17T07:00:00Z
 ---
 
@@ -15,7 +15,7 @@ date: 2024-02-17T07:00:00Z
 
 ## Sesgos cognitivos
 
-Los sesgos cognitivos son distorsiones de la percepción de la mente humana que son altamente difíciles de eliminar aunque seamos conscientes de su existencia. Son como un tic que no se puede evitar. Hay una larguísima lista de ellos (consultar referencias), aquí se detallan algunos de los más interesantes y/o curiosos:
+Los sesgos cognitivos son distorsiones de la percepción de la mente humana que son altamente difíciles de eliminar aunque seamos conscientes de su existencia. Hay una larga lista de ellos (consultar referencias), aquí se detallan algunos:
 
 ### Efecto Dunning-Kruger
 Tendencia de los individuos incompetentes a sobreestimar su propia habilidad, y de los individuos altamente competentes a sobreestimar la habilidad de los demás. El resultado es que los incompetentes no son conscientes de su ineptitud, y los competentes suponen que todos tienen la misma facilidad.
