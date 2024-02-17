@@ -1,7 +1,7 @@
 ---
 title: "Vitamina A"
 slug: vitamina-a
-description: "Todo lo que un plebeyo necesita saber para que Dios le conserve la vista."
+description: "Lo esencial sobre retinol y compañía."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_A.webp"
 categories: ["nutrición"]
