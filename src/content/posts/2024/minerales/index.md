@@ -6,7 +6,7 @@ authors: ["Dr. Fenilalanino"]
 image: "./minerales.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales"]
-draft: true
+draft: false
 date: 2024-02-09T07:00:00Z
 ---
 
@@ -163,6 +163,7 @@ Formación huesos y dientes. La obtenemos principalmente del agua (fluorada) y l
 - Se almacena como **ferritina** en huesos, tejidos e hígado, se transporta en la sangre como **transferrina**.
 - Presente en carne, huevos, pescado y marisco en forma **hemo** (alta biodisponibilidad).
 ### Manganeso
+Coenzima que interviene en la absorción de hidratos, proteínas y grasas. Colabora con la vitamina K en la cicatrización de heridas. Se almacena principalmente en los huesos y se encuentra en una gran variedad de alimentos.
 ### Molibdeno
 ### Níquel
 ### Selenio
