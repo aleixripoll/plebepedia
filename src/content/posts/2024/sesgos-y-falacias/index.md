@@ -41,21 +41,21 @@ Tendencia a anteponer la pertenencia a un grupo frente a los argumentos sólidos
 
 ## Falacias lógicas
 
-Una falacia lógica es un argumento que parece en primera instancia irrefutable pero que contiene errores de razonamiento. La diferencia con un **sesgo cognitivo** es que el sesgo es una tendencia involuntaria a cometer errores en nuestro patrón de pensamiento, la falacia sería la consecuencia de ese sesgo.
+Una falacia lógica es un argumento que parece en primera instancia irrefutable pero que contiene errores de razonamiento. Las falacias son difíciles de desenmascarar sin un análisis más o menos profundo como consecuencia de los sesgos cognitivos.
 
 ### Falso dilema
 Situación en la cual solo dos puntos de vista son sopesados como las únicas opciones, cuando, en realidad, existen una o más opciones que no han sido consideradas. Las dos alternativas presentadas suelen ser, aunque no siempre, los puntos extremos del espectro de ideas.
 
-### Non sequitur
+### Argumento non sequitur
 Falacia en que las razones dadas para sostener una afirmación son irrelevantes o no relacionadas. Puede producir auto-engaño por no aclarar los verdaderos motivos por los que se toma una decisión.
 
 ### Argumento ad hominem
 Consiste en replicar a un argumento atacando a la persona que lo realiza y no al argumento en sí.
 
 ### Hombre de paja
-Generar un «hombre de paja» es crear una posición fácil de refutar y luego atribuir esa posición al oponente para destrozarlo. En realidad no se refuta el argumento real del oponente sino el argumento ficticio que se ha creado. El nombre viene de los hombres de paja que se usan para entrenar en el combate y que son fáciles de abatir. Es decir, se atacan los flecos o posibles malinterpretaciones que se puedan hacer de la premisa.
+Generar un «hombre de paja» es crear una posición fácil de refutar y luego atribuir esa posición al oponente para atacarlo. En realidad no se refuta el argumento real del oponente sino el argumento ficticio que se ha creado. El nombre viene de los hombres de paja que se usan para entrenar en el combate y que son fáciles de abatir. Es decir, se atacan los flecos o posibles malinterpretaciones que se puedan hacer de la premisa.
 
-### El arenque rojo
+### El arenque rojo
 Del inglés *red herring*, también conocida como falacia de la pista falsa, se comete cuando alguien introduce material ajeno al asunto de discusión, de manera que desvía la atención de todos hacia una conclusión incorrecta. El nombre proviene del arenque rojo que se usa para alargar las cacerías de los zorros llevando a los perros de caza por una pista equivocada.
 
 ### Argumentum ad populum
