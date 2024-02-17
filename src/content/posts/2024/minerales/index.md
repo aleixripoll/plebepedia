@@ -13,11 +13,11 @@ date: 2024-02-09T07:00:00Z
 ## Tabla de contenidos
 
 ## Introducción
-El cuerpo utiliza ciertos minerales para realizar algunas funciones. Se dividen en dos grupos según si se recomienda consumir más o menos de 50mg al día de ese mineral.
+El cuerpo utiliza ciertos minerales para realizar algunas funciones. Se dividen en dos grupos según si se recomienda consumir más o menos de 50mg al día.
 
 Hay un montón y es imposible para un plebeyo recordar todo sobre todos, así que intentaré resumir lo principal de cada uno. Tras mi primera incursión la impresión general es que:
 - Las deficiencias de un mineral tienen síntomas bastante similares a las toxicidades.
-- Las deficiencias/toxicidades de todos los minerales son bastante similares e incluyen un cuado general de debilidad, nauseas, pérdida de apetito y alteraciones del ritmo cardíaco (taquicardias). Así que obviaré estos y sólo mencionaré síntomas que permitan recordar a qué elemento pertenecen.
+- Las deficiencias/toxicidades de todos los minerales son bastante similares e incluyen un cuadro general de **debilidad, nauseas, pérdida de apetito y alteraciones del ritmo cardíaco (taquicardias)**. Así que obviaré estos y sólo mencionaré síntomas que permitan recordar a qué elemento pertenecen.
 - Casi todos los alimentos de origen animal (carne, pescado, huevos, lácteos) son fuente de casi todos los minerales.
 
 Por estos motivos es casi imposible recordar absolutamente nada de nadie, así que si algo hace de todo no entraré en detalles y me centraré en alguna característica que pueda ser recordada en vez de 20 que no recordaremos.
@@ -30,15 +30,16 @@ Son 7, como les boles de drac, pero si los juntas no aparece un dragón que resu
 
 Vamos a verlos uno por uno con un poco de ritmo.
 
+
 ### Calcio
 ##### Funciones
 - **Principal:** Formación de huesos y dientes.
 - **Bonus:** Coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
 
 ##### Fuentes
-En todos los minerales y en el calcio especialmente, hay que tener en cuenta la biodisponibilidad (a partir de ahora *BD*) tanto o más que la cantidad.
+En todos los minerales y en el calcio especialmente, hay que tener en cuenta la biodisponibilidad (a partir de ahora **BD**) tanto o más que la cantidad.
 - **Principal:** Lácteos (baja BD, ~30%).
-- **Bonus:** Sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de oxalatos y fitatos que se adhieren al calcio y no permiten su absorción).
+- **Bonus:** Sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de **oxalatos y fitatos** que se adhieren al calcio y no permiten su absorción).
 
 ##### Deficiencia
 - Rampas musculares.
@@ -49,13 +50,14 @@ En todos los minerales y en el calcio especialmente, hay que tener en cuenta la 
 - A largo plazo pueden producir piedras en los riñones o cáncer de próstata.
 - Bloqueo de la absorción de hierro (anemia) y zinc.
 
+
 ### Cloro
 ##### Funciones
 - Es un electrolito (tiene carga eléctrica) lo que le confiere propiedades de regulador de líquidos, nutrientes y pH.
 - Forma parte de los jugos digestivos.
 
 ##### Fuentes
-- Cloruro de sodio (**sal de mar/cocina**).
+- Cloruro de sodio (sal de cocina).
 - Agua clorada (del grifo).
 
 ##### Deficiencia
@@ -63,6 +65,7 @@ En todos los minerales y en el calcio especialmente, hay que tener en cuenta la 
 
 ##### Toxicidad
 - Hipertensión.
+
 
 ### Fósforo
 ##### Funciones
@@ -80,6 +83,7 @@ En todos los minerales y en el calcio especialmente, hay que tener en cuenta la 
 ##### Toxicidad
 - Llamada **hiperfosfatemia**, muy rara ya que el cuerpo elimina el exceso a través de la orina.
 
+
 ### Magnesio
 ##### Funciones
 También es un componente de los huesos y cofactor en más de 300 reacciones enzimáticas, por lo que tiene efectos en casi todos los sistemas del cuerpo, a destacar: absorción de vitamina D y calcio, regulación de glucosa y presión sanguínea, relajación muscular, producción de neurotransmisores.
@@ -94,7 +98,8 @@ También es un componente de los huesos y cofactor en más de 300 reacciones enz
 - Síntomas: hormigueo en la piel, rampas musculares, convulsiones.
 
 ##### Toxicidad
-- Rara, el exceso se elimina a través de la orina, producida principalmente por deficiencia de la función renal.
+- Rara ya que el exceso se elimina a través de la orina. Producida principalmente por deficiencia en la función renal.
+
 
 ### Potasio
 ##### Funciones
@@ -111,12 +116,25 @@ También es un componente de los huesos y cofactor en más de 300 reacciones enz
 ##### Toxicidad
 - Llamada **hiperkalemia**, producida principalmente por fallo renal, síntomas: dificultad para respirar, dolor en el pecho.
 
+
 ### Sodio
+##### Funciones
+- **Principal:** Conducción de corriente nerviosa, contracción/relajación muscular.
+- **Bonus:** Es un electrolito, actua como regulador de fluidos, pH y nutrientes.
+
 ##### Fuentes
+- Sal de cocina y básicamente cualquier alimento.
+
 ##### Deficiencia
+- Muy rara.
+
 ##### Toxicidad
+- El exceso de sodio en sangre se llama **hipernatremia**, se puede producir por problemas renales o deshidratación severa. En el segundo caso, el agua se transfiere desde las células a la sangre, ese exceso de líquido puede llegar a los pulmones dificultando la respiración, o al cerebro causando convulsiones y coma cerebral.
+- **Sodio y potasio son complementarios**, el primero sube la presión sanguínea y el segundo la baja, necesitamos mucho más del segundo pero solemos consumir más del primero, lo cual aumenta el riesgo de hipertensión e infarto.
 
 ### Azufre
+##### Funciones
+
 ##### Fuentes
 ##### Deficiencia
 ##### Toxicidad
