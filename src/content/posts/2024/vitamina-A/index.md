@@ -10,7 +10,7 @@ draft: false
 date: 2024-01-04T07:00:00Z
 ---
 
-Es una vitamina **[liposoluble](/hidro-vs-lipo)**.
+Es una vitamina **[liposoluble](/hidrosoluble-vs-liposoluble)**.
 
 No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 

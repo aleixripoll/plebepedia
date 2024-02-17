@@ -6,7 +6,7 @@ authors: ["Dra. Valina"]
 image: ./03.jpg
 categories: ["neurociencia"]
 tags: ["psicología"]
-draft: true
+draft: false
 date: 2024-02-10T07:00:00Z
 ---
 

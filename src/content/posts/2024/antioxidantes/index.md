@@ -5,8 +5,8 @@ description: "Hablar de ellos sin saber lo que son hace llorar al niño Jesús."
 authors: ["Dr. Fenilalanino"]
 image: ./01.jpg
 categories: ["biología"]
-tags: ["radical libre", "oxígeno"]
-draft: true
+tags: ["radical", "oxígeno"]
+draft: false
 date: 2024-02-09T07:00:00Z
 ---
 
