@@ -118,7 +118,7 @@ También llamados oligoelementos, son minerales que necesitamos en bajas cantida
 
 ### Zinc
 - **Funciones:** Cofactor en más de 100 reacciones enzimáticas. Necesario para el buen funcionamiento del sistema inmune, relacionado con los sentidos de tacto y olfacto.
-- **Fuentes:** Presente en carne, huevos y pescado, también en legumbres y cereales integrales pero su contenido en fitatos reduce su absorción.
+- **Fuentes:** Presente en carne, huevos y pescado, también en legumbres y cereales integrales, aunque su contenido en **fitatos** reduce su absorción.
 
 
 ---
