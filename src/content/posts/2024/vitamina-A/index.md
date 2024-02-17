@@ -1,7 +1,7 @@
 ---
 title: "Vitamina A"
 slug: vitamina-a
-description: "Lo esencial sobre retinol y compañía."
+description: "Datos esenciales para conservar la vista."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_A.webp"
 categories: ["nutrición"]
