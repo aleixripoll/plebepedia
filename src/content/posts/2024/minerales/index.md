@@ -134,11 +134,17 @@ También es un componente de los huesos y cofactor en más de 300 reacciones enz
 
 ### Azufre
 ##### Funciones
+- **Principal:** Formación de ligamentos, tendones y keratina (uñas, pelo, piel).
+- **Bonus:** Interviene en la síntesis de vitaminas (A, C, B8), hormonas (insulina), enzimas digestivas e inmunoglobulina.
 
 ##### Fuentes
-##### Deficiencia
-##### Toxicidad
+- Se encuentra en la proteína: carne, pescado, huevos, frutos secos, legumbres, cereales integrales.
 
+##### Deficiencia
+- Muy rara.
+
+##### Toxicidad
+- Muy rara.
 
 ## Elementos traza
 
@@ -165,12 +171,14 @@ Principales referencias:
 
 - *[Calcium Absorption from Food Products: Food Matrix Effects | National Center for Biotechnology Information](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8746734/)*
 
-- *[Cloruro en la dieta | MedlinePlus](https://medlineplus.gov/spanish/ency/article/002417.htm)
+- *[Cloruro en la dieta | MedlinePlus](https://medlineplus.gov/spanish/ency/article/002417.htm)*
 
-- *[Ácido fítico | Wikipedia](https://es.wikipedia.org/wiki/%C3%81cido_f%C3%ADtico)
+- *[Ácido fítico | Wikipedia](https://es.wikipedia.org/wiki/%C3%81cido_f%C3%ADtico)*
 
-- *[Trastornos del fosfato y actitud clínica ante situaciones de hipofosfatemia e hiperfosfatemia | Elsevier](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-avance-resumen-trastornos-del-fosfato-actitud-clinica-S2530016419301715)
+- *[Trastornos del fosfato y actitud clínica ante situaciones de hipofosfatemia e hiperfosfatemia | Elsevier](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-avance-resumen-trastornos-del-fosfato-actitud-clinica-S2530016419301715)*
 
+- *[Fósforo: Hoja informativa para consumidores | NIH](https://ods.od.nih.gov/factsheets/Phosphorus-DatosEnEspanol/)*
 
+- *[Are we getting enough sulfur in our diet? | NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/)*
 
-- *[Fósforo: Hoja informativa para consumidores | NIH](https://ods.od.nih.gov/factsheets/Phosphorus-DatosEnEspanol/)
+- *[Foods High in Sulfur | WebMD](https://www.webmd.com/diet/foods-high-in-sulfur)*
