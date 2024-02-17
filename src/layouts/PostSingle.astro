@@ -30,7 +30,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
     <article class="row justify-center">
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h1" />
-        <p class="py-4 text-text">{description}</p>
+        <p class="py-4 text-text text-xl">{description}</p>
         <ul class="mt-4 flex flex-wrap items-center justify-center">
           <li class="mx-3">
             {

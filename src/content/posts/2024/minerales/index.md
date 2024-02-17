@@ -1,8 +1,8 @@
 ---
 title: "Minerales"
 slug: minerales
-description: "Todo lo que un plebeyo necesita comer de la tabla periódica."
-authors: ["Dr. Fenilalanino"]
+description: "Todo lo que hay que comer de la tabla periódica."
+authors: ["Dra. Valina"]
 image: "./minerales.webp"
 categories: ["biología", "nutrición"]
 tags: ["micronutrientes", "minerales"]
@@ -13,7 +13,7 @@ date: 2024-02-09T07:00:00Z
 ## Tabla de contenidos
 
 ## Introducción
-El cuerpo utiliza ciertos minerales para realizar algunas funciones. Se dividen en dos grupos según si se recomienda consumir más o menos de 50mg al día.
+Son substancias **inorgánicas** presentes en el suelo y el agua que el cuerpo necesita en pequeñas cantidades. Se dividen en dos grupos según si la cantidad requerida supera (o no) los 50mg al día.
 
 Hay un montón y es imposible para un plebeyo recordar todo sobre todos, así que intentaré resumir lo principal de cada uno. Tras mi primera incursión la impresión general es que:
 - Las deficiencias de un mineral tienen síntomas bastante similares a las toxicidades.

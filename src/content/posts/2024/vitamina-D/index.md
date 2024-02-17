@@ -1,13 +1,13 @@
 ---
 title: "Vitamina D"
 slug: vitamina-d
-description: "Sol y playa"
+description: "Sol y playa."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_D.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: true
-date: 2024-01-04T07:00:00Z
+date: 2024-02-18T07:00:00Z
 ---
 
 Es una vitamina **[liposoluble](/hidrosoluble-vs-liposoluble)**.
