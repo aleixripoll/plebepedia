@@ -151,10 +151,17 @@ También es un componente de los huesos y cofactor en más de 300 reacciones enz
 También llamados oligoelementos, son minerales que necesitamos en bajas cantidades (< 50mg/día). Esta lista es un poco variable según la fuente consultada pero al final me salen 11 (desmontando la imagen de portada donde solo salen 9):
 
 ### Cobalto
+Componente de la **vitamina B12**. Presente en huevos, lácteos y carne.
 ### Cobre
+Varias actividades enzimáticas, necesario para la absorción del hierro y la síntesis de colágeno. Se almacena en huesos y tejidos, lo obtenemos de la proteína.
 ### Cromo
+Aumenta la acción de la insulina, interviene en la absorción de hidratos, proteínas y grasas. Presente en cereales integrales.
 ### Flúor
+Formación huesos y dientes. La obtenemos principalmente del agua (fluorada) y la pasta dentrífica.
 ### Hierro
+- Principal componente de la hemoglobina (proteína transportadora de oxígeno de los glóbulos rojos).
+- Se almacena como **ferritina** en huesos, tejidos e hígado, se transporta en la sangre como **transferrina**.
+- Presente en carne, huevos, pescado y marisco en forma **hemo** (alta biodisponibilidad).
 ### Manganeso
 ### Molibdeno
 ### Níquel
