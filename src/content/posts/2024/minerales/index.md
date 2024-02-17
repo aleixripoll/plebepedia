@@ -15,10 +15,10 @@ date: 2024-02-09T07:00:00Z
 ## Introducción
 El cuerpo utiliza ciertos minerales para realizar algunas funciones. Se dividen en dos grupos según si se recomienda consumir más o menos de 50mg al día de ese mineral.
 
-Hay un montón y es imposible para un plebeyo recordar todo sobre todos, así que intentaré resumir muy a saco lo principal de cada uno. Tras mi primera incursión la impresión general es que:
+Hay un montón y es imposible para un plebeyo recordar todo sobre todos, así que intentaré resumir lo principal de cada uno. Tras mi primera incursión la impresión general es que:
 - Las deficiencias de un mineral tienen síntomas bastante similares a las toxicidades.
-- Las deficiencias/toxicidades de todos los minerales son bastante similares.
-- Todos los alimentos son fuente de casi todos los minerales.
+- Las deficiencias/toxicidades de todos los minerales son bastante similares e incluyen un cuado general de debilidad, nauseas, pérdida de apetito y alteraciones del ritmo cardíaco (taquicardias). Así que obviaré estos y sólo mencionaré síntomas que permitan recordar a qué elemento pertenecen.
+- Casi todos los alimentos de origen animal (carne, pescado, huevos, lácteos) son fuente de casi todos los minerales.
 
 Por estos motivos es casi imposible recordar absolutamente nada de nadie, así que si algo hace de todo no entraré en detalles y me centraré en alguna característica que pueda ser recordada en vez de 20 que no recordaremos.
 
@@ -26,90 +26,90 @@ Vamos a ello.
 
 ## Macroelementos
 
-Son 7, como les boles de drac, pero si los juntas no aparece un dragón que resucita a Son Goku por vigésimoquinta vez, si no todo lo contrario, si no los juntas te quedas *moñeco*. Vamos a verlos uno por uno con un poco de ritmo.
+Son 7, como les boles de drac, pero si los juntas no aparece un dragón que resucita a Son Goku por vigésimoquinta vez, si no todo lo contrario, si no los juntas (y en las cantidades adecuadas) te quedas *moñeco*.
+
+Vamos a verlos uno por uno con un poco de ritmo.
 
 ### Calcio
-- Formación de huesos y dientes.
-- Coagulación de la sangre.
-- Contracción muscular.
-- Regulación del ritmo cardíaco.
-- Neurotransmisor.
+##### Funciones
+- **Principal:** Formación de huesos y dientes.
+- **Bonus:** Coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
 
 ##### Fuentes
-Biodisponibilidad muy variable:
-
-- **Lácteos**: Biodisponibilidad baja, ~30%. Aún así son la principal fuente.
-- **Sardinas enlatadas**: Alta disponibilidad en huesos y espinas.
-- **Almendras**: Biodisponibilidad baja, ~20%.
-- Hoja de algunas verduras (col, espinaca, acelga). Biodisponibilidad baja en general y muy baja en las espinacas (~5%) debido a oxalatos y fitatos que se adhieren al calcio y no permiten su absorción.
+En todos los minerales y en el calcio especialmente, hay que tener en cuenta la biodisponibilidad (a partir de ahora *BD*) tanto o más que la cantidad.
+- **Principal:** Lácteos (baja BD, ~30%).
+- **Bonus:** Sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de oxalatos y fitatos que se adhieren al calcio y no permiten su absorción).
 
 ##### Toxicidad
-- Llamada **hipercalcemia**, síntomas: fatiga, debilidad, nauseas, dolor en el pecho, sensación de falta de aire, taquicardia.
-- Piedras en los riñones, cáncer de próstata, estreñimiento.
-- Disminución de la absorción de hierro (anemia) y zinc.
+- Llamada **hipercalcemia**: dolor en el pecho, sensación de falta de aire, estreñimiento.
+- A largo plazo pueden producir piedras en los riñones o cáncer de próstata.
+- Bloqueo de la absorción de hierro (anemia) y zinc.
 
 ##### Deficiencia
-- Sensación de debilidad general.
 - Rampas musculares.
-- Pérdida de apetito.
 - Hormigueo o falta de sensibilidad en los dedos.
-- Taquicardias.
 
 ### Cloro
-- Es un electrolito (tiene carga eléctrica) lo que le confiere propiedades de regulador de fluidos, pH y nutrientes en las células.
+##### Funciones
+- Es un electrolito (tiene carga eléctrica) lo que le confiere propiedades de regulador de líquidos, nutrientes y pH.
 - Forma parte de los jugos digestivos.
 
 ##### Fuentes
-- Se obtiene principalmente del cloruro de sodio, también conocido como **sal de cocina**.
+- Cloruro de sodio (**sal de mar/cocina**).
+- Agua clorada (del grifo).
 
 ##### Toxicidad
-- Aumento de la presión arterial.
-- Fatiga.
-- Debilidad muscular.
+- Hipertensión.
 
 ##### Deficiencia
-- Se pierde con la deshidratación (sudor, vómitos, diarrea, diuréticos) pero su deficiencia es rara ya que consumimos mucho a través de la sal.
+- Se pierde con la deshidratación (sudor, vómitos, diarrea, diuréticos) pero se consume en altas cantidades así que su deficiencia es rara.
 
 ### Fósforo
-- Parte de huesos, dientes y membrana celular.
-- Activador enzimático.
-- Regulación pH sangre.
-- Regulador de la función de nervios y músculos.
-- Necesario para la formación de ADN, ARN y ATP.
-- Se almacena principalmente en los huesos.
+##### Funciones
+- **Principal:** Junto con el calcio, formación de huesos y dientes.
+- **Bonus:** Cofactor enzimático, regulación pH sanguíneo, función muscular, producción de neurotransmisores, ADN, ARN y ATP.
 
 ##### Fuentes
-- Lácteos, carne, pescado, marisco, huevos, legumbres, frutos secos, semillas, cereales integrales.
+- **Principales:** Productos de origen animal (lácteos, carne, pescado, marisco, huevos), legumbres, nueces.
 - Mayor absorción en fuentes de origen animal que vegetal.
-- Las semillas, legumbres y cereales integrales las contienen en forma de **fitatos (ácido fítico)** para los que no tenemos la enzima necesaria (fitasa) y debemos remojarlas/cocinarlas para aumentar su biodisponibilidad. En caso contrario, no sólo no absorbemos su fósforo, sino que a su paso por el tracto digestivo se adhiere al fósforo, hierro y zinc que se encuentra por el camino, disminuyendo su absorción.
+- Las semillas, legumbres y cereales integrales lo contienen en forma de **fitatos (ácido fítico)** para los que no tenemos la enzima necesaria (fitasa) y debemos remojarlas/cocinarlas para aumentar su biodisponibilidad. En caso contrario, no sólo no absorbemos su fósforo, sino que a su paso por el tracto digestivo se adhiere al fósforo, hierro y zinc que se encuentra por el camino, disminuyendo su absorción.
 
 ##### Toxicidad
 - Llamada **hiperfosfatemia**, muy rara ya que el cuerpo elimina el exceso a través de la orina.
 
 ##### Deficiencia
-- Llamada **hipofosfatemia**, también rara, se suele producir por disfunción renal o exceso de **hormona paratiroidea**, que provoca la eliminación del fósforo a través de la orina. Síntomas: pérdida de apetito, dolor de huesos, anemia, debilidad muscular, aumento de las infecciones.
+- Llamada **hipofosfatemia**, también rara, se suele producir por disfunción renal o exceso de **hormona paratiroidea**. Síntomas: dolor de huesos, anemia, aumento de las infecciones.
 
 ### Magnesio
-Cofactor en más de 300 reacciones enzimáticas, por lo que tiene efectos en casi todos los sistemas del cuerpo, para destacar algunos:
-- Es un componente de los huesos.
-- Absorción de vitamina D y calcio.
-- Regulación de la glucosa y la presión sanguínea (reduce la hipertensión).
-- Relajación muscular, desarrollo de neurotransmisores.
+##### Funciones
+También es un componente de los huesos y cofactor en más de 300 reacciones enzimáticas, por lo que tiene efectos en casi todos los sistemas del cuerpo, a destacar: absorción de vitamina D y calcio, regulación de glucosa y presión sanguínea, relajación muscular, producción de neurotransmisores.
 
 ##### Fuentes
-- Legumbres, verduras de hoja oscura
-- Frutos secos, semillas, cereales integrales
-- Pescado, huevos, carne roja, lácteos
+- Legumbres, verduras de hoja oscura, nueces, semillas, cereales integrales.
+- Productos de origen animal (pescado, huevos, carne, lácteos).
 
 ##### Deficiencia
-- Como otros minerales almacenados en los huesos, puede ser difícil detectar su deficiencia a partir de un análisis de sangre.
-- El cuerpo tiende a preservarlo más cuanto mayor es la deficiencia.
-- En general consumimos menos del necesario.
-- Síntomas parecidos a los ya vistos en otros minerales: fatiga, debilidad, pérdida de apetito, nauseas, hormigueo en la piel, rampas musculares, convulsiones, taquicardias.
+- Como otros minerales almacenados en los huesos, no se puede determinar con exactitud su deficiencia mediante un análisis de sangre.
+- Es habitual la deficiencia de magnesio en la dieta, el cuerpo tiende a disminuir su eliminación para preservarlo.
+- Síntomas: hormigueo en la piel, rampas musculares, convulsiones.
+
+##### Toxicidad
+- Rara, el exceso se elimina a través de la orina, producida principalmente por deficiencia de la función renal.
 
 ### Potasio
+##### Funciones
+- **Principal:** Es un electrolito como cloro y sodio, actua como regulador de fluidos, pH y nutrientes a nivel **intracelular**, co-actuando con el sodio (regulador extracelular).
+- **Bonus:** Función muscular, mantenimiento de la presión sanguínea. 
+
 ##### Fuentes
+- Frutas, hortalizas, frutos secos.
+
 ##### Deficiencia
+- Rara, se puede producir por deshidratación o deficiencia de magnesio.
+- Estreñimiento, rampas o parálisis muscular.
+
+##### Toxicidad
+- Llamada **hiperkalemia**, producida principalmente por fallo renal, síntomas: dificultad para respirar, dolor en el pecho.
 
 ### Sodio
 ##### Fuentes
@@ -151,3 +151,6 @@ Principales referencias:
 
 - *[Trastornos del fosfato y actitud clínica ante situaciones de hipofosfatemia e hiperfosfatemia | Elsevier](https://www.elsevier.es/es-revista-endocrinologia-diabetes-nutricion-13-avance-resumen-trastornos-del-fosfato-actitud-clinica-S2530016419301715)
 
+
+
+- *[Fósforo: Hoja informativa para consumidores | NIH](https://ods.od.nih.gov/factsheets/Phosphorus-DatosEnEspanol/)
