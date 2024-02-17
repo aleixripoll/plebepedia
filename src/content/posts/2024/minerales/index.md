@@ -165,8 +165,11 @@ Formación huesos y dientes. Lo obtenemos principalmente del agua (fluorada) y l
 ### Manganeso
 Coenzima que interviene en la absorción de hidratos, proteínas y grasas. Colabora con la vitamina K en la cicatrización de heridas. Se almacena principalmente en los huesos y se encuentra en una gran variedad de alimentos.
 ### Molibdeno
+Componente de diversas enzimas que rompen los enlaces de proteínas, alcohol, drogas, toxinas, purinas y sulfitos. Presente en legumbres y cereales integrales.
 ### Níquel
+Coenzima en diversas reacciones, se encuentra en alimentos de orígen vegetal que lo absorben del suelo.
 ### Selenio
+Parte de las **selenoproteínas** que intervienen en la formación de ADN y ofrecen protección contra el daño celular y las infecciones. Relacionado con la función tiroide, se almacena principalmente en la glándula tiroides.
 ### Yodo
 ### Zinc
 
