@@ -40,14 +40,14 @@ En todos los minerales y en el calcio especialmente, hay que tener en cuenta la 
 - **Principal:** Lácteos (baja BD, ~30%).
 - **Bonus:** Sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de oxalatos y fitatos que se adhieren al calcio y no permiten su absorción).
 
+##### Deficiencia
+- Rampas musculares.
+- Hormigueo o falta de sensibilidad en los dedos.
+
 ##### Toxicidad
 - Llamada **hipercalcemia**: dolor en el pecho, sensación de falta de aire, estreñimiento.
 - A largo plazo pueden producir piedras en los riñones o cáncer de próstata.
 - Bloqueo de la absorción de hierro (anemia) y zinc.
-
-##### Deficiencia
-- Rampas musculares.
-- Hormigueo o falta de sensibilidad en los dedos.
 
 ### Cloro
 ##### Funciones
@@ -58,11 +58,11 @@ En todos los minerales y en el calcio especialmente, hay que tener en cuenta la 
 - Cloruro de sodio (**sal de mar/cocina**).
 - Agua clorada (del grifo).
 
-##### Toxicidad
-- Hipertensión.
-
 ##### Deficiencia
 - Se pierde con la deshidratación (sudor, vómitos, diarrea, diuréticos) pero se consume en altas cantidades así que su deficiencia es rara.
+
+##### Toxicidad
+- Hipertensión.
 
 ### Fósforo
 ##### Funciones
@@ -74,11 +74,11 @@ En todos los minerales y en el calcio especialmente, hay que tener en cuenta la 
 - Mayor absorción en fuentes de origen animal que vegetal.
 - Las semillas, legumbres y cereales integrales lo contienen en forma de **fitatos (ácido fítico)** para los que no tenemos la enzima necesaria (fitasa) y debemos remojarlas/cocinarlas para aumentar su biodisponibilidad. En caso contrario, no sólo no absorbemos su fósforo, sino que a su paso por el tracto digestivo se adhiere al fósforo, hierro y zinc que se encuentra por el camino, disminuyendo su absorción.
 
-##### Toxicidad
-- Llamada **hiperfosfatemia**, muy rara ya que el cuerpo elimina el exceso a través de la orina.
-
 ##### Deficiencia
 - Llamada **hipofosfatemia**, también rara, se suele producir por disfunción renal o exceso de **hormona paratiroidea**. Síntomas: dolor de huesos, anemia, aumento de las infecciones.
+
+##### Toxicidad
+- Llamada **hiperfosfatemia**, muy rara ya que el cuerpo elimina el exceso a través de la orina.
 
 ### Magnesio
 ##### Funciones
@@ -114,10 +114,12 @@ También es un componente de los huesos y cofactor en más de 300 reacciones enz
 ### Sodio
 ##### Fuentes
 ##### Deficiencia
+##### Toxicidad
 
 ### Azufre
 ##### Fuentes
 ##### Deficiencia
+##### Toxicidad
 
 
 ## Elementos traza
