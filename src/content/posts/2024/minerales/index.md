@@ -169,9 +169,11 @@ Componente de diversas enzimas que rompen los enlaces de proteínas, alcohol, dr
 ### Níquel
 Coenzima en diversas reacciones, se encuentra en alimentos de orígen vegetal que lo absorben del suelo.
 ### Selenio
-Parte de las **selenoproteínas** que intervienen en la formación de ADN y ofrecen protección contra el daño celular y las infecciones. Relacionado con la función tiroide, se almacena principalmente en la glándula tiroides.
+Parte de las **selenoproteínas** que intervienen en la formación de ADN y ofrecen protección contra el daño celular y las infecciones. Relacionado con la función tiroide, se almacena principalmente en la glándula tiroides. Se obtiene de alimentos de origen vegetal provenientes de suelos ricos en este mineral, y de los animales que consumen estas plantas.
 ### Yodo
+Formación de las hormonas tiroideas **tiroxina y triyodotironina**, necesarias para la producción de ciertas proteínas y enzimas y regular el metabolismo. Se encuentra en el suelo y el océano, las principales fuentes son el marisco, las algas marinas y la sal yodada.
 ### Zinc
+Cofactor en más de 100 reacciones enzimáticas. Necesario para el buen funcionamiento del sistema inmune, relacionado con los sentidos de tacto y olfacto. Presente en carne, huevos y pescado, también en legumbres y cereales integrales pero su contenido en fitatos reduce su absorción.
 
 
 ---
