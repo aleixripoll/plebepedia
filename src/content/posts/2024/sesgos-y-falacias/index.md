@@ -3,7 +3,7 @@ title: "Sesgos cognitivos y falacias lógicas"
 slug: sesgos-y-falacias
 description: "No soy yo, eres tú."
 authors: ["Dr. Fenilalanino"]
-image: ./03.jpg
+image: ./pexels-rodion-kutsaiev-9436715.jpg
 categories: ["neurociencia"]
 tags: ["psicología"]
 draft: false

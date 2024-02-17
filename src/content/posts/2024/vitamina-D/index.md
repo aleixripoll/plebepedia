@@ -3,7 +3,7 @@ title: "Vitamina D"
 slug: vitamina-d
 description: "Sol y playa."
 authors: ["Dr. Fenilalanino"]
-image: "./vitamina_D.webp"
+image: "./pexels-nathan-cowley-1089168.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: true
