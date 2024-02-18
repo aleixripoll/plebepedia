@@ -3,7 +3,7 @@ title: "Vitamina E"
 slug: vitamina-e
 description: "No le gustan los electrones sueltos."
 authors: ["Dr. Fenilalanino"]
-image: "./pexels-any-lane-5946050.jpg"
+image: "./pexels-cottonbro-studio-9811623.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: true
@@ -29,4 +29,4 @@ Principales referencias:
 
 ---
 
-*Foto de Any Lane en [Pexels](https://www.pexels.com/photo/crop-woman-with-basket-with-avocado-5946050/)*
+*Foto de cottonbro studio en [Pexels](https://www.pexels.com/es-es/foto/comida-marron-avellanas-garbanzos-9811623/)*
