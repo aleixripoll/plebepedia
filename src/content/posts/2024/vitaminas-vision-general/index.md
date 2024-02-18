@@ -35,4 +35,13 @@ La vitamina B12, hidrosoluble, es una excepción a la regla: puede almacenarse d
 
 ---
 
+Referencias:
+
+- *[Vitamins and minerals | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamins/)*
+
+- *[Vitaminas | MedlinePlus](https://medlineplus.gov/spanish/ency/article/002399.htm)*
+
+---
+
 [^1]: Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero eso es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, no hay grandes fuerzas internas y no se generan cargas eléctricas externas, por lo tanto el aceite no reacciona en contacto con el agua, es como juntar un imán con una tabla de madera. Por otra parte las fuerzas de atracción del oxígeno compactan la molécula y aumentan su densidad. Y así, niños, es como el agua cae al fondo y el aceite flota en el agua.
+

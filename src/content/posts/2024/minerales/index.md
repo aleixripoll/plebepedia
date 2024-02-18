@@ -64,7 +64,7 @@ Vamos a verlos uno por uno con un poco de ritmo.
 - **Funciones:** Conducción de corriente nerviosa, contracción/relajación muscular. También: es un electrolito, actua como regulador de fluidos, pH y nutrientes.
 - **Fuentes:** Sal de cocina y básicamente cualquier alimento.
 - **Deficiencia:** Muy rara.
-- **Toxicidad**: El exceso de sodio en sangre se llama **hipernatremia**, se puede producir por problemas renales o deshidratación severa. En el segundo caso, el agua se transfiere desde las células a la sangre, ese exceso de líquido puede llegar a los pulmones dificultando la respiración, o al cerebro causando convulsiones y coma cerebral. **Sodio y potasio son complementarios**, el primero sube la presión sanguínea y el segundo la baja, necesitamos mucho más del segundo pero solemos consumir más del primero, lo cual aumenta el riesgo de hipertensión e infarto.
+- **Toxicidad**: El exceso de sodio en sangre se llama **hipernatremia**, se puede producir por problemas renales o deshidratación severa. En el segundo caso, el agua se transfiere desde las células a la sangre, ese exceso de líquido puede llegar a los pulmones dificultando la respiración, o al cerebro causando convulsiones y coma cerebral. **Sodio y potasio son complementarios**, el primero sube la presión sanguínea y el segundo la baja, necesitamos mucho más del segundo pero solemos consumir mucho más del primero, lo cual aumenta el riesgo de hipertensión e infarto.
 
 ### Azufre
 - **Funciones:** Formación de ligamentos, tendones y keratina (uñas, pelo, piel). También: síntesis de vitaminas (A, C, B8), hormonas (insulina), enzimas digestivas e inmunoglobulina.
