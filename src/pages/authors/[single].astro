@@ -49,12 +49,13 @@ const currentPosts = sortPostsByDate.filter((post) => {
   {
     currentPosts.length > 0 && (
       <section class="section pt-0">
-        <div class="text-center container">
+        <div class="container text-center">
           <h2 class="h3 mb-8 text-center">Artículos recientes</h2>
-          <div class={`row gy-4 ${
+          <div
+            class={`row gy-4 ${
               currentPosts.length < 3 ? "justify-center" : ""
             }`}
-            >
+          >
             {currentPosts.map((post: any) => (
               <div class="col-12 sm:col-6 lg:col-4">
                 {post.data.image && (
@@ -63,7 +64,7 @@ const currentPosts = sortPostsByDate.filter((post) => {
                     class="group block overflow-hidden rounded-lg hover:text-primary"
                   >
                     <Image
-                      class="w-full transition duration-300 group-hover:scale-[1.05]"
+                      class="max-h-40 w-full transition duration-300 group-hover:scale-[1.05]"
                       src={post.data.image}
                       alt={post.data.title}
                       width={445}
