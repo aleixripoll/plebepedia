@@ -31,8 +31,8 @@ date: 2024-02-18T07:00:00Z
 - Una exposición solar de 5-15 minutos al día en cara y brazos durante primavera, verano y otoño es suficiente para mantener los niveles adecuados.
 - La capacidad de sintetizar vitamina D en la piel disminuye con la edad y la cantidad de melanina (pieles oscuras).
 - La crema solar bloquea casi totalmente su síntesis.
-- La exposición solar en invierno o a primera y ultima hora del día es mucho menos efectiva.
-- En resumen, la vitamina D se absorbe mejor cuanto más riesgo existe para la salud (cáncer de piel, envejecimiento precoz), por tal motivo se recomiendan exposiciones cortas. Si la exposición solar causa un ligero eritema e inmediatamente después se aplica una crema de protección solar, el riesgo para la piel es mínimo.
+- La exposición solar en invierno o a primera y última hora del día es mucho menos efectiva.
+- En resumen, la vitamina D se absorbe mejor cuanto más riesgo existe para la salud (cáncer de piel, envejecimiento precoz). Por tal motivo se recomiendan exposiciones cortas. Si la exposición solar causa un ligero eritema e inmediatamente después se aplica una crema de protección solar, el riesgo para la piel es mínimo.
 
 ### Deficiencia
 - Bastante habitual en la población que no recibe radiación solar.
