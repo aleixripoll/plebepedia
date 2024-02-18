@@ -13,10 +13,10 @@ const { posts } = Astro.props;
         {post.data.image && (
           <a
             href={`/${post.slug}`}
-            class="group block max-h-40 overflow-hidden rounded-lg hover:text-primary"
+            class="group block overflow-hidden rounded-lg hover:text-primary"
           >
             <Image
-              class="w-full transition duration-300 group-hover:scale-[1.05]"
+              class="w-full transition duration-300 group-hover:scale-[1.05] max-h-40"
               src={post.data.image}
               alt={post.data.title}
               width={445}

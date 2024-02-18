@@ -1,7 +1,7 @@
 ---
 title: "Vitamina E"
 slug: vitamina-e
-description: "Sol y playa."
+description: "No le gustan los electrones sueltos."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-any-lane-5946050.jpg"
 categories: ["nutrición"]
