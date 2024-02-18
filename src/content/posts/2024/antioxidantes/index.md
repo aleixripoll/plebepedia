@@ -43,3 +43,7 @@ Principales referencias:
 *[Influencia de los radicales libres en el envejecimiento celular | Elsevier](https://www.elsevier.es/es-revista-offarm-4-articulo-influencia-radicales-libres-el-envejecimiento-13034834)*
 
 *[Radical libre de oxígeno | Clínica universidad de Navarra](https://www.cun.es/diccionario-medico/terminos/radical-libre-oxigeno)*
+
+---
+
+*Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/).*

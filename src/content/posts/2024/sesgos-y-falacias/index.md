@@ -83,3 +83,7 @@ Principales referencias:
 - *[Cognitive Bias | ScienceDirect](https://www.sciencedirect.com/topics/neuroscience/cognitive-bias)*
 
 - *[Sesgos cognitivos | Wikipedia](https://es.wikipedia.org/wiki/Anexo:Sesgos_cognitivos)*
+
+---
+
+*Foto de Rodion Kutsaiev en [Pexels](https://www.pexels.com/photo/yellow-and-white-3-d-cube-9436715/).*

@@ -23,12 +23,16 @@ No está presente en prácticamente ningún alimento.
 
 Principales referencias:
 
-https://www.hsph.harvard.edu/nutritionsource/vitamin-d/
+- *[Vitamin D | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamin-d/)*
 
-https://www.elsevier.es/es-revista-reemo-70-articulo-metabolismo-fuentes-endogenas-exogenas-vitamina-13108019
+- *[Metabolismo, fuentes endógenas y exógenas de vitamina D | Elsevier](https://www.elsevier.es/es-revista-reemo-70-articulo-metabolismo-fuentes-endogenas-exogenas-vitamina-13108019)*
 
-https://www.elsevier.es/es-revista-medicina-familia-semergen-40-articulo-vitamina-d-practica-diaria-S1138359320300654
+- *[Vitamina D para la práctica diaria | Elsevier](https://www.elsevier.es/es-revista-medicina-familia-semergen-40-articulo-vitamina-d-practica-diaria-S1138359320300654)*
 
-https://www.elsevier.com/es-es/connect/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d
+- *[Metabolismo, funciones, toxicidad y estados deficitarios de la vitamina D | Elsevier](https://www.elsevier.com/es-es/connect/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d)*
 
-https://www.sciencedirect.com/science/article/abs/pii/S1245178910701682
+- *[Vitamina D | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1245178910701682)*
+
+---
+
+*Foto de Nathan Cowley en [Pexels](https://www.pexels.com/photo/sea-horizon-1089168/)*
