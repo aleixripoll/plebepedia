@@ -33,7 +33,7 @@ Tendencia a sobredimensionar los motivos internos y minimizar los externos en lo
 #### Sesgo de debilidad y fortaleza
 Tendencia a juzgar positivamente los comportamientos y los argumentos de las personas/partes más débiles. De manera inversa, algunas personas tienen la tendencia a pensar que los más fuertes, físicamente o intelectualmente, son más poseedores de la verdad sin atender a sus argumentos.
 
-##### Efecto halo
+#### Efecto halo
 Modificación de la percepción de las demás cualidades de una persona a través de una cualidad específica. Un individuo es capaz de trasladar la percepción que tienen los demás de sus cualidades positivas o negativas desde un área de la personalidad a otra (por ejemplo, estereotipo de atractivo físico). Una persona que es buena en X es normalmente considerada también buena en Y aunque no guarden relación. Muchas marcas comerciales usan el efecto halo para vender otros productos.
 
 #### Teoría de la identidad social
@@ -44,7 +44,7 @@ Tendencia a anteponer la pertenencia a un grupo frente a los argumentos sólidos
 
 Una falacia lógica es un argumento que parece en primera instancia irrefutable pero que contiene errores de razonamiento. Las falacias son difíciles de desenmascarar en primera instancia como consecuencia de los sesgos cognitivos.
 
-##### Falso dilema
+#### Falso dilema
 Situación en la cual solo dos puntos de vista son sopesados como las únicas opciones, cuando, en realidad, existen una o más opciones que no han sido consideradas. Las dos alternativas presentadas suelen ser, aunque no siempre, los puntos extremos del espectro de ideas.
 
 #### Argumento non sequitur
