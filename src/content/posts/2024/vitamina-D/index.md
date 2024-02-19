@@ -10,6 +10,8 @@ draft: false
 date: 2024-02-18T07:00:00Z
 ---
 
+## Tabla de contenidos
+
 ### Conceptos generales
 - Es una vitamina **[liposoluble](/vitaminas-vision-general)**.
 - Se comporta como una hormona, es decir, actua como un mensajero químico para regular globalmente ciertas funciones celulares.
@@ -47,17 +49,17 @@ date: 2024-02-18T07:00:00Z
 
 ---
 
-Principales referencias:
+##### Referencias
 
-- *[Vitamin D | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamin-d/)*
+https://www.hsph.harvard.edu/nutritionsource/vitamin-d/
 
-- *[Metabolismo, fuentes endógenas y exógenas de vitamina D | Elsevier](https://www.elsevier.es/es-revista-reemo-70-articulo-metabolismo-fuentes-endogenas-exogenas-vitamina-13108019)*
+https://www.elsevier.es/es-revista-reemo-70-articulo-metabolismo-fuentes-endogenas-exogenas-vitamina-13108019
 
-- *[Vitamina D para la práctica diaria | Elsevier](https://www.elsevier.es/es-revista-medicina-familia-semergen-40-articulo-vitamina-d-practica-diaria-S1138359320300654)*
+https://www.elsevier.es/es-revista-medicina-familia-semergen-40-articulo-vitamina-d-practica-diaria-S1138359320300654
 
-- *[Metabolismo, funciones, toxicidad y estados deficitarios de la vitamina D | Elsevier](https://www.elsevier.com/es-es/connect/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d)*
+https://www.elsevier.com/es-es/connect/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d
 
-- *[Vitamina D | ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1245178910701682)*
+https://www.sciencedirect.com/science/article/abs/pii/S1245178910701682
 
 ---
 

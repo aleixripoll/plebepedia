@@ -1,31 +1,44 @@
 ---
 title: "Vitamina E"
 slug: vitamina-e
-description: "No le gustan los electrones sueltos."
+description: "También conocida como alfa-tocoferol."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-cottonbro-studio-9811623.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
-draft: true
+draft: false
 date: 2024-02-19T07:00:00Z
 ---
 
-### Conceptos generales
+## Tabla de contenidos
+
+## Conceptos generales
 - Es una vitamina **[liposoluble](/vitaminas-vision-general)**.
+- Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
 
-### Funciones
+## Funciones
+- [Antioxidante](/antioxidantes).
+- Componente del sistema inmune.
+- Prevención de coágulos en las arterias.
 
-### Fuentes
+## Fuentes
+- Aceites vegetales.
+- Frutos secos (avellana, almendra, cacahuete).
+- Semillas (pipas de girasol).
+- Frutas (mango, aguacate).
 
-### Deficiencia
+## Deficiencia
+- Rara, se puede producir por problemas digestivos que impidan absorber grasas.
+- **Síntomas:** Retinopatía (daño en la retina), neuropatía periférica (manos y pies), ataxia (pérdida de control muscular, movimientos torpes), afectación al sistema inmune.
 
-### Toxicidad
+## Toxicidad
+- Sin evidencias.
 
 ---
 
-Principales referencias:
+##### Referencias
 
-- *[Vitamin E | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamin-e/)*
+https://www.hsph.harvard.edu/nutritionsource/vitamin-e/
 
 ---
 
