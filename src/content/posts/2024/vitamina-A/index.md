@@ -10,18 +10,18 @@ draft: false
 date: 2024-01-04T07:00:00Z
 ---
 
-## Tabla de contenidos
+### Tabla de contenidos
 
-## Conceptos generales
+### Conceptos generales
 - Es una vitamina **[liposoluble](/vitaminas-vision-general)**.
 - No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 
-### Retinoides
+#### Retinoides
 - Sólo 3 de ellos son formas activas de la vitamina A: retinol, retinal y ácido retinoico (ATRA).
 - Se absorben casi al 100%.
 - **Fuentes:** **Hígado**, grasas (carne, leche, yema de huevo, aceite de pescado).
 
-### Carotenoides
+#### Carotenoides
 - **No contienen vitamina A**, algunos de ellos son precursores que pueden convertirse a retinol. En la dieta humana el principal es el **beta-caroteno**.
 - La principal fuente de beta-carotenos son **frutas y hortalizas de color amarillo, naranja y rojo** (*zanahoria, tomate, mango, melocotón, melón, naranja, mandarina*) y **verduras de hoja verde oscura** (*espinacas, brócoli*).
 - Su absorción es muy variable y mucho menor que en los retinoides (5-65%).
@@ -32,17 +32,17 @@ date: 2024-01-04T07:00:00Z
 - A medida que aumenta la dosis se reduce su absorción, por lo tanto no es posible la intoxicación por vitamina A con carotenoides.
 - Bonus: los carotenoides son **[antioxidantes](/antioxidantes)**.
 
-## Funciones
+### Funciones
 - **Visión nocturna** [^1].
 - Formación de tejidos (mucosas, piel).
 - Especialización y apoptosis (muerte controlada) celular.
 - Síntesis de **células T reguladoras**, encargadas de evitar una respuesta inmune (inflamación) excesiva.
 
-## Deficiencia
+### Deficiencia
 - La deficiencia de retinol conlleva deficiencia de rodopsina [^1], causando **nictalopia** (ceguera nocturna). La visión nocturna se recupera tras restablecer los niveles de retinol, en caso contrario puede derivar en ceguera total.
 - **Otros síntomas:** Sequedad, descamación y picor de la piel, aumento de las infecciones, anemia.
 
-## Toxicidad
+### Toxicidad
 - Prácticamente imposible por carotenoides, muy rara por retinoides, posible por suplementos.
 - **Síntomas:** Dolor abdominal, nauseas, irritabilidad, piel seca.
 - Un alto consumo podría interferir en la absorción y funciones de la vitamina D (reducción de la absorción de calcio y mayor riesgo de fracturas).

@@ -10,28 +10,28 @@ draft: false
 date: 2024-02-19T07:00:00Z
 ---
 
-## Tabla de contenidos
+### Tabla de contenidos
 
-## Conceptos generales
+### Conceptos generales
 - Es una vitamina **[liposoluble](/vitaminas-vision-general)**.
 - Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
 
-## Funciones
+### Funciones
 - [Antioxidante](/antioxidantes).
 - Componente del sistema inmune.
 - Prevención de coágulos en las arterias.
 
-## Fuentes
+### Fuentes
 - Aceites vegetales.
 - Frutos secos (avellana, almendra, cacahuete).
 - Semillas (pipas de girasol).
 - Frutas (mango, aguacate).
 
-## Deficiencia
+### Deficiencia
 - Rara, se puede producir por problemas digestivos que impidan absorber grasas.
 - **Síntomas:** Retinopatía (daño en la retina), neuropatía periférica (manos y pies), ataxia (pérdida de control muscular, movimientos torpes), afectación al sistema inmune.
 
-## Toxicidad
+### Toxicidad
 - Sin evidencias.
 
 ---
