@@ -99,18 +99,3 @@ Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://them
 Besides developing beautifully designed and blazing-fast themes, we help businesses create fast, performance-focused, scalable & secure websites based on NextJs, Hugo, Astro, etc.
 
 If you need a custom theme, theme customization, or complete website development services from scratch you can [Hire Us](https://themefisher.com/contact). 
-
-## GitHub pages deployment
-
-There are a few quirks to be aware of when switching between root and non-root urls:
-
-- When using a non-root base_url (e.g. /repo), we must **add a slash** after `import.meta.env.BASE_URL` in all links:
-
-```
-<a href={`${import.meta.env.BASE_URL}${post.slug}`} ... />
-```
-
-Another option is setting `trailingSlash = true` and it will be added automatically, but then **we will require it for EVERY link**, including posts, or we'll get a 404, so I think this approach is better.
-
-
-- If switching back to root url (/), we must search and replace `${import.meta.env.BASE_URL}` to `${import.meta.env.BASE_URL}`(notice the removed trailing slash).
