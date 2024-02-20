@@ -1,7 +1,7 @@
 ---
-title: "Astro site en GitHub Pages"
+title: "Desplegar sitio Astro en GitHub Pages"
 slug: astro-github-pages
-description: "Como gestionar deployments con y sin base URL."
+description: "Cómo cambiar de base URL sin morir en el intento."
 authors: ["Dra. Valina"]
 image: "./pexels-markus-spiske-965345.jpg"
 categories: ["tecnología", "desarrollo"]
@@ -31,26 +31,25 @@ export default defineConfig(
 <a href={`${import.meta.env.BASE_URL}/${post.slug}`} ... />
 ```
 
-El problema viene si quieres que tu sitio pueda moverse entre uno y otro modificando `base`. Simplemente no puedes, porque si usas un repo root, Astro usa `base: "/"`, y con nuestro cambio estamos añadiendo un segundo slash, lo cual rompe los enlaces y no se generan correctamente.
+El problema viene si quieres que tu sitio pueda moverse entre uno y otro modificando `base`: con un repo root Astro usa `base: "/"`, en el ejemplo anterior el enlace ahora quedaría como `//${post.slug}` (doble barra), lo cual rompe la generación de enlaces en Astro.
 
 Para solucionarlo tuve que:
 
-3. Añadir trailing slash a `base`, por ejemplo `/repo/`. Ahora tanto en root como en non-root, nuestro `base` acaba en slash.
+3. Añadir trailing slash a `base`, por ejemplo `/repo/`. Ahora tanto en root como en non-root, nuestro `base` acaba en barra.
 
-4. Quitar el slash después de `base` de **todos los enlaces**:
+4. Quitar la barra después de `base` en **todos los enlaces**:
 ```
 <a href={`${import.meta.env.BASE_URL}${post.slug}`} ... />
 ```
 
-5. Utilizar `trailingSlash: "ignore"`. Con `"never"`, quitará nuestro trailing slash de `base` y no quedará ninguno, rompiendo la generación de enlaces otra vez. Con `"always"`, todos los enlaces que no acaben en slash devolverán un 404.
+5. Utilizar `trailingSlash: "ignore"`. Con `"never"`, quitará nuestro trailing slash de `base` y no quedará ninguno, rompiendo la generación de enlaces otra vez. Con `"always"`, todos los enlaces que no acaben en barra devolverán un 404.
 
 
 Ahora ya podemos mover nuestro sitio cambiando sólo `base`.
 
-Hay otro detalle a tener en cuenta: si tenemos contenido en `/public` debemos añadir el subpath; por ejemplo, si tenemos `/public/images/logo.webp` podemos acceder a esa imagen con `/images/logo.webp`, si usamos un subpath debemos cambiar el enlace a `/repo/images/logo.webp`.
+Hay otro detalle a tener en cuenta: si tenemos contenido en `/public` debemos añadir el subpath; por ejemplo, si tenemos `/public/images/logo.webp` podemos acceder a esa imagen con `/images/logo.webp`, pero si usamos un repo non-root debemos cambiar el enlace a `/repo/images/logo.webp`.
 
-Esta es la mejor solución que he encontrado para desplegar en GitHub Pages con cierta flexibilidad, si alguien tiene un sistema mejor soy todo oídos.
-
+Lo mejor es evitar usar rutas absolutas siempre que sea posible, por ejemplo con rutas relativas en [Content Collections](https://docs.astro.build/en/guides/images/#images-in-content-collections).
 
 ---
 
