@@ -58,7 +58,9 @@ export default {
         h3: h3 + "rem",
         "h3-sm": h3 * 0.8 + "rem",
         h4: h4 + "rem",
+        "h4-sm": h4 * 0.8 + "rem",
         h5: h5 + "rem",
+        "h5-sm": h5 * 0.8 + "rem",
         h6: h6 + "rem",
       },
       fontFamily: {
@@ -79,6 +81,18 @@ export default {
               color: "#999",
               verticalAlign: "middle",
             },
+            'code': {
+              fontWeight: "300",
+              backgroundColor: "#f3f3f3",
+              padding: "3px 5px",
+              fontSize: "0.8em",
+            },
+            'code::before': {
+                content: "",
+            },
+            'code::after': {
+              content: "",
+          },
           },
         },
       },

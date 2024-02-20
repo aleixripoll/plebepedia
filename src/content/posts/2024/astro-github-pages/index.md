@@ -45,8 +45,9 @@ Para solucionarlo tuve que:
 5. Utilizar `trailingSlash: "ignore"`. Con `"never"`, quitará nuestro trailing slash de `base` y no quedará ninguno, rompiendo la generación de enlaces otra vez. Con `"always"`, todos los enlaces que no acaben en slash devolverán un 404.
 
 
-Ahora ya podemos mover nuestro sitio cambiando sólo `base`. Hay otro detalle a tener en cuenta: si tenemos contenido en **/public** tendremos que añadir nuestro subpath; por ejemplo, si tenemos `/public/images/logo.webp` podemos acceder a esa imagen con `/images/logo.webp`, pero al usar un subpath debemos cambiar el enlace a `/repo/images/logo.webp`.
+Ahora ya podemos mover nuestro sitio cambiando sólo `base`.
 
+Hay otro detalle a tener en cuenta: si tenemos contenido en `/public` debemos añadir el subpath; por ejemplo, si tenemos `/public/images/logo.webp` podemos acceder a esa imagen con `/images/logo.webp`, si usamos un subpath debemos cambiar el enlace a `/repo/images/logo.webp`.
 
 Esta es la mejor solución que he encontrado para desplegar en GitHub Pages con cierta flexibilidad, si alguien tiene un sistema mejor soy todo oídos.
 
