@@ -7,14 +7,15 @@ import Disqus from "@components/Disqus";
 
 const entry = await getEntry("about", "index");
 const { Content } = await entry.render();
-const { title, description, meta_title, image, what_i_do } = entry.data;
+const { title, description, meta_title, what_i_do } = entry.data;
+
+import image from '../assets/about.webp';
 ---
 
 <Base
   title={title}
   meta_title={meta_title}
   description={description}
-  image={image}
 >
   <section class="section">
     <div class="container">

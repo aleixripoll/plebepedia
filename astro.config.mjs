@@ -11,7 +11,7 @@ import remarkToc from "remark-toc";
 export default defineConfig({
   site: config.site.base_url,
   base: config.site.base_path ? config.site.base_path : "/",
-  trailingSlash: config.site.trailing_slash ? "always" : "never",
+  trailingSlash: "ignore",
   integrations: [
     react(),
     sitemap(),

@@ -2,25 +2,25 @@
   "main": [
     {
       "name": "Inicio",
-      "url": "/"
+      "url": ""
     },
     {
       "name": "Autores",
-      "url": "/authors"
+      "url": "authors"
     },
     {
       "name": "Categorías",
-      "url": "/categories"
+      "url": "categories"
     },
     {
       "name": "Tags",
-      "url": "/tags"
+      "url": "tags"
     }
   ],
   "footer": [
     {
       "name": "Acerca de",
-      "url": "/about"
+      "url": "about"
     }
   ]
 }
