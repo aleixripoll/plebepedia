@@ -95,7 +95,7 @@ export default function SearchBar({ searchList }: Props) {
         {searchResults?.map(({ item }) => (
           <div key={item.slug} className={"col-12 mb-8 sm:col-6 text-center"}>
             {item.data.image && (
-              <a href={`${import.meta.env.BASE_URL}/${item.slug}`} className="rounded-lg block hover:text-primary overflow-hidden group">
+              <a href={`${import.meta.env.BASE_URL}${item.slug}`} className="rounded-lg block hover:text-primary overflow-hidden group">
                 <img
                   className="group-hover:scale-[1.03] transition duration-300 w-full max-h-52 object-cover"
                   src={item.data.image.src}
@@ -114,7 +114,7 @@ export default function SearchBar({ searchList }: Props) {
                     {item.data.authors.map((author: string, i: number) => (
                       <li className="inline-block">
                         <a
-                          href={`${import.meta.env.BASE_URL}/authors/${slugify(author)}`}
+                          href={`${import.meta.env.BASE_URL}authors/${slugify(author)}`}
                           className="mr-2 hover:text-primary font-medium"
                         >
                           {humanize(author)}{i !== item.data.authors.length - 1 && ","}
@@ -135,7 +135,7 @@ export default function SearchBar({ searchList }: Props) {
                     {item.data.categories.map((category: string, i: number) => (
                       <li className="inline-block">
                         <a
-                          href={`${import.meta.env.BASE_URL}/categories/${slugify(category)}`}
+                          href={`${import.meta.env.BASE_URL}categories/${slugify(category)}`}
                           className="mr-2 hover:text-primary font-medium"
                         >
                           {humanize(category)}{i !== item.data.categories.length - 1 && ","}
@@ -148,7 +148,7 @@ export default function SearchBar({ searchList }: Props) {
             </ul>
 
             <h3 className="mb-2">
-              <a href={`${import.meta.env.BASE_URL}/${item.slug}`} className="block hover:text-primary transition duration-300">
+              <a href={`${import.meta.env.BASE_URL}${item.slug}`} className="block hover:text-primary transition duration-300">
                 {item.data.title}
               </a>
             </h3>

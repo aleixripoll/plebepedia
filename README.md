@@ -107,10 +107,10 @@ There are a few quirks to be aware of when switching between root and non-root u
 - When using a non-root base_url (e.g. /repo), we must **add a slash** after `import.meta.env.BASE_URL` in all links:
 
 ```
-<a href={`${import.meta.env.BASE_URL}/${post.slug}`} ... />
+<a href={`${import.meta.env.BASE_URL}${post.slug}`} ... />
 ```
 
 Another option is setting `trailingSlash = true` and it will be added automatically, but then **we will require it for EVERY link**, including posts, or we'll get a 404, so I think this approach is better.
 
 
-- If switching back to root url (/), we must search and replace `${import.meta.env.BASE_URL}/` to `${import.meta.env.BASE_URL}`(notice the removed trailing slash).
+- If switching back to root url (/), we must search and replace `${import.meta.env.BASE_URL}` to `${import.meta.env.BASE_URL}`(notice the removed trailing slash).

@@ -1,7 +1,7 @@
 ---
-title: "A vegades hago cosas"
+title: "Acerca de"
 meta_title: "Acerca de"
-image: "/images/about.webp"
+#image: "/images/about.webp"
 draft: false
 
 what_i_do:
@@ -18,6 +18,6 @@ what_i_do:
 
 ---
 
-Un porrón de años pensando demasiado me han llevado al precipicio de escribir un blog sobre temas que no tienen nada que ver con nada de lo que se supone que sé.
+Un porrón de años pensando demasiado me han llevado a escribir un blog sobre temas que no tienen nada que ver con nada de lo que se supone que sé.
 
 ¿No tiene ningún sentido verdad? Dejadme en paz.

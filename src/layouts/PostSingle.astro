@@ -42,7 +42,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                 )
                 .map((author: any) => (
                   <a
-                    href={`${import.meta.env.BASE_URL}/authors/${slugify(author.slug)}`}
+                    href={`${import.meta.env.BASE_URL}authors/${slugify(author.slug)}`}
                     class="flex items-center font-medium hover:text-primary"
                   >
                     {/*author.data.image && (
@@ -76,7 +76,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                   categories.map((category: string, i: number) => (
                     <li class="inline-block">
                       <a
-                        href={`${import.meta.env.BASE_URL}/categories/${slugify(category)}`}
+                        href={`${import.meta.env.BASE_URL}categories/${slugify(category)}`}
                         class="mr-2 font-medium hover:text-primary"
                       >
                         {humanize(category)}
@@ -115,7 +115,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
               tags.map((tag: string) => (
                 <li class="inline-block">
                   <a
-                    href={`${import.meta.env.BASE_URL}/tags/${slugify(tag)}`}
+                    href={`${import.meta.env.BASE_URL}tags/${slugify(tag)}`}
                     class="text-md block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark transition duration-300 hover:text-primary"
                   >
                     # {humanize(tag)}

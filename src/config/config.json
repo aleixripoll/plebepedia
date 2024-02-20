@@ -2,8 +2,7 @@
   "site": {
     "title": "Plebepedia",
     "base_url": "https://aleixripoll.github.io",
-    "base_path": "/limbo",
-    "trailing_slash": false,
+    "base_path": "/",
     "favicon": "/images/favicon.ico",
     "logo": "",
     "logo_width": "160",
