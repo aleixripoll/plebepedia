@@ -2,8 +2,8 @@
   "site": {
     "title": "Plebepedia",
     "base_url": "https://aleixripoll.github.io",
-    "base_path": "/",
-    "favicon": "/images/favicon.ico",
+    "base_path": "/plebepedia/",
+    "favicon": "/plebepedia/images/favicon.ico",
     "logo": "",
     "logo_width": "160",
     "logo_height": "24",
@@ -17,7 +17,7 @@
 
   "metadata": {
     "meta_author": "Doctor Fenilalanino",
-    "meta_image": "/images/logo.webp",
+    "meta_image": "/plebepedia/images/logo.webp",
     "meta_description": "Ciencia para plebeyos"
   },
 
