@@ -12,7 +12,7 @@ const { posts } = Astro.props;
       <div class={`col-12 sm:col-6 md:col-4 justify-center ${i === 2 && "hidden md:block"}`}>
         {post.data.image && (
           <a
-            href={`/${post.slug}`}
+            href={`${import.meta.env.BASE_URL}/${post.slug}`}
             class="group block overflow-hidden rounded-lg hover:text-primary"
           >
             <Image
@@ -37,7 +37,7 @@ const { posts } = Astro.props;
                 {post.data.categories.map((category: string, i: number) => (
                   <li class="inline-block">
                     <a
-                      href={`/categories/${slugify(category)}`}
+                      href={`${import.meta.env.BASE_URL}/categories/${slugify(category)}`}
                       class="mr-2 font-medium hover:text-primary"
                     >
                       {humanize(category)}
@@ -51,7 +51,7 @@ const { posts } = Astro.props;
         </ul>
         <h5>
           <a
-            href={`/${post.slug}`}
+            href={`${import.meta.env.BASE_URL}/${post.slug}`}
             class="block transition duration-300 hover:text-primary text-center"
           >
             {post.data.title}
