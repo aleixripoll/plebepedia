@@ -29,7 +29,7 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .nav-link {
-  @apply p-3 /*text-lg*/ font-semibold transition hover:text-primary md:p-4;
+  @apply p-3 font-semibold transition hover:text-primary md:p-4;
 }
 
 .nav-dropdown-list {
@@ -41,12 +41,12 @@ input#nav-toggle:checked ~ #nav-menu {
 }
 
 .nav-dropdown-link {
-  @apply block min-w-[150px] py-1 /*text-lg*/ font-semibold transition hover:text-primary;
+  @apply block min-w-[150px] py-1 font-semibold transition hover:text-primary;
 }
 
 // search style
 .search-modal {
-  @apply invisible absolute top-0 left-0 right-0 z-10 h-10 bg-white opacity-0 transition md:h-full;
+  @apply invisible absolute top-0 left-0 right-0 z-10 h-10 bg-white dark:bg-dark opacity-0 transition md:h-full;
   .form-input {
     @apply h-full w-full border-0 text-lg;
   }
