@@ -16,7 +16,7 @@ date: 2024-02-17T07:00:00Z
 Los sesgos son errores de percepción de la mente, muy difíciles de eliminar a pesar de ser conscientes de ellos. Hay una larga lista (consultar referencias), aquí se detallan algunos:
 
 #### Efecto Dunning-Kruger
-Tendencia de las personas incompetentes a sobreestimar su propia habilidad, y de las personas altamente competentes a sobreestimar la habilidad de los demás. El resultado es que los incompetentes no son conscientes de su ineptitud, y los competentes suponen que todos tienen la misma habilidad.
+Tendencia de las personas incompetentes a sobreestimar su propia habilidad, y de las personas altamente competentes a sobreestimar la habilidad de los demás. El resultado es que los incompetentes no son conscientes de su ineptitud, y los competentes suponen que todo el mundo tiene la misma facilidad para realizar una tarea.
 
 #### Sesgo de confirmación
 Tendencia a favorecer las informaciones que confirman nuestras teorías previas, es decir, las que nos dan la razón.
