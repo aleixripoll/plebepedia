@@ -17,10 +17,5 @@
       "url": "tags"
     }
   ],
-  "footer": [
-    {
-      "name": "Acerca de",
-      "url": "about"
-    }
-  ]
+  "footer": []
 }
