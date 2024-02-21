@@ -1,5 +1,5 @@
 ---
-title: "Desplegar sitio Astro en GitHub Pages"
+title: "Astro en GitHub Pages"
 slug: astro-github-pages
 description: "Cómo cambiar de base URL sin morir en el intento."
 authors: ["Dra. Valina"]
@@ -10,7 +10,7 @@ draft: false
 date: 2024-02-20T07:00:00Z
 ---
 
-Entrada un poco meta, vamos a hablar de algunos problemillas que encontré desplegando esta web en Github Pages y al mismo tiempo me autodocumento para mi yo del futuro.
+Entrada un poco meta, vamos a hablar de algunos problemillas que encontré desplegando esta web en Github Pages y al mismo tiempo lo documento para mi yo del futuro.
 
 Este blog ha sido generado con [Astro](https://astro.build/). No entraremos en un versus, Astro tiene algunas cosas mejores y otras peores que otros SSGs (Static Site Generators), pero digamos que en el pasado había utilizado **Jekyll** y **Hugo** y nunca tuve problemas para mover un blog de GitHub Pages entre un repo root (`usuario.github.io`) y un repo non-root (`usuario.github.io/repo`). 
 
