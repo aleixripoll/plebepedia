@@ -92,7 +92,7 @@
 }
 
 .sticky {
-  @apply fixed top-0 w-full bg-white z-50 border-b;
+  @apply fixed top-0 w-full z-50 border-b;
 }
 
 a > svg {
