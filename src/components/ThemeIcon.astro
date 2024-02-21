@@ -19,7 +19,10 @@
   :global(.dark) .moon { fill: rgb(210, 221, 230); }
 </style>
 
-<script is:inline>
+<script>
+  // Darkmode toggle guide: https://docs.astro.build/en/tutorial/6-islands/2/
+  // ViewTransitions fix: https://docs.astro.build/en/tutorials/add-view-transitions/#update-scripts
+  document.addEventListener('astro:page-load', () => {
     const theme = (() => {
       if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
         return localStorage.getItem('theme');
@@ -47,4 +50,5 @@
     }
   
     document.getElementById("themeToggle").addEventListener("click", handleToggleClick);
+  });
 </script>
