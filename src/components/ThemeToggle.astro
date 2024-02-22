@@ -12,17 +12,26 @@
     border: 0;
     background: none;
   }
-  .sun { fill: rgb(5 16 21); }
-  .moon { fill: transparent; }
-
-  :global(.dark) .sun { fill: transparent; }
-  :global(.dark) .moon { fill: rgb(161 165 174); }
+  // light theme
+  .sun { fill: transparent; }
+  .moon { fill: rgb(5 16 21); }
+  #themeToggle:hover .moon {
+    fill: teal;
+  }
+  // dark theme
+  :global(.dark) .sun { fill: rgb(161 165 174);  } 
+  :global(.dark) .moon { fill: transparent; }
+  :global(.dark) #themeToggle:hover .sun {
+    fill: orangered;
+  }
+  :global(.dark) #themeToggle:hover .moon {
+    fill: transparent;
+  }
 </style>
 
 <script>
   // Darkmode toggle guide: https://docs.astro.build/en/tutorial/6-islands/2/
   // ViewTransitions fix: https://docs.astro.build/en/tutorials/add-view-transitions/#update-scripts
-  
   document.addEventListener('astro:page-load', () => {
     const theme = (() => {
       if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
