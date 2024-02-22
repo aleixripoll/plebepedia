@@ -22,6 +22,7 @@
 <script>
   // Darkmode toggle guide: https://docs.astro.build/en/tutorial/6-islands/2/
   // ViewTransitions fix: https://docs.astro.build/en/tutorials/add-view-transitions/#update-scripts
+  
   document.addEventListener('astro:page-load', () => {
     const theme = (() => {
       if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
@@ -50,5 +51,13 @@
     }
   
     document.getElementById("themeToggle").addEventListener("click", handleToggleClick);
+  });
+</script>
+
+<script>
+  document.addEventListener('astro:after-swap', () => {
+    localStorage.theme === 'dark'
+    ? document.documentElement.classList.add("dark")
+    : document.documentElement.classList.add("light");
   });
 </script>

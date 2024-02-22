@@ -2,7 +2,7 @@
 import Logo from "@components/Logo.astro";
 import menu from "@config/menu.json";
 import { IoSearch } from "react-icons/io5/index.js";
-import ThemeIcon from './ThemeIcon.astro';
+import ThemeToggle from './ThemeToggle.astro';
 
 export interface ChildNavigationLink {
   name: string;
@@ -88,7 +88,7 @@ const { main }: { main: NavigationLink[] } = menu;
       }
     </ul>
     <div class="order-1 ml-auto gap-4 flex md:order-2 md:ml-0">
-      <ThemeIcon />
+      <ThemeToggle />
       <a
         class="mr-4 inline-block cursor-pointer p-2 text-xl text-dark dark:text-light transition hover:text-primary md:mr-0"
         href={`${import.meta.env.BASE_URL}search`}
