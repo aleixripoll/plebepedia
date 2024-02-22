@@ -29,7 +29,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
   <div class="container">
     <article class="row justify-center">
       <div class="text-center md:col-10">
-        <h1 set:html={markdownify(title)} class="h1" />
+        <h1 set:html={markdownify(title)} class="h1 dark:text-white" />
         <p class="py-4 text-text dark:text-light text-xl">{description}</p>
         <ul class="mt-4 flex flex-wrap items-center justify-center">
           <li class="mx-3">
@@ -150,8 +150,8 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 }
 
 <button
-  id="back-to-top"
-  class="fixed bottom-2 right-5 hidden whitespace-nowrap rounded bg-stone-100 px-4 py-2 text-3xl font-extrabold opacity-75 hover:bg-stone-200 lg:bottom-10 lg:right-20"
+  id="scroll-to-top"
+  class="fixed bottom-2 right-4 xl:right-40 hidden whitespace-nowrap rounded bg-stone-100 dark:bg-stone-700 dark:text-light px-4 py-2 text-3xl font-extrabold opacity-75 hover:invert lg:bottom-10"
 >
   ^
 </button>
@@ -182,14 +182,14 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
       document.body.scrollTop > 400 ||
       document.documentElement.scrollTop > 400
     ) {
-      document.querySelector("#back-to-top").style.display = "block";
+      document.querySelector("#scroll-to-top").style.display = "block";
     } else {
-      document.querySelector("#back-to-top").style.display = "none";
+      document.querySelector("#scroll-to-top").style.display = "none";
     }
   }
   // Scrolls the document to the top when the "Back to Top" button is clicked.
   function backToTop() {
-    document.querySelector("#back-to-top")?.addEventListener("click", () => {
+    document.querySelector("#scroll-to-top")?.addEventListener("click", () => {
       document.body.scrollTop = 0; // For Safari
       document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
     });
