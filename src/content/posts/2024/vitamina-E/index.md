@@ -10,6 +10,9 @@ draft: false
 date: 2024-02-19T07:00:00Z
 ---
 
+<span class="attribution">Foto de cottonbro studio en [Pexels](https://www.pexels.com/es-es/foto/comida-marron-avellanas-garbanzos-9811623/)</span>
+
+
 ### Tabla de contenidos
 
 ### Conceptos generales
@@ -39,7 +42,3 @@ date: 2024-02-19T07:00:00Z
 ##### Referencias
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-e/
-
----
-
-*Foto de cottonbro studio en [Pexels](https://www.pexels.com/es-es/foto/comida-marron-avellanas-garbanzos-9811623/)*

@@ -10,6 +10,9 @@ draft: false
 date: 2024-02-18T07:00:00Z
 ---
 
+<span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/person-showing-slice-of-ripe-kiwi-5945720/)</span>
+
+
 ### Tabla de contenidos
 
 ### Conceptos generales
@@ -60,7 +63,3 @@ https://www.elsevier.es/es-revista-medicina-familia-semergen-40-articulo-vitamin
 https://www.elsevier.com/es-es/connect/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d
 
 https://www.sciencedirect.com/science/article/abs/pii/S1245178910701682
-
----
-
-*Foto de Any Lane en [Pexels](https://www.pexels.com/photo/person-showing-slice-of-ripe-kiwi-5945720/)*

@@ -10,6 +10,8 @@ draft: false
 date: 2024-02-09T07:00:00Z
 ---
 
+<span class="attribution">Foto de cottonbro studio en [Pexels](https://www.pexels.com/es-es/foto/educacion-conocimiento-de-cerca-tabla-periodica-de-los-elementos-7012263/)</span>
+
 ## Tabla de contenidos
 
 ## Introducción
@@ -123,7 +125,7 @@ También llamados oligoelementos, son minerales que necesitamos en bajas cantida
 
 ---
 
-Principales referencias:
+##### Referencias
 
 - *[Vitamins and minerals | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamins/)*
 
@@ -140,7 +142,3 @@ Principales referencias:
 - *[Are we getting enough sulfur in our diet? | NIH](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2198910/)*
 
 - *[Foods High in Sulfur | WebMD](https://www.webmd.com/diet/foods-high-in-sulfur)*
-
----
-
-*Foto de cottonbro studio en [Pexels](https://www.pexels.com/es-es/foto/educacion-conocimiento-de-cerca-tabla-periodica-de-los-elementos-7012263/)*
