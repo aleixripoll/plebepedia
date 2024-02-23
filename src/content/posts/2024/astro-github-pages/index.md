@@ -10,6 +10,8 @@ draft: false
 date: 2024-02-20T07:00:00Z
 ---
 
+<span class="attribution">Foto de Markus Spiske en [Pexels](https://www.pexels.com/photo/coding-script-965345/)</span>
+
 Entrada un poco meta, vamos a hablar de algunos problemillas que encontré desplegando esta web en Github Pages y al mismo tiempo lo documento para mi yo del futuro.
 
 Este blog ha sido generado con [Astro](https://astro.build/). No entraremos en un versus, Astro tiene algunas cosas mejores y otras peores que otros SSGs (Static Site Generators), pero digamos que en el pasado había utilizado **Jekyll** y **Hugo** y nunca tuve problemas para mover un blog de GitHub Pages entre un repo root (`usuario.github.io`) y un repo non-root (`usuario.github.io/repo`). 
@@ -51,6 +53,3 @@ Hay otro detalle a tener en cuenta: si tenemos contenido en `/public` debemos a�
 
 Lo mejor es evitar usar rutas absolutas siempre que sea posible, por ejemplo con rutas relativas en [Content Collections](https://docs.astro.build/en/guides/images/#images-in-content-collections).
 
----
-
-*Foto de Markus Spiske en [Pexels](https://www.pexels.com/photo/coding-script-965345/)*

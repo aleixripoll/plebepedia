@@ -27,10 +27,10 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 
 <section class="section">
   <div class="container">
-    <article class="row justify-center">
+    <article class="row justify-center text-text dark:text-light">
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h1 dark:text-white" />
-        <p class="py-4 text-text dark:text-light text-xl">{description}</p>
+        <p class="py-4  text-xl">{description}</p>
         <ul class="mt-4 flex flex-wrap items-center justify-center">
           <li class="mx-3">
             {
@@ -54,7 +54,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                         class="mr-2 h-6 w-6 rounded-full"
                       />
                     )*/}
-                    <BiUser className="mr-1 h-[18px] w-[18px] text-gray-600" />
+                    <BiUser className="mr-1 h-[18px] w-[18px]" />
                     <span>{author.data.title}</span>
                   </a>
                 ))

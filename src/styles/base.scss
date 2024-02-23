@@ -3,7 +3,7 @@ html {
 }
 
 body {
-  @apply bg-body font-primary font-normal leading-relaxed text-text min-h-screen flex flex-col dark:bg-dark dark:text-light;
+  @apply font-primary font-normal leading-relaxed text-text min-h-screen flex flex-col bg-inherit dark:text-light;
 }
 
 h1,

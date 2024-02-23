@@ -101,6 +101,10 @@
   @apply fixed top-0 w-full z-10 bg-inherit;
 }
 
+/*.content :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  @apply bg-stone-200 dark:bg-stone-400 py-1 px-2 rounded font-light text-sm;
+}*/
+
 a > svg {
   @apply h-6 w-6;
 }
@@ -126,4 +130,8 @@ img[alt$="<"] {
   float: left;
   max-width: 50%;
   padding-right: 40px; 
+}
+
+span.attribution {
+  @apply block text-center italic text-xs relative -top-6 text-text dark:text-light opacity-90;
 }
