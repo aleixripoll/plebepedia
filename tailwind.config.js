@@ -84,7 +84,7 @@ export default {
             },
             'code': {
               fontWeight: "300",
-              backgroundColor: "#eee",
+              backgroundColor: "#f3f3f3",
               padding: "3px 5px",
               fontSize: "0.8em",
               borderRadius: "0.25rem",
