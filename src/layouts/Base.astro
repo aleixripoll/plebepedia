@@ -28,14 +28,14 @@ const { title, meta_title, description, image, noindex, canonical } =
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
   <head>
     <!-- favicon -->
     <link rel="shortcut icon" href={config.site.favicon} />
     <!-- theme meta -->
     <meta name="theme-name" content="bookworm-light-astro" />
     <meta name="msapplication-TileColor" content="#000000" />
-    <meta
+    <!-- <meta
       name="theme-color"
       media="(prefers-color-scheme: light)"
       content="#fff"
@@ -44,9 +44,14 @@ const { title, meta_title, description, image, noindex, canonical } =
       name="theme-color"
       media="(prefers-color-scheme: dark)"
       content="#000"
-    />
+    />-->
     <meta name="generator" content={Astro.generator} />
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    {/* Prevents light theme flicker on load */}
+    <style>
+      html { background-color: white; }
+      html.dark { background-color: #111213; }
+    </style>
 
     <!-- google font css -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />

@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-import Share from "@components/Share.astro";
+//import Share from "@components/Share.astro";
 import SimilarPosts from "@components/SimilarPosts.astro";
 import { getSinglePage } from "@lib/contentParser.astro";
 import dateFormat from "@lib/utils/dateFormat";
@@ -27,10 +27,10 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 
 <section class="section">
   <div class="container">
-    <article class="row justify-center">
+    <article class="row justify-center text-text dark:text-light">
       <div class="text-center md:col-10">
-        <h1 set:html={markdownify(title)} class="h1" />
-        <p class="py-4 text-text text-xl">{description}</p>
+        <h1 set:html={markdownify(title)} class="h1 dark:text-white" />
+        <p class="py-4  text-xl">{description}</p>
         <ul class="mt-4 flex flex-wrap items-center justify-center">
           <li class="mx-3">
             {
@@ -54,7 +54,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                         class="mr-2 h-6 w-6 rounded-full"
                       />
                     )*/}
-                    <BiUser className="mr-1 h-[18px] w-[18px] text-gray-600" />
+                    <BiUser className="mr-1 h-[18px] w-[18px]" />
                     <span>{author.data.title}</span>
                   </a>
                 ))
@@ -116,7 +116,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                 <li class="inline-block">
                   <a
                     href={`${import.meta.env.BASE_URL}tags/${slugify(tag)}`}
-                    class="text-md block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark transition duration-300 hover:text-primary"
+                    class="text-md block rounded-lg bg-theme-light dark:bg-theme-dark px-4 py-2 font-semibold text-dark dark:text-light transition duration-300 hover:text-primary"
                   >
                     # {humanize(tag)}
                   </a>
@@ -124,12 +124,12 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
               ))
             }
           </ul>
-          <Share
+          {/* <Share
             className="social-share mb-4"
             title={title}
             description={description}
             slug={post.slug}
-          />
+          />*/}
         </div>
       </div>
     </article>
@@ -150,8 +150,8 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 }
 
 <button
-  id="back-to-top"
-  class="fixed bottom-2 right-5 hidden whitespace-nowrap rounded bg-stone-100 px-4 py-2 text-3xl font-extrabold opacity-75 hover:bg-stone-200 lg:bottom-10 lg:right-20"
+  id="scroll-to-top"
+  class="fixed bottom-2 right-4 xl:right-40 hidden whitespace-nowrap rounded bg-stone-100 dark:bg-stone-700 dark:text-light px-4 py-2 text-3xl font-extrabold opacity-60 hover:text-primary lg:bottom-10"
 >
   ^
 </button>
@@ -182,14 +182,14 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
       document.body.scrollTop > 400 ||
       document.documentElement.scrollTop > 400
     ) {
-      document.querySelector("#back-to-top").style.display = "block";
+      document.querySelector("#scroll-to-top").style.display = "block";
     } else {
-      document.querySelector("#back-to-top").style.display = "none";
+      document.querySelector("#scroll-to-top").style.display = "none";
     }
   }
   // Scrolls the document to the top when the "Back to Top" button is clicked.
   function backToTop() {
-    document.querySelector("#back-to-top")?.addEventListener("click", () => {
+    document.querySelector("#scroll-to-top")?.addEventListener("click", () => {
       document.body.scrollTop = 0; // For Safari
       document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
     });

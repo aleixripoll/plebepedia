@@ -10,6 +10,8 @@ draft: false
 date: 2024-02-09T07:00:00Z
 ---
 
+<span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/)</span>
+
 ### Tabla de contenidos
 
 ### Prólogo
@@ -47,7 +49,3 @@ https://www.hsph.harvard.edu/nutritionsource/antioxidants/
 https://www.elsevier.es/es-revista-offarm-4-articulo-influencia-radicales-libres-el-envejecimiento-13034834
 
 https://www.cun.es/diccionario-medico/terminos/radical-libre-oxigeno
-
----
-
-*Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/).*

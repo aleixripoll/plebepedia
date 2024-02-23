@@ -85,15 +85,25 @@
 
 // content style
 .content {
-  @apply prose max-w-none prose-headings:font-bold prose-h1:mb-4 prose-h1:text-h1-sm prose-h2:mb-4 prose-h2:mt-4 prose-h2:text-h2-sm prose-h3:mt-4 prose-h3:text-h3-sm prose-h4:mt-4 prose-h5:mb-4 prose-h6:mb-6 prose-blockquote:rounded-lg /*prose-blockquote:border-primary*/ prose-blockquote:bg-theme-light prose-blockquote:px-5 prose-blockquote:py-1 /*prose-blockquote:text-lg*/ prose-blockquote:leading-8 prose-pre:px-6 prose-pre:py-5 md:prose-h1:text-h1 md:prose-h2:text-h2 md:prose-h3:text-h3 lg:text-lg;
+  @apply prose dark:text-light max-w-none prose-headings:font-bold dark:prose-headings:text-light prose-h1:mb-4 prose-h1:text-h1-sm prose-h2:mb-4 prose-h2:mt-4 prose-h2:text-h2-sm prose-h3:mt-4 prose-h3:text-h3-sm prose-h4:mt-4 prose-h5:mb-4 prose-h6:mb-6 prose-blockquote:rounded-lg /*prose-blockquote:border-primary*/ prose-blockquote:bg-theme-light dark:prose-blockquote:bg-theme-dark prose-blockquote:px-5 prose-blockquote:py-1 /*prose-blockquote:text-lg*/ prose-blockquote:leading-8 prose-pre:px-6 prose-pre:py-5 md:prose-h1:text-h1 md:prose-h2:text-h2 md:prose-h3:text-h3 lg:text-lg;
   img {
     @apply rounded border-neutral-700 border;
+  }
+  a {
+    @apply dark:text-light;
+  }
+  strong {
+    @apply dark:text-stone-300;
   }
 }
 
 .sticky {
-  @apply fixed top-0 w-full bg-white z-50 border-b;
+  @apply fixed top-0 w-full z-10 bg-inherit;
 }
+
+/*.content :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
+  @apply bg-stone-200 dark:bg-stone-400 py-1 px-2 rounded font-light text-sm;
+}*/
 
 a > svg {
   @apply h-6 w-6;
@@ -120,4 +130,30 @@ img[alt$="<"] {
   float: left;
   max-width: 50%;
   padding-right: 40px; 
+}
+
+span.attribution {
+  @apply block text-center italic text-xs relative -top-6 text-text dark:text-light opacity-90;
+}
+
+.theme-switcher {
+  @apply inline-flex;
+
+  label {
+    @apply bg-border relative inline-block h-4 w-6 cursor-pointer rounded-2xl lg:w-10;
+  }
+
+  input {
+    @apply absolute opacity-0;
+  }
+
+  span {
+    @apply bg-dark absolute -top-1 left-0 flex h-6 w-6 items-center justify-center rounded-full transition-all duration-300 dark:bg-white;
+  }
+
+  input:checked + label {
+    span {
+      @apply lg:left-4;
+    }
+  }
 }

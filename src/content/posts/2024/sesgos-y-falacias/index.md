@@ -10,6 +10,9 @@ draft: false
 date: 2024-02-17T07:00:00Z
 ---
 
+<span class="attribution">Foto de Rodion Kutsaiev en [Pexels](https://www.pexels.com/photo/yellow-and-white-3-d-cube-9436715/).</span>
+
+
 ### Tabla de contenidos
 
 ### Sesgos cognitivos
@@ -82,7 +85,3 @@ Se produce cuando se realiza una inversión que parece no rentable y se razona d
 https://www.sciencedirect.com/topics/neuroscience/cognitive-bias
 
 https://es.wikipedia.org/wiki/Anexo:Sesgos_cognitivos
-
----
-
-*Foto de Rodion Kutsaiev en [Pexels](https://www.pexels.com/photo/yellow-and-white-3-d-cube-9436715/).*

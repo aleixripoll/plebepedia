@@ -25,6 +25,7 @@ if (theme.fonts.font_family.secondary) {
 /** @type {import('tailwindcss').Config} */
 export default {
   content: ["./src/**/*.{astro,html,js,jsx,md,mdx,svelte,ts,tsx,vue}"],
+  darkMode: 'selector',
   theme: {
     screens: {
       sm: "540px",
@@ -86,6 +87,7 @@ export default {
               backgroundColor: "#f3f3f3",
               padding: "3px 5px",
               fontSize: "0.8em",
+              borderRadius: "0.25rem",
             },
             'code::before': {
                 content: "",

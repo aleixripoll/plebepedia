@@ -70,8 +70,8 @@ export default function SearchBar({ searchList }: Props) {
   return (
     <div className="min-h-[45vh]">
       <input
-        className="form-input w-full text-center"
-        placeholder="Escribe aquí para buscar artículos"
+        className="form-input w-full text-center dark:bg-theme-dark border-dark"
+        placeholder="Teclea aquí para buscar"
         type="text"
         name="search"
         value={inputVal}
@@ -108,7 +108,7 @@ export default function SearchBar({ searchList }: Props) {
 
             <ul className="mt-6 mb-4 flex flex-wrap items-center justify-center text-text">
               <li className="mr-5 flex items-center flex-wrap">
-                <BiUser className="mr-1 h-[18px] w-[18px] text-gray-600" />
+                <BiUser className="mr-1 h-[18px] w-[18px]" />
                 <>
                   <ul>
                     {item.data.authors.map((author: string, i: number) => (
@@ -125,11 +125,11 @@ export default function SearchBar({ searchList }: Props) {
                 </>
               </li>
               {/*<li className="mr-5 flex items-center flex-wrap font-medium">
-                <BiCalendarEdit className="mr-1 h-5 w-5 text-gray-600" />
+                <BiCalendarEdit className="mr-1 h-5 w-5" />
                 <>{dateFormat(item.data.date)}</>
               </li>*/}
               <li className="mr-5 flex items-center flex-wrap">
-                <BiCategoryAlt className="mr-1 h-[18px] w-[18px] text-gray-600" />
+                <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />
                 <>
                   <ul>
                     {item.data.categories.map((category: string, i: number) => (
