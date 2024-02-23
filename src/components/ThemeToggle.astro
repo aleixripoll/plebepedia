@@ -73,7 +73,9 @@
       document.documentElement.classList.add("dark");
     }
 
-    window.localStorage.setItem("theme", theme);
+    // non-null assertion operator
+    // https://www.typescriptlang.org/docs/handbook/release-notes/typescript-2-0.html#non-null-assertion-operator
+    window.localStorage.setItem("theme", theme!);
 
     const handleToggleClick = () => {
       const element = document.documentElement;
@@ -83,14 +85,10 @@
       localStorage.setItem("theme", isDark ? "dark" : "light");
     };
 
+    // non-null assertion operator
     document
-      .getElementById("themeToggle")
+      .getElementById("themeToggle")!
       .addEventListener("click", handleToggleClick);
-
-    /*document
-      .getElementById("theme-switcher")
-      .addEventListener("click", handleToggleClick);
-      */
   });
 </script>
 
