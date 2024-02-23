@@ -12,11 +12,9 @@ date: 2024-02-20T07:00:00Z
 
 <span class="attribution">Foto de Markus Spiske en [Pexels](https://www.pexels.com/photo/coding-script-965345/)</span>
 
-Entrada un poco meta, vamos a hablar de algunos problemillas que encontré desplegando esta web en Github Pages y al mismo tiempo lo documento para mi yo del futuro.
+Entrada un poco meta, vamos a hablar de algunos problemillas que encontré desplegando este sitio en Github Pages.
 
-Este blog ha sido generado con [Astro](https://astro.build/). No entraremos en un versus, Astro tiene algunas cosas mejores y otras peores que otros SSGs (Static Site Generators), pero digamos que en el pasado había utilizado **Jekyll** y **Hugo** y nunca tuve problemas para mover un blog de GitHub Pages entre un repo root (`usuario.github.io`) y un repo non-root (`usuario.github.io/repo`). 
-
-Existe una guía oficial para [desplegar en Github Pages](https://docs.astro.build/en/guides/deploy/github/) pero las cosas no son tan simples. Este sería el proceso si queremos mover un sitio a un repo non-root:
+Este blog ha sido generado con [Astro](https://astro.build/). Existe una guía oficial para [desplegar en Github Pages](https://docs.astro.build/en/guides/deploy/github/), pero, al contrario que otros SSG como **Jekyll** o **Hugo**, no es trivial mover el sitio entre el root repo (`usuario.github.io`) y uno non-root (`usuario.github.io/repo`). En mi caso, usar un non-root me generaba un montón de enlaces rotos, así que inicialmente lo dejé en el root y más tarde seguí este proceso para moverlo al non-root:
 
 1. Editar `base` en `astro.config.mjs` para indicar que el root del sitio está ahora en un subpath:
 
@@ -28,12 +26,12 @@ export default defineConfig(
 }
 ```
 
-2. Actualizar **todos los enlaces** para incluir el prefijo. Esto se puede hacer añadiendo la variable de entorno `import.meta.env.BASE_URL`, puede ser bastante tedioso encontrarlos y cambiarlos todos, pero es lo que hay. Quedaría algo así:
+2. Actualizar **todos los enlaces** para incluir el prefijo, accesible en la variable de entorno `import.meta.env.BASE_URL`. Puede ser bastante tedioso encontrarlos y cambiarlos todos, quedaría algo así:
 ```
 <a href={`${import.meta.env.BASE_URL}/${post.slug}`} ... />
 ```
 
-El problema viene si quieres que tu sitio pueda moverse entre uno y otro modificando `base`: con un repo root Astro usa `base: "/"`, en el ejemplo anterior el enlace ahora quedaría como `//${post.slug}` (doble barra), lo cual rompe la generación de enlaces en Astro.
+El problema viene si quieres que tu sitio pueda moverse entre root y non-root: con un repo root Astro setea `base: "/"`, en el ejemplo anterior el enlace ahora quedaría como `//${post.slug}` (doble barra), lo cual rompe la generación de enlaces en Astro.
 
 Para solucionarlo tuve que:
 
@@ -49,7 +47,4 @@ Para solucionarlo tuve que:
 
 Ahora ya podemos mover nuestro sitio cambiando sólo `base`.
 
-Hay otro detalle a tener en cuenta: si tenemos contenido en `/public` debemos añadir el subpath; por ejemplo, si tenemos `/public/images/logo.webp` podemos acceder a esa imagen con `/images/logo.webp`, pero si usamos un repo non-root debemos cambiar el enlace a `/repo/images/logo.webp`.
-
-Lo mejor es evitar usar rutas absolutas siempre que sea posible, por ejemplo con rutas relativas en [Content Collections](https://docs.astro.build/en/guides/images/#images-in-content-collections).
-
+Otro detalle a tener en cuenta: si tenemos contenido en `/public` también debemos cambiar esos enlaces; por ejemplo si tenemos `/public/images/logo.webp` podemos acceder a esa imagen con `/images/logo.webp` en un root repo, pero debemos usar `/repo/images/logo.webp` en uno non-root. Para minimizar este problema lo ideal es usar rutas relativas con [Content Collections](https://docs.astro.build/en/guides/images/#images-in-content-collections).
