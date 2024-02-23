@@ -22,25 +22,31 @@
     background: none;
   }
   .sun {
-    fill: rgb(5 16 21);
+    fill: transparent;
+    transition: transform 1.0s;
+    transform-origin: center;
   }
   .moon {
-    fill: transparent;
+    fill: rgb(5 16 21);
+    transition: transform 1.0s;
+    transform-origin: center;
   }
-  #themeToggle:hover .sun {
-    fill: orangered;
+  #themeToggle:hover .moon {
+    fill: rgb(91, 179, 216);
+    transform: rotate(120deg);
   }
   :global(.dark) .sun {
-    fill: transparent;
+    fill: rgb(129, 138, 157);
   }
   :global(.dark) .moon {
-    fill: rgb(161 165 174);
-  }
-  :global(.dark) #themeToggle:hover .sun {
     fill: transparent;
   }
+  :global(.dark) #themeToggle:hover .sun {
+    fill: orangered;
+    transform: rotate(90deg);
+  }
   :global(.dark) #themeToggle:hover .moon {
-    fill: skyblue;
+    fill: transparent;
   }
 </style>
 
@@ -80,6 +86,11 @@
     document
       .getElementById("themeToggle")
       .addEventListener("click", handleToggleClick);
+
+    /*document
+      .getElementById("theme-switcher")
+      .addEventListener("click", handleToggleClick);
+      */
   });
 </script>
 
