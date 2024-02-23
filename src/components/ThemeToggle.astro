@@ -22,32 +22,32 @@
     background: none;
   }
   .sun {
-    fill: transparent;
-    transition: transform 1.0s;
-    transform-origin: center;
-  }
-  .moon {
     fill: rgb(5 16 21);
     transition: transform 1.0s;
     transform-origin: center;
   }
-  :global(.dark) .sun {
-    fill: rgb(129, 138, 157);
+  .moon {
+    fill: transparent;
+    transition: transform 1.0s;
+    transform-origin: center;
   }
-  :global(.dark) .moon {
+  :global(.dark) .sun {
     fill: transparent;
   }
+  :global(.dark) .moon {
+    fill: rgb(129, 138, 157);
+  }
   @media only screen and (min-width: 768px) {
-    #themeToggle:hover .moon {
-    fill: rgb(91, 179, 216);
-    transform: rotate(120deg);
-    }
-    :global(.dark) #themeToggle:hover .sun {
+    #themeToggle:hover .sun {
       fill: orangered;
       transform: rotate(90deg);
     }
-    :global(.dark) #themeToggle:hover .moon {
+    :global(.dark) #themeToggle:hover .sun {
       fill: transparent;
+    }
+    :global(.dark) #themeToggle:hover .moon {
+      fill: rgb(91, 179, 216);
+      transform: rotate(120deg);
     }
   }
 </style>
