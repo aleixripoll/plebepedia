@@ -101,10 +101,6 @@
   @apply fixed top-0 w-full z-10 bg-inherit;
 }
 
-/*.content :where(code):not(:where([class~="not-prose"], [class~="not-prose"] *)) {
-  @apply bg-stone-200 dark:bg-stone-400 py-1 px-2 rounded font-light text-sm;
-}*/
-
 a > svg {
   @apply h-6 w-6;
 }
