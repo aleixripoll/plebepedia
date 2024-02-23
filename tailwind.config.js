@@ -87,6 +87,7 @@ export default {
               backgroundColor: "#eee",
               padding: "3px 5px",
               fontSize: "0.8em",
+              borderRadius: "0.25rem",
             },
             'code::before': {
                 content: "",
