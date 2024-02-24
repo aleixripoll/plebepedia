@@ -28,7 +28,7 @@ Vamos a ello.
 
 ## Macroelementos
 
-Son 7, como les *boles de drac*, y si no los juntas todos y en las cantidades adequadas te quedas *moñeco*.
+Son 7, como les *boles de drac*, y si no los juntas todos y en las cantidades adecuadas te quedas *moñeco*.
 
 ### Calcio
 - Formación de **huesos y dientes**. También: coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
