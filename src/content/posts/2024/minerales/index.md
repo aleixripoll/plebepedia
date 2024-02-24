@@ -31,7 +31,7 @@ Vamos a ello.
 Son 7, como les *boles de drac*, y si no los juntas todos y en las cantidades adecuadas te quedas *moñeco*.
 
 ### Calcio
-- Formación de **huesos y dientes**. También: coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
+Formación de **huesos y dientes**. También: coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
 - **Fuentes:** **Lácteos** (fuente principal aunque baja biodisponiblidad, ~30%). También en: sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de **oxalatos y fitatos** que se adhieren al calcio y no permiten su absorción).
 - **Deficiencia:** Rampas musculares, hormigueo o falta de sensibilidad en los dedos.
 - **Toxicidad:** Llamada **hipercalcemia**: dolor en el pecho, sensación de falta de aire, estreñimiento. A largo plazo pueden producir piedras en los riñones o cáncer de próstata. Bloqueo de la absorción de hierro (anemia) y zinc.
