@@ -49,14 +49,14 @@ const { posts } = Astro.props;
             </>
           </li>
         </ul>
-        <h5>
+        <h4>
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
             class="block transition duration-300 hover:text-primary text-center"
           >
             {post.data.title}
           </a>
-        </h5>
+        </h4>
       </div>
     ))
   }
