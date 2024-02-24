@@ -1,7 +1,7 @@
 ---
 title: "Vitaminas: generalidades"
 slug: vitaminas
-description: "Los detalles de cada una los dejamos para otro día."
+description: "Los detalles para otro día."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
 categories: ["nutrición"]
