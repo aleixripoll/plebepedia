@@ -71,8 +71,8 @@ const { className, posts, fluid } = Astro.props;
             <BiCalendarEdit className="mr-1 h-5 w-5" />
             <>{dateFormat(post.data.date)}</>
           </li>*/}
-          <li class="mr-5 flex flex-wrap items-center">
-            <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />
+          <li class="flex flex-wrap items-center">
+            <BiCategoryAlt className="pr-1 h-[18px] w-[18px]" />
             <>
               <ul>
                 {post.data.categories.map((category: string, i: number) => (

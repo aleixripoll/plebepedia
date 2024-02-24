@@ -128,8 +128,8 @@ export default function SearchBar({ searchList }: Props) {
                 <BiCalendarEdit className="mr-1 h-5 w-5" />
                 <>{dateFormat(item.data.date)}</>
               </li>*/}
-              <li className="mr-5 flex items-center flex-wrap">
-                <BiCategoryAlt className="mr-1 h-[18px] w-[18px]" />
+              <li className="flex items-center flex-wrap">
+                <BiCategoryAlt className="pr-1 h-[18px] w-[18px]" />
                 <>
                   <ul>
                     {item.data.categories.map((category: string, i: number) => (
