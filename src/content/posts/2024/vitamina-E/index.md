@@ -1,7 +1,7 @@
 ---
 title: "Vitamina E"
 slug: vitamina-e
-description: "También conocida como alfa-tocoferol."
+description: "Alfa-tocoferol para los amigos."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-cottonbro-studio-9811623.jpg"
 categories: ["nutrición"]
