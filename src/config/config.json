@@ -23,12 +23,12 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Copyright © 2024. Tema basado en [Bookworm Light](https://astro.build/themes/details/bookworm-light/) de [Themefisher](https://themefisher.com)."
+    "copyright": "Tema basado en [Bookworm Light](https://astro.build/themes/details/bookworm-light/) de [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
     "address": "No adress",
-    "email": "drfenilalanino@gmail.com",
+    "email": "nomail@gmail.com",
     "phone": "555-123-456"
   },
 

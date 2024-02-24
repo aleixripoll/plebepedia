@@ -16,7 +16,7 @@ const { posts } = Astro.props;
             class="group block overflow-hidden rounded-lg hover:text-primary"
           >
             <Image
-              class="w-full transition duration-300 group-hover:scale-[1.05] max-h-40"
+              class="w-full transition duration-300 group-hover:scale-[1.05] max-h-40 object-cover"
               src={post.data.image}
               alt={post.data.title}
               width={445}
@@ -24,7 +24,7 @@ const { posts } = Astro.props;
             />
           </a>
         )}
-        <ul class="mt-4 flex flex-wrap items-center justify-center text-sm text-text">
+        {/*<ul class="mt-4 flex flex-wrap items-center justify-center text-sm text-text">
           {post.data.date && (
           <li class="mb-2 mr-4 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-[16px] w-[16px]" />
@@ -48,8 +48,8 @@ const { posts } = Astro.props;
               </ul>
             </>
           </li>
-        </ul>
-        <h4>
+        </ul>*/}
+        <h4 class="mt-4 text-xl">
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
             class="block transition duration-300 hover:text-primary text-center"
@@ -57,6 +57,11 @@ const { posts } = Astro.props;
             {post.data.title}
           </a>
         </h4>
+        <p class="my-2 text-text dark:text-light text-sm text-center">
+          {
+            post.data.description && post.data.description
+          }
+        </p>
       </div>
     ))
   }

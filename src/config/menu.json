@@ -17,5 +17,10 @@
       "url": "tags"
     }
   ],
-  "footer": []
+  "footer": [
+    {
+      "name": "plebepedia",
+      "url": ""
+    }
+  ]
 }
