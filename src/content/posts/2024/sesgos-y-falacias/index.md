@@ -28,9 +28,8 @@ Tendencia a favorecer las informaciones que confirman nuestras teorías previas,
 Tendencia a atribuir más valor a las cosas por el hecho de poseerlas (**aversión a la pérdida**).
 
 #### Sesgo de correspondencia o error fundamental de atribución
-- Tendencia a juzgar los comportamientos ajenos sobredimensionando los motivos internos y minimizando los externos.
-- Cuando las personas piensan en sí mismas atribuyen su éxito a una cualidad personal interna (inteligencia, fuerza, carácter) y sus fracasos a circunstancias externas (mala suerte).
-- Cuando las personas piensan en otros, atribuyen sus aciertos a circunstancias externas (suerte) y los fallos o características internas (estupidez, debilidad).
+- Atribuimos nuestro éxito a cualidades personales (inteligencia, fuerza, carácter) y nuestros fracasos a circunstancias externas (mala suerte).
+- Atribuimos el éxito ajeno a circunstancias externas (suerte) y los fallos a características internas (estupidez, debilidad).
 
 #### Sesgo de debilidad y fortaleza
 - Tendencia a juzgar positivamente los comportamientos y los argumentos de las personas más débiles.
