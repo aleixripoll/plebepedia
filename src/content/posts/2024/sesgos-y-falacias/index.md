@@ -32,7 +32,7 @@ Tendencia a atribuir más valor a las cosas por el hecho de poseerlas (**aversi�
 - Atribuimos el éxito ajeno a circunstancias externas (suerte) y los fallos a características internas (estupidez, debilidad).
 
 #### Sesgo de debilidad y fortaleza
-- Tendencia a juzgar positivamente los comportamientos y los argumentos de las personas más débiles.
+- Juzgar positivamente los comportamientos y los argumentos de las personas más débiles.
 - De manera inversa, también existe la tendencia a pensar que los más fuertes (físicamente o intelectualmente) son sistemáticamente más poseedores de la verdad.
 
 #### Efecto halo
