@@ -1,7 +1,7 @@
 ---
-title: "Vitaminas, visión general"
-slug: vitaminas-vision-general
-description: "Be water (or fat) my friend."
+title: "Vitaminas: generalidades"
+slug: vitaminas
+description: "Los detalles de cada una los dejamos para otro día."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
 categories: ["nutrición"]
@@ -10,14 +10,10 @@ draft: false
 date: 2024-02-07T07:00:00Z
 ---
 
-## Tabla de contenidos
-
-## Definición y clasificación
-
-Son substancias **orgánicas** (= contienen carbono y casi siempre junto con hidrógeno) que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
+Las vitaminas son substancias **orgánicas** [^1] que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
 
 - **Hidrosolubles:** B, C.
-- **Liposolubles:** A, D, E, K.
+- **Liposolubles:** [A](./vitamina-a), [D](./vitamina-d), [E](./vitamina-e), K.
 
 Si no le salen los números es porque la B no es una vitamina sino un grupo de 6 vitaminas (**1:** Tiamina, **2:** Riboflavina, **3:** Niacina, **5:** Ácido pantoténico, **6:** Piridoxina, **12:** Cianocobalamina).
 
@@ -25,7 +21,7 @@ Si no le salen los números es porque la B no es una vitamina sino un grupo de 6
 
 Somos seres de agua.
 
-El aceite no se mezcla con el agua [^1].
+El aceite no se mezcla con el agua [^2].
 
 Por lo tanto podemos almacenar vitaminas que se disuelven en aceite (**liposolubles**), pero **NO** podemos almacenar las que se disuelven en agua (**hidrosolubles**), por el mismo motivo por el que no podemos almacenar una pastilla efervescente en una garrafa de Solán de Cabras.
 
@@ -45,4 +41,6 @@ https://medlineplus.gov/spanish/ency/article/002399.htm
 
 ---
 
-[^1]: Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero eso es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, no hay grandes fuerzas internas y no se generan cargas eléctricas externas, por lo tanto el aceite no reacciona en contacto con el agua, es como juntar un imán con una tabla de madera. Por otra parte las fuerzas de atracción del oxígeno compactan la molécula y aumentan su densidad. Y así, niños, es como el agua cae al fondo y el aceite flota en el agua.
+[^1]: Los compuestos orgánicos son aquellos que contienen carbono, casi siempre junto con hidrógeno.
+
+[^2]: Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero en realidad es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, no hay grandes fuerzas internas y no se generan cargas eléctricas, por lo tanto el aceite no reacciona en contacto con el agua, es como juntar un imán con madera. Por otra parte las fuerzas de atracción del oxígeno compactan la molécula y aumentan su densidad. Y así, niños, es como el agua cae al fondo y el aceite flota en el agua.

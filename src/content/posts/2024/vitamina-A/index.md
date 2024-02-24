@@ -13,7 +13,7 @@ date: 2024-01-04T07:00:00Z
 ### Tabla de contenidos
 
 ### Conceptos generales
-- Es una vitamina **[liposoluble](/vitaminas-vision-general)**.
+- Es una vitamina **[liposoluble](./vitaminas)**.
 - No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 
 #### Retinoides
@@ -28,9 +28,9 @@ date: 2024-01-04T07:00:00Z
 - A mayor complejidad de la matriz alimentaria, menor biodisponibilidad y absorción: las verduras son más complejas que las frutas; los alimentos crudos son más complejos que cocinados. El cocinado aumenta su biodisponibilidad, pero un cocinado excesivo la destruye.
 - Consumirlos con grasa aumenta su absorción.
 - Consumirlos junto con fibra soluble **disminuye** su absorción.
-- Las deficiencias de [zinc y hierro](/minerales) **disminuyen** su absorción.
+- Las deficiencias de [zinc y hierro](./minerales) **disminuyen** su absorción.
 - A medida que aumenta la dosis se reduce su absorción, por lo tanto no es posible la intoxicación por vitamina A con carotenoides.
-- Bonus: los carotenoides son **[antioxidantes](/antioxidantes)**.
+- Bonus: los carotenoides son **[antioxidantes](./antioxidantes)**.
 
 ### Funciones
 - **Visión nocturna** [^1].

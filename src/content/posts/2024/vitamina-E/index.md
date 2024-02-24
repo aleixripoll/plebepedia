@@ -16,11 +16,11 @@ date: 2024-02-19T07:00:00Z
 ### Tabla de contenidos
 
 ### Conceptos generales
-- Es una vitamina **[liposoluble](/vitaminas-vision-general)**.
+- Es una vitamina **[liposoluble](./vitaminas)**.
 - Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
 
 ### Funciones
-- [Antioxidante](/antioxidantes).
+- [Antioxidante](./antioxidantes).
 - Componente del sistema inmune.
 - Prevención de coágulos en las arterias.
 
