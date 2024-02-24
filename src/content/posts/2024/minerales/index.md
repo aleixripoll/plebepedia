@@ -4,7 +4,7 @@ slug: minerales
 description: "Todo lo que hay que comer de la tabla periódica."
 authors: ["Dra. Valina"]
 image: "./pexels-cottonbro-studio-7012263.jpg"
-categories: ["biología", "nutrición"]
+categories: ["nutrición"]
 tags: ["micronutrientes", "minerales"]
 draft: false
 date: 2024-02-09T07:00:00Z

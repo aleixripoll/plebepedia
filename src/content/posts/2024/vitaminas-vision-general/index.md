@@ -4,7 +4,7 @@ slug: vitaminas-vision-general
 description: "Be water (or fat) my friend."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
-categories: ["biología", "nutrición"]
+categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-02-07T07:00:00Z
