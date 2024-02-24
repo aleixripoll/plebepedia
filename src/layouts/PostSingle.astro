@@ -29,10 +29,10 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
   <div class="container">
     <article class="row justify-center text-text dark:text-light">
       <div class="text-center md:col-10">
-        <h1 set:html={markdownify(title)} class="h1 dark:text-white" />
-        <p class="py-4  text-xl">{description}</p>
-        <ul class="mt-4 flex flex-wrap items-center justify-center">
-          <li class="mx-3">
+        <h1 set:html={markdownify(title)} class="h2 dark:text-white" />
+        <p class="py-2 text-lg">{description}</p>
+        <ul class="mt-2 flex flex-wrap items-center justify-center">
+          {/*<li class="mx-3">
             {
               allAuthors
                 .filter((author: any) =>
@@ -45,7 +45,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                     href={`${import.meta.env.BASE_URL}authors/${slugify(author.slug)}`}
                     class="flex items-center font-medium hover:text-primary"
                   >
-                    {/*author.data.image && (
+                    {author.data.image && (
                       <Image
                         src={author.data.image}
                         alt={author.data.title}
@@ -53,13 +53,13 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                         width={50}
                         class="mr-2 h-6 w-6 rounded-full"
                       />
-                    )*/}
+                    )}
                     <BiUser className="mr-1 h-[18px] w-[18px]" />
                     <span>{author.data.title}</span>
                   </a>
                 ))
             }
-          </li>
+          </li>*/}
           <li class="mx-3 flex flex-wrap items-center font-medium">
             <BiCalendarEdit className="mr-1 h-5 w-5" />
             <>

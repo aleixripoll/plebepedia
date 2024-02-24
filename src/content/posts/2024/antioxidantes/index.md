@@ -12,9 +12,6 @@ date: 2024-02-09T07:00:00Z
 
 <span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/)</span>
 
-### Tabla de contenidos
-
-### Prólogo
 
 ¿Es usted uno de esos plebeyo-cuñados que dan la turra con los antioxidantes en las cenas de navidad sin tener la menor idea de lo que habla? Pues eso se acabó.
 
