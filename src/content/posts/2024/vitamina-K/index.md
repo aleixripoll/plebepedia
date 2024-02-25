@@ -1,7 +1,7 @@
 ---
 title: "Vitamina K"
 slug: vitamina-k
-description: "Forma huesos, cierra heridas y está en las verduras."
+description: "Forma huesos, cierra heridas y se encuentra en las verduras."
 authors: ["Dra. Valina"]
 image: "./pexels-yaroslav-shuraev-8845078.jpg"
 categories: ["nutrición"]
