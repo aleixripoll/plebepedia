@@ -13,7 +13,7 @@ date: 2024-02-07T07:00:00Z
 Las vitaminas son substancias **orgánicas** [^1] que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
 
 - **Hidrosolubles:** B, C.
-- **Liposolubles:** [A](../vitamina-a), [D](../vitamina-d), [E](../vitamina-e), K.
+- **Liposolubles:** [A](../vitamina-a), [D](../vitamina-d), [E](../vitamina-e), [K](../vitamina-k]).
 
 Si no le salen los números es porque la B no es una vitamina sino un grupo de 6 vitaminas (**1:** Tiamina, **2:** Riboflavina, **3:** Niacina, **5:** Ácido pantoténico, **6:** Piridoxina, **12:** Cianocobalamina).
 
