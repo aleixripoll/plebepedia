@@ -93,12 +93,12 @@ const { className, posts, fluid } = Astro.props;
         <h3 class="mb-2">
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
-            class="block hover:text-primary dark:text-white"
+            class="block hover:text-primary dark:text-white px-2"
           >
             {post.data.title}
           </a>
         </h3>
-        <p class="text-text dark:text-light lg:text-lg">
+        <p class="text-text dark:text-light lg:text-lg px-2">
           {
             post.data.description ? post.data.description :
             post.body?.slice(
