@@ -1,7 +1,7 @@
 ---
 title: "Vitamina K"
 slug: vitamina-k
-description: "Forma huesos, cierra heridas y se encuentra en las verduras."
+description: "Filoquinona y menaquinona para los amigos."
 authors: ["Dra. Valina"]
 image: "./pexels-yaroslav-shuraev-8845078.jpg"
 categories: ["nutrición"]
