@@ -14,7 +14,7 @@ date: 2024-02-25T07:00:00Z
 
 
 - Es una vitamina **[liposoluble](../vitaminas)**.
-- Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, y también en productos fermentados y producida por bacterias de nuestro cuerpo. 
+- Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, que puede ser producida por bacterias de nuestro cuerpo. 
 
 ### Funciones
 - Síntesis de proteínas necesarias para coagular la sangre (curación heridas) y formación huesos.
