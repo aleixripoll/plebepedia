@@ -3,14 +3,12 @@ title: "Minerales"
 slug: minerales
 description: "Todo lo que hay que comer de la tabla periódica."
 authors: ["Dra. Valina"]
-image: "./pexels-cottonbro-studio-7012263.jpg"
+image: "./minerales.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "minerales"]
 draft: false
 date: 2024-02-09T07:00:00Z
 ---
-
-<span class="attribution">Foto de cottonbro studio en [Pexels](https://www.pexels.com/es-es/foto/educacion-conocimiento-de-cerca-tabla-periodica-de-los-elementos-7012263/)</span>
 
 ## Tabla de contenidos
 
