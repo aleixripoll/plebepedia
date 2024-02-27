@@ -1,5 +1,5 @@
 ---
-title: "Vitaminas: generalidades"
+title: "Vitaminas, lo básico"
 slug: vitaminas
 description: "Los detalles para otro día."
 authors: ["Dra. Valina"]

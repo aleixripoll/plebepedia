@@ -13,24 +13,15 @@ date: 2024-02-09T07:00:00Z
 ## Tabla de contenidos
 
 ## Introducción
-Son substancias **inorgánicas** presentes en el suelo y el agua que el cuerpo necesita en pequeñas cantidades. Se dividen en dos grupos según si la cantidad requerida supera (o no) los 50mg al día.
-
-Hay un montón y es imposible para un plebeyo recordar todo sobre todos, así que intentaré resumir lo principal. Tras mi primera incursión la impresión general es que:
-- Las deficiencias y toxicidades de un mismo mineral tienen síntomas bastante similares.
-- Las deficiencias y toxicidades de muchos minerales incluyen un cuadro general bastante similar de **debilidad, nauseas, pérdida de apetito y alteraciones del ritmo cardíaco (taquicardias)**.
-- Casi todos los alimentos de origen animal (carne, pescado, huevos, lácteos) son fuente de casi todos los minerales.
-
-Por estos motivos intentaré centrarme en pocas características recordables en vez de 20 que no recordaremos.
-
-Vamos a ello.
+Son substancias **inorgánicas** presentes en el suelo y el agua que el cuerpo necesita en pequeñas cantidades. Se dividen en dos grupos según la cantidad requerida.
 
 ## Macroelementos
 
-Son 7, como les *boles de drac*, y si no los juntas todos y en las cantidades adecuadas te quedas *moñeco*.
+Necesitamos más de 50mg al día. Son 7.
 
 ### Calcio
 Formación de **huesos y dientes**. También: coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
-- **Fuentes:** **Lácteos** (fuente principal aunque baja biodisponiblidad, ~30%). También en: sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de **oxalatos y fitatos** que se adhieren al calcio y no permiten su absorción).
+- **Fuentes:** Lácteos (fuente principal aunque baja biodisponibilidad, ~30%). También en: sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de **oxalatos y fitatos** que se adhieren al calcio y no permiten su absorción).
 - **Deficiencia:** Rampas musculares, hormigueo o falta de sensibilidad en los dedos.
 - **Toxicidad:** Llamada **hipercalcemia**: dolor en el pecho, sensación de falta de aire, estreñimiento. A largo plazo pueden producir piedras en los riñones o cáncer de próstata. Bloqueo de la absorción de hierro (anemia) y zinc.
 
@@ -41,7 +32,7 @@ Es un **electrolito** (tiene carga eléctrica) lo que le confiere propiedades de
 - **Toxicidad:** Hipertensión.
 
 ### Fósforo
-Junto con el calcio, formación de huesos y dientes. También: cofactor enzimático, regulación pH sanguíneo, función muscular, producción de: neurotransmisores, ADN, ARN y ATP.
+Junto con el calcio, formación de huesos y dientes. También: cofactor enzimático, regulación pH sanguíneo, función muscular, producción de: neurotransmisores, ADN, ARN, ATP.
 - **Fuentes:** Productos de **origen animal** (lácteos, carne, pescado, marisco, huevos), legumbres, nueces. Mayor absorción en fuentes de origen animal que vegetal. Las semillas, legumbres y cereales integrales lo contienen en forma de **fitatos (ácido fítico)** para los que no tenemos la enzima necesaria (fitasa) y debemos remojarlas/cocinarlas para aumentar su biodisponibilidad. En caso contrario, no sólo no absorbemos su fósforo, sino que a su paso por el tracto digestivo se adhiere al fósforo, hierro y zinc que se encuentra por el camino, disminuyendo su absorción.
 - **Deficiencia:** Llamada **hipofosfatemia**, rara, se suele producir por disfunción renal o exceso de **hormona paratiroidea**. Síntomas: dolor de huesos, anemia, aumento de las infecciones.
 - **Toxicidad:** Llamada **hiperfosfatemia**, muy rara ya que el cuerpo elimina el exceso a través de la orina.

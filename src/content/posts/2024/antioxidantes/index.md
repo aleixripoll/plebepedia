@@ -1,7 +1,7 @@
 ---
 title: "Antioxidantes"
 slug: antioxidantes
-description: "Hablar de ellos sin saber lo que son hace llorar al niño Jesús."
+description: "Saber lo que son antes de mentarlos es bien."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-any-lane-5946101.jpg
 categories: ["nutrición"]
@@ -11,9 +11,6 @@ date: 2024-02-09T07:00:00Z
 ---
 
 <span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/)</span>
-
-
-¿Es usted uno de esos plebeyo-cuñados que dan la turra con los antioxidantes en las cenas de navidad sin tener la menor idea de lo que habla? Pues eso se acabó.
 
 Para hablar de antioxidantes primero tenemos que entender qué es un oxidante, y eso nos lleva a hablar de los **radicales libres**.
 

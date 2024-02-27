@@ -1,7 +1,7 @@
 ---
 title: "Vitamina K"
 slug: vitamina-k
-description: "Filoquinona y menaquinona para los amigos."
+description: "Filo y mena(quinona) para los amigos."
 authors: ["Dra. Valina"]
 image: "./pexels-yaroslav-shuraev-8845078.jpg"
 categories: ["nutrición"]
