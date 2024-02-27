@@ -3,14 +3,14 @@ title: "Astro en GitHub Pages"
 slug: astro-github-pages
 description: "Cómo cambiar de base URL sin morir en el intento."
 authors: ["Dra. Valina"]
-image: "./pexels-markus-spiske-965345.jpg"
+image: "./pexels-seppe-machielsen-14011035.jpg"
 categories: ["tecnología", "desarrollo"]
 tags: ["astro", "github pages", "deployment"]
 draft: false
 date: 2024-02-20T07:00:00Z
 ---
 
-<span class="attribution">Foto de Markus Spiske en [Pexels](https://www.pexels.com/photo/coding-script-965345/)</span>
+<span class="attribution">Foto de seppe machielsen en [Pexels](https://www.pexels.com/ca-es/foto/fosc-internet-abstracte-connexio-14011035/)</span>
 
 Entrada un poco meta, vamos a hablar de algunos problemillas que encontré desplegando este sitio en Github Pages.
 

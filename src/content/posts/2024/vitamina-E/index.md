@@ -3,14 +3,14 @@ title: "Vitamina E"
 slug: vitamina-e
 description: "Alfa-tocoferol para los amigos."
 authors: ["Dr. Fenilalanino"]
-image: "./pexels-cottonbro-studio-9811623.jpg"
+image: "./pexels-engin-akyurt-5425021.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-02-19T07:00:00Z
 ---
 
-<span class="attribution">Foto de cottonbro studio en [Pexels](https://www.pexels.com/es-es/foto/comida-marron-avellanas-garbanzos-9811623/)</span>
+<span class="attribution">Foto de Engin Akyurt en [Pexels](https://www.pexels.com/ca-es/foto/menjar-llavors-berenar-avellanes-5425021/)</span>
 
 
 ### Tabla de contenidos
