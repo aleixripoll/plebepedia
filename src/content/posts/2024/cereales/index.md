@@ -2,7 +2,7 @@
 title: "Cereales"
 slug: cereales
 description: "Trigo contra todos."
-authors: ["Dr. Fenilalanino"]
+authors: ["Dra. Valina"]
 image: ./pexels-pixabay-162769.jpg
 categories: ["nutrición"]
 tags: ["pan", "trigo", "centeno", "espelta", "kamut", "sarraceno"]
