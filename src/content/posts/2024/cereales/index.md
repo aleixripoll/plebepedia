@@ -39,17 +39,21 @@ Encontré [este artículo](https://www.elmundo.es/papel/boticaria-garcia/2020/03
 ### Kamut
 - Menos gluten.
 - Contiene menos agua que otros cereales (= mayor densidad nutricional).
-- Más proteínas y acidos grasos (omega 6).
+- Más proteínas y ácidos grasos (omega 6).
 - Contiene **8 de los 9 aminoácidos esenciales**, lo que lo convierte en una proteína casi completa.
 - Más vitaminas (B1, B2, B3, E) y minerales (magnesio, selenio, zinc, fósforo, hierro, calcio, potasio) que el trigo.
 - Importado de América (= más caro y menos sostenible).
 
 ### Trigo sarraceno
-*(en: buckwheat, ca: blat sarraí)*
+*(en: buckwheat, ca: fajol)*
 - Es un **pseudocereal**, como la quinoa.
 - No contiene gluten (menos esponjoso, más digestivo).
+- Más proteínas y ácidos grasos (omega 3 y 6)
+- Algo superior en vitaminas y minerales.
 - Más caro.
 
 
 ## Conclusión
-Consumir cereales **integrales** es más importante que el cereal elegido.
+- Consumir cereales **integrales** es más importante que el cereal elegido.
+- Si no sufrimos alergia o intolerancia al gluten, no hay ninguna necesidad ni beneficio en suprimirlo de la dieta.
+- La variedad (en cereales y en la dieta en general) es más importante que las modas.
