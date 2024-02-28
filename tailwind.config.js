@@ -72,15 +72,17 @@ export default {
         DEFAULT: {
           css: {
             'blockquote p:first-of-type::before': {
-              fontSize: "2em",
-              color: "#999",
-              verticalAlign: "middle",
-              paddingRight: "5px",
+              //fontSize: "2em",
+              //color: "#999",
+              //verticalAlign: "middle",
+              //paddingRight: "5px",
+              content: "",
             },
             'blockquote p:last-of-type::after': {
-              fontSize: "2em",
-              color: "#999",
-              verticalAlign: "middle",
+              //fontSize: "2em",
+              //color: "#999",
+              //verticalAlign: "middle",
+              content: "",
             },
             'code': {
               fontWeight: "300",
