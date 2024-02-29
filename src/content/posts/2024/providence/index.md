@@ -12,7 +12,7 @@ date: 2024-02-28T07:00:00Z
 
 <span class="attribution">Foto de Edvin Richardson en [Pexels](https://www.pexels.com/photo/space-shuttle-launch-during-nighttime-796206/)</span>
 
-Soy muy fan de Max Barry, he leído casi todo lo que ha escrito y recomiendo especialmente **Syrup**, **Lexicon**, **Jennifer Government** y **Providence**.
+Soy muy fan de Max Barry, he leído casi todo lo que ha escrito y recomiendo especialmente **Syrup**, **Lexicon**, **Jennifer Government** y **Providence** (a tener en cuenta: tanto Providence como Syrup, inexplicablemente, no están traducidas al castellano).
 
 Providence nos situa en un futuro donde la humanidad está en guerra con una especie alienígena, el libro nos cuenta las desventuras de la tripulación de una nave espacial en misión de búsqueda y exterminio. Aunque por la descripción pueda parecer una fumada pseudo-Marvel, en realidad la historia se centra en las vivencias y reflexiones de sus protagonistas más que en la guerra en sí.
 
