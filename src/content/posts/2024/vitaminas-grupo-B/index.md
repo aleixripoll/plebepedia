@@ -15,7 +15,9 @@ date: 2024-03-02T07:00:00Z
 
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
 
-### B1
+### B1: Tiamina
+- Funciones: Interviene en varias funciones celulares y en el metabolismo energético.
+- Deficiencia: La principal es la degeneración cognitiva.
 
 ### B2
 
@@ -30,5 +32,7 @@ date: 2024-03-02T07:00:00Z
 ---
 
 ##### Referencias
+
+https://www.hsph.harvard.edu/nutritionsource/vitamin-b1/
 
 
