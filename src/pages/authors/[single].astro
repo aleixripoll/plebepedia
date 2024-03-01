@@ -56,7 +56,7 @@ const currentPosts = sortPostsByDate.filter((post) => {
               currentPosts.length < 3 ? "justify-center" : ""
             }`}
           >
-            {currentPosts.map((post: any) => (
+            {currentPosts.slice(0, 6).map((post: any) => (
               <div class="col-12 sm:col-6 lg:col-4">
                 {post.data.image && (
                   <a
