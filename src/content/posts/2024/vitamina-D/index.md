@@ -3,14 +3,14 @@ title: "Vitamina D"
 slug: vitamina-d
 description: "Sol y playa."
 authors: ["Dr. Fenilalanino"]
-image: "./pexels-any-lane-5945720.jpg"
+image: "./pexels-nuno-campos-1834609.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-02-18T07:00:00Z
 ---
 
-<span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/person-showing-slice-of-ripe-kiwi-5945720/)</span>
+<span class="attribution">Foto de Nuno Campos en [Pexels](https://www.pexels.com/photo/clear-glass-ball-on-brown-sands-1834609/)</span>
 
 
 ### Tabla de contenidos
@@ -29,7 +29,7 @@ date: 2024-02-18T07:00:00Z
 ### Fuentes alimentarias
 - No está presente en prácticamente ningún alimento. La principal fuente en la dieta son los **pescados grasos** (trucha, salmón, atún, caballa) y en menor cantidad huevos y lácteos.
 - Algunos alimentos (leche, yogurts, cereales) están enriquecidos con vitamina D.
-- En muchos casos son necesarios suplementos farmacológicos.
+- En muchos casos son necesarios suplementos.
 
 ### Síntesis cutánea
 - El cuerpo sintetiza colecalciferol en la piel a través de la radiación solar.
