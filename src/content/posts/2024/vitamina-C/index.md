@@ -32,7 +32,7 @@ date: 2024-03-01T07:00:00Z
 
 ### Deficiencia
 Rara, puede ocurrir en dietas pobres en frutas y hortalizas, en fumadores (activos y pasivos) y en personas con altos consumos de alcohol o drogas. Síntomas:
-- **Escorbuto**: Pérdida de colágeno (rotura de vasos sanguíneos, sangrado de encías, pérdida de cabello, lenta curación de heridas)
+- **Escorbuto**: Pérdida de colágeno (rotura de vasos sanguíneos, sangrado de encías, pérdida de cabello, curación de heridas más lenta)
 - Fatiga
 - Anemia
 
