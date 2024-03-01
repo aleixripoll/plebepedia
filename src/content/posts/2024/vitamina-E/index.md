@@ -13,9 +13,6 @@ date: 2024-02-19T07:00:00Z
 <span class="attribution">Foto de Engin Akyurt en [Pexels](https://www.pexels.com/ca-es/foto/menjar-llavors-berenar-avellanes-5425021/)</span>
 
 
-### Tabla de contenidos
-
-### Conceptos generales
 - Es una vitamina **[liposoluble](../vitaminas)**.
 - Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
 
@@ -32,7 +29,7 @@ date: 2024-02-19T07:00:00Z
 
 ### Deficiencia
 - Rara, se puede producir por problemas digestivos que impidan absorber grasas.
-- **Síntomas:** Retinopatía (daño en la retina), neuropatía periférica (manos y pies), ataxia (pérdida de control muscular, movimientos torpes), afectación al sistema inmune.
+- **Síntomas:** Retinopatía, neuropatía en manos y pies, ataxia (pérdida de control muscular, movimientos torpes), afectación al sistema inmune.
 
 ### Toxicidad
 - Sin evidencias.

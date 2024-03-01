@@ -20,7 +20,7 @@ date: 2024-02-25T07:00:00Z
 - Síntesis de proteínas necesarias para coagular la sangre (curación heridas) y formación huesos.
 
 ### Fuentes
-- Verduras (col, espinaca, lechuga, brócoli, kale, repollo, hoja de nabo).
+- Verduras (col, espinaca, lechuga, brócoli, kale, repollo).
 
 ### Deficiencia
 - Muy rara, puede ocurrir si se toman medicamentos que bloquean su absorción.
