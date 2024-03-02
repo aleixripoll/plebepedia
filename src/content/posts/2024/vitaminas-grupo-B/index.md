@@ -18,31 +18,50 @@ date: 2024-03-03T07:00:00Z
 
 ### Información general
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
+- Todas están relacionadas con el metabolismo energético.
+- Su deficiencia es rara, exceptuando B12.
+- Su toxicidad es rara, ya que la absorción disminuye al aumentar la dosis.
 
 ### B1: Tiamina
-- Metabolismo de los hidratos de carbono.
+- Metabolismo hidratos de carbono.
 - **Fuentes:** Cereales integrales, alubias, lentejas, guisantes.
 - **Deficiencia:** Degeneración cognitiva (pérdida de memoria), fallo cardíaco, pérdida de peso, debilidad muscular, neuropatía periférica (manos, pies), inmunidad reducida.
-- **Toxicidad:** Rara, la absorción disminuye cuando aumenta la dosis.
 
 ### B2: Riboflavina
 - Metabolismo energético, conversión de B6 y B9 a sus formas activas.
 - **Fuentes:** Carne, lácteos.
 - **Deficiencia:** Degeneración del sistema nervioso y endocrino, anemia, problemas de la piel.
-- **Toxicidad:** Muy rara.
 
 ### B3: Niacina
+- Metabolismo energético.
+- El aminoácido **triptófano** es un precursor de B3.
+- Se encuentra en muchos alimentos, especialmente de origen animal, tanto su deficiencia como toxicidad son raras.
+- Su deficiencia provoca **pelagra**, la enfermedad de las 4 D's (depresión, diarrea, delirios, demencia).
 
 ### B5: Ácido pantoténico
+- Metabolismo grasas.
+- Se encuentra en prácticamente todos los alimentos, tanto su deficiencia como toxicidad son raras.
+- **Deficiencia:** Migraña, irritabilidad, rampas musculares, fatiga, hormigueo o quemazón en manos y pies, nauseas, transtornos del sueño.
 
 ### B6: Piridoxina
+- Metabolismo energético.
+- **Deficiencia:** Suele ir ligada a la deficiencia de B9 y B12, síntomas: anemia, problemas de piel, depresión, inmunidad reducida. El riesgo de deficiencia aumenta en situación de: disfunción renal, enfermedad autoinmune intestinal, artritis reumatoide, alcoholismo.
+- **Toxicidad:** Neuropatía periférica, ataxia, nauseas.
 
 ### B7: Biotina
+- Metabolismo energético.
+- **Fuentes:** Salmón, aguacate, huevos, cerdo, frutos secos, semillas.
+- **Deficiencia:** Pérdida de pelo, erupciones cutáneas, uñas quebradizas.
 
 ### B9: Ácido fólico
+- Metabolismo de las proteínas, síntesis de ADN y ARN.
+- **Fuentes:** Se encuentra en una gran variedad de alimentos en forma de **folatos** y en suplementos como **ácido fólico**, con un ratio de absorción de casi el doble.
+- Tanto deficiencia como toxicidad son raras.
 
 ### B12: Cobalamina
-
+- Desarrollo de cerebro y células nerviosas.
+- Se encuentra en alimentos de origen animal.
+- **Deficiencia:**: Difícil de detectar en la sangre, el mejor marcador es el aumento de ácido metilmalónico y homocisteína. Se suele producir en dietas veganas, deficiencia de factor intrínseco [^1], hipoclorhidia estomacal. Síntomas: Anemoa, debilidad, neuropatías, hormigueo en manos y pies, pérdida de memoria, depresión, convulsiones.
 
 ---
 
@@ -62,8 +81,18 @@ https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5/
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-b6/
 
+https://www.sciencedirect.com/topics/neuroscience/pyridoxine
+
 https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7/
+
+https://www.sciencedirect.com/topics/neuroscience/biotin
 
 https://www.hsph.harvard.edu/nutritionsource/folic-acid/
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-b12/
+
+
+
+---
+
+[^1]: Factor intrínseco es una proteína que ayuda al intestino a absorber la vitamina B12. Lo producen células en el revestimiento del estómago.
