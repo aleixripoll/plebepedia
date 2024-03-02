@@ -18,7 +18,7 @@ date: 2024-03-03T07:00:00Z
 
 ### Información general
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
-- Todas están relacionadas con el metabolismo energético.
+- Están relacionadas con el metabolismo energético y la mejora del estado de ánimo.
 - Su deficiencia es rara, exceptuando B12.
 - Su toxicidad es rara, ya que la absorción disminuye al aumentar la dosis.
 
@@ -51,7 +51,7 @@ date: 2024-03-03T07:00:00Z
 ### B7: Biotina
 - Metabolismo energético.
 - **Fuentes:** Salmón, aguacate, huevos, cerdo, frutos secos, semillas.
-- **Deficiencia:** Pérdida de pelo, erupciones cutáneas, uñas quebradizas.
+- **Deficiencia:** Pérdida de cabello, erupciones cutáneas, uñas quebradizas.
 
 ### B9: Ácido fólico
 - Metabolismo de las proteínas, síntesis de ADN y ARN.
@@ -59,9 +59,11 @@ date: 2024-03-03T07:00:00Z
 - Tanto deficiencia como toxicidad son raras.
 
 ### B12: Cobalamina
-- Desarrollo de cerebro y células nerviosas.
-- Se encuentra en alimentos de origen animal.
-- **Deficiencia:**: Difícil de detectar en la sangre, el mejor marcador es el aumento de ácido metilmalónico y homocisteína. Se suele producir en dietas veganas, deficiencia de factor intrínseco [^1], hipoclorhidia estomacal. Síntomas: Anemoa, debilidad, neuropatías, hormigueo en manos y pies, pérdida de memoria, depresión, convulsiones.
+- Desarrollo del cerebro y células nerviosas.
+- **Fuentes:** Alimentos de origen animal.
+- **Deficiencia:** El mejor marcador sanguíneo de deficiencia de B12 no es la B12 en sí, sino el aumento de ácido metilmalónico y de homocisteína. Se suele producir en dietas veganas, deficiencia de factor intrínseco [^1] y hipoclorhidia estomacal. Síntomas: anemia, debilidad, neuropatías, hormigueo en manos y pies, pérdida de memoria, depresión, convulsiones.
+- A diferencia de las demás vitaminas hidrosolubles, **se almacena en grandes cantidades en el hígado** y su deficiencia no aparece hasta pasados unos años. Una vez corregida la deficiencia sus efectos pueden demorar unos meses.
+
 
 ---
 
@@ -91,6 +93,7 @@ https://www.hsph.harvard.edu/nutritionsource/folic-acid/
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-b12/
 
+https://www.msdmanuals.com/es-es/hogar/trastornos-nutricionales/vitaminas/carencia-de-vitamina-b12
 
 
 ---
