@@ -3,14 +3,14 @@ title: "Vitaminas del grupo B"
 slug: vitaminas-grupo-b
 description: "Los 8 jinetes del apocalipsis."
 authors: ["Dra. Valina"]
-image: "./pexels-klaus-nielsen-6294205.jpg"
+image: "./pexels-daniel-reche-1556707.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: true
 date: 2024-03-03T07:00:00Z
 ---
 
-<span class="attribution">Foto de Klaus Nielsen en [Pexels](https://www.pexels.com/ca-es/foto/menjar-saludable-au-apat-6294205/)</span>
+<span class="attribution">Foto de Daniel Reche en [Pexels](https://www.pexels.com/photo/eggs-in-tray-on-white-surface-1556707/)</span>
 
 
 ### Tabla de contenidos
@@ -44,6 +44,20 @@ date: 2024-03-03T07:00:00Z
 
 ##### Referencias
 
+https://www.hsph.harvard.edu/nutritionsource/vitamins/vitamin-b/
+
 https://www.hsph.harvard.edu/nutritionsource/vitamin-b1/
 
+https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2/
 
+https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3/
+
+https://www.hsph.harvard.edu/nutritionsource/pantothenic-acid-vitamin-b5/
+
+https://www.hsph.harvard.edu/nutritionsource/vitamin-b6/
+
+https://www.hsph.harvard.edu/nutritionsource/biotin-vitamin-b7/
+
+https://www.hsph.harvard.edu/nutritionsource/folic-acid/
+
+https://www.hsph.harvard.edu/nutritionsource/vitamin-b12/
