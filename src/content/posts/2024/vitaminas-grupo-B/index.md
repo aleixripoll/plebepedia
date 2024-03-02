@@ -18,7 +18,7 @@ date: 2024-03-03T07:00:00Z
 
 ### Información general
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
-- Están relacionadas con el metabolismo energético y la mejora del estado de ánimo.
+- Están relacionadas con el metabolismo energético y el estado de ánimo.
 - Su deficiencia es rara, exceptuando B12.
 - Su toxicidad es rara, ya que la absorción disminuye al aumentar la dosis.
 
@@ -56,7 +56,6 @@ date: 2024-03-03T07:00:00Z
 ### B9: Ácido fólico
 - Metabolismo de las proteínas, síntesis de ADN y ARN.
 - **Fuentes:** Se encuentra en una gran variedad de alimentos en forma de **folatos** y en suplementos como **ácido fólico**, con un ratio de absorción de casi el doble.
-- Tanto deficiencia como toxicidad son raras.
 
 ### B12: Cobalamina
 - Desarrollo del cerebro y células nerviosas.
