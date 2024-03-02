@@ -1,7 +1,7 @@
 ---
 title: "Antioxidantes"
 slug: antioxidantes
-description: "Saber lo que son antes de mentarlos es bien."
+description: "Saber lo que son antes de mentarlos hace sonreír al niño Jesús."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-any-lane-5946101.jpg
 categories: ["nutrición"]
@@ -11,6 +11,7 @@ date: 2024-02-09T07:00:00Z
 ---
 
 <span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/)</span>
+
 
 Para hablar de antioxidantes primero tenemos que entender qué es un oxidante, y eso nos lleva a hablar de los **radicales libres**.
 
