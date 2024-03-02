@@ -1,5 +1,5 @@
 ---
-title: "Vitaminas, lo básico"
+title: "Vitaminas: datos generales"
 slug: vitaminas
 description: "Los detalles para otro día."
 authors: ["Dra. Valina"]
@@ -12,10 +12,10 @@ date: 2024-02-07T07:00:00Z
 
 Las vitaminas son substancias **orgánicas** [^1] que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
 
-- **Hidrosolubles:** B, C.
+- **Hidrosolubles:** [B](../vitaminas-grupo-b), [C](../vitamina-c).
 - **Liposolubles:** [A](../vitamina-a), [D](../vitamina-d), [E](../vitamina-e), [K](../vitamina-k]).
 
-Si no le salen los números es porque la B no es una vitamina sino un grupo de 6 vitaminas (**1:** Tiamina, **2:** Riboflavina, **3:** Niacina, **5:** Ácido pantoténico, **6:** Piridoxina, **12:** Cianocobalamina).
+Si no le salen los números es porque la B no es una vitamina sino un grupo de 8 vitaminas (**1:** Tiamina, **2:** Riboflavina, **3:** Niacina, **5:** Ácido pantoténico, **6:** Piridoxina, **7:**: Biotina, **9:** Ácido fólico, **12:** Cobalamina).
 
 ## Hidrosoluble vs liposoluble
 

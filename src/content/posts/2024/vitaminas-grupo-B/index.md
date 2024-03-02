@@ -1,33 +1,44 @@
 ---
 title: "Vitaminas del grupo B"
 slug: vitaminas-grupo-b
-description: ""
+description: "Los 8 jinetes del apocalipsis."
 authors: ["Dra. Valina"]
-image: "./pexels-karolina-grabowska-4022129.jpg"
+image: "./pexels-klaus-nielsen-6294205.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: true
-date: 2024-03-02T07:00:00Z
+date: 2024-03-03T07:00:00Z
 ---
 
-<span class="attribution">Foto de Karolina Grabowska en [Pexels](https://www.pexels.com/photo/slices-of-orange-on-cutting-board-4022129/)</span>
+<span class="attribution">Foto de Klaus Nielsen en [Pexels](https://www.pexels.com/ca-es/foto/menjar-saludable-au-apat-6294205/)</span>
 
 
+### Tabla de contenidos
+
+
+### Información general
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
 
 ### B1: Tiamina
-- Funciones: Interviene en varias funciones celulares y en el metabolismo energético.
-- Deficiencia: La principal es la degeneración cognitiva.
+- Crecimiento y funciones celulares básicas.
+- **Fuentes:** Carne, pescado, cereales integrales, alubias, lentejas, guisantes.
+- **Deficiencia:** Degeneración cognitiva (pérdida de memoria), fallo cardíaco, pérdida de peso, debilidad muscular, neuropatía periférica (manos, pies), inmunidad reducida.
+- **Toxicidad:** Rara, la absorción disminuye cuando aumenta la dosis.
 
-### B2
+### B2: Riboflavina
 
-### B3
+### B3: Niacina
 
-### B6
+### B5: Ácido pantoténico
 
-### B9
+### B6: Piridoxina
 
-### B12
+### B7: Biotina
+
+### B9: Ácido fólico
+
+### B12: Cobalamina
+
 
 ---
 
