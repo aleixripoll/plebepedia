@@ -20,12 +20,16 @@ date: 2024-03-03T07:00:00Z
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
 
 ### B1: Tiamina
-- Crecimiento y funciones celulares básicas.
-- **Fuentes:** Carne, pescado, cereales integrales, alubias, lentejas, guisantes.
+- Metabolismo de los hidratos de carbono.
+- **Fuentes:** Cereales integrales, alubias, lentejas, guisantes.
 - **Deficiencia:** Degeneración cognitiva (pérdida de memoria), fallo cardíaco, pérdida de peso, debilidad muscular, neuropatía periférica (manos, pies), inmunidad reducida.
 - **Toxicidad:** Rara, la absorción disminuye cuando aumenta la dosis.
 
 ### B2: Riboflavina
+- Metabolismo energético, conversión de B6 y B9 a sus formas activas.
+- **Fuentes:** Carne, lácteos.
+- **Deficiencia:** Degeneración del sistema nervioso y endocrino, anemia, problemas de la piel.
+- **Toxicidad:** Muy rara.
 
 ### B3: Niacina
 
@@ -44,11 +48,13 @@ date: 2024-03-03T07:00:00Z
 
 ##### Referencias
 
-https://www.hsph.harvard.edu/nutritionsource/vitamins/vitamin-b/
-
 https://www.hsph.harvard.edu/nutritionsource/vitamin-b1/
 
+https://www.sciencedirect.com/topics/medicine-and-dentistry/thiamine
+
 https://www.hsph.harvard.edu/nutritionsource/riboflavin-vitamin-b2/
+
+https://www.sciencedirect.com/topics/medicine-and-dentistry/riboflavin
 
 https://www.hsph.harvard.edu/nutritionsource/niacin-vitamin-b3/
 

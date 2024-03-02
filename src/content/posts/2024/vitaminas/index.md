@@ -15,7 +15,7 @@ Las vitaminas son substancias **orgánicas** [^1] que el cuerpo necesita en pequ
 - **Hidrosolubles:** [B](../vitaminas-grupo-b), [C](../vitamina-c).
 - **Liposolubles:** [A](../vitamina-a), [D](../vitamina-d), [E](../vitamina-e), [K](../vitamina-k]).
 
-Si no le salen los números es porque la B no es una vitamina sino un grupo de 8 vitaminas (**1:** Tiamina, **2:** Riboflavina, **3:** Niacina, **5:** Ácido pantoténico, **6:** Piridoxina, **7:**: Biotina, **9:** Ácido fólico, **12:** Cobalamina).
+Si no le salen los números es porque la B no es una vitamina sino un grupo de 8 vitaminas (**1:** Tiamina, **2:** Riboflavina, **3:** Niacina, **5:** Ácido pantoténico, **6:** Piridoxina, **7:** Biotina, **9:** Ácido fólico, **12:** Cobalamina).
 
 ## Hidrosoluble vs liposoluble
 
