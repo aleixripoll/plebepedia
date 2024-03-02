@@ -62,7 +62,7 @@ date: 2024-03-03T07:00:00Z
 - Desarrollo del cerebro y células nerviosas.
 - **Fuentes:** Alimentos de origen animal.
 - **Deficiencia:** El mejor marcador sanguíneo de deficiencia de B12 no es la B12 en sí, sino el aumento de ácido metilmalónico y de homocisteína. Se suele producir en dietas veganas, deficiencia de factor intrínseco [^1] y hipoclorhidia estomacal. Síntomas: anemia, debilidad, neuropatías, hormigueo en manos y pies, pérdida de memoria, depresión, convulsiones.
-- A diferencia de las demás vitaminas hidrosolubles, **se almacena en grandes cantidades en el hígado** y su deficiencia no aparece hasta pasados unos años. Una vez corregida la deficiencia sus efectos pueden demorar unos meses.
+- A diferencia de las demás vitaminas hidrosolubles, **se almacena en grandes cantidades en el hígado** y su deficiencia no aparece hasta pasados unos años. Una vez corregida la deficiencia la mejora puede tardar unos meses.
 
 
 ---
