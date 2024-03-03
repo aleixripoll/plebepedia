@@ -6,7 +6,7 @@ authors: ["Dra. Valina"]
 image: "./pexels-daniel-reche-1556707.jpg"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
-draft: true
+draft: false
 date: 2024-03-03T07:00:00Z
 ---
 

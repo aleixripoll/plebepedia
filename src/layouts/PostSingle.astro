@@ -16,7 +16,7 @@ const posts = await getSinglePage("posts");
 const { post } = Astro.props;
 const similarPosts = similarItems(post, posts, post.slug);
 const { Content, remarkPluginFrontmatter } = await post.render();
-const { title, description, authors, categories, image, date, tags } = post.data;
+const { title, description, authors, categories, image, image_attribution, date, tags } = post.data;
 
 // https://docs.astro.build/en/recipes/modified-time/
 dayjs.extend(utc);
@@ -103,6 +103,11 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
             />
           )
         }
+        {image_attribution && (
+            <a target="_blank" href={post.data.image_attribution.url} class="attribution">
+              Foto de {post.data.image_attribution.author} en {post.data.image_attribution.site}
+            </a>
+        )}
       </div>
 
       <div class="md:col-10">

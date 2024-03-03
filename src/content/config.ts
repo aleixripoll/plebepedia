@@ -13,6 +13,11 @@ const postsCollection = defineCollection({
     image: image().refine((img) => img.width >= 100, {
       message: "Cover image must be at least 100 pixels wide!",
     }).optional(),
+    image_attribution: z.object({
+      author: z.string(),
+      site: z.string().default("Pexels"),
+      url: z.string(),
+    }).optional(),
     authors: z.array(z.string()).default(["admin"]),
     categories: z.array(z.string()).default(["others"]),
     tags: z.array(z.string()).default(["others"]),
@@ -31,8 +36,7 @@ const authorsCollection = defineCollection({
       message: "Author image must be at least 400 pixels tall!",
     }).optional(),
     description: z.string().optional(),
-    social: z
-      .object({
+    social: z.object({
         facebook: z.string().optional(),
         twitter: z.string().optional(),
         instagram: z.string().optional(),
