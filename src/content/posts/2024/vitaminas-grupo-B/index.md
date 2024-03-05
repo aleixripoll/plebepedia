@@ -3,10 +3,10 @@ title: "Vitaminas del grupo B"
 slug: vitaminas-grupo-b
 description: "Los 8 jinetes del apocalipsis."
 authors: ["Dra. Valina"]
-image: "./pexels-pixabay-209728.jpg"
+image: "./pexels-pixabay-60582.jpg"
 image_attribution:
     author: Pixabay
-    url: https://www.pexels.com/photo/focus-photo-of-4-wooden-pawn-figurine-209728/
+    url: https://www.pexels.com/ca-es/foto/blanc-i-negre-metall-moviment-reflexio-60582/
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
