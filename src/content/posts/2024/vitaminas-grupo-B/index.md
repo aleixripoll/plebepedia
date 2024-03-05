@@ -19,46 +19,46 @@ date: 2024-03-03T07:00:00Z
 ### Información general
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
 - Están relacionadas con el metabolismo energético y el estado de ánimo.
-- Su deficiencia es rara, exceptuando B12.
-- Su toxicidad es rara, ya que la absorción disminuye al aumentar la dosis.
+- Su deficiencia es rara, exceptuando la B12.
+- Su toxicidad es muy rara, su absorción disminuye al aumentar la dosis.
 
 ### B1: Tiamina
-- Metabolismo hidratos de carbono.
+Metabolismo de hidratos de carbono.
 - **Fuentes:** Cereales integrales, alubias, lentejas, guisantes.
 - **Deficiencia:** Degeneración cognitiva (pérdida de memoria), fallo cardíaco, pérdida de peso, debilidad muscular, neuropatía periférica (manos, pies), inmunidad reducida.
 
 ### B2: Riboflavina
-- Metabolismo energético, conversión de B6 y B9 a sus formas activas.
+Metabolismo energético, conversión de B6 y B9 a sus formas activas.
 - **Fuentes:** Carne, lácteos.
-- **Deficiencia:** Degeneración del sistema nervioso y endocrino, anemia, problemas de la piel.
+- **Deficiencia:** Degeneración del sistema nervioso y endocrino, anemia, trastornos de la piel.
 
 ### B3: Niacina
-- Metabolismo energético.
+Metabolismo energético.
 - El aminoácido **triptófano** es un precursor de B3.
-- Se encuentra en muchos alimentos, especialmente de origen animal, tanto su deficiencia como toxicidad son raras.
+- Se encuentra en muchos alimentos, especialmente de origen animal.
 - Su deficiencia provoca **pelagra**, la enfermedad de las 4 D's (depresión, diarrea, delirios, demencia).
 
 ### B5: Ácido pantoténico
-- Metabolismo grasas.
-- Se encuentra en prácticamente todos los alimentos, tanto su deficiencia como toxicidad son raras.
-- **Deficiencia:** Migraña, irritabilidad, rampas musculares, fatiga, hormigueo o quemazón en manos y pies, nauseas, transtornos del sueño.
+Metabolismo de grasas.
+- Se encuentra en prácticamente todos los alimentos.
+- **Deficiencia:** Migraña, irritabilidad, rampas musculares, fatiga, hormigueo o quemazón en manos y pies, nauseas, trastornos del sueño.
 
 ### B6: Piridoxina
-- Metabolismo energético.
-- **Deficiencia:** Suele ir ligada a la deficiencia de B9 y B12, síntomas: anemia, problemas de piel, depresión, inmunidad reducida. El riesgo de deficiencia aumenta en situación de: disfunción renal, enfermedad autoinmune intestinal, artritis reumatoide, alcoholismo.
+Metabolismo energético.
+- **Deficiencia:** Suele ir ligada a la deficiencia de B9 y B12. Síntomas: anemia, trastornos de la piel, depresión, inmunidad reducida. El riesgo de deficiencia aumenta en situación de: disfunción renal, enfermedad autoinmune intestinal, artritis reumatoide o alcoholismo.
 - **Toxicidad:** Neuropatía periférica, ataxia, nauseas.
 
 ### B7: Biotina
-- Metabolismo energético.
+Metabolismo energético.
 - **Fuentes:** Salmón, aguacate, huevos, cerdo, frutos secos, semillas.
 - **Deficiencia:** Pérdida de cabello, erupciones cutáneas, uñas quebradizas.
 
 ### B9: Ácido fólico
-- Metabolismo de las proteínas, síntesis de ADN y ARN.
+Metabolismo de proteínas, síntesis de ADN y ARN.
 - **Fuentes:** Se encuentra en una gran variedad de alimentos en forma de **folatos** y en suplementos como **ácido fólico**, con un ratio de absorción de casi el doble.
 
 ### B12: Cobalamina
-- Desarrollo del cerebro y células nerviosas.
+Desarrollo del cerebro y células nerviosas.
 - **Fuentes:** Alimentos de origen animal.
 - **Deficiencia:** El mejor marcador sanguíneo de deficiencia de B12 no es la B12 en sí, sino el aumento de ácido metilmalónico y de homocisteína. Se suele producir en dietas veganas, deficiencia de factor intrínseco [^1] y hipoclorhidia estomacal. Síntomas: anemia, debilidad, neuropatías, hormigueo en manos y pies, pérdida de memoria, depresión, convulsiones.
 - A diferencia de las demás vitaminas hidrosolubles, **se almacena en grandes cantidades en el hígado** y su deficiencia no aparece hasta pasados unos años. Una vez corregida la deficiencia la mejora puede tardar unos meses.
