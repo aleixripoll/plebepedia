@@ -1,7 +1,7 @@
 ---
 title: "Vitamina E"
 slug: vitamina-e
-description: "Alfa-tocoferol para los amigos."
+description: "Tocoferol para los amigos."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-engin-akyurt-5425021.jpg"
 categories: ["nutrición"]

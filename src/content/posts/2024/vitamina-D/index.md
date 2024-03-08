@@ -1,7 +1,7 @@
 ---
 title: "Vitamina D"
 slug: vitamina-d
-description: "Sol y playa."
+description: "Calciferol para los amigos."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-nuno-campos-1834609.jpg"
 categories: ["nutrición"]
