@@ -24,7 +24,12 @@ Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y a
 
 - **Monosacáridos (azúcares simples):** glucosa, galactosa, fructosa.
 - **Disacáridos:** lactosa (glucosa + galactosa), sacarosa (glucosa + fructosa), maltosa (dos glucosas).
-- **Polisacáridos:** glucógeno (almacén glucosa animal), almidón (almacén glucosa vegetal), celulosa (fibra).
+- **Polisacáridos:** glucógeno (almacén glucosa animal), almidón (almacén glucosa vegetal), celulosa, pectina.
+
+#### Fibra
+Se encuentra en algunos polisacáridos, se clasifica según su absorción:
+- **Fibra soluble (almidón resistente, pectinas):** Absorbe agua, ralentiza la digestión, fermenta en el colón (efecto prebiótico). **Fuentes:** manzana, pera, plátano, avena, cebada, legumbres, arroz, zanahoria, patata, pasta (los 3 últimos pueden llegar a triplicar su contenido en almidón resistente tras cocinarlos y dejarlos enfríar).
+- **Fibra insoluble (celulosa):** No aborbe agua, acelera la digestión. **Fuentes:** granos enteros, frutas con piel, verduras, frutos secos, semillas.
 
 Por regla general, cuanto más complejos son los carbohidratos, mejor (granos enteros mejor que refinados). Los alimentos de origen vegetal nos ofrecen una combinación de almidón y fibra, el almidón es usado como energía y/o almacenado en forma de glucógeno. No podemos absorber la fibra pero la microbiota de nuestro intestino sí, nos interesa tenerla alimentada o comerá lo que encuentre, es decir, nosotros, o morirá y perderemos sus beneficios (actividad enzimática, protección contra patógenos, síntesis vitaminas B y K, estimulación sistema inmune). Por otro lado la fibra retiene agua que facilita la digestión, entre otros beneficios.
 
@@ -53,3 +58,5 @@ https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-choles
 https://www.hsph.harvard.edu/nutritionsource/carbohydrates/fiber/
 
 https://www.hsph.harvard.edu/nutritionsource/water/
+
+https://www.vitonica.com/alimentos/fibra-soluble-fibra-insoluble-cuales-sus-diferencias-que-alimentos-podemos-encontrarla-1
