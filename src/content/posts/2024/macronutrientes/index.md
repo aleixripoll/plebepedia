@@ -22,9 +22,9 @@ Los macronutrientes son aquellos que **1.** necesitamos en grandes cantidades y 
 ### Hidratos de carbono
 Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y agua. Según la posición del carbono hablamos de **aldosas** (extremo) o **cetosas** (centro) y según según la cantidad de moléculas se clasifican en:
 
-- **Monosacáridos** (azúcares simples): glucosa, galactosa, fructosa.
-- **Disacáridos**: lactosa (glucosa + galactosa), sacarosa (glucosa + fructosa), maltosa (dos glucosas).
-- **Polisacáridos**: glucógeno (almacén glucosa animal), almidón (almacén glucosa vegetal), celulosa (fibra).
+- **Monosacáridos (azúcares simples):** glucosa, galactosa, fructosa.
+- **Disacáridos:** lactosa (glucosa + galactosa), sacarosa (glucosa + fructosa), maltosa (dos glucosas).
+- **Polisacáridos:** glucógeno (almacén glucosa animal), almidón (almacén glucosa vegetal), celulosa (fibra).
 
 Por regla general, cuanto más complejos son los carbohidratos, mejor (granos enteros mejor que refinados). Los alimentos de origen vegetal nos ofrecen una combinación de almidón y fibra, el almidón es usado como energía y/o almacenado en forma de glucógeno. No podemos absorber la fibra pero la microbiota de nuestro intestino sí, nos interesa tenerla alimentada o comerá lo que encuentre, es decir, nosotros, o morirá y perderemos sus beneficios (actividad enzimática, protección contra patógenos, síntesis vitaminas B y K, estimulación sistema inmune). Por otro lado la fibra retiene agua que facilita la digestión, entre otros beneficios.
 
