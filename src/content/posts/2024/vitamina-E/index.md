@@ -13,7 +13,7 @@ date: 2024-02-19T07:00:00Z
 <span class="attribution">Foto de Engin Akyurt en [Pexels](https://www.pexels.com/ca-es/foto/menjar-llavors-berenar-avellanes-5425021/)</span>
 
 
-- Es una vitamina **[liposoluble](../vitaminas)**.
+- Es una vitamina **[liposoluble](../vitaminas-general)**.
 - Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
 
 ### Funciones

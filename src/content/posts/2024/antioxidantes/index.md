@@ -13,7 +13,7 @@ date: 2024-02-09T07:00:00Z
 <span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/)</span>
 
 
-Para hablar de antioxidantes primero tenemos que entender qué son los oxidantes.
+Para hablar de antioxidantes primero tenemos que entender qué son los "oxidantes".
 
 ### Radicales libres
 

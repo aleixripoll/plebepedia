@@ -1,6 +1,6 @@
 ---
 title: "Vitaminas: datos generales"
-slug: vitaminas
+slug: vitaminas-general
 description: "Los detalles para otro día."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"

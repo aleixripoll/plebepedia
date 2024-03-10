@@ -17,7 +17,7 @@ date: 2024-03-03T07:00:00Z
 
 
 ### Información general
-- Las vitaminas del grupo B son **[hidrosolubles](../vitaminas)**.
+- Las vitaminas del grupo B son **[hidrosolubles](../vitaminas-general)**.
 - Están relacionadas con el metabolismo energético y el estado de ánimo.
 - Su deficiencia es rara, exceptuando la B12.
 - Su toxicidad es muy rara, su absorción disminuye al aumentar la dosis.

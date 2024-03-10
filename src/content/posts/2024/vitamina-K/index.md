@@ -13,7 +13,7 @@ date: 2024-02-25T07:00:00Z
 <span class="attribution">Foto de Yaroslav Shuraev en [Pexels](https://www.pexels.com/photo/green-leaves-in-close-up-photography-8845078/)</span>
 
 
-- Es una vitamina **[liposoluble](../vitaminas)**.
+- Es una vitamina **[liposoluble](../vitaminas-general)**.
 - Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, que puede ser producida por bacterias de nuestro cuerpo. 
 
 ### Funciones

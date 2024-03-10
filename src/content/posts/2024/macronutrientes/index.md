@@ -28,10 +28,15 @@ Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y a
 
 #### Fibra
 Se encuentra en algunos polisacáridos, se clasifica según su absorción:
-- **Fibra soluble (almidón resistente, pectinas):** Absorbe agua, ralentiza la digestión, fermenta en el colón (efecto prebiótico). **Fuentes:** manzana, pera, plátano, avena, cebada, legumbres, arroz, zanahoria, patata, pasta (los 3 últimos pueden llegar a triplicar su contenido en almidón resistente tras cocinarlos y dejarlos enfríar).
-- **Fibra insoluble (celulosa):** No aborbe agua, acelera la digestión. **Fuentes:** granos enteros, frutas con piel, verduras, frutos secos, semillas.
+- **Fibra soluble (almidón resistente, pectinas):** Absorbe agua, ralentiza la digestión, fermenta en el colón, por lo tanto tiene efecto prebiótico y nutre a nuestra macrobiota, lo cual bien impide que la microbiota nos coma a nosotros, bien impide que muera y perdamos sus beneficios (actividad enzimática, protección contra patógenos, síntesis vitaminas B y K, estimulación sistema inmune). **Fuentes:** manzana, pera, plátano, avena, cebada, legumbres, arroz, zanahoria, patata, pasta (los 3 últimos pueden llegar a triplicar su contenido en almidón resistente tras cocinarlos y dejarlos enfríar).
+- **Fibra insoluble (celulosa):** No aborbe agua, no se fermenta ni alimenta a nadie pero acelera la digestión y hace "efecto barrido". **Fuentes:** granos enteros, frutas con piel, verduras, frutos secos, semillas.
 
-Por regla general, cuanto más complejos son los carbohidratos, mejor (granos enteros mejor que refinados). Los alimentos de origen vegetal nos ofrecen una combinación de almidón y fibra, el almidón es usado como energía y/o almacenado en forma de glucógeno. No podemos absorber la fibra pero la microbiota de nuestro intestino sí, nos interesa tenerla alimentada o comerá lo que encuentre, es decir, nosotros, o morirá y perderemos sus beneficios (actividad enzimática, protección contra patógenos, síntesis vitaminas B y K, estimulación sistema inmune). Por otro lado la fibra retiene agua que facilita la digestión, entre otros beneficios.
+#### Índice glucémico y carga glucémica
+Este índice nos indica cuán rápido un carbohidrato es convertido en azúcar simple y absorbido en la sangre. Una analogía sería vertir arena en una cañería de agua, la circulación será más lenta y requerirá mayor fuerza de bombeo. Para evitar el colapso de la bomba (corazón), el páncreas secreta insulina para indicar a las células que deben tragarse ese superávit de azúcar, que acaba almacenado en forma de grasa.
+
+Algunos alimentos tienen un alto índice glucémico pero baja carga glucémica, es decir, aportan pocos carbohidratos, con lo cual **el índice glucémico es bastante indiferente** (ejemplo: zanahoria).
+
+Por regla general, cuanto más complejos sean los carbohidratos, mejor (granos enteros mejor que refinados). Dicho esto, el cocinado aumenta la biodisponibilidad lo cual es un arma de doble filo, ya que aumenta la carga glucémica.
 
 
 ### Proteínas
@@ -60,3 +65,5 @@ https://www.hsph.harvard.edu/nutritionsource/carbohydrates/fiber/
 https://www.hsph.harvard.edu/nutritionsource/water/
 
 https://www.vitonica.com/alimentos/fibra-soluble-fibra-insoluble-cuales-sus-diferencias-que-alimentos-podemos-encontrarla-1
+
+https://www.hsph.harvard.edu/nutritionsource/carbohydrates/carbohydrates-and-blood-sugar/
