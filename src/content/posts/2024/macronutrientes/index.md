@@ -1,7 +1,7 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "Carbohidratos, proteínas y grasas."
+description: "Be water my friend, pero también carbohidratos, proteínas y grasas."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:
