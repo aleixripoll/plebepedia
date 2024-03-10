@@ -8,7 +8,7 @@ image_attribution:
     author: Lukas
     url: https://www.pexels.com/ca-es/foto/menjar-saludable-verdures-fusta-952478/
 categories: ["nutrición"]
-tags: ["macronutrientes"]
+tags: ["macronutrientes", "proteínas", "aminoácidos", "azúcares", "fibra", "grasas"]
 draft: true
 date: 2024-03-10T07:00:00Z
 ---
@@ -40,6 +40,15 @@ Por regla general, cuanto más complejos sean los carbohidratos, mejor (granos e
 
 
 ### Proteínas
+Macronutriente formado por cadenas de más de 50 **aminoácidos** [^1], que a su vez son moléculas formadas por átomos de carbono, nitrógeno, hidrógeno, oxígeno y en algun caso azufre. Existen 21 aminoácidos divididos en 2 grupos:
+
+- **Esenciales:** No pueden ser producidos por el cuerpo, deben consumirse todos los días. Son 9: valina, leucina, isoleucina, treonina, metionina, fenilalanina, histidina, triptófano y lisina.
+- **No esenciales:** Pueden ser producidos por el cuerpo: alanina, arginina, asparagina, ácido aspártico, cisteína, ácido glutámico, glutamina, glicina, prolina, serina, taurina y tirosina.
+
+- **Fuentes:** legumbres, frutos secos, semillas, granos enteros, carne, pescado, huevos, lácteos.
+
+Una **proteína completa** es aquella que contiene los 9 aminoácidos esenciales, se consideran **proteínas de alta calidad**. La proteína de origen animal es por regla general de mayor calidad, para obtener los 9 aminoácidos sólo con alimentos de origen vegetal necesitamos una mayor variedad en la dieta.
+
 
 ### Grasas
 
@@ -67,3 +76,8 @@ https://www.hsph.harvard.edu/nutritionsource/water/
 https://www.vitonica.com/alimentos/fibra-soluble-fibra-insoluble-cuales-sus-diferencias-que-alimentos-podemos-encontrarla-1
 
 https://www.hsph.harvard.edu/nutritionsource/carbohydrates/carbohydrates-and-blood-sugar/
+
+
+---
+
+[^1]: Dipéptido: 2 aminoácidos, tripéptido: 3, polipéptido: 10-50, proteína: más de 50.
