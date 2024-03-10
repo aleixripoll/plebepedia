@@ -1,7 +1,7 @@
 ---
-title: "Quema / Burn: The Misunderstood Science of Metabolism"
+title: "Quema / Burn, de Herman Pontzer"
 slug: burn-herman-pontzer
-description: "Metabolismo energético, libro de Herman Pontzer"
+description: "La ciencia del metabolismo energético"
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-marek-piwnicki-12214773.jpg"
 image_attribution:
