@@ -17,7 +17,7 @@ date: 2024-03-17T07:00:00Z
 
 
 ### Información general
-Los macronutrientes son aquellos que **1.** necesitamos en grandes cantidades y **2.** proporcionan casi la totalidad de la energía del cuerpo. Hay 3+1: proteínas, hidratos de carbono, grasas y agua. 
+Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi la totalidad de la energía del cuerpo. Hay 3+1: proteínas, hidratos de carbono, grasas y agua. 
 
 ### Hidratos de carbono
 Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y agua. Según la posición del carbono hablamos de **aldosas** (extremo) o **cetosas** (centro) y según según la cantidad de moléculas se clasifican en:
@@ -57,21 +57,29 @@ Los grupos `-CH-` están unidos entre ellos por los carbonos, bien con enlaces s
 
 Un ácido graso **saturado** es aquel que carece de dobles enlaces entre los átomos de carbono, mientras que en los **insaturados** hay al menos un doble enlace. Las grasas saturadas son **sólidas** a temperatura ambiente, las insaturadas son **líquidas**.
 
-A partir de estos datos podemos dividir las grasas en saturadas, monoinsaturadas, poliinsaturadas y transinsaturadas.
+Todas las alimentos tienen varios tipos de grasa en diferente proporción.
 
 #### Insaturadas
-Son líquidas a temperatura ambiente. Se encuentran en **aceites vegetales, frutos secos y semillas**. Beneficios:
+Grasas "buenas", son líquidas a temperatura ambiente. Se encuentran en **aceites vegetales, frutos secos y semillas**. Beneficios:
 
-- Mejoran los niveles colesterol en sangre.
+- Mejoran los niveles de colesterol en sangre (ratio LDL/HDL).
 - Reducen inflamación.
 - Estabilizan el ritmo cardíaco.
 
 Se subdividen en:
 
-- **Monoinsaturadas:** Aceite de oliva, avellana, almendra, nuez pecana, aguacate, semillas de calabaza y sésamo.
-- **Poliinsaturadas:** Girasol, soja, maíz, nueces, pescado.
+- **Monoinsaturadas:** 1 doble enlace. Fuentes: aceite de oliva, avellana, almendra, nuez pecana, aguacate, semillas de calabaza y sésamo.
+- **Poliinsaturadas:** 2 o más dobles enlaces. En este grupo encontramos los **ácidos grasos esenciales omega 3, 6 y 9**, que no pueden ser sintetizadas por el cuerpo. Fuentes: girasol, soja, maíz, nueces, pescado.
 
 #### Saturadas
+Grasas "malas", son sólidas a temperatura ambiente.
+
+Fuentes: carne (ternera, bacon, procesados como hamburguesa y salchichas), lácteos, postres con base de cereales (galletas, pasteles), fast-food.
+
+#### Grasas trans
+Grasas "muy malas", son grasas insaturadas que han sido hidrogenadas para mantenerlas en estado sólido a temperatura ambiente. Permiten conservar los alimentos y su sabor durante más tiempo (las grasas insaturadas se auto-oxidan), por tal motivo se usan en alimentos ultraprocesados como bollería industrial. También se encuentran en muy pequeñas cantidades en alimentos como carne o lácteos.
+
+Interfieren en la absorción de ácidos grasos esenciales, necesarios para ciertas funciones como la formación de las paredes de las arterias. Efectos: problemas coronarios, aumento colesterol LDL ("malo") y reducción del HDL ("bueno"), reducción de la sensibilidad a la insulina.
 
 
 ### Agua
