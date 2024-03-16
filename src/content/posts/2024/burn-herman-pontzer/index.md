@@ -16,7 +16,7 @@ date: 2024-03-11T18:00:00Z
 Hay muchos libros de nutrición, la gran mayoría caen en uno de estos dos grupos:
 
 - Libros de autores con una agenda personal y/o obsesión por una dieta en particular (vegana, cetogénica, paleo, etc.), suelen torcer los estudios hasta que encajan con su verdad ([sesgo de confirmación](../sesgos-y-falacias/#sesgo-de-confirmaci%C3%B3n)).
-- Libros de divulgación para las masas con contenido un poco básico, en algunos casos con el agravante de títulos tipo *"Pierda un porrón de kilos en x días"*.
+- Libros de divulgación para las masas con información "a vista de pájaro", en algunos casos con el agravante de títulos tipo *"Pierda un porrón de kilos en x días"*.
 
 Es difícil encontrar libros que traten el estado de la ciencia nutricional con un poco de detalle, gracia y rigor sin caer en el ensayo académico tocho, y creo que este libro encuentra un buen equilibrio: detallado pero no excesivamente denso, bien redactado, con un punto de humor y con información de primera mano, ya que el autor, entre otras historias, convivió con los Hadza, una de las últimas tribus cazadoras-recolectoras, para estudiar el metabolismo energético humano.
 
