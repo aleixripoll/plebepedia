@@ -1,7 +1,7 @@
 ---
 title: "Hormonas"
 slug: hormonas
-description: "Algunas de las principales y su diferencia con los neurotransmisores."
+description: "Junto con los neurotransmisores tienen la culpa de casi todo."
 authors: ["Dra. Valina"]
 image: "./pexels-steve-johnson-13014236.jpg"
 image_attribution:
