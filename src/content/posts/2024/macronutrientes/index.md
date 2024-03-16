@@ -10,7 +10,7 @@ image_attribution:
 categories: ["nutrición"]
 tags: ["macronutrientes", "proteínas", "aminoácidos", "azúcares", "fibra", "grasas"]
 draft: true
-date: 2024-03-10T07:00:00Z
+date: 2024-03-16T07:00:00Z
 ---
 
 ### Tabla de contenidos
@@ -51,6 +51,13 @@ Una **proteína completa** es aquella que contiene los 9 aminoácidos esenciales
 
 
 ### Grasas
+Son cadenas de ácidos grasos, moléculas formadas por una cantidad variable de cadenas hidrocarbonadas `-CH-` en cuyo extremo hay un grupo carboxilo `-COOH`.
+
+Los grupos `-CH-` están unidos entre ellos por los carbonos, bien con enlaces simples o dobles; cuanto **más** grupos `-CH-` haya y **menos** dobles enlaces tenga, mayor es su saturación y menor su solubilidad.
+
+Un ácido graso **saturado** es aquel que carece de dobles enlaces entre los átomos de carbono, mientras que en los **insaturados** hay al menos un doble enlace. Las grasas saturadas son **sólidas** a temperatura ambiente, las insaturadas son **líquidas** (aceites).
+
+A partir de estos datos las podemos clasificar en monoinsaturadas, poliinsaturadas, saturadas y trans.
 
 
 ### Agua
@@ -68,6 +75,8 @@ https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/protein/
 https://www.sciencedirect.com/topics/neuroscience/carbohydrates
 
 https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/types-of-fat/
+
+https://www.sciencedirect.com/topics/neuroscience/fatty-acids
 
 https://www.hsph.harvard.edu/nutritionsource/carbohydrates/fiber/
 
