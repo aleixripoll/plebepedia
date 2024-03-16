@@ -70,7 +70,7 @@ export default function SearchBar({ searchList }: Props) {
   return (
     <div className="min-h-[45vh]">
       <input
-        className="form-input w-full text-center dark:bg-theme-dark border-dark"
+        className="form-input w-full text-center text-dark dark:bg-theme-dark border-dark dark:text-theme-light dark:placeholder-gray-400"
         placeholder="Teclea aquí para buscar"
         type="text"
         name="search"
