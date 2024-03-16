@@ -9,15 +9,15 @@ image_attribution:
     url: https://www.pexels.com/ca-es/foto/menjar-saludable-verdures-fusta-952478/
 categories: ["nutrición"]
 tags: ["macronutrientes", "proteínas", "aminoácidos", "azúcares", "fibra", "grasas"]
-draft: true
-date: 2024-03-17T07:00:00Z
+draft: false
+date: 2024-03-16T19:00:00Z
 ---
 
 ### Tabla de contenidos
 
 
 ### Información general
-Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi la totalidad de la energía del cuerpo. Hay 3+1: proteínas, hidratos de carbono, grasas y agua. 
+Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi toda la energía del cuerpo. Hay 3+1: proteínas, hidratos de carbono, grasas y agua. 
 
 ### Hidratos de carbono
 Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y agua. Según la posición del carbono hablamos de **aldosas** (extremo) o **cetosas** (centro) y según según la cantidad de moléculas se clasifican en:
@@ -36,16 +36,16 @@ Este índice nos indica cuán rápido un carbohidrato es convertido en azúcar s
 
 Algunos alimentos tienen un alto índice glucémico pero baja carga glucémica, es decir, aportan pocos carbohidratos, con lo cual **el índice glucémico es bastante indiferente** (ejemplo: zanahoria).
 
-Por regla general, cuanto más complejos sean los carbohidratos, mejor (granos enteros mejor que refinados). Dicho esto, el cocinado aumenta la biodisponibilidad lo cual es un arma de doble filo, ya que aumenta la carga glucémica.
+Por regla general, cuanto más complejos sean los carbohidratos, mejor (granos enteros mejor que refinados). Dicho esto, el cocinado aumenta la biodisponibilidad lo cual es un arma de doble filo, ya que también aumenta la carga glucémica.
 
 
 ### Proteínas
-Macronutriente formado por cadenas de más de 50 **aminoácidos** [^1], que a su vez son moléculas formadas por átomos de carbono, nitrógeno, hidrógeno, oxígeno y en algun caso azufre. Existen 21 aminoácidos divididos en 2 grupos:
+Macronutriente formado por cadenas de más de 50 **aminoácidos** [^1] (moléculas formadas por átomos de carbono, nitrógeno, hidrógeno, oxígeno y en algun caso azufre). Existen 21 aminoácidos divididos en 2 grupos:
 
 - **Esenciales:** No pueden ser producidos por el cuerpo, deben consumirse todos los días. Son 9: valina, leucina, isoleucina, treonina, metionina, fenilalanina, histidina, triptófano y lisina.
 - **No esenciales:** Pueden ser producidos por el cuerpo: alanina, arginina, asparagina, ácido aspártico, cisteína, ácido glutámico, glutamina, glicina, prolina, serina, taurina y tirosina.
 
-- **Fuentes:** legumbres, frutos secos, semillas, granos enteros, carne, pescado, huevos, lácteos.
+**Fuentes:** legumbres, frutos secos, semillas, granos enteros, carne, pescado, huevos, lácteos.
 
 Una **proteína completa** es aquella que contiene los 9 aminoácidos esenciales, se consideran **proteínas de alta calidad**. La proteína de origen animal es por regla general de mayor calidad, para obtener los 9 aminoácidos sólo con alimentos de origen vegetal necesitamos una mayor variedad en la dieta.
 
@@ -68,18 +68,18 @@ Grasas "buenas", son líquidas a temperatura ambiente. Se encuentran en **aceite
 
 Se subdividen en:
 
-- **Monoinsaturadas:** 1 doble enlace. Fuentes: aceite de oliva, avellana, almendra, nuez pecana, aguacate, semillas de calabaza y sésamo.
-- **Poliinsaturadas:** 2 o más dobles enlaces. En este grupo encontramos los **ácidos grasos esenciales omega 3, 6 y 9**, que no pueden ser sintetizadas por el cuerpo. Fuentes: girasol, soja, maíz, nueces, pescado.
+- **Monoinsaturadas:** 1 doble enlace. **Fuentes:** aceite de oliva, avellanas, almendras, nueces pecanas, aguacates, semillas de calabaza y sésamo.
+- **Poliinsaturadas:** 2 o más dobles enlaces. En este grupo encontramos los **ácidos grasos esenciales omega 3, 6 y 9**, que no pueden ser sintetizados por el cuerpo. **Fuentes:** girasol, soja, maíz, nueces, pescado.
 
 #### Saturadas
 Grasas "malas", son sólidas a temperatura ambiente.
 
-Fuentes: carne (ternera, bacon, procesados como hamburguesa y salchichas), lácteos, postres con base de cereales (galletas, pasteles), fast-food.
+**Fuentes:** carne (ternera, bacon, hamburguesas, salchichas), lácteos, galletas, helados, mantequilla, queso, aceite de palma y coco.
 
 #### Grasas trans
 Grasas "muy malas", son grasas insaturadas que han sido hidrogenadas para mantenerlas en estado sólido a temperatura ambiente. Permiten conservar los alimentos y su sabor durante más tiempo (las grasas insaturadas se auto-oxidan), por tal motivo se usan en alimentos ultraprocesados como bollería industrial. También se encuentran en muy pequeñas cantidades en alimentos como carne o lácteos.
 
-Interfieren en la absorción de ácidos grasos esenciales, necesarios para ciertas funciones como la formación de las paredes de las arterias. Efectos: problemas coronarios, aumento colesterol LDL ("malo") y reducción del HDL ("bueno"), reducción de la sensibilidad a la insulina.
+Interfieren en la absorción de ácidos grasos esenciales, necesarios para ciertas funciones como la formación de las paredes de las arterias. Efectos: problemas coronarios, aumento del colesterol LDL ("malo") y reducción del HDL ("bueno"), reducción de la sensibilidad a la insulina.
 
 
 ### Agua
@@ -111,4 +111,4 @@ https://www.hsph.harvard.edu/nutritionsource/carbohydrates/carbohydrates-and-blo
 
 ---
 
-[^1]: Dipéptido: 2 aminoácidos, tripéptido: 3, polipéptido: 10-50, proteína: más de 50.
+[^1]: Un dipéptido está formado por 2 aminoácidos, un tripéptido por 3, un polipéptido entre 10 y 50.
