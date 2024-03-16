@@ -10,7 +10,7 @@ image_attribution:
 categories: ["nutrición"]
 tags: ["macronutrientes", "proteínas", "aminoácidos", "azúcares", "fibra", "grasas"]
 draft: true
-date: 2024-03-16T07:00:00Z
+date: 2024-03-17T07:00:00Z
 ---
 
 ### Tabla de contenidos
@@ -51,13 +51,27 @@ Una **proteína completa** es aquella que contiene los 9 aminoácidos esenciales
 
 
 ### Grasas
-Son cadenas de ácidos grasos, moléculas formadas por una cantidad variable de cadenas hidrocarbonadas `-CH-` en cuyo extremo hay un grupo carboxilo `-COOH`.
+Son cadenas de ácidos grasos, que a su vez son moléculas formadas por una cantidad variable de cadenas hidrocarbonadas `-CH-` en cuyo extremo hay un grupo carboxilo `-COOH`.
 
 Los grupos `-CH-` están unidos entre ellos por los carbonos, bien con enlaces simples o dobles; cuanto **más** grupos `-CH-` haya y **menos** dobles enlaces tenga, mayor es su saturación y menor su solubilidad.
 
-Un ácido graso **saturado** es aquel que carece de dobles enlaces entre los átomos de carbono, mientras que en los **insaturados** hay al menos un doble enlace. Las grasas saturadas son **sólidas** a temperatura ambiente, las insaturadas son **líquidas** (aceites).
+Un ácido graso **saturado** es aquel que carece de dobles enlaces entre los átomos de carbono, mientras que en los **insaturados** hay al menos un doble enlace. Las grasas saturadas son **sólidas** a temperatura ambiente, las insaturadas son **líquidas**.
 
-A partir de estos datos las podemos clasificar en monoinsaturadas, poliinsaturadas, saturadas y trans.
+A partir de estos datos podemos dividir las grasas en saturadas, monoinsaturadas, poliinsaturadas y transinsaturadas.
+
+#### Insaturadas
+Son líquidas a temperatura ambiente. Se encuentran en **aceites vegetales, frutos secos y semillas**. Beneficios:
+
+- Mejoran los niveles colesterol en sangre.
+- Reducen inflamación.
+- Estabilizan el ritmo cardíaco.
+
+Se subdividen en:
+
+- **Monoinsaturadas:** Aceite de oliva, avellana, almendra, nuez pecana, aguacate, semillas de calabaza y sésamo.
+- **Poliinsaturadas:** Girasol, soja, maíz, nueces, pescado.
+
+#### Saturadas
 
 
 ### Agua

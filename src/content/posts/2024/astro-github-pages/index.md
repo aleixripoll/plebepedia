@@ -26,7 +26,7 @@ export default defineConfig(
 }
 ```
 
-2. Actualizar **todos los enlaces** para incluir el prefijo, accesible en la variable de entorno `import.meta.env.BASE_URL`. Puede ser bastante tedioso encontrarlos y cambiarlos todos, quedaría algo así:
+2. Actualizar todos los enlaces para incluir el prefijo, accesible en la variable de entorno `import.meta.env.BASE_URL`. Puede ser bastante tedioso encontrarlos y cambiarlos todos, quedaría algo así:
 ```
 <a href={`${import.meta.env.BASE_URL}/${post.slug}`} ... />
 ```
@@ -37,7 +37,7 @@ Para solucionarlo tuve que:
 
 3. Añadir trailing slash a `base`, por ejemplo `/repo/`. Ahora tanto en root como en non-root, nuestro `base` acaba en barra.
 
-4. Quitar la barra después de `base` en **todos los enlaces**:
+4. Quitar la barra después de `base` en todos los enlaces:
 ```
 <a href={`${import.meta.env.BASE_URL}${post.slug}`} ... />
 ```

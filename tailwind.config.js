@@ -84,10 +84,12 @@ export default {
               //verticalAlign: "middle",
               content: "",
             },
-            'code': {
+            /*** Moved to regular CSS: https://github.com/tailwindlabs/tailwindcss-typography ***/
+            /*'code': {
               fontWeight: "300",
-              backgroundColor: "#f3f3f3",
-              padding: "3px 5px",
+              backgroundColor: "#f2f2f2",
+              backgroundOpacity: "0.5",
+              padding: "3px 5px 1px",
               fontSize: "0.8em",
               borderRadius: "0.25rem",
             },
@@ -96,7 +98,7 @@ export default {
             },
             'code::after': {
               content: "",
-          },
+          },*/
           },
         },
       },
