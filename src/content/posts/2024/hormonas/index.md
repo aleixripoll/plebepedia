@@ -1,7 +1,7 @@
 ---
 title: "Hormonas"
 slug: hormonas
-description: "Junto con los neurotransmisores tienen la culpa de casi todo."
+description: "Junto con los neurotransmisores, tienen la culpa de casi todo."
 authors: ["Dra. Valina"]
 image: "./pexels-steve-johnson-13014236.jpg"
 image_attribution:
@@ -13,9 +13,14 @@ draft: true
 date: 2024-03-19T07:00:00Z
 ---
 
+Son mensajeros químicos liberados por las distintas **glándulas endocrinas** al torrente sanguíneo.
+
+
 ---
 
 ##### Referencias
+
+https://my.clevelandclinic.org/health/articles/22464-hormones
 
 https://psicologiaymente.com/neurociencias/diferencias-entre-hormona-neurotransmisor
 
