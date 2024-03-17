@@ -37,7 +37,7 @@ Rara, puede ocurrir en dietas pobres en frutas y hortalizas, en fumadores (activ
 - Anemia
 
 ### Toxicidad
-- Rara, ya que cuando aumenta la dosis se reduce la absorción.
+- Rara, cuando aumenta la dosis se reduce la absorción.
 ---
 
 ##### Referencias
