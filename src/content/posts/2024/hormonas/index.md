@@ -22,8 +22,8 @@ Son mensajeros químicos liberados al torrente sanguíneo por las distintas **gl
 - **Glándula pineal:** Pequeño órgano en el cerebro, es nuestro reloj interno, controla los ciclos día-noche, ante la ausencia de luz produce **melatonina**.
 - **Glándula tiroides:** Se encuentra en la base de la garganta/tráquea, produce **tiroxina** (T4) y **triyodotironina** (T3), que inciden sobre el metabolismo de grasas y carbohidratos y controlan la temperatura corporal.
 - **Glándulas paratiroides**: Son 4 pequeños cuerpos en el cuello, habitualmente adheridos a la tiroides, producen la **hormona paratiroidea** encargada de mantener el equilibrio calcio-fósforo.
-- **Glándulas adrenales/suprarrenales:**
-- **Páncreas:**
+- **Glándulas adrenales/suprarrenales:** Pequeños órganos encima de cada riñón, producen **cortisol**, **aldosterona**, **adrenalina** (= epinefrina) y **noradrenalina**, además de hormonas que tienen como objetivo la producción de estrógeno y testosterona en los órganos reproductores. Regulación del metabolismo energético, el balance hídrico, la respuesta al estrés (*fight/flight*) y el desarrollo sexual.
+- **Páncreas:** Se encuentra entre el estómago y la columna. Es al mismo tiempo parte del sistema digestivo y endocrino (produce enzimas y hormonas). Entre otras, produce **insulina** y **glucagón**, encargadas de regular el azúcar en sangre.
 - **Órganos reproductores:**
 
 ### Neurotransmisores
@@ -39,3 +39,5 @@ https://my.clevelandclinic.org/health/articles/22464-hormones
 https://psicologiaymente.com/neurociencias/diferencias-entre-hormona-neurotransmisor
 
 https://medlineplus.gov/spanish/ency/article/002380.htm
+
+https://medlineplus.gov/spanish/adrenalglanddisorders.html
