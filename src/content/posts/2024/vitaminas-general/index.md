@@ -33,7 +33,7 @@ La vitamina B12, hidrosoluble, es una excepción a la regla: puede almacenarse d
 
 ---
 
-##### Referencias
+**Referencias**
 
 https://www.hsph.harvard.edu/nutritionsource/vitamins/
 

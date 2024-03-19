@@ -15,7 +15,7 @@ h6 {
   @apply font-bold leading-tight text-dark dark:text-light;
 }
 
-h2, h3, h4, .footnotes > ol > li, sup > a {
+h2, h3, h4, h5, .footnotes > ol > li, sup > a {
   @apply scroll-mt-20;
 }
 

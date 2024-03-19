@@ -76,7 +76,7 @@ Se produce cuando se realiza una inversión que parece no rentable y se razona d
 
 ---
 
-##### Referencias
+**Referencias**
 
 https://www.sciencedirect.com/topics/neuroscience/cognitive-bias
 

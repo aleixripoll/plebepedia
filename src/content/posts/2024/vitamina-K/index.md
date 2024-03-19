@@ -13,24 +13,23 @@ date: 2024-02-25T07:00:00Z
 <span class="attribution">Foto de Yaroslav Shuraev en [Pexels](https://www.pexels.com/photo/green-leaves-in-close-up-photography-8845078/)</span>
 
 
-- Es una vitamina **[liposoluble](../vitaminas-general)**.
-- Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, que puede ser producida por bacterias de nuestro cuerpo. 
+### Visión general
+Es una vitamina **[liposoluble](../vitaminas-general)**. Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, que puede ser producida por bacterias de nuestro cuerpo. 
 
 ### Funciones
-- Síntesis de proteínas necesarias para coagular la sangre (curación heridas) y formación huesos.
+Síntesis de proteínas necesarias para coagular la sangre (curación heridas) y formación huesos.
 
 ### Fuentes
-- Verduras (col, espinaca, lechuga, brócoli, kale, repollo).
+Verduras (col, espinaca, lechuga, brócoli, kale, repollo).
 
 ### Deficiencia
-- Muy rara, puede ocurrir si se toman medicamentos que bloquean su absorción.
-- Síntomas: mayor dificultad para cerrar heridas, osteoporosis.
+Muy rara, puede ocurrir si se toman medicamentos que bloquean su absorción. Síntomas: mayor dificultad para cerrar heridas, osteoporosis.
 
 ### Toxicidad
-- Se absorbe y elimina muy rápido, por lo que su toxicidad es rara.
+Rara, se absorbe y elimina a gran velocidad.
 
 ---
 
-##### Referencias
+**Referencias**
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-k/

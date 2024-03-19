@@ -50,7 +50,7 @@ date: 2024-01-04T07:00:00Z
 
 ---
 
-##### Referencias
+**Referencias**
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157347/
 

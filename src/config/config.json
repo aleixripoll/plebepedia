@@ -33,7 +33,7 @@
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "aleixripoll",
     "settings": {}
   }

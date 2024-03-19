@@ -13,7 +13,8 @@ date: 2024-03-01T07:00:00Z
 <span class="attribution">Foto de Karolina Grabowska en [Pexels](https://www.pexels.com/photo/slices-of-orange-on-cutting-board-4022129/)</span>
 
 
-- Es una vitamina **[hidrosoluble](../vitaminas-general)**.
+### Visión general
+Es una vitamina **[hidrosoluble](../vitaminas-general)**.
 
 ### Funciones
 - [Antioxidante](../antioxidantes).
@@ -38,8 +39,9 @@ Rara, puede ocurrir en dietas pobres en frutas y hortalizas, en fumadores (activ
 
 ### Toxicidad
 - Rara, cuando aumenta la dosis se reduce la absorción.
+
 ---
 
-##### Referencias
+**Referencias**
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-c/

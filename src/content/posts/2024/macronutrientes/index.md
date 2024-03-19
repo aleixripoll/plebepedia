@@ -1,14 +1,14 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "Be water my friend, pero también azúcar, proteína y grasa."
+description: "El 95% de lo que sale en la báscula."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:
     author: Lukas
     url: https://www.pexels.com/ca-es/foto/menjar-saludable-verdures-fusta-952478/
 categories: ["nutrición"]
-tags: ["macronutrientes", "proteínas", "aminoácidos", "azúcares", "fibra", "grasas"]
+tags: ["macronutrientes", "proteínas", "aminoácidos", "azúcares", "carbohidratos", "fibra", "grasa"]
 draft: false
 date: 2024-03-16T19:00:00Z
 ---
@@ -17,7 +17,7 @@ date: 2024-03-16T19:00:00Z
 
 
 ### Información general
-Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi toda la energía del cuerpo. Hay 3+1: proteínas, hidratos de carbono, grasas y agua. 
+Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi toda la energía del cuerpo. Hay 3+1: **proteínas**, **hidratos de carbono**, **grasas** y **agua**. 
 
 ### Hidratos de carbono
 Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y agua. Según la posición del carbono hablamos de **aldosas** (extremo) o **cetosas** (centro) y según según la cantidad de moléculas se clasifican en:
@@ -88,7 +88,7 @@ El agua se suele clasificar como macronutriente a pesar de cumplir solo 1 de los
 
 ---
 
-##### Referencias
+**Referencias**
 
 https://www.nal.usda.gov/human-nutrition-and-food-safety/food-composition/macronutrients
 
