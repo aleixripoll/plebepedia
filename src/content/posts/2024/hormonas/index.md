@@ -24,7 +24,8 @@ Son mensajeros químicos liberados al torrente sanguíneo por las distintas **gl
 - **Glándulas paratiroides**: Son 4 pequeños cuerpos en el cuello, habitualmente adheridos a la tiroides, producen la **hormona paratiroidea** encargada de mantener el equilibrio calcio-fósforo.
 - **Glándulas adrenales/suprarrenales:** Pequeños órganos encima de cada riñón, producen **cortisol**, **aldosterona**, **adrenalina** (= epinefrina) y **noradrenalina**, además de hormonas que tienen como objetivo la producción de estrógeno y testosterona en los órganos reproductores. Regulación del metabolismo energético, el balance hídrico, la respuesta al estrés (*fight/flight*) y el desarrollo sexual.
 - **Páncreas:** Se encuentra entre el estómago y la columna. Es al mismo tiempo parte del sistema digestivo y endocrino (produce enzimas y hormonas). Entre otras, produce **insulina** y **glucagón**, encargadas de regular el azúcar en sangre.
-- **Órganos reproductores:**
+- **Órganos reproductores:** Los ovarios segregam **estrógeno** (ciclo menstrual, diferenciación sexual), **progesterona** (embarazo) y **testosterona**. Los testículos producen las hormonas masculinas (andrógenos), la más importante es la **testosterona** (producción de espermatozoides, diferenciación sexual).
+
 
 ### Neurotransmisores
 
