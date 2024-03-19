@@ -1,7 +1,7 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "El 95% de lo que sale en la báscula son estos señores."
+description: "El 95% de lo que sale en la báscula son ellos."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:
