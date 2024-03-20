@@ -1,7 +1,7 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "El 95% de lo que sale en la báscula son ellos."
+description: "Azúcar, grasa y proteína en 40 litros de agua."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:
