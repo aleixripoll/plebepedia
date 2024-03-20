@@ -4,7 +4,7 @@ slug: astro-github-pages
 description: "Cómo cambiar de base URL sin morir en el intento."
 authors: ["Dra. Valina"]
 image: "./pexels-khizar-hayat-1114703.jpg"
-categories: ["tecnología", "desarrollo"]
+categories: ["tecnología"]
 tags: ["astro", "github pages", "deployment"]
 draft: false
 date: 2024-02-20T07:00:00Z
