@@ -3,15 +3,12 @@ title: "Vitamina C"
 slug: vitamina-c
 description: "Ácido ascórbico para los amigos."
 authors: ["Dr. Fenilalanino"]
-image: "./pexels-karolina-grabowska-4022129.jpg"
+image: "./vitamina_c.webp"
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-03-01T07:00:00Z
 ---
-
-<span class="attribution">Foto de Karolina Grabowska en [Pexels](https://www.pexels.com/photo/slices-of-orange-on-cutting-board-4022129/)</span>
-
 
 ### Visión general
 Es una vitamina **[hidrosoluble](../vitaminas-general)**.
