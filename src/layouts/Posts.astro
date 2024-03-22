@@ -25,14 +25,20 @@ const { className, posts, fluid } = Astro.props;
 >
   {
     posts.map((post: any, i: number) => (
-      <div class={`px-0 sm:px-4 col-12 ${i === 0 && fluid != false ? "" : "sm:col-6"}`}>
+      <div
+        class={`col-12 px-0 sm:px-4 ${
+          i === 0 && fluid != false ? "" : "sm:col-6"
+        }`}
+      >
         {post.data.image && (
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
-            class="group block overflow-hidden sm:rounded-lg hover:text-primary"
+            class="group block overflow-hidden hover:text-primary sm:rounded-lg"
           >
             <Image
-              class={`w-full transition duration-300 group-hover:scale-[1.03] ${i === 0 ? "max-h-56 md:max-h-full" : "max-h-56"} object-cover`}
+              class={`w-full transition duration-300 group-hover:scale-[1.03] ${
+                i === 0 ? "max-h-56 md:max-h-[450px]" : "max-h-56"
+              } object-cover`}
               src={post.data.image}
               alt={post.data.title}
               width={i === 0 ? 925 : 445}
@@ -40,7 +46,7 @@ const { className, posts, fluid } = Astro.props;
             />
           </a>
         )}
-        <ul class="mb-2 mt-4 flex flex-wrap justify-center items-center text-text dark:text-light">
+        <ul class="mb-2 mt-4 flex flex-wrap items-center justify-center text-text dark:text-light">
           {/*<li class="mr-5">
             {authors
               .filter((author: any) =>
@@ -72,13 +78,15 @@ const { className, posts, fluid } = Astro.props;
             <>{dateFormat(post.data.date)}</>
           </li>*/}
           <li class="flex flex-wrap items-center">
-            <BiCategoryAlt className="pr-1 h-[18px] w-[18px]" />
+            <BiCategoryAlt className="h-[18px] w-[18px] pr-1" />
             <>
               <ul>
                 {post.data.categories.map((category: string, i: number) => (
                   <li class="inline-block">
                     <a
-                      href={`${import.meta.env.BASE_URL}categories/${slugify(category)}`}
+                      href={`${import.meta.env.BASE_URL}categories/${slugify(
+                        category
+                      )}`}
                       class="mr-2 font-medium hover:text-primary"
                     >
                       {humanize(category)}
@@ -93,19 +101,22 @@ const { className, posts, fluid } = Astro.props;
         <h3 class="mb-2">
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
-            class="block hover:text-primary dark:text-white px-2"
+            class="block px-2 hover:text-primary dark:text-white"
           >
             {post.data.title}
           </a>
         </h3>
-        <p class="text-text dark:text-light lg:text-lg px-2">
-          {
-            post.data.description ? post.data.description :
-            post.body?.slice(
-              0,
-              Number(i === 0 && fluid != false ? summary_length * 2 : summary_length)
-            ) + "..."
-          }
+        <p class="px-2 text-text lg:text-lg dark:text-light">
+          {post.data.description
+            ? post.data.description
+            : post.body?.slice(
+                0,
+                Number(
+                  i === 0 && fluid != false
+                    ? summary_length * 2
+                    : summary_length
+                )
+              ) + "..."}
         </p>
       </div>
     ))
