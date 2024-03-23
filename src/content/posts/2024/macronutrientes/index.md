@@ -20,7 +20,7 @@ date: 2024-03-16T19:00:00Z
 Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi toda la energía del cuerpo. Hay 3+1: **proteínas**, **hidratos de carbono**, **grasas** y **agua**. 
 
 ### Hidratos de carbono
-Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y agua. Según la posición del carbono hablamos de **aldosas** (extremo) o **cetosas** (centro) y según según la cantidad de moléculas se clasifican en:
+Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y agua. Según la posición del carbono hablamos de **aldosas** (extremo) o **cetosas** (centro) y según la cantidad de moléculas se clasifican en:
 
 - **Monosacáridos (azúcares simples):** glucosa, galactosa, fructosa.
 - **Disacáridos:** lactosa (glucosa + galactosa), sacarosa (glucosa + fructosa), maltosa (dos glucosas).
@@ -34,7 +34,7 @@ Se encuentra en algunos polisacáridos, se clasifica según su absorción:
 #### Índice glucémico y carga glucémica
 Este índice nos indica cuán rápido un carbohidrato es convertido en azúcar simple y absorbido en la sangre. Una analogía sería vertir arena en una cañería de agua, la circulación será más lenta y requerirá mayor fuerza de bombeo. Para evitar el colapso de la bomba (corazón), el páncreas secreta insulina para indicar a las células que deben tragarse ese superávit de azúcar, que acaba almacenado en forma de grasa.
 
-Algunos alimentos tienen un alto índice glucémico pero baja carga glucémica, es decir, aportan pocos carbohidratos, con lo cual **el índice glucémico es bastante indiferente** (ejemplo: zanahoria).
+Algunos alimentos tienen un alto índice glucémico pero baja carga glucémica, es decir, aportan pocos carbohidratos (ejemplo: zanahoria), con lo cual **el índice glucémico es bastante indiferente**.
 
 Por regla general, cuanto más complejos sean los carbohidratos, mejor (granos enteros mejor que refinados). Dicho esto, el cocinado aumenta la biodisponibilidad lo cual es un arma de doble filo, ya que también aumenta la carga glucémica.
 
