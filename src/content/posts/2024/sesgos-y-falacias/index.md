@@ -16,7 +16,7 @@ date: 2024-02-17T07:00:00Z
 ### Sesgos cognitivos
 Errores de percepción que no podemos eliminar aún siendo conscientes de ellos. Por ejemplo:
 
-- **Efecto Dunning-Kruger:** Las personas incompetentes sobreestiman su propia habilidad, y las personas altamente competentes sobreestiman la habilidades de los demás.
+- **Efecto Dunning-Kruger:** Las personas incompetentes sobreestiman su propia habilidad y las personas altamente competentes sobreestiman la habilidad de los demás.
 
 - **Sesgo de confirmación:** Favorecemos las informaciones que confirman nuestras propias teorías, es decir, las que nos dan la razón.
 
@@ -27,11 +27,11 @@ Errores de percepción que no podemos eliminar aún siendo conscientes de ellos.
 
 ### Falacias lógicas
 
-Una falacia lógica es un argumento que contiene errores de razonamiento difíciles de detectar a causa de los sesgos cognitivos. Por ejemplo:
+Una falacia lógica es un argumento con errores de razonamiento que no podemos detectar debido a los sesgos cognitivos. Por ejemplo:
 
 - **Falso dilema:** Evaluamos solo las dos opciones extremas cuando en realidad existen varias opciones intermedias que no han sido consideradas.
 
-- **Argumento Non sequitur:**  Del latín *«no se sigue»*, argumento cuyas conclusiones no tienen relación alguna con las premisas. Toda falacia es un *non sequitur*. 
+- **Argumento Non sequitur:** Del latín *«no se sigue»*, argumento cuyas conclusiones no tienen relación alguna con las premisas. Toda falacia es un *non sequitur*. 
 
 - **Ad hominem:** La validez (o no) de un argumento depende de la persona que lo realiza y no del argumento en sí.
 
@@ -45,7 +45,7 @@ Una falacia lógica es un argumento que contiene errores de razonamiento difíci
 
 - **Argumento ad antiquitatem:** «Esto es correcto porque siempre se ha hecho de esta manera».
 
-- **Falacia del costo irrecuperable:** Persistir en inversiones no rentables para justificar lo invertido anteriormente (tiempo, dinero). Relacionada con la aversión a la pérdida, lleva a incrementar las pérdidas o a tomar decisiones solo para justificar una inversión previa (por ejemplo, asistir a un evento para el que compramos entradas a pesar de que haya surgido otra opción mejor a posteriori. El dinero invertido en el pasado no volverá y además estamos renunciando a la mejor opción en el presente).
+- **Falacia del costo irrecuperable:** Persistir en inversiones no rentables para justificar lo invertido anteriormente (tiempo, dinero). Relacionada con la **aversión a la pérdida**, lleva a incrementar las pérdidas o a tomar decisiones solo para justificar una inversión previa (por ejemplo, asistir a un evento para el que compramos entradas a pesar de que haya surgido otra opción mejor a posteriori. El dinero invertido en el pasado no volverá y además estamos renunciando a la mejor opción en el presente).
 
 
 ---
