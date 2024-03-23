@@ -3,7 +3,10 @@ title: "Vitamina C"
 slug: vitamina-c
 description: "Ácido ascórbico para los amigos."
 authors: ["Dr. Fenilalanino"]
-image: "./vitamina_c.webp"
+image: "./pexels-tim-mossholder-3804878.jpg"
+image_attribution:
+    author: Tim Mossholder
+    url: https://www.pexels.com/ca-es/foto/saludable-desenfocament-fulles-arbre-3804878/
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false

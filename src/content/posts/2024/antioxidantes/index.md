@@ -4,14 +4,14 @@ slug: antioxidantes
 description: "Es más fácil hablar de ellos que saber lo que son."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-any-lane-5946101.jpg
+image_attribution:
+    author: Any Lane
+    url: https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/
 categories: ["nutrición"]
 tags: ["radical libre", "oxígeno"]
 draft: false
 date: 2024-02-09T07:00:00Z
 ---
-
-<span class="attribution">Foto de Any Lane en [Pexels](https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/)</span>
-
 
 ### Radicales libres ("oxidantes")
 

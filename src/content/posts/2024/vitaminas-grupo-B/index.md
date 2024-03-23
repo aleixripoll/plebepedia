@@ -3,10 +3,10 @@ title: "Vitaminas del grupo B"
 slug: vitaminas-grupo-b
 description: "Con 8 basta."
 authors: ["Dra. Valina"]
-image: "./pexels-pixabay-60582.jpg"
+image: "./pexels-rodolfo-clix-1036936.jpg"
 image_attribution:
-    author: Pixabay
-    url: https://www.pexels.com/ca-es/foto/blanc-i-negre-metall-moviment-reflexio-60582/
+    author: Rodolfo Clix
+    url: https://www.pexels.com/ca-es/foto/llum-blau-got-bombeta-1036936/
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false

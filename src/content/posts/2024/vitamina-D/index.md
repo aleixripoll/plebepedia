@@ -4,14 +4,14 @@ slug: vitamina-d
 description: "Calciferol para los amigos."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-nuno-campos-1834609.jpg"
+image_attribution:
+    author: Nuno Campos
+    url: https://www.pexels.com/photo/clear-glass-ball-on-brown-sands-1834609/
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-02-18T07:00:00Z
 ---
-
-<span class="attribution">Foto de Nuno Campos en [Pexels](https://www.pexels.com/photo/clear-glass-ball-on-brown-sands-1834609/)</span>
-
 
 ### Tabla de contenidos
 

@@ -4,13 +4,14 @@ slug: astro-github-pages
 description: "Cómo cambiar de base URL sin morir en el intento."
 authors: ["Dra. Valina"]
 image: "./pexels-khizar-hayat-1114703.jpg"
+image_attribution:
+    author: Khizar Hayat
+    url: https://www.pexels.com/photo/gray-keypad-1114703/
 categories: ["tecnología"]
 tags: ["astro", "github pages", "deployment"]
 draft: false
 date: 2024-02-20T07:00:00Z
 ---
-
-<span class="attribution">Foto de Khizar Hayat en [Pexels](https://www.pexels.com/photo/gray-keypad-1114703/)</span>
 
 Entrada un poco meta, vamos a hablar de algunos problemillas que encontré desplegando este sitio en Github Pages.
 

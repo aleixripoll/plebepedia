@@ -3,15 +3,15 @@ title: "Vitamina E"
 slug: vitamina-e
 description: "Tocoferol para los amigos."
 authors: ["Dr. Fenilalanino"]
-image: "./pexels-engin-akyurt-5425021.jpg"
+image: "./pexels-john-riches-3632381.jpg"
+image_attribution:
+    author: John Riches
+    url: https://www.pexels.com/ca-es/foto/fulles-arbre-a-l-aire-lliure-fruita-3632381/
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-02-19T07:00:00Z
 ---
-
-<span class="attribution">Foto de Engin Akyurt en [Pexels](https://www.pexels.com/ca-es/foto/menjar-llavors-berenar-avellanes-5425021/)</span>
-
 
 - Es una vitamina **[liposoluble](../vitaminas-general)**.
 - Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
