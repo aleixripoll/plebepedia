@@ -10,11 +10,8 @@ draft: false
 date: 2024-01-04T07:00:00Z
 ---
 
-### Tabla de contenidos
-
-### Conceptos generales
-- Es una vitamina **[liposoluble](../vitaminas-general)**.
-- No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
+### Información básica
+La vitamina A es **[liposoluble](../vitaminas-general)**. No podemos producirla, debemos obtenerla de alimentos de origen animal (**retinoides**) o de origen vegetal (**carotenoides**).
 
 #### Retinoides
 - Sólo 3 de ellos son formas activas de la vitamina A: retinol, retinal y ácido retinoico (ATRA).

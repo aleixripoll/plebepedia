@@ -13,8 +13,8 @@ draft: false
 date: 2024-03-01T07:00:00Z
 ---
 
-### Visión general
-Es una vitamina **[hidrosoluble](../vitaminas-general)**.
+### Información básica
+Es una vitamina **[hidrosoluble](../vitaminas-general)** que se obtiene de alimentos de origen vegetal.
 
 ### Funciones
 - [Antioxidante](../antioxidantes).

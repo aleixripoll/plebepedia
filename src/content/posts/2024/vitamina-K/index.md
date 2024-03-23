@@ -1,19 +1,19 @@
 ---
 title: "Vitamina K"
 slug: vitamina-k
-description: "Filo y mena(quinona) para los amigos."
+description: "Filoquinona y menaquinona para los amigos."
 authors: ["Dra. Valina"]
 image: "./pexels-yaroslav-shuraev-8845078.jpg"
+image_attribution:
+    author: Yaroslav Shuraev
+    url: https://www.pexels.com/photo/green-leaves-in-close-up-photography-8845078/
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-02-25T07:00:00Z
 ---
 
-<span class="attribution">Foto de Yaroslav Shuraev en [Pexels](https://www.pexels.com/photo/green-leaves-in-close-up-photography-8845078/)</span>
-
-
-### Visión general
+### Información básica
 Es una vitamina **[liposoluble](../vitaminas-general)**. Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, que puede ser producida por bacterias de nuestro cuerpo. 
 
 ### Funciones

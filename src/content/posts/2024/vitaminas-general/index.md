@@ -1,7 +1,7 @@
 ---
-title: "Vitaminas: datos generales"
+title: "Vitaminas, datos generales"
 slug: vitaminas-general
-description: "Los detalles para otro día."
+description: "Por qué algunas deben consumirse todos los días."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
 categories: ["nutrición"]
@@ -10,26 +10,22 @@ draft: false
 date: 2024-02-07T07:00:00Z
 ---
 
-Las vitaminas son substancias **orgánicas** [^1] que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
+### Información básica
+Las vitaminas son substancias **orgánicas** (= contienen carbono, habitualmente junto con hidrógeno) que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
 
-- **Hidrosolubles:** [B](../vitaminas-grupo-b), [C](../vitamina-c).
-- **Liposolubles:** [A](../vitamina-a), [D](../vitamina-d), [E](../vitamina-e), [K](../vitamina-k]).
+- **Hidrosolubles:** Grupo B (ocho en total) y C.
+- **Liposolubles:** A, D, E, K.
 
-Si no le salen los números es porque la B no es una vitamina sino un grupo de 8 vitaminas (**1:** Tiamina, **2:** Riboflavina, **3:** Niacina, **5:** Ácido pantoténico, **6:** Piridoxina, **7:** Biotina, **9:** Ácido fólico, **12:** Cobalamina).
+### Agua vs aceite
 
-## Hidrosoluble vs liposoluble
+Somos seres de agua. El aceite no se mezcla con el agua.
 
-Somos seres de agua.
+> Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero en realidad es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, es decir, no hay grandes fuerzas internas y no se generan cargas eléctricas. Por lo tanto, el aceite no reacciona en contacto con el agua. Por otra parte, las fuerzas de atracción del oxígeno compactan la molécula de agua y aumentan su densidad, por ese motivo el agua pesa más que el aceite.
 
-El aceite no se mezcla con el agua [^2].
+El resultado de todo esto es que podemos almacenar vitaminas que se disuelven en aceite (**liposolubles**), pero no podemos almacenar vitaminas que se disuelven en agua (**hidrosolubles**), de manera que debemos consumirlas todos los días. La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
 
-Por lo tanto podemos almacenar vitaminas que se disuelven en aceite (**liposolubles**), pero **NO** podemos almacenar las que se disuelven en agua (**hidrosolubles**), por el mismo motivo por el que no podemos almacenar una pastilla efervescente en una garrafa de Solán de Cabras.
+La vitamina **B12, hidrosoluble**, es una excepción a la regla: puede almacenarse durante años en el hígado.
 
-La consecuencia de todo esto es que **las vitaminas hidrosolubles deben tomarse todos los días**, mientras que las liposolubles se pueden almacenar durante meses.
-
-La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
-
-La vitamina B12, hidrosoluble, es una excepción a la regla: puede almacenarse durante años en el hígado.
 
 ---
 
@@ -38,9 +34,3 @@ La vitamina B12, hidrosoluble, es una excepción a la regla: puede almacenarse d
 https://www.hsph.harvard.edu/nutritionsource/vitamins/
 
 https://medlineplus.gov/spanish/ency/article/002399.htm
-
----
-
-[^1]: Los compuestos orgánicos son aquellos que contienen carbono, casi siempre junto con hidrógeno.
-
-[^2]: Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero en realidad es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, no hay grandes fuerzas internas y no se generan cargas eléctricas, por lo tanto el aceite no reacciona en contacto con el agua, es como juntar un imán con madera. Por otra parte las fuerzas de atracción del oxígeno compactan la molécula y aumentan su densidad. Y así, niños, es como el agua cae al fondo y el aceite flota en el agua.

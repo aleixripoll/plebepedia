@@ -13,9 +13,7 @@ draft: false
 date: 2024-02-18T07:00:00Z
 ---
 
-### Tabla de contenidos
-
-### Conceptos generales
+### Información básica
 - Es una vitamina **[liposoluble](../vitaminas-general)**.
 - Se comporta como una hormona, es decir, actua como un mensajero químico para regular globalmente ciertas funciones celulares.
 - Se encuentra en la naturaleza en dos formas: D2, **ergocalciferol**, de origen vegetal, y D3, **colecalciferol**, de origen animal.

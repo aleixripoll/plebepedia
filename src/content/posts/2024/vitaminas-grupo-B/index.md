@@ -5,8 +5,8 @@ description: "Con 8 basta."
 authors: ["Dra. Valina"]
 image: "./pexels-rodolfo-clix-1036936.jpg"
 image_attribution:
-    author: Rodolfo Clix
-    url: https://www.pexels.com/ca-es/foto/llum-blau-got-bombeta-1036936/
+    author: MART PRODUCTION
+    url: https://www.pexels.com/ca-es/foto/art-creatiu-patro-abstracte-7577876/
 categories: ["nutrición"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
@@ -16,7 +16,7 @@ date: 2024-03-03T07:00:00Z
 ### Tabla de contenidos
 
 
-### Información general
+### Información básica
 - Las vitaminas del grupo B son **[hidrosolubles](../vitaminas-general)**.
 - Están relacionadas con el metabolismo energético y el estado de ánimo.
 - Su deficiencia es rara, exceptuando la B12.

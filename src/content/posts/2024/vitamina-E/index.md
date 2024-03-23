@@ -13,6 +13,7 @@ draft: false
 date: 2024-02-19T07:00:00Z
 ---
 
+### Información básica
 - Es una vitamina **[liposoluble](../vitaminas-general)**.
 - Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
 

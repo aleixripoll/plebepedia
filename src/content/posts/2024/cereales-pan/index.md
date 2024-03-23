@@ -1,24 +1,19 @@
 ---
-title: "Cereales"
-slug: cereales
+title: "Cereales y pan"
+slug: cereales-pan
 description: "Trigo contra todos."
 authors: ["Dra. Valina"]
 image: ./pexels-pixabay-162769.jpg
+image_attribution:
+    author: Pixabay
+    url: https://www.pexels.com/ca-es/foto/pa-camp-estiu-sec-162769/
 categories: ["nutrición"]
 tags: ["pan", "trigo", "centeno", "espelta", "kamut", "sarraceno"]
 draft: false
 date: 2024-02-27T07:00:00Z
 ---
 
-<span class="attribution">Foto de Pixabay en [Pexels](https://www.pexels.com/ca-es/foto/pa-camp-estiu-sec-162769/)</span>
-
-
-## Tabla de contenidos
-
-## Intro
-Encontré [este artículo](https://www.elmundo.es/papel/boticaria-garcia/2020/03/07/5e611b72fc6c83de468b45b6.html) sobre el boom de los cereales guais que me parece muy interesante y es la base de esta entrada; por favor consultadlo, imprimidlo y pegadlo en la pared del comedor.
-
-## Cereales
+Encontré [este artículo](https://www.elmundo.es/papel/boticaria-garcia/2020/03/07/5e611b72fc6c83de468b45b6.html) sobre el boom de los cereales guais que me parece muy interesante y es la base de esta comparativa.
 
 ### Trigo
 *(en: wheat, ca: blat)*

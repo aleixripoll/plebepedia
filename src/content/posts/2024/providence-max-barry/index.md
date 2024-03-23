@@ -4,13 +4,14 @@ slug: providence-max-barry
 description: "Michael Crichton con plus de existencialismo."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-edvin-richardson-796206.jpg
+image_attribution:
+    author: Edvin Richardson
+    url: https://www.pexels.com/photo/space-shuttle-launch-during-nighttime-796206/
 categories: ["literatura"]
 tags: ["novela", "lang-en", "psicología", "existencialismo", "ciencia ficción"]
 draft: false
 date: 2024-02-28T07:00:00Z
 ---
-
-<span class="attribution">Foto de Edvin Richardson en [Pexels](https://www.pexels.com/photo/space-shuttle-launch-during-nighttime-796206/)</span>
 
 Soy muy fan de Max Barry, he leído casi todo lo que ha escrito y recomiendo especialmente **Syrup**, **Lexicon**, **Jennifer Government** y **Providence** (a tener en cuenta: tanto Providence como Syrup, inexplicablemente, no están traducidas al castellano).
 
