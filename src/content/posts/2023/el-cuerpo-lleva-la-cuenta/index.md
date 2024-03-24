@@ -7,7 +7,7 @@ image_attribution:
     author: Towfiqu Barbhuiya
     url: https://www.pexels.com/ca-es/foto/taula-de-fusta-natura-morta-espai-per-a-text-rellotge-de-sorra-9862247/
 categories: ["literatura"]
-tags: ["psicología", "ensayo"]
+tags: ["ensayo", "psicología"]
 draft: false
 date: 2023-06-10T16:34:00Z
 ---

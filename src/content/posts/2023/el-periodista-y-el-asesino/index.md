@@ -7,7 +7,7 @@ image_attribution:
     author: Markus Spiske
     url: https://www.pexels.com/ca-es/foto/cafe-tassa-copa-telefon-intel-ligent-97050/
 categories: ["literatura"]
-tags: ["periodismo", "psicología", "ensayo"]
+tags: ["ensayo", "periodismo", "psicología"]
 draft: false
 date: 2023-10-29T16:48:00Z
 ---
