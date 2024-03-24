@@ -20,7 +20,7 @@ La literatura nutricional (y científica en general) se podría dividir en las s
 - Libros de divulgacion científica: Esta sería la categoría más interesante para el común de los mortales, pero muchas veces queda un hueco enorme entre la categoría anterior y esta. Hay muchos autores con una agenda u obsesión personal por venderte una dieta en particular (vegana, cetogénica, paleo, etc.) con tendencia a torcer los estudios para que encajen con su verdad (sesgo de confirmación).
 - Libros con títulos tipo *"Pierda un porrón de kilos en x días"*. Sin comentarios.
 
-En resumen, no es fácil encontrar libros rigurosos, más o menos objetivos y amenos de leer sobre ciencia nutricional, y este es de los mejores que he leído recientemente: detallado pero no excesivamente denso, bien redactado, con un punto de humor y con información de primera mano, ya que el autor, entre otras historias, convivió con los **Hadza**, una de las últimas tribus cazadoras-recolectoras, para estudiar el metabolismo energético humano.
+En resumen, no es fácil dar con libros de nutrición relativamente técnicos, científicamente rigurosos y amenos de leer, y este es de los mejores que he encontrado últimamente: detallado pero no excesivamente denso y muy bien redactado. El autor convivió con los **Hadza**, una de las últimas tribus cazadoras-recolectoras, para estudiar el metabolismo energético humano.
 
 Lo recomiendo a todo aquel que quiera aprender como funciona su cuerpo y no esté casado con ninguna dieta ni necesite justificar fanáticamente sus decisiones nutricionales.
 
