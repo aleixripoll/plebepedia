@@ -1,6 +1,6 @@
 ---
 title: "Open Space Technology"
-description: "Tratado sobre como organizar reuniones, por Harrison Owen."
+description: "Tratado sobre cómo organizar reuniones, por Harrison Owen."
 authors: ["Dr. Fenilalanino"]
 image: ./nastuh-abootalebi-eHD8Y1Znfpk-unsplash.jpg
 image_attribution:
