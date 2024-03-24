@@ -47,7 +47,7 @@ La vitamina A es **[liposoluble](../vitaminas-general)**. No podemos producirla,
 
 ---
 
-**Referencias**
+##### Referencias
 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8157347/
 

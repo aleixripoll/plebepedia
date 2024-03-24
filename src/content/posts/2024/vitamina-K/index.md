@@ -30,6 +30,6 @@ Rara, se absorbe y elimina a gran velocidad.
 
 ---
 
-**Referencias**
+##### Referencias
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-k/

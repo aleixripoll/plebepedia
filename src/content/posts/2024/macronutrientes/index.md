@@ -40,7 +40,7 @@ Por regla general, cuanto más complejos sean los carbohidratos, mejor (granos e
 
 
 ### Proteínas
-Macronutriente formado por cadenas de más de 50 **aminoácidos** [^1] (moléculas formadas por átomos de carbono, nitrógeno, hidrógeno, oxígeno y en algun caso azufre). Existen 21 aminoácidos divididos en 2 grupos:
+Macronutriente formado por cadenas de más de 50 **aminoácidos** [^1]. Existen 21 aminoácidos divididos en 2 grupos:
 
 - **Esenciales:** No pueden ser producidos por el cuerpo, deben consumirse todos los días. Son 9: valina, leucina, isoleucina, treonina, metionina, fenilalanina, histidina, triptófano y lisina.
 - **No esenciales:** Pueden ser producidos por el cuerpo: alanina, arginina, asparagina, ácido aspártico, cisteína, ácido glutámico, glutamina, glicina, prolina, serina, taurina y tirosina.
@@ -88,7 +88,7 @@ El agua se suele clasificar como macronutriente a pesar de cumplir solo 1 de los
 
 ---
 
-**Referencias**
+##### Referencias
 
 https://www.nal.usda.gov/human-nutrition-and-food-safety/food-composition/macronutrients
 
@@ -111,4 +111,4 @@ https://www.hsph.harvard.edu/nutritionsource/carbohydrates/carbohydrates-and-blo
 
 ---
 
-[^1]: Un dipéptido está formado por 2 aminoácidos, un tripéptido por 3, un polipéptido entre 10 y 50.
+[^1]: Los aminoácidos son moléculas formadas por átomos de carbono, nitrógeno, hidrógeno y oxígeno, y en algunos casos azufre. Un dipéptido está formado por 2 aminoácidos, un tripéptido 3, un polipéptido entre 10 y 50, una proteína más de 50.

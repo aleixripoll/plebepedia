@@ -65,7 +65,7 @@ Desarrollo del cerebro y células nerviosas.
 
 ---
 
-**Referencias**
+##### Referencias
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-b1/
 

@@ -113,7 +113,7 @@ Cofactor en más de 100 reacciones enzimáticas. Necesario para el sistema inmun
 
 ---
 
-**Referencias**
+##### Referencias
 
 - *[Vitamins and minerals | Harvard School of Public Health](https://www.hsph.harvard.edu/nutritionsource/vitamins/)*
 

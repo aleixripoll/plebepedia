@@ -42,6 +42,6 @@ Rara, puede ocurrir en dietas pobres en frutas y hortalizas, en fumadores (activ
 
 ---
 
-**Referencias**
+##### Referencias
 
 https://www.hsph.harvard.edu/nutritionsource/vitamin-c/

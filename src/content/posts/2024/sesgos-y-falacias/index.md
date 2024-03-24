@@ -50,7 +50,7 @@ Una falacia lógica es un argumento con errores de razonamiento que no podemos d
 
 ---
 
-**Referencias**
+##### Referencias
 
 https://www.sciencedirect.com/topics/neuroscience/cognitive-bias
 
