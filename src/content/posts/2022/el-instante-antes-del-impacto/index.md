@@ -12,7 +12,7 @@ draft: false
 date: 2022-10-30T07:03:00Z
 ---
 
-*Novela pseudo-autobiográfica de Glòria de Castro. Tras quedarse embarazada y solicitar reducción de jornada, fue progresivamente apartada de todos los proyectos en la agencia de publicidad para la que trabajaba, de manera que tenía cada día 6 horas "de nada", como ella misma explica, que dedicó a escribir lo que más tarde se convirtió en esta novela.*
+*Novela pseudo-autobiográfica de Glòria de Castro. Tras quedar embarazada y solicitar reducción de jornada, fue progresivamente apartada de todos los proyectos en la agencia de publicidad para la que trabajaba, de manera que tenía cada día 6 horas "de nada", como ella misma explica, que dedicó a escribir lo que más tarde se convirtió en esta novela.*
 
 *En la actualidad vive en un pueblo de Mallorca apartada de todo este mundo de locura.*
 
