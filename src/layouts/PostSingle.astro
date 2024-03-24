@@ -27,7 +27,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
 
 <section class="section">
   <div class="container">
-    <article class="row justify-center text-text dark:text-light">
+    <article class="row justify-center text-text dark:text-light -mx-4">
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h2 dark:text-white" />
         <p class="py-2 lg:text-lg">{description}</p>
@@ -99,7 +99,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
               height={500}
               width={1000}
               alt={title}
-              class="rounded-lg"
+              class="sm:rounded-lg"
             />
           )
         }
