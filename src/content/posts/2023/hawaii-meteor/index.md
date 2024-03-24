@@ -1,6 +1,6 @@
 ---
 title: "Hawaii Meteor"
-description: "Road movie una mica psicodèlica, per Jair Domínguez"
+description: "Road movie una mica psicodèlica, per Jair Domínguez."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-eberhard-grossgasteiger-1612461.jpg
 image_attribution:

@@ -1,6 +1,6 @@
 ---
 title: "Estructures profundes"
-description: "Espectacular fumada post-apocalíptica, per Jair Domínguez"
+description: "Espectacular fumada post-apocalíptica, per Jair Domínguez."
 authors: ["Dr. Fenilalanino"]
 image: ./cover.webp
 categories: ["literatura"]
