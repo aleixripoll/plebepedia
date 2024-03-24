@@ -8,7 +8,7 @@ image_attribution:
     author: Edvin Richardson
     url: https://www.pexels.com/photo/space-shuttle-launch-during-nighttime-796206/
 categories: ["literatura"]
-tags: ["novela", "lang-en", "psicología", "existencialismo", "ciencia ficción"]
+tags: ["novela", "psicología", "existencialismo", "ciencia ficción", "lang-en"]
 draft: false
 date: 2024-02-28T07:00:00Z
 ---
