@@ -6,7 +6,7 @@ image: ./pexels-tetyana-kovyrina-2422777.jpg
 image_attribution:
     author: Tetyana Kovyrina
     url: https://www.pexels.com/ca-es/foto/naturalesa-natura-animal-ulls-2422777/
-categories: ["literatura"]
+categories: ["literatura", "neurociencia"]
 tags: ["texto académico", "psicología"]
 draft: false
 date: 2022-11-10T13:38:00Z
