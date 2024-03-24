@@ -1,7 +1,7 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "Azúcar, grasa, proteína y agua."
+description: "Somos azúcar, grasa y proteína en 40 litros de agua."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:
