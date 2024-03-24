@@ -1,6 +1,6 @@
 ---
 title: "Maneras de amar"
-description: "La ciencia de los estilos de apego, por Amir Levine y Rachel Heller"
+description: "La ciencia de los estilos de apego, por Amir Levine y Rachel Heller."
 authors: ["Dra. Valina"]
 image: ./pexels-kawaiiart-1767434.jpg
 image_attribution:
