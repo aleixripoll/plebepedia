@@ -1,6 +1,6 @@
 ---
 title: "Dune"
-description: "Novela de Frank Herbert, mucho mejor que la película de Denis Villeneuve."
+description: "Novela de Frank Herbert, con muchos más matices que la película de Villeneuve."
 authors: ["Dra. Valina"]
 image: ./pexels-emiliano-arano-1352196.jpg
 image_attribution:
