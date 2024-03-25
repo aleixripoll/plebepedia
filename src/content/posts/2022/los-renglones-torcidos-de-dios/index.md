@@ -1,6 +1,6 @@
 ---
 title: "Los renglones torcidos de Dios"
-description: "Novela de Torcuato Luca de Tena."
+description: "El Shutter Island de Torcuato Luca de Tena."
 authors: ["Dra. Valina"]
 image: ./pexels-george-becker-136351.jpg
 image_attribution:

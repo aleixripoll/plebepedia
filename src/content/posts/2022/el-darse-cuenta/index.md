@@ -1,6 +1,6 @@
 ---
-title: "El darse cuenta, de John O. Stevens"
-description: "Libro de autoayuda en formato psicología Gestalt."
+title: "El darse cuenta"
+description: "Libro de autoayuda con psicología Gestalt, por John O. Stevens"
 authors: ["Dra. Valina"]
 image: ./cover.jpg
 categories: ["literatura"]
