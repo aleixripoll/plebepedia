@@ -1,6 +1,6 @@
 ---
 title: "21 lecciones para el siglo XXI"
-description: "Tercera parte de 'Sapiens', de Yuval Noah Harari"
+description: "Tercera parte de 'Sapiens', de Yuval Noah Harari."
 authors: ["Dra. Valina"]
 image: ./pexels-nastyasensei-335393.jpg
 image_attribution:
