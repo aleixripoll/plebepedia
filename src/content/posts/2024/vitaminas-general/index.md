@@ -1,7 +1,7 @@
 ---
 title: "Vitaminas, datos generales"
 slug: vitaminas-general
-description: "Por qué algunas deben consumirse todos los días."
+description: "Clasificación y solubilidad."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
 categories: ["nutrición"]
