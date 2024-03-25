@@ -1,6 +1,6 @@
 ---
 title: "The Fountainhead"
-description: "Novela neoliberal, a la vez ingenua e impactante, por Ayn Rand."
+description: "Oda al neoliberalismo, por Ayn Rand."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-gotta-be-worth-it-919179.jpg
 image_attribution:
