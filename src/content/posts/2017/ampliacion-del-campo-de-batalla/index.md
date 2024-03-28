@@ -1,6 +1,6 @@
 ---
 title: "Ampliación del campo de batalla"
-description: "Crítica al liberalismo y la sociedad contemporánea. Primera novela de Michel Houellebecq."
+description: "Crítica al liberalismo, primera novela de Michel Houellebecq."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-nout-gons-378570.jpg
 image_attribution:
