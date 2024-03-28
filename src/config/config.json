@@ -23,7 +23,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Tema basado en [Bookworm Light](https://astro.build/themes/details/bookworm-light/) de [Themefisher](https://themefisher.com)"
+    "copyright": "Tema basado en [Bookworm Light](https://github.com/themefisher/bookworm-light-astro) de [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
