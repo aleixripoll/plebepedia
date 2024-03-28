@@ -36,13 +36,13 @@ const { className, posts, fluid } = Astro.props;
             class="group block overflow-hidden hover:text-primary sm:rounded-lg"
           >
             <Image
-              class={`w-full transition duration-300 group-hover:scale-[1.03] max-h-56 ${
-                i < 2 ? "sm:max-height-56" : "sm:max-h-36"
+              class={`max-h-56 w-full transition duration-300 group-hover:scale-[1.03] ${
+                i < 2 && fluid != false ? "sm:max-height-56" : "sm:max-h-36"
               } object-cover`}
               src={post.data.image}
               alt={post.data.title}
-              width={i === 0 ? 925 : 445}
-              height={i === 0 ? 475 : 230}
+              width={i < 2 ? 925 : 445}
+              height={i < 2 ? 475 : 230}
             />
           </a>
         )}
@@ -98,9 +98,7 @@ const { className, posts, fluid } = Astro.props;
             </>
           </li>
         </ul>
-        <h3 class={`mb-1 ${
-          i > 1 ? "md:text-2xl" : ""
-        }`}>
+        <h3 class={`mb-1 ${i > 1 || fluid === false ? "md:text-2xl" : ""}`}>
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
             class="block px-2 hover:text-primary"
@@ -114,9 +112,7 @@ const { className, posts, fluid } = Astro.props;
             : post.body?.slice(
                 0,
                 Number(
-                  i === 0 && fluid != false
-                    ? summary_length * 2
-                    : summary_length
+                  i < 2 && fluid != false ? summary_length * 2 : summary_length
                 )
               ) + "..."}
         </p>
