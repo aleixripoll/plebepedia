@@ -1,6 +1,6 @@
 ---
 title: "Por qué mentimos, en especial a nosotros mismos"
-description: "Experimentos en psicología conductual, por Dan Ariely"
+description: "Experimentos en psicología conductual, por Dan Ariely."
 authors: ["Dra. Valina"]
 image: ./pexels-markus-spiske-1679618.jpg
 image_attribution:
