@@ -14,6 +14,6 @@ export const getTaxonomy = async (collection: string, name: string) => {
     }
   }
   const taxonomy = [...new Set(taxonomies)];
-  return taxonomy;
+  return taxonomy.sort();
 };
 ---
