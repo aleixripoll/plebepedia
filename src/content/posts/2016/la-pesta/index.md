@@ -2,10 +2,11 @@
 title: "La pesta"
 description: "Novel·la d'Albert Camus."
 authors: ["Dr. Fenilalanino"]
-image: ./pexels-dmitry-demidov-6769022.jpg
+image: ./hubistavern-w37Tyg8bYYM-unsplash.jpg
 image_attribution:
-    author: Dmitry Demidov
-    url: https://www.pexels.com/ca-es/foto/mascara-cuir-natura-morta-maniqui-6769022/
+    author: нυвιѕ тανєяη
+    site: Unsplash
+    url: https://unsplash.com/photos/person-holding-umbrella-with-light-w37Tyg8bYYM
 categories: ["literatura"]
 tags: ["novela", "sociedad", "lang-cat"]
 draft: false

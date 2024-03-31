@@ -2,10 +2,10 @@
 title: "La insoportable levedad del ser (Sabina)"
 description: "Novela de Milan Kundera."
 authors: ["Dr. Fenilalanino"]
-image: ./christian-holzinger-kEXMAGTivXA-unsplash.jpg
+image: ./pexels-alexander-krivitskiy-1399073.jpg
 image_attribution:
-    author: Christian Holzinger
-    url: https://unsplash.com/photos/womans-face-on-black-background-kEXMAGTivXA
+    author: Alexander Krivitskiy
+    url: https://www.pexels.com/ca-es/foto/blanc-i-negre-persona-dona-nena-1399073/
 categories: ["literatura"]
 tags: ["novela", "sociedad", "filosofía"]
 draft: false
