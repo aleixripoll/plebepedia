@@ -3,10 +3,10 @@ title: "Hormonas y neurotransmisores"
 slug: hormonas-y-neurotransmisores
 description: "Se parecen pero no."
 authors: ["Dra. Valina"]
-image: "./pexels-mart-production-7577876.jpg"
+image: "./pexels-google-deepmind-17484970.jpg"
 image_attribution:
-    author: Steve Johnson
-    url: https://www.pexels.com/ca-es/foto/abstracte-color-poc-biologia-13014236/
+    author: Google DeepMind
+    url: https://www.pexels.com/ca-es/foto/abstracte-recerca-creixement-digital-17484970/
 categories: ["neurociencia"]
 tags: ["hormonas", "neurotransmisores"]
 draft: false
@@ -35,7 +35,7 @@ También conocidas como glándulas **suprarrenales**, se encuentran encima de ca
 #### Páncreas
 Se encuentra entre el estómago y la columna. Es al mismo tiempo parte del sistema digestivo y endocrino (produce enzimas y hormonas). Entre otras, produce **insulina** y **glucagón**, encargadas de regular el azúcar en sangre.
 #### Órganos reproductores
-Los ovarios segregam **estrógeno** (ciclo menstrual, diferenciación sexual), **progesterona** (embarazo) y **testosterona**. Los testículos producen las hormonas masculinas (andrógenos), la más importante es la **testosterona** (producción de espermatozoides, diferenciación sexual).
+Los ovarios segregan **estrógeno** (ciclo menstrual, diferenciación sexual), **progesterona** (embarazo) y **testosterona**. Los testículos producen las hormonas masculinas (andrógenos), la más importante es la **testosterona** (producción de espermatozoides, diferenciación sexual).
 
 
 ## Neurotransmisores
