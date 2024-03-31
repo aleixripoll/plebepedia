@@ -3,8 +3,8 @@ title: "Choke (Asfixia)"
 description: "Tercera novela de Chuck Palahniuk."
 authors: ["Dra. Valina"]
 image: ./cover.jpg
-categories: ["literatura", "cine"]
-tags: ["novela", "filosofía", "lang-en"]
+categories: ["literatura"]
+tags: ["novela", "lang-en"]
 draft: false
 date: 2021-01-20T09:12:00Z
 ---
