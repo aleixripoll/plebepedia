@@ -1,6 +1,6 @@
 ---
 title: "13,99 euros"
-description: "Novela sobre el marketing y el consumismo, por Frédéric Beigbeder."
+description: "Marketing y consumismo, por Frédéric Beigbeder."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-melvin-buezo-18946900.jpg
 image_attribution:

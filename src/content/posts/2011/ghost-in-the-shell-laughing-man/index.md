@@ -1,6 +1,6 @@
 ---
 title: "Ghost in the Shell: Stand Alone Complex"
-description: "Capítulo 'Laughing Man'. La frase pertenece a J.D. Salinger."
+description: "Laughing Man, frase de J.D. Salinger."
 authors: ["Dr. Fenilalanino"]
 image: ./cover.webp
 categories: ["cine"]
