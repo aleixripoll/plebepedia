@@ -3,7 +3,7 @@ title: "El club de la lucha"
 description: "Novela de Chuck Palahniuk."
 authors: ["Dr. Fenilalanino"]
 image: ./cover.jpg
-categories: ["literatura"]
+categories: ["literatura", "cine"]
 tags: ["novela"]
 draft: false
 date: 2008-06-02T16:20:00.016+02:00
