@@ -1,7 +1,7 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "Azúcar, grasa y proteína en 40 litros de agua."
+description: "Ingredientes: agua, azúcar, grasa y proteína."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:

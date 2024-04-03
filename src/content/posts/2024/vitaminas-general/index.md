@@ -1,7 +1,7 @@
 ---
 title: "Vitaminas, datos generales"
 slug: vitaminas-general
-description: "Clasificación y solubilidad."
+description: "Los detalles para otro día."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
 categories: ["nutrición"]
