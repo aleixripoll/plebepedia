@@ -2,7 +2,10 @@
 title: "He wishes for the cloths of heaven"
 description: "Poema de William Butler Yeats, descubierto en la película Equilibrium."
 authors: ["Dr. Fenilalanino"]
-image: ./cover.webp
+image: ./pexels-tobi-631986.jpg
+image_attribution:
+    author: Tobi
+    url: https://www.pexels.com/ca-es/foto/631986/
 categories: ["literatura"]
 tags: ["poesía", "lang-en"]
 draft: false
