@@ -2,7 +2,7 @@
 title: "Citas de George Bernard Shaw"
 description: "1856 - 1950"
 authors: ["Dr. Fenilalanino"]
-image: ./cover.webp
+image: ./cover.jpg
 categories: ["literatura"]
 tags: ["citas", "filosofía"]
 draft: false

@@ -2,7 +2,10 @@
 title: "Las partículas elementales"
 description: "Novela de Michel Houellebecq."
 authors: ["Dr. Fenilalanino"]
-image: ./cover.webp
+image: ./pexels-anthony-132477.jpg
+image_attribution:
+    author: Anthony
+    url: https://www.pexels.com/ca-es/foto/llum-naturalesa-blau-patro-132477/
 categories: ["literatura"]
 tags: ["novela", "sociedad"]
 draft: false

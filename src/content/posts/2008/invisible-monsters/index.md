@@ -2,7 +2,7 @@
 title: "Invisible monsters"
 description: "Novela de Chuck Palahniuk."
 authors: ["Dr. Fenilalanino"]
-image: ./cover.webp
+image: ./cover.jpg
 categories: ["literatura"]
 tags: ["novela", "lang-en"]
 draft: false
