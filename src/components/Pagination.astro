@@ -39,6 +39,7 @@ for (let i = 1; i <= totalPages; i++) {
             />
           </svg>
         </a>
+        <h4>...</h4>
       ) : (
         <span class="mt-4 border border-gray-400 opacity-40 rounded-md h-10 w-8 sm:w-10 leading-[36px] font-semibold flex items-center justify-center pointer-events-none">
           <span class="sr-only">Previous</span>
@@ -68,6 +69,7 @@ for (let i = 1; i <= totalPages; i++) {
             {pagination}
           </span>
         ) : (
+        (pagination + 6 < currentPage || pagination - 6 > currentPage) ? "" : (
           <a
             href={
               i === 0
@@ -79,9 +81,9 @@ for (let i = 1; i <= totalPages; i++) {
           >
             {pagination}
           </a>
-        )
+        ))
       )}
-
+      <h4>...</h4>
       {/* next page */}
       {hasNextPage ? (
         <a
