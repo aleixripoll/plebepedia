@@ -33,6 +33,7 @@ import {
   IoLogoWhatsapp,
   IoLogoYoutube,
   IoMail,
+  IoPaperPlaneOutline,
 } from "react-icons/io5/index.js";
 
 const {
@@ -67,6 +68,7 @@ const {
   address,
   skype,
   website,
+  telegram,
 } = source;
 ---
 
@@ -491,6 +493,20 @@ const {
           rel="noopener noreferrer nofollow"
         >
           <IoLocation />
+        </a>
+      </li>
+    )
+  }
+  {
+    telegram && (
+      <li class="inline-block">
+        <a
+          aria-label="telegram"
+          href={telegram}
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+        >
+          <IoPaperPlaneOutline />
         </a>
       </li>
     )
