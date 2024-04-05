@@ -4,15 +4,15 @@ const { section, currentPage, totalPages } = Astro.props;
 const indexPageLink = currentPage === 2;
 const hasPrevPage = currentPage > 1;
 const hasNextPage = totalPages > currentPage;
-const numPagesSeparator = 4
+const numPagesSeparator = 3
 
 let pageList = [];
 for (let i = 1; i <= totalPages; i++) {
-  if (i === currentPage - numPagesSeparator && currentPage > numPagesSeparator - 1 || i === currentPage + numPagesSeparator && currentPage < numPagesSeparator + 1) {
-    pageList.push("...")
-  }
   if (i > currentPage - numPagesSeparator && i < currentPage + numPagesSeparator || i < numPagesSeparator || i > totalPages - numPagesSeparator) {
     pageList.push(i);
+  }
+  else if (i === numPagesSeparator && currentPage > numPagesSeparator || i === totalPages - numPagesSeparator && currentPage < totalPages - numPagesSeparator) {
+    pageList.push("-")
   }
 }
 ---
@@ -39,7 +39,7 @@ for (let i = 1; i <= totalPages; i++) {
                     : import.meta.env.BASE_URL
                 }page/${currentPage - 1}`
           }
-          class="mt-4 flex h-10 w-9 items-center justify-center rounded-md border border-primary font-semibold leading-[36px] transition duration-200 hover:bg-primary hover:text-white sm:w-10"
+          class="mt-4 flex h-10 w-10 items-center justify-center rounded-md border border-primary font-semibold leading-[36px] transition duration-200 hover:bg-primary hover:text-white"
         >
           <span class="sr-only">Previous</span>
           <svg
@@ -57,7 +57,7 @@ for (let i = 1; i <= totalPages; i++) {
           </svg>
         </a>
       ) : (
-        <span class="pointer-events-none mt-4 flex h-10 w-9 items-center justify-center rounded-md border border-gray-400 font-semibold leading-[36px] opacity-40 sm:w-10">
+        <span class="pointer-events-none mt-4 flex h-10 w-10 items-center justify-center rounded-md border border-gray-400 font-semibold leading-[36px] opacity-40">
           <span class="sr-only">Previous</span>
           <svg
             class="h-5 w-5"
@@ -80,12 +80,12 @@ for (let i = 1; i <= totalPages; i++) {
         pagination === currentPage ? (
           <span
             aria-current="page"
-            class={`h-10 w-9 rounded-md border border-primary bg-primary font-semibold leading-[35px] text-white sm:w-10`}
+            class={`h-10 w-10 rounded-md border border-primary bg-primary font-semibold leading-[35px] text-white`}
           >
             {pagination}
           </span>
         ) : (
-        pagination === "..." ? <h5>{pagination}</h5> :
+        pagination === "-" ? <span class="pt-1">{pagination}</span> :
         (
           <a
             href={
@@ -102,7 +102,7 @@ for (let i = 1; i <= totalPages; i++) {
                   }page/${pagination}`
             }
             aria-current="page"
-            class={`flex h-10 w-9 items-center justify-center rounded-md border border-primary font-semibold leading-[36px] transition duration-200 hover:bg-primary hover:text-white sm:w-10`}
+            class={`flex h-10 w-10 items-center justify-center rounded-md border border-primary font-semibold leading-[36px] transition duration-200 hover:bg-primary hover:text-white`}
           >
             {pagination}
           </a>
@@ -116,7 +116,7 @@ for (let i = 1; i <= totalPages; i++) {
               ? import.meta.env.BASE_URL + section
               : import.meta.env.BASE_URL
           }page/${currentPage + 1}`}
-          class="flex h-10 w-9 items-center justify-center rounded-md border border-primary font-semibold leading-[36px] transition duration-200 hover:bg-primary hover:text-white sm:w-10"
+          class="flex h-10 w-10 items-center justify-center rounded-md border border-primary font-semibold leading-[36px] transition duration-200 hover:bg-primary hover:text-white"
         >
           <span class="sr-only">Next</span>
           <svg
@@ -134,7 +134,7 @@ for (let i = 1; i <= totalPages; i++) {
           </svg>
         </a>
       ) : (
-        <span class="pointer-events-none flex h-10 w-9 items-center justify-center rounded-md border border-gray-400 font-semibold leading-[36px] opacity-40 sm:w-10">
+        <span class="pointer-events-none flex h-10 w-10 items-center justify-center rounded-md border border-gray-400 font-semibold leading-[36px] opacity-40">
           <span class="sr-only">Next</span>
           <svg
             class="h-5 w-5"
