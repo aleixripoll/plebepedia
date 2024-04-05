@@ -4,14 +4,14 @@ const { section, currentPage, totalPages } = Astro.props;
 const indexPageLink = currentPage === 2;
 const hasPrevPage = currentPage > 1;
 const hasNextPage = totalPages > currentPage;
-const numPagesSeparator = 3
+const numPagesSeparator = 4
 
 let pageList = [];
 for (let i = 1; i <= totalPages; i++) {
-  if (i > currentPage - numPagesSeparator && i < currentPage + numPagesSeparator || i < numPagesSeparator || i > totalPages - numPagesSeparator) {
+  if (i > currentPage - numPagesSeparator && i < currentPage + numPagesSeparator || i < numPagesSeparator || i > totalPages - numPagesSeparator + 1) {
     pageList.push(i);
   }
-  else if (i === numPagesSeparator && currentPage > numPagesSeparator || i === totalPages - numPagesSeparator && currentPage < totalPages - numPagesSeparator) {
+  else if (i === numPagesSeparator && currentPage > numPagesSeparator || i === totalPages - numPagesSeparator + 1 && currentPage < totalPages - numPagesSeparator) {
     pageList.push("-")
   }
 }
