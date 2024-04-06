@@ -17,7 +17,7 @@ date: 2024-03-16T19:00:00Z
 
 
 ### Información general
-Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi toda la energía del cuerpo. Hay 3+1: **proteínas**, **hidratos de carbono**, **grasas** y **agua**. 
+Los macronutrientes son aquellos que necesitamos en grandes cantidades y proporcionan casi toda la energía del cuerpo. Son 3 + 1: **proteínas**, **hidratos de carbono** y **grasas**, más el **agua** que se suele considerar un macronutriente.
 
 ### Hidratos de carbono
 Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y agua. Según la posición del carbono hablamos de **aldosas** (extremo) o **cetosas** (centro) y según la cantidad de moléculas se clasifican en:
@@ -83,8 +83,11 @@ Interfieren en la absorción de ácidos grasos esenciales, necesarios para ciert
 
 
 ### Agua
-El agua se suele clasificar como macronutriente a pesar de cumplir solo 1 de los 2 requisitos: lo consumimos en grandes cantidades pero no aporta energía.
+Se considera un macronutriente a pesar de no aportar energía. Clasificación:
 
+- **Del grifo:** En general es de buena calidad y es la que se recomiendo consumir, tanto por precio como por evitar el envasado comercial. Su sabor y calidad puede variar según su dureza (cantidad de cal y magnesio), los métodos usados para potabilizarla y el estado de las instalaciones que atraviesa antes de llegar al hogar.
+- **Mineral natural:** Agua recogida de depósitos subterráneos con contenido mineral estable, no reciben ningún tratamiento. Se analizan periódicamente para asegurar que la composición no ha cambiado.
+- **De manantial:** Agua recogida de depósitos subterráneos con contenido mineral variable, no reciben ningún tratamiento, se analizan antes de su comercialización.
 
 ---
 
@@ -108,6 +111,7 @@ https://www.vitonica.com/alimentos/fibra-soluble-fibra-insoluble-cuales-sus-dife
 
 https://www.hsph.harvard.edu/nutritionsource/carbohydrates/carbohydrates-and-blood-sugar/
 
+https://www.ocu.org/alimentacion/agua/informe/aguas-minerales
 
 ---
 
