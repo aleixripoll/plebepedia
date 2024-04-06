@@ -19,8 +19,8 @@ const postsCollection = defineCollection({
       url: z.string(),
     }).optional(),
     authors: z.array(z.string()).default(["admin"]),
-    categories: z.array(z.string()).default(["others"]),
-    tags: z.array(z.string()).default(["others"]),
+    categories: z.array(z.string()).default(["untagged"]),
+    tags: z.array(z.string()).default(["untagged"]),
     draft: z.boolean().optional(),
   }),
 });
