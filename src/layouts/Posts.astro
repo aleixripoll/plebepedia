@@ -26,7 +26,7 @@ const { className, posts, fluid } = Astro.props;
   {
     posts.map((post: any, i: number) => (
       <div
-        class={`col-12 px-2 sm:px-4 ${
+        class={`col-12 px-3 sm:px-4 ${
           i < 2 && fluid != false ? "sm:col-6" : "sm:col-6 md:col-4"
         } ${i > 4 && fluid != false ? "md:mt-12" : ""}
         `}
