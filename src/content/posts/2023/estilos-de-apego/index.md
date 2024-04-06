@@ -21,4 +21,4 @@ Resumen aproximado de los tipos de apego existentes:
 - **Apego inseguro desorganizado**: Comportamiento bipolar y contradictorio en las relaciones, en ocasiones oscilando entre ansioso y evitativo. Abusos y experiencias traumáticas con las figuras de apego.
 
 
-![Estilos de apego](estilos-de-apego.webp "Estilos de apego")
+![Estilos de apego](estilos-de-apego.jpg "Estilos de apego")
