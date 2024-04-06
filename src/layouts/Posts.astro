@@ -99,7 +99,7 @@ const { className, posts, fluid } = Astro.props;
             </>
           </li>
         </ul>
-        <h3 class={`mb-1 text-xl md:text-2xl ${i > 1 || fluid === false ? "md:text-xl" : ""}`}>
+        <h3 class={`mb-1 text-2xl ${i > 1 || fluid === false ? "md:text-xl" : ""}`}>
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
             class="block px-2 hover:text-primary"
