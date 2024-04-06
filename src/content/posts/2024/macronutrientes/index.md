@@ -1,7 +1,7 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "Ingredientes: agua, azúcar, grasa y proteína."
+description: "Datos básicos sobre azúcar, grasas, proteínas y agua."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:
@@ -29,7 +29,7 @@ Los hidratos de carbono, carbohidratos o azúcares son compuestos de carbono y a
 #### Fibra
 Se encuentra en algunos polisacáridos, se clasifica según su absorción:
 - **Fibra soluble (almidón resistente, pectinas):** Absorbe agua, ralentiza la digestión, fermenta en el colón, por lo tanto tiene efecto prebiótico y nutre a nuestra macrobiota, lo cual bien impide que la microbiota nos coma a nosotros, bien impide que muera y perdamos sus beneficios (actividad enzimática, protección contra patógenos, síntesis vitaminas B y K, estimulación sistema inmune). **Fuentes:** manzana, pera, plátano, avena, cebada, legumbres, arroz, zanahoria, patata, pasta (los 3 últimos pueden llegar a triplicar su contenido en almidón resistente tras cocinarlos y dejarlos enfríar).
-- **Fibra insoluble (celulosa):** No absorbe agua ni se fermenta ni alimenta a la microbiota, pero acelera la digestión y hace "efecto barrido". **Fuentes:** granos enteros, frutas con piel, verduras, frutos secos, semillas.
+- **Fibra insoluble (celulosa):** No absorbe agua, ni se fermenta, ni alimenta a la microbiota, pero acelera la digestión y hace "efecto barrido". **Fuentes:** granos enteros, frutas con piel, verduras, frutos secos, semillas.
 
 #### Índice glucémico y carga glucémica
 Este índice nos indica cuán rápido un carbohidrato es convertido en azúcar simple y absorbido en la sangre. Una analogía sería vertir arena en una cañería de agua, la circulación será más lenta y requerirá mayor fuerza de bombeo. Para evitar el colapso de la bomba (corazón), el páncreas secreta insulina para indicar a las células que deben tragarse ese superávit de azúcar, que acaba almacenado en forma de grasa.
