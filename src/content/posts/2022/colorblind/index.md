@@ -1,7 +1,7 @@
 ---
 title: "Colorblind"
 description: "A vegades dibuixo fumades."
-authors: ["Dr. Fenilalanino"]
+authors: ["Dra. Valina", "Natilla"]
 image: ./pexels-pixabay-459799.jpg
 image_attribution:
    author: Pixabay

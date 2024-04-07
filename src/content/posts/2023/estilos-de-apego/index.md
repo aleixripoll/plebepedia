@@ -1,7 +1,7 @@
 ---
 title: "Estilos de apego"
 description: "Seguro, ansioso, evitativo, desorganizado."
-authors: ["Dr. Fenilalanino"]
+authors: ["Dra. Valina", "Natilla"]
 date: 2023-11-12T11:08:00.000+02:00
 categories: [ "Neurociencia", "Dibuixos" ]
 image: ./pexels-ionix-1366242.jpg

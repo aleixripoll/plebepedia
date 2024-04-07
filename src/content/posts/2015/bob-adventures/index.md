@@ -1,7 +1,7 @@
 ---
 title: "Bob Adventures"
 description: "Recopilatori de la superpopular tira còmica que vaig dibuixar entre agost i desembre de 2015."
-authors: ["Dr. Fenilalanino"]
+authors: ["Dra. Valina", "Natilla"]
 categories: [ "Dibuixos" ]
 tags: [ "lang-en" ]
 image: ./pexels-khairul-nizam-16516.jpg

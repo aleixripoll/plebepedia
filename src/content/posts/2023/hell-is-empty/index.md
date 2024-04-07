@@ -1,7 +1,7 @@
 ---
 title: "Hell is empty"
 description: "Intent de dibuix bipolar."
-authors: ["Dr. Fenilalanino"]
+authors: ["Dra. Valina", "Natilla"]
 image: ./hell_is_empty.jpg
 categories: ["Neurociencia", "Dibuixos"]
 tags: ["lang-en", "lang-cat"]
