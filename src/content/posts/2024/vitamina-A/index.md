@@ -4,7 +4,7 @@ slug: vitamina-a
 description: "Datos esenciales para romper el hielo en los afters."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_A.webp"
-categories: ["nutrición"]
+categories: ["nutrición", "Dibuixos"]
 tags: ["micronutrientes", "vitaminas"]
 draft: false
 date: 2024-01-04T07:00:00Z

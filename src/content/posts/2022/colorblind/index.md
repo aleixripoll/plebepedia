@@ -1,11 +1,8 @@
 ---
 title: "Colorblind"
-description: "A vegades dibuixo fumades."
+description: "A vegades penso i dibuixo massa."
 authors: ["Dra. Valina", "Natilla"]
-image: ./pexels-pixabay-459799.jpg
-image_attribution:
-   author: Pixabay
-   url: https://www.pexels.com/ca-es/foto/fusta-art-patro-estampat-459799/
+image: ./cover.webp
 categories: ["Neurociencia", "Dibuixos"]
 tags: ["lang-cat", "lang-en"]
 date: 2022-07-26T18:00:00.000+02:00
