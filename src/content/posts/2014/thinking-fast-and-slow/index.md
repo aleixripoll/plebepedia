@@ -8,7 +8,7 @@ image_attribution:
   site: Unsplash
   url: https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4
 categories: ["literatura", "neurociencia"]
-tags: ["ensayo", "psicología"]
+tags: ["ensayo", "psicología", "lang-en"]
 draft: false
 date: 2014-11-01T18:04:00.001+01:00
 ---
