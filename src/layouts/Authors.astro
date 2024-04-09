@@ -24,7 +24,7 @@ const { authors } = Astro.props;
             </a>
           </div>
         )}
-        <h3 class="h4 mb-3 mt-8">
+        <h3 class="h4 mb-3 mt-8 text-2xl">
           <a
             href={`${import.meta.env.BASE_URL}authors/${author.slug}`}
             class="block transition duration-200 group-hover:text-primary"
@@ -38,13 +38,13 @@ const { authors } = Astro.props;
             set:text={author.data.description}
           />
         )}
-        <p
+        {/* <p
           class="mb-3"
           set:text={markdownify(author.body.slice(0, 68) + "...")}
-        />
+        />*/}
         <a
           href={`${import.meta.env.BASE_URL}authors/${author.slug}`}
-          class="inline-flex items-center text-primary transition duration-200 group-hover:brightness-125"
+          class="inline-flex items-center text-primary transition duration-200 group-hover:brightness-110"
         >
           Saber más <BsArrowRightCircle className="ml-2 inline" />
         </a>

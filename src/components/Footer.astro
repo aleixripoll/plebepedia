@@ -9,6 +9,7 @@ import { markdownify } from "@lib/utils/textConverter";
 <footer class="section bg-theme-dark text-light mt-auto">
   <div class="container text-center">
     {/* footer menu */}
+    {menu.footer.length > 0 &&
     <ul class="mb-4 space-x-4">
       {
         menu.footer.map((e) => (
@@ -19,7 +20,7 @@ import { markdownify } from "@lib/utils/textConverter";
           </li>
         ))
       }
-    </ul>
+    </ul>}
     {/* social icons */}
     <Social source={social} className="social-icons mb-4" />
     {/* copyright */}
