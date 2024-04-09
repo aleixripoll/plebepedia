@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Nimbus",
+    "title": "limbo",
     "base_url": "https://aleixripoll.github.io",
     "base_path": "/plebepedia/",
     "favicon": "/plebepedia/images/favicon.ico",
     "logo": "",
     "logo_width": "160",
     "logo_height": "24",
-    "logo_text": "nimbus|pedia"
+    "logo_text": "limbo | blog personal"
   },
 
   "settings": {
