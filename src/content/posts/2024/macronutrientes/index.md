@@ -1,7 +1,7 @@
 ---
 title: "Macronutrientes"
 slug: macronutrientes
-description: "Datos básicos sobre azúcar, grasas, proteínas y agua."
+description: "Datos básicos sobre azúcares, grasas, proteínas y agua."
 authors: ["Dr. Fenilalanino"]
 image: "./pexels-lukas-952478.jpg"
 image_attribution:
