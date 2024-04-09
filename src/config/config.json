@@ -7,7 +7,7 @@
     "logo": "",
     "logo_width": "160",
     "logo_height": "24",
-    "logo_text": "limbo | blog personal"
+    "logo_text": "limbo | blog"
   },
 
   "settings": {
@@ -18,12 +18,12 @@
   "metadata": {
     "meta_author": "Aleix Ripoll",
     "meta_image": "/plebepedia/images/logo.webp",
-    "meta_description": "Blog personal de literatura, cine, ciència, psicologia, nutrició i el que caigui."
+    "meta_description": "Blog personal de literatura, cine, ciencia, psicología, nutrición y lo que caiga."
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Tema basat en [Bookworm Light](https://github.com/themefisher/bookworm-light-astro) de [Themefisher](https://themefisher.com)"
+    "copyright": "Tema basado en [Bookworm Light](https://github.com/themefisher/bookworm-light-astro) de [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
