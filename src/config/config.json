@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Plebepedia",
+    "title": "Nimbus",
     "base_url": "https://aleixripoll.github.io",
     "base_path": "/plebepedia/",
     "favicon": "/plebepedia/images/favicon.ico",
     "logo": "",
     "logo_width": "160",
     "logo_height": "24",
-    "logo_text": "plebe|pedia"
+    "logo_text": "nimbus|pedia"
   },
 
   "settings": {
@@ -16,14 +16,14 @@
   },
 
   "metadata": {
-    "meta_author": "Doctor Fenilalanino",
+    "meta_author": "Aleix Ripoll",
     "meta_image": "/plebepedia/images/logo.webp",
-    "meta_description": "Ciencia para plebeyos"
+    "meta_description": "Blog personal de literatura, cine, ciència, psicologia, nutrició i el que caigui."
   },
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Tema basado en [Bookworm Light](https://github.com/themefisher/bookworm-light-astro) de [Themefisher](https://themefisher.com)"
+    "copyright": "Tema basat en [Bookworm Light](https://github.com/themefisher/bookworm-light-astro) de [Themefisher](https://themefisher.com)"
   },
 
   "contactinfo": {
