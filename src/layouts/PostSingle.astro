@@ -77,10 +77,9 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
                     <li class="inline-block">
                       <a
                         href={`${import.meta.env.BASE_URL}categories/${slugify(category)}`}
-                        class="mr-2 font-medium hover:text-primary"
+                        class="mr-1 font-medium hover:text-primary"
                       >
-                        {humanize(category)}
-                        {i !== post.data.categories.length - 1 && ","}
+                        {humanize(category)}{i !== post.data.categories.length - 1 && ","}
                       </a>
                     </li>
                   ))
