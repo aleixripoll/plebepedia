@@ -152,7 +152,7 @@ export default function SearchBar({ searchList }: Props) {
                 {item.data.title}
               </a>
             </h3>
-            <p className="text-text mb-4">
+            <p className="text-text dark:text-light mb-4">
             {
               item.data.description ? item.data.description :
               item.content?.slice(0, Number(summary_length)) + "..."
