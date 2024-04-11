@@ -1,13 +1,13 @@
 {
   "site": {
-    "title": "Plebepedia",
+    "title": "Limbo",
     "base_url": "https://aleixripoll.github.io",
-    "base_path": "/plebepedia/",
-    "favicon": "/plebepedia/images/favicon.ico",
+    "base_path": "/limbo/",
+    "favicon": "/limbo/images/favicon.ico",
     "logo": "",
     "logo_width": "160",
     "logo_height": "24",
-    "logo_text": "plebe|pedia"
+    "logo_text": "limbo | blog"
   },
 
   "settings": {
@@ -17,7 +17,7 @@
 
   "metadata": {
     "meta_author": "Aleix Ripoll",
-    "meta_image": "/plebepedia/images/logo.webp",
+    "meta_image": "/limbo/images/logo.png",
     "meta_description": "Blog personal de literatura, cine, ciencia, psicología, nutrición y todo lo que caiga."
   },
 
