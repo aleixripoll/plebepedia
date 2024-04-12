@@ -3,10 +3,11 @@ title: "Hormonas y neurotransmisores"
 slug: hormonas-y-neurotransmisores
 description: "Se parecen pero no."
 authors: ["Dra. Valina"]
-image: "./pexels-mart-production-7577876.jpg"
+image: "./robina-weermeijer-IHfOpAzzjHM-unsplash.jpg"
 image_attribution:
-    author: Mart Production
-    url: https://www.pexels.com/es-es/foto/arte-creativo-modelo-abstracto-7577876/
+    author: Robina Weermeijer
+    site: Unsplash
+    url: https://unsplash.com/photos/human-brain-toy-IHfOpAzzjHM
 categories: ["neurociencia"]
 tags: ["hormonas", "neurotransmisores"]
 draft: false
