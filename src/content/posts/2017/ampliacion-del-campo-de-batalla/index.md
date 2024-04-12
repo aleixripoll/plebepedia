@@ -2,10 +2,11 @@
 title: "Ampliación del campo de batalla"
 description: "Crítica al liberalismo, primera novela de Michel Houellebecq."
 authors: ["Dr. Fenilalanino"]
-image: ./pexels-nout-gons-378570.jpg
+image: ./nasa-Q1p7bh3SHj8-unsplash.jpg
 image_attribution:
-    author: Nout Gons
-    url: https://www.pexels.com/ca-es/foto/ciutat-cotxes-encreuament-carretera-378570/
+    author: NASA
+    site: Unsplash
+    url: https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8
 categories: ["literatura"]
 tags: ["novela", "sociedad", "liberalismo"]
 draft: false
