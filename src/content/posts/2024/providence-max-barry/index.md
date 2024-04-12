@@ -1,7 +1,7 @@
 ---
-title: "Providence, de Max Barry"
+title: "Providence"
 slug: providence-max-barry
-description: "Michael Crichton con plus de existencialismo."
+description: "Michael Crichton con plus de existencialismo, por Max Barry."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-edvin-richardson-796206.jpg
 image_attribution:
