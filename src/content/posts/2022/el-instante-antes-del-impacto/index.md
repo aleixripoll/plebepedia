@@ -2,10 +2,11 @@
 title: "El instante antes del impacto"
 description: "La vida después del consumismo, por Glòria de Castro."
 authors: ["Dra. Valina"]
-image: ./pexels-jamal-yahyayev-3520802.jpg
+image: ./zhang-kaiyv-yCbJXoeZuTM-unsplash.jpg
 image_attribution:
-    author: Jamal Yahyayev
-    url: https://www.pexels.com/ca-es/foto/aigua-blau-gota-d-aigua-colors-3520802/
+    author: zhang kaiyv
+    site: Unsplash
+    url: https://unsplash.com/photos/macro-photography-of-teardrop-yCbJXoeZuTM
 categories: ["literatura"]
 tags: ["novela", "humor", "consumismo", "empresa", "mobbing"]
 draft: false
