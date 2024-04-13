@@ -1,6 +1,6 @@
 ---
 title: "Psychology: A concise introduction"
-description: "Tocho académico de psicología, por Richard A. Griggs y Sherri L. Jackson."
+description: "Libro académico de psicología, por Richard A. Griggs y Sherri L. Jackson."
 authors: ["Dr. Fenilalanino"]
 image: ./cover.jpg
 categories: ["literatura", "neurociencia"]
