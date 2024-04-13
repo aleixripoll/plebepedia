@@ -12,7 +12,7 @@ image: ./cover.jpg
 tags: [ "apego", "psicología" ]
 ---
 
-La **teoría del apego** surge de **John Bowlby** y los posteriores estudios de **Mary Ainsworth**  (1969-1980). La idea general es que los bebés se vinculan a figuras paternales de las que reciben (o no) una base segura para explorar el mundo. Si esas figuras transmiten seguridad, los bebés crecen psicológicamente "sanos". Si no, delinquen o hacen dibujos.
+La **teoría del apego** parte de **John Bowlby** y los posteriores estudios de **Mary Ainsworth**  (1969-1980). La idea general es que los bebés se vinculan a figuras paternales de las que reciben (o no) una base segura para explorar el mundo. Si esas figuras transmiten seguridad, los bebés crecen psicológicamente "sanos". Si no, delinquen o hacen dibujos.
 
 Resumen aproximado de los tipos de apego existentes:
 
