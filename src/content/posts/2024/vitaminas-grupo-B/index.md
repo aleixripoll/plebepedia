@@ -1,5 +1,5 @@
 ---
-title: "Vitaminas grupo B"
+title: "Vitaminas del grupo B"
 slug: vitaminas-grupo-b
 description: "Con ocho basta."
 authors: ["Dra. Valina"]

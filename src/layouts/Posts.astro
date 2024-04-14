@@ -98,7 +98,7 @@ const { className, posts, fluid } = Astro.props;
             </>
           </li>
         </ul>
-        <h3 class={`mb-1 text-2xl ${i > 1 || fluid === false ? "md:text-xl" : ""}`}>
+        <h3 class={`mb-1 text-xl ${i > 1 || fluid === false ? "" : ""}`}>
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
             class="block px-2 hover:text-primary"
@@ -106,14 +106,12 @@ const { className, posts, fluid } = Astro.props;
             {post.data.title}
           </a>
         </h3>
-        <p class="px-2 text-text lg:text-base dark:text-light">
+        <p class="px-2 text-text dark:text-light">
           {post.data.description
             ? post.data.description
             : post.body?.slice(
                 0,
-                Number(
-                  i < 2 && fluid != false ? summary_length * 2 : summary_length
-                )
+                Number(i < 2 && fluid != false ? summary_length * 2 : summary_length)
               ) + "..."}
         </p>
       </div>

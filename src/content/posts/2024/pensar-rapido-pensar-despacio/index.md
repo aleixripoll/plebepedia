@@ -7,7 +7,7 @@ image_attribution:
     author: AbsolutVision
     site: Unsplash
     url: https://unsplash.com/photos/photo-of-bulb-artwork-82TpEld0_e4
-categories: ["neurociencia"]
+categories: ["literatura", "neurociencia"]
 tags: ["ensayo", "psicología", "sesgos"]
 draft: false
 date: 2024-04-14T15:00:00Z
