@@ -106,7 +106,7 @@ export default function SearchBar({ searchList }: Props) {
               </a>
             )}
 
-            <ul className="mt-4 mb-2 flex flex-wrap items-center justify-center text-text">
+            <ul className="mt-4 mb-2 flex flex-wrap items-center justify-center text-text dark:text-light">
               {/*<li className="mr-5 flex items-center flex-wrap">
                 <BiUser className="mr-1 h-[18px] w-[18px]" />
                 <>
