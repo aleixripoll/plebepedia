@@ -1,6 +1,6 @@
 ---
 title: "Pensar rápido, pensar despacio"
-description: "Ensayo sobre los sesgos psicólogicos, por Daniel Kahneman."
+description: "Ensayo sobre los sesgos psicológicos, por Daniel Kahneman."
 authors: ["Dr. Fenilalanino"]
 image: ./absolutvision-82TpEld0_e4-unsplash.jpg
 image_attribution:
