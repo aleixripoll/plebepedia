@@ -6,7 +6,7 @@
         "body": "#fff",
         "border": "#D5D5D5",
         "theme_light": "#FAFAFA",
-        "theme_dark": "#182338"
+        "theme_dark": "#252937"
       },
       "text_color": {
         "default": "#747577",
@@ -19,7 +19,7 @@
     "font_family": {
       "primary": "Mulish:wght@300;400;700",
       "primary_type": "sans-serif",
-      "secondary": "Open+Sans:wght@400",
+      "secondary": "Libre+Franklin:wght@300",
       "secondary_type": "sans-serif"
     },
     "font_size": {

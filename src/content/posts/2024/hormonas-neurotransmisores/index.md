@@ -28,7 +28,7 @@ También conocida como **hipófisis**, es una glándula del tamaño de un guisan
 #### Glándula pineal
 Pequeño órgano en el cerebro, es nuestro reloj interno, controla los ciclos día-noche, ante la ausencia de luz produce **melatonina**.
 #### Glándula tiroides
-Se encuentra en la base de la garganta/tráquea, produce **tiroxina** (T4) y **triyodotironina** (T3), que inciden sobre el metabolismo de grasas y carbohidratos y controlan la temperatura corporal.
+Se encuentra en la base de la garganta, produce **tiroxina** (T4) y **triyodotironina** (T3), que inciden sobre el metabolismo de grasas y carbohidratos y controlan la temperatura corporal.
 #### Glándulas paratiroides
 Son 4 pequeños cuerpos en el cuello, habitualmente adheridos a la tiroides, producen la **hormona paratiroidea** encargada de mantener el equilibrio calcio-fósforo.
 #### Glándulas adrenales
