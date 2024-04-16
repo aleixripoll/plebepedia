@@ -5,6 +5,7 @@ import { getSinglePage } from "@lib/contentParser.astro";
 import { getTaxonomy } from "@lib/taxonomyParser.astro";
 import taxonomyFilter from "@lib/utils/taxonomyFilter";
 import { humanize } from "@lib/utils/textConverter";
+import { sortByDate } from "@lib/utils/sortFunctions";
 
 export async function getStaticPaths() {
   const tags = await getTaxonomy("posts", "tags");
@@ -20,6 +21,7 @@ const { tag } = Astro.params;
 
 const posts = await getSinglePage("posts");
 const filterByTags = taxonomyFilter(posts, "tags", tag);
+const sortedPosts = sortByDate(filterByTags);
 
 const title = humanize(tag || "");
 ---
@@ -29,7 +31,7 @@ const title = humanize(tag || "");
     <div class="container">
       <p class="mb-4 text-center">Mostrando artículos de</p>
       <h1 class="h2 mb-16 text-center text-primary">{title}</h1>
-      <Posts posts={filterByTags} fluid={false} />
+      <Posts posts={sortedPosts} fluid={false} />
     </div>
   </div>
 </Base>
