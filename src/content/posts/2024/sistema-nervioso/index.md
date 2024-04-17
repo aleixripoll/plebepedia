@@ -13,3 +13,22 @@ draft: true
 date: 2024-04-17T20:00:00Z
 ---
 
+### División anatómica
+
+**Central:** Protegido por hueso: encéfalo y medula espinal.
+
+**Periférico:** Nervios que salen de la médula.
+
+  - Sensitivo/aferente
+  - Motor/eferente
+
+
+### División funcional
+
+**Somático:** Acciones voluntarias.
+
+**Autónomo:** Acciones involuntarias.
+
+  - Simpático: Activación.
+  - Parasimpático: Reposo.
+  - Entérico: Motilidad intestinal.
