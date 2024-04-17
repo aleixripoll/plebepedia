@@ -1,7 +1,7 @@
 ---
 title: "Sistema nervioso"
 slug: sistema-nervioso
-description: "Para los que siempre olvidan cual es el parasimpático."
+description: "Resumen de subdivisiones para que no te olvides."
 authors: ["Dr. Fenilalanino"]
 image: ./pexels-johannes-plenio-1118869.jpg
 image_attribution:
