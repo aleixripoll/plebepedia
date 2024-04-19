@@ -13,22 +13,31 @@ draft: true
 date: 2024-04-17T20:00:00Z
 ---
 
+El sistema nervioso tiene dos subdivisiones complementarias: por ubicación y por función.
+
 ### División anatómica
 
-**Central:** Protegido por hueso: encéfalo y medula espinal.
+#### Sistema nervioso Central
+Protegido por hueso: encéfalo (cerebro, cerebelo y tallo encefálico) y medula espinal.
 
-**Periférico:** Nervios que salen de la médula.
+#### Sistema nervioso Periférico
+Nervios que salen de la médula, se subdivide a su vez en:
 
-  - Sensitivo/aferente
-  - Motor/eferente
+  - **Sensitivo/aferente:** Información sensorial, los impulsos eléctricos viajan hacia el cerebro.
+  - **Motor/eferente:** Los impulsos eléctricos viajan des del cerebro hacia músculos y glándulas.
 
 
 ### División funcional
 
-**Somático:** Acciones voluntarias.
+#### Sistema nervioso Somático
+Acciones voluntarias:
 
-**Autónomo:** Acciones involuntarias.
+- Neuronas sensitivas que llevan inforamción al cerebro (por ejemplo, dolor) 
+- Neuronas motoras para movimiento de músculo esquelético.
 
-  - Simpático: Activación.
-  - Parasimpático: Reposo.
-  - Entérico: Motilidad intestinal.
+#### Sistema nervioso Autónomo
+Acciones involuntarias. Se subdivide en:
+
+  - **Simpático:** Activación (contracción músculo liso, secreción glándulas, acelerar respiración o ritmo cardíaco).
+  - **Parasimpático:** Reposo (ralentizar respiración o ritmo cardíaco, digestión).
+  - **Entérico:** Motilidad intestinal.
