@@ -1,14 +1,15 @@
 ---
 title: "Sistema nervioso"
 slug: sistema-nervioso
-description: "Resumen de subdivisiones para que no te olvides."
+description: "Siempre me lío con las subdivisiones."
 authors: ["Dr. Fenilalanino"]
-image: ./pexels-johannes-plenio-1118869.jpg
+image: ./ai-generated-8689555_1280.jpg
 image_attribution:
-    author: Johannes Plenio
-    url: https://www.pexels.com/ca-es/foto/1118869/
+    author: James
+    site: Pixabay
+    url: https://pixabay.com/illustrations/ai-generated-brain-nervous-system-8689555/
 categories: ["neurociencia"]
-tags: ["simpático", "parasimpático"]
+tags: ["anatomía", "cuerpo humano"]
 draft: true
 date: 2024-04-17T20:00:00Z
 ---
