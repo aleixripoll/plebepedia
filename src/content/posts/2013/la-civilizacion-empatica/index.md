@@ -2,11 +2,11 @@
 title: "La civilización empática"
 description: "Ensayo sobre la civilización, por Jeremy Rifkin."
 authors: ["Dr. Fenilalanino"]
-image: ./natalya-letunova-DLclPZyS_bs-unsplash.jpg
+image: ./elevators-1598431_1280.jpg
 image_attribution:
-  author: Natalya Letunova
-  site: Unsplash
-  url: https://unsplash.com/photos/aerial-photography-of-grey-painted-building-DLclPZyS_bs
+  author: "3093594"
+  site: Pixabay
+  url: https://pixabay.com/es/photos/ascensores-berlina-1598431/
 categories: ["literatura"]
 tags: ["ensayo", "sociedad", "biología"]
 draft: false
