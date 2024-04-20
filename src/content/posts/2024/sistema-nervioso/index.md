@@ -29,8 +29,8 @@ Nervios que salen de la médula.
 #### Sistema nervioso Somático
 Acciones voluntarias, se subdivide en:
 
-  - **Sensitivo/aferente:** Información sensorial (tacto, dolor), los impulsos eléctricos viajan hacia el cerebro.
-  - **Motor/eferente:** Movimiento del músculo esquelético, los impulsos eléctricos viajan desde el cerebro.
+  - **Sensitivo o aferente:** Información sensorial (tacto, dolor), los impulsos eléctricos viajan hacia el cerebro.
+  - **Motor o eferente:** Movimiento del músculo esquelético, los impulsos eléctricos viajan desde el cerebro.
 
 #### Sistema nervioso Autónomo
 Acciones involuntarias, se subdivide en:
