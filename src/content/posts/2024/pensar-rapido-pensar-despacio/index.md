@@ -9,7 +9,7 @@ draft: false
 date: 2024-04-14T15:00:00Z
 ---
 
-Interesante libro de psicología conductual, algunos tramos se me han hecho un poco lentos y pesados pero las secciones de estudios y anécdotas son entretenidas y compensan. Parecido a los más recientes libros de Dan Ariely, que también se hace algo lento.
+Interesante libro de psicología conductual, algunos tramos se me han hecho un poco lentos y pesados pero las secciones de estudios y anécdotas son entretenidas y compensan. Parecido a los más recientes libros de Dan Ariely, que también se me hicieron lentos.
 
 En resumen, todo el mundo habla demasiado o he perdido la paciencia.
 
