@@ -1,6 +1,6 @@
 ---
-title: "Cereales y pan"
-slug: cereales-pan
+title: "Harinas de cereales"
+slug: harinas-de-cereales
 description: "Trigo contra todos."
 authors: ["Dra. Valina"]
 image: ./pexels-pixabay-162769.jpg
@@ -8,7 +8,7 @@ image_attribution:
     author: Pixabay
     url: https://www.pexels.com/ca-es/foto/pa-camp-estiu-sec-162769/
 categories: ["nutrición"]
-tags: ["pan", "trigo", "centeno", "espelta", "kamut", "trigo sarraceno"]
+tags: ["pan", "gluten"]
 draft: false
 date: 2024-02-27T07:00:00Z
 ---
