@@ -10,7 +10,7 @@ image_attribution:
     url: https://pixabay.com/illustrations/ai-generated-brain-nervous-system-8689555/
 categories: ["neurociencia"]
 tags: ["anatomía", "cuerpo humano"]
-draft: true
+draft: false
 date: 2024-04-17T20:00:00Z
 ---
 
