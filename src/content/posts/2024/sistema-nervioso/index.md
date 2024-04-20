@@ -18,26 +18,23 @@ El sistema nervioso tiene dos subdivisiones complementarias: por ubicación y po
 ### División anatómica
 
 #### Sistema nervioso Central
-Protegido por hueso: encéfalo (cerebro, cerebelo y tallo encefálico) y medula espinal.
+Protegido por hueso, se divide en **encéfalo** (cerebro, cerebelo, tallo encefálico) y **médula espinal**.
 
 #### Sistema nervioso Periférico
-Nervios que salen de la médula, se subdivide a su vez en:
-
-  - **Sensitivo/aferente:** Información sensorial, los impulsos eléctricos viajan hacia el cerebro.
-  - **Motor/eferente:** Los impulsos eléctricos viajan des del cerebro hacia músculos y glándulas.
+Nervios que salen de la médula.
 
 
 ### División funcional
 
 #### Sistema nervioso Somático
-Acciones voluntarias:
+Acciones voluntarias, se subdivide en:
 
-- Neuronas sensitivas que llevan inforamción al cerebro (por ejemplo, dolor) 
-- Neuronas motoras para movimiento de músculo esquelético.
+  - **Sensitivo/aferente:** Información sensorial (tacto, dolor), los impulsos eléctricos viajan hacia el cerebro.
+  - **Motor/eferente:** Movimiento del músculo esquelético, los impulsos eléctricos viajan desde el cerebro.
 
 #### Sistema nervioso Autónomo
-Acciones involuntarias. Se subdivide en:
+Acciones involuntarias, se subdivide en:
 
-  - **Simpático:** Activación (contracción músculo liso, secreción glándulas, acelerar respiración o ritmo cardíaco).
-  - **Parasimpático:** Reposo (ralentizar respiración o ritmo cardíaco, digestión).
+  - **Simpático:** Cuerpo en modo "activo" (contracción músculo liso, secreción glándulas, acelerar respiración y ritmo cardíaco).
+  - **Parasimpático:** Cuerpo en modo "reposo" (digestión, ralentizar respiración y ritmo cardíaco).
   - **Entérico:** Motilidad intestinal.
