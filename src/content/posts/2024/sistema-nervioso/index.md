@@ -3,11 +3,11 @@ title: "Sistema nervioso"
 slug: sistema-nervioso
 description: "Siempre me lío con las subdivisiones."
 authors: ["Dr. Fenilalanino"]
-image: ./ai-generated-8689555_1280.jpg
+image: "./neurons-8475666_1920.jpg"
 image_attribution:
-    author: James
+    author: Gerd Altmann
     site: Pixabay
-    url: https://pixabay.com/illustrations/ai-generated-brain-nervous-system-8689555/
+    url: https://pixabay.com/es/illustrations/neuronas-c%C3%A9lulas-del-cerebro-cerebro-8475666/
 categories: ["neurociencia"]
 tags: ["anatomía", "cuerpo humano"]
 draft: false

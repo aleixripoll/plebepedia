@@ -3,7 +3,7 @@ title: "Pensar rápido, pensar despacio"
 description: "Ensayo sobre sesgos cognitivos, por Daniel Kahneman."
 authors: ["Dr. Fenilalanino"]
 image: ./pensa.webp
-categories: ["literatura", "neurociencia", "dibuixos"]
+categories: ["literatura", "neurociencia"]
 tags: ["ensayo", "psicología", "sesgos"]
 draft: false
 date: 2024-04-14T15:00:00Z
