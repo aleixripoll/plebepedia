@@ -8,7 +8,7 @@ image_attribution:
     site: HBO
     url: https://www.hbo.com/the-wire
 categories: ["cine"]
-tags: ["serie TV", "corrupción", "drogas", "lang-en"]
+tags: ["serie TV", "sociedad", "lang-en"]
 draft: false
 date: 2019-09-01T20:22:00Z
 ---

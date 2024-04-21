@@ -8,7 +8,7 @@ image_attribution:
     author: Suzy Hazelwood
     url: https://www.pexels.com/ca-es/foto/1937743/
 categories: ["nutrición"]
-tags: ["micronutrientes", "vitaminas"]
+tags: ["vitaminas", "apuntes"]
 draft: false
 date: 2024-03-01T07:00:00Z
 ---

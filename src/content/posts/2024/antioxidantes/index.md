@@ -8,7 +8,7 @@ image_attribution:
     author: Any Lane
     url: https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/
 categories: ["nutrición"]
-tags: ["radical libre", "oxígeno"]
+tags: ["biología", "química", "apuntes"]
 draft: false
 date: 2024-02-09T07:00:00Z
 ---

@@ -4,7 +4,7 @@ description: "Elige la vida, por Irvine Welsh."
 authors: ["Dr. Fenilalanino"]
 image: ./cover.webp
 categories: ["literatura", "cine"]
-tags: ["novela", "sociedad", "drogas"]
+tags: ["novela", "sociedad"]
 draft: false
 date: 2008-06-14T15:35:00.004+02:00
 ---

@@ -2,12 +2,13 @@
 title: "13,99 euros"
 description: "Marketing y consumismo, por Frédéric Beigbeder."
 authors: ["Dr. Fenilalanino"]
-image: ./pexels-melvin-buezo-18946900.jpg
+image: ./mobile-1087845_1280.jpg
 image_attribution:
-  author: Melvin Buezo
-  url: https://www.pexels.com/ca-es/foto/moda-herba-estil-marca-18946900/
+  author: Gerd Altmann
+  site: Pixabay
+  url: https://pixabay.com/es/illustrations/m%C3%B3vil-smartphone-app-redes-1087845/
 categories: ["literatura"]
-tags: ["novela", "sociedad", "neoliberalismo", "consumismo", "marketing"]
+tags: ["novela", "sociedad", "marketing"]
 draft: false
 date: 2011-05-16T11:09:00.001+02:00
 ---

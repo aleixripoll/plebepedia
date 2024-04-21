@@ -5,7 +5,7 @@ description: "Datos esenciales para romper el hielo en los afters."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_A.webp"
 categories: ["nutrición", "Dibuixos"]
-tags: ["micronutrientes", "vitaminas"]
+tags: ["vitaminas", "apuntes"]
 draft: false
 date: 2024-01-04T07:00:00Z
 ---

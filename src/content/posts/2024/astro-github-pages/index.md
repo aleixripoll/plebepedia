@@ -8,7 +8,7 @@ image_attribution:
     author: Khizar Hayat
     url: https://www.pexels.com/photo/gray-keypad-1114703/
 categories: ["tecnología"]
-tags: ["astro", "github pages"]
+tags: ["programación", "apuntes"]
 draft: false
 date: 2024-02-20T07:00:00Z
 ---

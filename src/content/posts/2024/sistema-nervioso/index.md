@@ -9,7 +9,7 @@ image_attribution:
     site: Pixabay
     url: https://pixabay.com/es/illustrations/neuronas-c%C3%A9lulas-del-cerebro-cerebro-8475666/
 categories: ["neurociencia"]
-tags: ["anatomía", "cuerpo humano"]
+tags: ["biología", "apuntes"]
 draft: false
 date: 2024-04-17T20:00:00Z
 ---

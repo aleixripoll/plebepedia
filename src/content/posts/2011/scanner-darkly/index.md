@@ -4,7 +4,7 @@ description: "Película de Richard Linklater basada en la novela-paranoia de Phi
 authors: ["Dr. Fenilalanino"]
 image: ./cover.webp
 categories: ["cine"]
-tags: ["rotoscopia", "lang-en"]
+tags: ["película", "lang-en"]
 draft: false
 date: 2011-11-11T15:03:00.001+01:00
 ---

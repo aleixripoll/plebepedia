@@ -8,7 +8,7 @@ image_attribution:
     author: John Riches
     url: https://www.pexels.com/ca-es/foto/fulles-arbre-a-l-aire-lliure-fruita-3632381/
 categories: ["nutrición"]
-tags: ["micronutrientes", "vitaminas"]
+tags: ["vitaminas", "apuntes"]
 draft: false
 date: 2024-02-19T07:00:00Z
 ---

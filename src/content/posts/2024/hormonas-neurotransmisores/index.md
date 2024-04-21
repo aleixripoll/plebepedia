@@ -9,7 +9,7 @@ image_attribution:
     site: Pixabay
     url: https://pixabay.com/illustrations/ai-generated-brain-nervous-system-8689555
 categories: ["neurociencia"]
-tags: ["hormonas", "neurotransmisores"]
+tags: ["biología", "apuntes"]
 draft: false
 date: 2024-03-19T16:00:00Z
 ---

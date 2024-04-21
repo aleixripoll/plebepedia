@@ -5,7 +5,7 @@ description: "Todo lo que hay que comer de la tabla periódica."
 authors: ["Dra. Valina"]
 image: "./minerales.webp"
 categories: ["nutrición", "Dibuixos"]
-tags: ["micronutrientes", "minerales"]
+tags: ["biología", "química", "apuntes"]
 draft: false
 date: 2024-02-09T07:00:00Z
 ---

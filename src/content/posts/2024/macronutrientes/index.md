@@ -8,7 +8,7 @@ image_attribution:
     author: Lukas
     url: https://www.pexels.com/ca-es/foto/menjar-saludable-verdures-fusta-952478/
 categories: ["nutrición"]
-tags: ["macronutrientes", "proteínas", "aminoácidos", "azúcares", "carbohidratos", "fibra", "grasa"]
+tags: ["biología", "química", "apuntes"]
 draft: false
 date: 2024-03-16T19:00:00Z
 ---

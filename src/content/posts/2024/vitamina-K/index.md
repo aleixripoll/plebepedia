@@ -8,7 +8,7 @@ image_attribution:
     author: Yaroslav Shuraev
     url: https://www.pexels.com/photo/green-leaves-in-close-up-photography-8845078/
 categories: ["nutrición"]
-tags: ["micronutrientes", "vitaminas"]
+tags: ["vitaminas", "apuntes"]
 draft: false
 date: 2024-02-25T07:00:00Z
 ---

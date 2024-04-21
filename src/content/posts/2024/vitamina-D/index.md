@@ -8,7 +8,7 @@ image_attribution:
     author: Nuno Campos
     url: https://www.pexels.com/photo/clear-glass-ball-on-brown-sands-1834609/
 categories: ["nutrición"]
-tags: ["micronutrientes", "vitaminas"]
+tags: ["vitaminas", "apuntes"]
 draft: false
 date: 2024-02-18T07:00:00Z
 ---

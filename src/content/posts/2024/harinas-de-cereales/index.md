@@ -8,7 +8,7 @@ image_attribution:
     author: Pixabay
     url: https://www.pexels.com/ca-es/foto/pa-camp-estiu-sec-162769/
 categories: ["nutrición"]
-tags: ["pan", "gluten"]
+tags: ["pan", "gluten", "apuntes"]
 draft: false
 date: 2024-02-27T07:00:00Z
 ---

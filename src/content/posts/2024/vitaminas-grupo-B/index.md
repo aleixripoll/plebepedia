@@ -8,7 +8,7 @@ image_attribution:
     author: MART PRODUCTION
     url: https://www.pexels.com/ca-es/foto/art-creatiu-patro-abstracte-7577876/
 categories: ["nutrición"]
-tags: ["micronutrientes", "vitaminas"]
+tags: ["vitaminas", "apuntes"]
 draft: false
 date: 2024-03-03T07:00:00Z
 ---

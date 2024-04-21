@@ -8,7 +8,7 @@ image_attribution:
     site: Unsplash
     url: https://unsplash.com/photos/macro-photography-of-teardrop-yCbJXoeZuTM
 categories: ["literatura"]
-tags: ["novela", "humor", "consumismo", "empresa", "mobbing"]
+tags: ["novela", "humor", "sociedad"]
 draft: false
 date: 2022-10-30T07:03:00Z
 ---

@@ -8,7 +8,7 @@ image_attribution:
     author: Rodion Kutsaiev
     url: https://www.pexels.com/photo/yellow-and-white-3-d-cube-9436715/
 categories: ["neurociencia"]
-tags: ["psicología"]
+tags: ["psicología", "apuntes"]
 draft: false
 date: 2024-02-17T07:00:00Z
 ---

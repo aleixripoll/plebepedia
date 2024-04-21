@@ -4,7 +4,7 @@ description: "Precuela de Trainspotting, de Irvine Welsh."
 authors: ["Dr. Fenilalanino"]
 image: ./cover.webp
 categories: ["literatura"]
-tags: ["novela", "humor", "drogas", "sociedad"]
+tags: ["novela", "humor", "sociedad"]
 draft: false
 date: 2017-07-13T18:58:00Z
 ---
