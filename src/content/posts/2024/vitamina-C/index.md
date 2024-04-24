@@ -18,7 +18,7 @@ Es una vitamina **[hidrosoluble](../vitaminas-general)** que se obtiene de alime
 
 ### Funciones
 - [Antioxidante](../antioxidantes).
-- Control de infecciones (contrariamente a la cultura popular, no hay evidencias de que evite los resfriados y pocas de que reduzca sus síntomas o duración).
+- Control de infecciones (aunque contrariamente a la cultura popular, no hay evidencias de que evite los resfriados y pocas de que reduzca sus síntomas o duración).
 - Curación de heridas.
 - Síntesis de **colágeno**, necesario en muchos sistemas del cuerpo (nervioso, sanguíneo, inmune, formación de cartílago y hueso).
 - Sintesis de hormonas y neurotransmisores.

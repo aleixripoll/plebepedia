@@ -11,20 +11,18 @@ date: 2024-02-07T07:00:00Z
 ---
 
 ### Información básica
-Las vitaminas son substancias **orgánicas** (= contienen carbono, habitualmente junto con hidrógeno) que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
+Las vitaminas son substancias **orgánicas** (contienen carbono, habitualmente junto con hidrógeno) que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
 
-- **Hidrosolubles:** Grupo B (ocho en total) y C.
-- **Liposolubles:** A, D, E, K.
+- **Hidrosolubles:** Solubles en agua, son 9: las ocho del grupo B (1-2-3, 5-6-7, 9, 12) y C.
+- **Liposolubles:** Solubles en aceite, son 4: A, D, E y K.
 
-### Agua vs aceite
+### Solubilidad (agua vs aceite)
 
-Somos seres de agua. El aceite no se mezcla con el agua.
-
-> Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero en realidad es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, es decir, no hay grandes fuerzas internas y no se generan cargas eléctricas. Por lo tanto, el aceite no reacciona en contacto con el agua. Por otra parte, las fuerzas de atracción del oxígeno compactan la molécula de agua y aumentan su densidad, por ese motivo el agua pesa más que el aceite.
-
-El resultado de todo esto es que podemos almacenar vitaminas que se disuelven en aceite (**liposolubles**), pero no podemos almacenar vitaminas que se disuelven en agua (**hidrosolubles**), de manera que debemos consumirlas todos los días. La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
+Somos seres de agua y el aceite no se mezcla con el agua, así que podemos almacenar vitaminas que se disuelven en aceite (**liposolubles**), pero no podemos almacenar vitaminas que se disuelven en agua (**hidrosolubles**), por lo que debemos consumirlas todos los días. La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
 
 La vitamina **B12, hidrosoluble**, es una excepción a la regla: puede almacenarse durante años en el hígado.
+
+> Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero en realidad es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, es decir, no hay grandes fuerzas internas y no se generan cargas eléctricas. Por lo tanto, el aceite no reacciona en contacto con el agua. Por otra parte, las fuerzas de atracción del oxígeno compactan la molécula de agua y aumentan su densidad, por ese motivo el agua pesa más que el aceite.
 
 
 ---
