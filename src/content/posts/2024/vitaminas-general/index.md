@@ -13,12 +13,12 @@ date: 2024-02-07T07:00:00Z
 ### Información básica
 Las vitaminas son substancias **orgánicas** (contienen carbono, habitualmente junto con hidrógeno) que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
 
-- **Hidrosolubles:** Solubles en agua, son 9: las ocho del grupo B (1-2-3, 5-6-7, 9, 12) y C.
-- **Liposolubles:** Solubles en aceite, son 4: A, D, E y K.
+- **Hidrosolubles:** Solubles en agua, son nueve: las ocho del grupo B (1-2-3, 5-6-7, 9, 12) y C.
+- **Liposolubles:** Solubles en aceite, son cuatro: A, D, E y K.
 
 ### Solubilidad (agua vs aceite)
 
-Somos seres de agua y el aceite no se mezcla con el agua, así que podemos almacenar vitaminas que se disuelven en aceite (**liposolubles**), pero no podemos almacenar vitaminas que se disuelven en agua (**hidrosolubles**), por lo que debemos consumirlas todos los días. La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
+Somos seres de agua. El aceite no se mezcla con el agua, así que podemos almacenar las vitaminas que se disuelven en aceite pero no las que se disuelven en agua, por lo que debemos consumirlas todos los días. La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
 
 La vitamina **B12, hidrosoluble**, es una excepción a la regla: puede almacenarse durante años en el hígado.
 
