@@ -20,8 +20,8 @@ Son substancias **inorgánicas** presentes en el suelo y el agua que el cuerpo n
 Necesitamos más de 50mg al día. Son 7.
 
 ### Calcio
-Formación de **huesos y dientes**. También: coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
-- **Fuentes:** Lácteos (fuente principal aunque baja biodisponibilidad, ~30%). También en: sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de **oxalatos y fitatos** que se adhieren al calcio y no permiten su absorción).
+Formación de **huesos y dientes**, coagulación de la sangre, contracción muscular, regulación del ritmo cardíaco, neurotransmisor.
+- **Fuentes:** Lácteos (fuente principal aunque baja biodisponibilidad, ~30%), sardinas en conserva (alta BD), almendras (baja BD, ~20%), col, espinacas, acelgas (baja BD las tres y en especial muy baja en las espinacas por la presencia de **oxalatos y fitatos** que se adhieren al calcio y no permiten su absorción).
 - **Deficiencia:** Rampas musculares, hormigueo o falta de sensibilidad en los dedos.
 - **Toxicidad:** Llamada **hipercalcemia**: dolor en el pecho, sensación de falta de aire, estreñimiento. A largo plazo pueden producir piedras en los riñones o cáncer de próstata. Bloqueo de la absorción de hierro (anemia) y zinc.
 
@@ -32,8 +32,8 @@ Es un **electrolito** (tiene carga eléctrica) lo que le confiere propiedades de
 - **Toxicidad:** Hipertensión.
 
 ### Fósforo
-Junto con el calcio, formación de huesos y dientes. También: cofactor enzimático, regulación pH sanguíneo, función muscular, producción de: neurotransmisores, ADN, ARN, ATP.
-- **Fuentes:** Productos de **origen animal** (lácteos, carne, pescado, marisco, huevos), legumbres, nueces. Mayor absorción en fuentes de origen animal que vegetal. Las semillas, legumbres y cereales integrales lo contienen en forma de **fitatos (ácido fítico)** para los que no tenemos la enzima necesaria (fitasa) y debemos remojarlas/cocinarlas para aumentar su biodisponibilidad. En caso contrario, no sólo no absorbemos su fósforo, sino que a su paso por el tracto digestivo se adhiere al fósforo, hierro y zinc que se encuentra por el camino, disminuyendo su absorción.
+Junto con el calcio, formación de huesos y dientes. También: cofactor enzimático, regulación pH sanguíneo, función muscular, síntesis de neurotransmisores, ADN, ARN y ATP.
+- **Fuentes:** Productos de **origen animal** (lácteos, carne, pescado, marisco, huevos), legumbres, nueces. Mayor absorción en fuentes de origen animal que vegetal. Las semillas, legumbres y cereales integrales lo contienen en forma de **fitatos (ácido fítico)** para los que no tenemos la enzima necesaria (fitasa) y debemos remojarlos/cocinarlos para aumentar su biodisponibilidad. En caso contrario, no sólo no absorbemos su fósforo, sino que a su paso por el tracto digestivo se adhiere al fósforo, hierro y zinc que se encuentra por el camino, disminuyendo su absorción.
 - **Deficiencia:** Llamada **hipofosfatemia**, rara, se suele producir por disfunción renal o exceso de **hormona paratiroidea**. Síntomas: dolor de huesos, anemia, aumento de las infecciones.
 - **Toxicidad:** Llamada **hiperfosfatemia**, muy rara ya que el cuerpo elimina el exceso a través de la orina.
 
@@ -53,7 +53,7 @@ Es un electrolito como cloro y sodio, actua como regulador de fluidos, pH y nutr
 Transmisión nerviosa, contracción/relajación muscular. Tercer electrolito de la lista junto con sodio y potasio, igual que ellos actua como regulador de fluidos, pH y nutrientes.
 - **Fuentes:** Sal de cocina y básicamente cualquier alimento.
 - **Deficiencia:** Muy rara.
-- **Toxicidad**: El exceso de sodio en sangre se llama **hipernatremia**, se puede producir por problemas renales o deshidratación severa. En el segundo caso, el agua se transfiere desde las células a la sangre, ese exceso de líquido puede llegar a los pulmones dificultando la respiración, o al cerebro causando convulsiones y coma cerebral. **Sodio y potasio son complementarios**, el primero sube la presión sanguínea y el segundo la baja, necesitamos mucho más del segundo pero solemos consumir mucho más del primero, lo cual aumenta el riesgo de hipertensión e infarto.
+- **Toxicidad**: El exceso de sodio en sangre se llama **hipernatremia**, se puede producir por problemas renales o deshidratación severa. **Sodio y potasio son complementarios**, el primero sube la presión sanguínea y el segundo la baja, necesitamos mucho más del segundo pero solemos consumir mucho más del primero, lo cual aumenta el riesgo de hipertensión e infarto.
 
 ### Azufre
 Formación de ligamentos, tendones y keratina (uñas, pelo, piel). También: síntesis de vitaminas (A, C, B8), hormonas (insulina), enzimas digestivas e inmunoglobulina.
@@ -88,7 +88,7 @@ Componente fundamental de la hemoglobina (proteína transportadora de oxígeno d
 
 ### Manganeso
 Coenzima que interviene en la absorción de hidratos, proteínas y grasas. Colabora con la vitamina K en la cicatrización de heridas.
-- **Fuentes:** Se almacena principalmente en los huesos y se encuentra en una gran variedad de alimentos.
+- **Fuentes:**  Se encuentra en una gran variedad de alimentos y se almacena principalmente en los huesos.
 
 ### Molibdeno
 Componente de diversas enzimas que rompen los enlaces de proteínas, alcohol, drogas, toxinas, purinas y sulfitos.
