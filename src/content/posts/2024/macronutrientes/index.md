@@ -34,7 +34,7 @@ Se encuentra en algunos polisacáridos, se clasifica según su absorción:
 #### Índice glucémico y carga glucémica
 Este índice nos indica cuán rápido un carbohidrato es convertido en azúcar simple y absorbido en la sangre. Una analogía sería vertir arena en una cañería de agua, la circulación será más lenta y requerirá mayor fuerza de bombeo. Para evitar el colapso de la bomba (corazón), el páncreas secreta insulina para indicar a las células que deben tragarse ese superávit de azúcar, que acaba almacenado en forma de grasa.
 
-Algunos alimentos tienen un alto índice glucémico pero baja carga glucémica, es decir, aportan pocos carbohidratos (ejemplo: zanahoria), con lo cual la carga glucémica es por lo general más importante que el índice glucémico.
+Algunos alimentos tienen un alto índice glucémico pero baja carga glucémica, es decir, aportan pocos carbohidratos (ejemplo: zanahoria), con lo cual la carga glucémica suele ser más importante que el índice glucémico.
 
 Por regla general, cuanto más complejos sean los carbohidratos, mejor (granos enteros mejor que refinados). Dicho esto, el cocinado aumenta la biodisponibilidad lo cual es un arma de doble filo, ya que también aumenta la carga glucémica.
 
@@ -115,4 +115,4 @@ https://www.ocu.org/alimentacion/agua/informe/aguas-minerales
 
 ---
 
-[^1]: Los aminoácidos son moléculas formadas por átomos de carbono, nitrógeno, hidrógeno y oxígeno, y en algunos casos azufre. Un dipéptido está formado por 2 aminoácidos, un tripéptido 3, un polipéptido entre 10 y 50, una proteína más de 50.
+[^1]: Los aminoácidos son moléculas formadas por átomos de carbono, nitrógeno, hidrógeno y oxígeno, y en algunos casos azufre. Un dipéptido está formado por 2 aminoácidos, un tripéptido por 3, un polipéptido contiene entre 10 y 50 y una proteína más de 50.
