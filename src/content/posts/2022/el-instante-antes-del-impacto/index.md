@@ -2,21 +2,14 @@
 title: "El instante antes del impacto"
 description: "La vida después del consumismo, por Glòria de Castro."
 authors: ["Dra. Valina"]
-image: ./zhang-kaiyv-yCbJXoeZuTM-unsplash.jpg
-image_attribution:
-    author: zhang kaiyv
-    site: Unsplash
-    url: https://unsplash.com/photos/macro-photography-of-teardrop-yCbJXoeZuTM
+image: ./cover.webp
 categories: ["literatura"]
 tags: ["novela", "humor", "sociedad"]
 draft: false
 date: 2022-10-30T07:03:00Z
 ---
 
-*Novela pseudo-autobiográfica de Glòria de Castro. Tras quedar embarazada y solicitar reducción de jornada, fue progresivamente apartada de todos los proyectos en la agencia de publicidad para la que trabajaba, de manera que tenía cada día 6 horas "de nada", como ella misma explica, que dedicó a escribir lo que más tarde se convirtió en esta novela.*
-
-*En la actualidad vive en un pueblo de Mallorca apartada de todo este mundo de locura. **Respect.** A continuación un fragmento.*
-
+*Novela pseudo-autobiográfica de Glòria de Castro. Tras solicitar reducción de jornada por embarazo, fue progresivamente apartada de todos sus proyectos hasta tener cada día 6 horas "de nada", horas que dedicó a escribir lo que más tarde se convirtió en esta novela. En la actualidad vive en un pueblo de Mallorca apartada de todo este ruido. Respect.*
 
 > Después de unos cuantos fracasos de pareja, preferí salir con hombres de lugares lejanos. Milán. Ámsterdam. Suecia.<p>
 Argentina.<p>
