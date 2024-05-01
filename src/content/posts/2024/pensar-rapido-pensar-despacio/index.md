@@ -9,7 +9,7 @@ draft: false
 date: 2024-04-14T15:00:00Z
 ---
 
-Libro de psicología conductual, algunos capítulos se me han hecho un poco lentos, pero con algo de paciencia va recuperando el ritmo y el interés. Parecido a los más recientes libros de Dan Ariely, aunque me parece mejor y más completo el de Kahneman.
+Libro de psicología conductual donde se exponen los errores de razonamiento que solemos cometer. La primera parte se me hizo algo pesada pero luego poco a poco me fue enganchando. Parecido a los más recientes libros de Dan Ariely, aunque me parece mejor y más completo el de Kahneman.
 
 > Los humanos constantemente nos engañamos construyendo explicaciones endebles del pasado que creemos verdaderas.<p>
 Pensemos en la historia de Google, en cómo se convirtió en un gigante de la industria tecnológica. (...) Una historia detallada especificaría las decisiones de los fundadores de Google, pero para nuestro propósito basta con decir que casi todas las decisiones que tomaron dieron buen resultado. Un relato más completo describiría las acciones de las empresas que Google derrotó. Los desventurados competidores aparecerían como ciegos, lentos y por completo ineptos en relación con aquella amenaza que finalmente los arrollaría.<p>
