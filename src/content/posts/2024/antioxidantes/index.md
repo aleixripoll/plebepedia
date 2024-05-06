@@ -13,7 +13,7 @@ draft: false
 date: 2024-02-09T07:00:00Z
 ---
 
-Los "oxidantes", más conocidos como **radicales libres**, son compuestos altamente reactivos que contienen oxígeno (de ahí el nombre). Su reactividad es debida a que tienen un electrón libre (desapareado) en su última órbita. En su intento por aparear este electrón provocan cambios en la composición química de otras moléculas (lípidos, proteínas, ADN). Esto puede derivar en una gran variedad de problemas de salud (enfermedades cardiovasculares, respiratorias, Parkinson, cáncer). El daño al ADN, **en particular el mitocondrial**, está relacionado con las enfermedades neurodegenerativas y el envejecimiento.
+Los "oxidantes", más conocidos como **radicales libres**, son compuestos altamente reactivos que contienen oxígeno. Su reactividad es debida a que tienen un electrón libre (desapareado) en su última órbita. En su intento por aparear este electrón provocan cambios en la composición química de otras moléculas (lípidos, proteínas, ADN). Esto puede derivar en una gran variedad de problemas de salud (enfermedades cardiovasculares, respiratorias, Parkinson, cáncer). El daño al ADN, **en particular el mitocondrial**, está relacionado con las enfermedades neurodegenerativas y el envejecimiento.
 
 Se producen por el propio metabolismo celular y por agentes externos (contaminación atmosférica, exposición solar, tabaco).
 

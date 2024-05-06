@@ -14,14 +14,14 @@ date: 2024-03-01T07:00:00Z
 ---
 
 ### Información básica
-Es una vitamina **[hidrosoluble](../vitaminas-general)** que se obtiene de alimentos de origen vegetal.
+- **[Hidrosoluble](../vitaminas-general)**.
+- Se obtiene de alimentos de origen vegetal.
 
 ### Funciones
 - [Antioxidante](../antioxidantes).
-- Control de infecciones (aunque contrariamente a la cultura popular, no hay evidencias de que evite los resfriados y pocas de que reduzca sus síntomas o duración).
-- Curación de heridas.
-- Síntesis de **colágeno**, necesario en muchos sistemas del cuerpo (nervioso, sanguíneo, inmune, formación de cartílago y hueso).
-- Sintesis de hormonas y neurotransmisores.
+- Control de infecciones (aunque no evita los resfriados y no parece reducir excesivamente sus síntomas o duración).
+- Cicatrización.
+- Síntesis de **colágeno** (cartílago, hueso, nervios, sangre, sistema inmune), hormonas y neurotransmisores.
 
 ### Fuentes
 - Cítricos (naranja, mandarina, kiwi, limón, pomelo)
@@ -38,7 +38,7 @@ Rara, puede ocurrir en dietas pobres en frutas y hortalizas, en fumadores (activ
 - Anemia
 
 ### Toxicidad
-- Rara, cuando aumenta la dosis se reduce la absorción.
+Rara, cuando aumenta la dosis se reduce la absorción.
 
 ---
 

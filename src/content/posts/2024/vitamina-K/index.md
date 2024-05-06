@@ -1,7 +1,7 @@
 ---
 title: "Vitamina K"
 slug: vitamina-k
-description: "Apología de la verdura."
+description: "Descubierta por un danés, K de koagulationsvitamin en alemán."
 authors: ["Dra. Valina"]
 image: "./pexels-yaroslav-shuraev-8845078.jpg"
 image_attribution:
@@ -14,10 +14,12 @@ date: 2024-02-25T07:00:00Z
 ---
 
 ### Información básica
-Es una vitamina **[liposoluble](../vitaminas-general)**. Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, que puede ser producida por bacterias de nuestro cuerpo. 
+- **[Liposoluble](../vitaminas-general)**.
+- Se encuentra en dos formas: **filoquinona**, de origen vegetal, y **menaquinona**, de origen animal, que puede ser producida por bacterias de nuestro cuerpo. 
 
 ### Funciones
-Síntesis de proteínas necesarias para coagular la sangre (curación heridas) y formación huesos.
+- Cicatrización.
+- Formación huesos.
 
 ### Fuentes
 Verduras (col, espinaca, lechuga, brócoli, kale, repollo).

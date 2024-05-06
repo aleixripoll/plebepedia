@@ -14,13 +14,13 @@ date: 2024-02-18T07:00:00Z
 ---
 
 ### Información básica
-- Es una vitamina **[liposoluble](../vitaminas-general)**.
-- Se comporta como una hormona, es decir, actua como un mensajero químico para regular globalmente ciertas funciones celulares.
+- [Liposoluble](../vitaminas-general)**.
+- Se comporta como una hormona, es decir, actua como mensajero químico para regular funciones celulares.
 - Se encuentra en la naturaleza en dos formas: D2, **ergocalciferol**, de origen vegetal, y D3, **colecalciferol**, de origen animal.
 
 ### Funciones
-- Aumento de la absorción de calcio y fósforo (salud huesos).
-- Inmunomoduladora (control de las infecciones).
+- Absorción de calcio y fósforo (huesos).
+- Inmunomoduladora (control de infecciones).
 - Antiproliferativa (anticancerígena).
 - Antiinflamatoria.
 
@@ -44,8 +44,7 @@ date: 2024-02-18T07:00:00Z
 - La deficiencia deriva en osteomalacia (mayor riesgo de fracturas) y raquitismo en niños (huesos débiles y blandos).
 
 ### Toxicidad
-- Muy rara.
-- Se elimina a través de la bilis.
+Muy rara. Se elimina a través de la bilis.
 
 
 ---

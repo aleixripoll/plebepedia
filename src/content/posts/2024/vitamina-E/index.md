@@ -14,7 +14,7 @@ date: 2024-02-19T07:00:00Z
 ---
 
 ### Información básica
-- Es una vitamina **[liposoluble](../vitaminas-general)**.
+- **[Liposoluble](../vitaminas-general)**.
 - Existe en varias formas pero la única útil para el cuerpo humano es el **alfa-tocoferol**.
 
 ### Funciones
@@ -22,18 +22,15 @@ date: 2024-02-19T07:00:00Z
 - Componente del sistema inmune.
 - Prevención de coágulos en las arterias.
 
-### Fuentes
-- Aceites vegetales.
-- Frutos secos (avellana, almendra, cacahuete).
-- Semillas (pipas de girasol).
-- Frutas (mango, aguacate).
+### Fuentes principales
+- Aceites vegetales, principalmente girasol, maíz y soja.
+- Frutos secos, principalmente almendra y avellana.
 
 ### Deficiencia
-- Rara, se puede producir por problemas digestivos que impidan absorber grasas.
-- **Síntomas:** Retinopatía, neuropatía en manos y pies, ataxia (pérdida de control muscular, movimientos torpes), afectación al sistema inmune.
+Rara, se puede producir por problemas digestivos que impidan absorber grasas. **Síntomas:** Retinopatía, neuropatía en manos y pies, ataxia (pérdida de control muscular, movimientos torpes), afectación al sistema inmune.
 
 ### Toxicidad
-- Sin evidencias.
+Sin evidencias.
 
 ---
 
