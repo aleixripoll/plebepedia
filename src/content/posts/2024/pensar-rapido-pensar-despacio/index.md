@@ -9,7 +9,7 @@ draft: false
 date: 2024-04-14T15:00:00Z
 ---
 
-Libro de psicología conductual dividido en cuatro partes; la primera parte, de introducción teórica, se me hizo un poco lenta y pesada, pero a partir de la segunda parte se desarrollan los sesgos a través de estudios y me fue enganchando.
+Libro de psicología conductual dividido en cinco partes; la primera parte, de introducción teórica, se me hizo un poco lenta y pesada, pero a partir de la segunda parte se desarrollan los sesgos a través de estudios y me fue enganchando.
 
 Parecido a los más recientes libros de Dan Ariely, aunque me parece mejor y más completo el de Kahneman.
 
