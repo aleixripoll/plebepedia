@@ -18,22 +18,20 @@ El sistema nervioso se clasifica bien por ubicación o por función.
 
 ### División anatómica
 
-#### SN Central
-Protegido por hueso, se divide en **médula espinal** y **encéfalo** (cerebro, cerebelo, tallo encefálico).
+- **Central**: Protegido por hueso, se divide en **médula espinal** y **encéfalo** (cerebro, cerebelo, tallo encefálico).
 
-#### SN Periférico
-Nervios que salen de la médula.
+- **Periférico**: Nervios que salen de la médula.
 
 
 ### División funcional
 
-#### SN Somático
+#### Somático
 Acciones voluntarias, se subdivide en:
 
   - **Sensitivo o aferente:** Información sensorial (tacto, dolor), los impulsos eléctricos viajan hacia el cerebro.
   - **Motor o eferente:** Movimiento del músculo esquelético, los impulsos eléctricos viajan desde el cerebro.
 
-#### SN Autónomo
+#### Autónomo
 Acciones involuntarias, se subdivide en:
 
   - **Simpático:** Cuerpo en modo "activo" (contracción músculo liso, secreción glándulas, acelerar respiración y ritmo cardíaco).
