@@ -6,7 +6,7 @@ authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
 categories: ["nutrición", "Dibuixos"]
 tags: ["vitaminas", "apuntes"]
-draft: false
+draft: true
 date: 2024-02-07T07:00:00Z
 ---
 

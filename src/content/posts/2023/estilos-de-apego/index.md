@@ -5,10 +5,7 @@ authors: ["Dra. Valina", "Natilla"]
 date: 2023-11-12T11:08:00.000+02:00
 categories: [ "Neurociencia", "Dibuixos" ]
 image: ./cover.jpg
-#image: ./pexels-ionix-1366242.jpg
-#image_attribution:
-#  author: iOnix08
-#  url: https://www.pexels.com/ca-es/foto/corda-desenfocament-linia-bugaderia-1366242/
+draft: true
 tags: [ "apego", "psicología" ]
 ---
 

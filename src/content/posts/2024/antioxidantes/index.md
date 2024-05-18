@@ -9,7 +9,7 @@ image_attribution:
     url: https://www.pexels.com/photo/bunch-of-ripe-red-delicious-raspberry-5946101/
 categories: ["nutrición"]
 tags: ["biología", "química", "apuntes"]
-draft: false
+draft: true
 date: 2024-02-09T07:00:00Z
 ---
 

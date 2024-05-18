@@ -9,7 +9,7 @@ image_attribution:
     url: https://www.pexels.com/photo/yellow-and-white-3-d-cube-9436715/
 categories: ["neurociencia"]
 tags: ["psicología", "apuntes"]
-draft: false
+draft: true
 date: 2024-02-17T07:00:00Z
 ---
 

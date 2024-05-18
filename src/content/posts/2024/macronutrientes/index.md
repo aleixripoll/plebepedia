@@ -9,7 +9,7 @@ image_attribution:
     url: https://www.pexels.com/ca-es/foto/menjar-saludable-verdures-fusta-952478/
 categories: ["nutrición"]
 tags: ["biología", "química", "apuntes"]
-draft: false
+draft: true
 date: 2024-03-16T19:00:00Z
 ---
 
