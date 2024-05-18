@@ -1,6 +1,7 @@
 ---
 import { Image } from "astro:assets";
 import config from "@config/config.json";
+import { BiLandscape } from "react-icons/bi";
 
 const { src } = Astro.props;
 const {
@@ -37,8 +38,7 @@ const {
     ) : logo_text ? (
       // If logo_text contains "|" we will use double-styling
       <>
-        {logo_text.split("|")[0]}
-        <span class="text-text dark:text-light text-base font-light">{logo_text.split("|")[1]}</span>
+        <BiLandscape className="relative -top-1 h-8 w-8 mr-1 inline"/>{logo_text.split("|")[0]}<span class="font-light">{logo_text.split("|")[1]}</span>
       </>
     ) : (
       title
