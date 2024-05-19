@@ -1,34 +1,28 @@
 ---
-title: "Vitaminas, datos generales"
+title: "Las vitaminas a vista de pájaro"
 slug: vitaminas-general
 description: "Los detalles para otro día."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
 categories: ["nutrición", "Dibuixos"]
 tags: ["vitaminas", "apuntes"]
-draft: true
+draft: false
 date: 2024-02-07T07:00:00Z
 ---
 
-### Información básica
-Las vitaminas son substancias **orgánicas** (contienen carbono, habitualmente junto con hidrógeno) que el cuerpo necesita en pequeñas cantidades. Existen 13 en total, clasificadas según su solubilidad:
+### Información general
+- Son substancias **orgánicas** (formadas por carbono y habitualmente hidrógeno).
+- Las necesitamos en pequeñas cantidades para ciertas funciones.
+- Son **13**, clasificadas según si se disuelven en agua (**hidrosolubles**, grupo B y C) o en aceite (**liposolubles**, ADEK).
+- Dado que somos 70% agua, no podemos almacenar vitaminas hidrosolubles, por lo tanto debemos consumirlas todos los días. Su deficiencia se manifiesta a las pocas semanas o meses. Las vitaminas liposolubles sí pueden almacenarse, su deficiencia se manifiesta tras más de un año.
+- La vitamina **B12, hidrosoluble**, es una excepción a la regla: puede almacenarse durante años en el hígado.
 
-- **Hidrosolubles:** Solubles en agua, son nueve: las ocho del grupo B (1-2-3, 5-6-7, 9, 12) y C.
-- **Liposolubles:** Solubles en aceite, son cuatro: A, D, E y K.
-
-### Solubilidad (agua vs aceite)
-
-Somos seres de agua. El aceite no se mezcla con el agua, así que podemos almacenar las vitaminas que se disuelven en aceite pero no las que se disuelven en agua, por lo que debemos consumirlas todos los días. La deficiencia de vitaminas hidrosolubles suele manifestarse a las pocas semanas o meses, las liposolubles tras más de un año.
-
-La vitamina **B12, hidrosoluble**, es una excepción a la regla: puede almacenarse durante años en el hígado.
-
-> Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero en realidad es debido a la diferencia de polaridades. El agua es una molécula polar: el átomo de oxígeno atrae con mucha fuerza a los hidrógenos y genera dos polos con carga eléctrica en sus extremos opuestos, conviertiendo la molécula en un imán. El aceite es una molécula no polar, es decir, no hay grandes fuerzas internas y no se generan cargas eléctricas. Por lo tanto, el aceite no reacciona en contacto con el agua. Por otra parte, las fuerzas de atracción del oxígeno compactan la molécula de agua y aumentan su densidad, por ese motivo el agua pesa más que el aceite.
+> **APUNTE:** Se suele decir que aceite y agua no se mezclan debido a la diferencia de densidades, pero en realidad es debido a la diferencia de polaridades. El agua (H<sub>2</sub>O) es una molécula **polar**: el átomo de oxígeno atrae con mucha fuerza a los dos hidrógenos y eso genera dos polos con carga eléctrica en sus extremos opuestos, convirtiendo la molécula en un imán. El aceite es una molécula **no polar**: no hay grandes fuerzas internas y no se generan cargas eléctricas, por lo tanto no reacciona en contacto con el agua.<br>Las fuerzas de atracción del oxígeno también son la razón por la que el agua tiene mayor densidad y pesa más que el aceite.
 
 
----
+### Referencias
 
-##### Referencias
+- [Harvard](https://www.hsph.harvard.edu/nutritionsource/vitamins/)
 
-https://www.hsph.harvard.edu/nutritionsource/vitamins/
+- [Medline Plus](https://medlineplus.gov/spanish/ency/article/002399.htm)
 
-https://medlineplus.gov/spanish/ency/article/002399.htm
