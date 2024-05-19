@@ -3,29 +3,30 @@ title: "Vitamina D"
 slug: vitamina-d
 description: "Calciferol para los amigos."
 authors: ["Dr. Fenilalanino"]
-image: "./pexels-nuno-campos-1834609.jpg"
+image: "./sun-8762264_1280.webp"
 image_attribution:
-    author: Nuno Campos
-    url: https://www.pexels.com/photo/clear-glass-ball-on-brown-sands-1834609/
+    author: Aristal Branson
+    site: Pixabay
+    url: https://pixabay.com/es/illustrations/sol-oto%C3%B1o-sale-de-rostro-8762264/
 categories: ["nutrición"]
 tags: ["vitaminas", "apuntes"]
-draft: true
+draft: false
 date: 2024-02-18T07:00:00Z
 ---
 
-### Información básica
-- [Liposoluble](../vitaminas-general)**.
-- Se comporta como una hormona, es decir, actua como mensajero químico para regular funciones celulares.
-- Se encuentra en la naturaleza en dos formas: D2, **ergocalciferol**, de origen vegetal, y D3, **colecalciferol**, de origen animal.
+### Información general
+- Es una vitamina [liposoluble](../vitaminas-general).
+- Se comporta como una hormona (actua como mensajero químico).
+- Se encuentra en dos formas: D2, **ergocalciferol**, de origen vegetal, y D3, **colecalciferol**, de origen animal.
 
 ### Funciones
 - Absorción de calcio y fósforo (huesos).
 - Inmunomoduladora (control de infecciones).
-- Antiproliferativa (anticancerígena).
+- Anticancerígena.
 - Antiinflamatoria.
 
-### Fuentes alimentarias
-- No está presente en prácticamente ningún alimento. La principal fuente en la dieta son los **pescados grasos** (trucha, salmón, atún, caballa) y en menor cantidad huevos y lácteos.
+### Fuentes
+- No está presente en prácticamente ningún alimento, la principal fuente son los **pescados grasos** (trucha, salmón, atún, caballa) y en menor cantidad huevos y lácteos.
 - Algunos alimentos (leche, yogurts, cereales) están enriquecidos con vitamina D.
 - En muchos casos son necesarios suplementos.
 
@@ -35,28 +36,27 @@ date: 2024-02-18T07:00:00Z
 - La capacidad de sintetizar vitamina D en la piel disminuye con la edad y la cantidad de melanina (pieles oscuras).
 - La crema solar bloquea casi totalmente su síntesis.
 - La exposición solar en invierno o a primera y última hora del día es mucho menos efectiva.
-- En resumen, la vitamina D se absorbe mejor cuanto más riesgo existe para la salud (cáncer de piel, envejecimiento precoz). Por tal motivo se recomiendan exposiciones cortas. Si la exposición solar causa un ligero eritema e inmediatamente después se aplica una crema de protección solar, el riesgo para la piel es mínimo.
+- En resumen, la vitamina D se absorbe mejor cuando el riesgo para la piel es mayor, por lo que se recomiendan exposiciones cortas y aplicar inmediatamente después una crema de protección solar para reducir al mínimo los efectos adversos.
 
 ### Deficiencia
-- Bastante habitual en la población que no recibe radiación solar.
+- Habitual en la población que no recibe radiación solar.
 - Independientemente de si es sintetizada en la piel o se obtiene de los alimentos, para ejercer sus acciones metabólicas (forma activa) necesita ser **hidroxilada**, este proceso se realiza en los riñones. Una deficiencia en la función renal puede derivar en deficiencia de vitamina D aunque se está sintetizando y/o consumiendo en las cantidades adecuadas.
 - La vida media de la vitamina D en el cuerpo es de aproximadamente 2 semanas.
 - La deficiencia deriva en osteomalacia (mayor riesgo de fracturas) y raquitismo en niños (huesos débiles y blandos).
 
 ### Toxicidad
-Muy rara. Se elimina a través de la bilis.
+- Muy rara.
+- Se elimina a través de la bilis.
 
 
----
+### Referencias
 
-##### Referencias
+- [Harvard](https://www.hsph.harvard.edu/nutritionsource/vitamin-d/)
 
-https://www.hsph.harvard.edu/nutritionsource/vitamin-d/
+- [Elsevier - Metabolismo, fuentes endógenas y exógenas de vitamina D](https://www.elsevier.es/es-revista-reemo-70-articulo-metabolismo-fuentes-endogenas-exogenas-vitamina-13108019)
 
-https://www.elsevier.es/es-revista-reemo-70-articulo-metabolismo-fuentes-endogenas-exogenas-vitamina-13108019
+- [Elsevier - Vitamina D para la práctica diaria](https://www.elsevier.es/es-revista-medicina-familia-semergen-40-articulo-vitamina-d-practica-diaria-S1138359320300654)
 
-https://www.elsevier.es/es-revista-medicina-familia-semergen-40-articulo-vitamina-d-practica-diaria-S1138359320300654
+- [Elsevier - Metabolismo, funciones, toxicidad y estados deficitarios de la vitamina D](https://www.elsevier.com/es-es/connect/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d)
 
-https://www.elsevier.com/es-es/connect/metabolismo-funciones-toxicidad-y-estados-deficitarios-de-la-vitamina-d
-
-https://www.sciencedirect.com/science/article/abs/pii/S1245178910701682
+- [Science Direct](ttps://www.sciencedirect.com/science/article/abs/pii/S1245178910701682)

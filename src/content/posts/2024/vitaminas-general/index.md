@@ -1,5 +1,5 @@
 ---
-title: "Las vitaminas a vista de pájaro"
+title: "Vitaminas, visión general"
 slug: vitaminas-general
 description: "Los detalles para otro día."
 authors: ["Dra. Valina"]
@@ -13,7 +13,7 @@ date: 2024-02-07T07:00:00Z
 ### Información general
 - Son substancias **orgánicas** (formadas por carbono y habitualmente hidrógeno).
 - Las necesitamos en pequeñas cantidades para ciertas funciones.
-- Son **13**, clasificadas según si se disuelven en agua (**hidrosolubles**, grupo B y C) o en aceite (**liposolubles**, ADEK).
+- Se dividen según si se disuelven en agua (**hidrosolubles**, BC) o en aceite (**liposolubles**, ADEK).
 - Dado que somos 70% agua, no podemos almacenar vitaminas hidrosolubles, por lo tanto debemos consumirlas todos los días. Su deficiencia se manifiesta a las pocas semanas o meses. Las vitaminas liposolubles sí pueden almacenarse, su deficiencia se manifiesta tras más de un año.
 - La vitamina **B12, hidrosoluble**, es una excepción a la regla: puede almacenarse durante años en el hígado.
 
