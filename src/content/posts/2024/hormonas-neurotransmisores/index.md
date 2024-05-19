@@ -22,7 +22,7 @@ Son mensajeros químicos liberados al torrente sanguíneo por las distintas **gl
 ### Glándulas endocrinas
 
 #### Hipotálamo
-Es una zona en la base del cerebro que controla la glándula pituitaria a través de hormonas y señales eléctricas. Produce **oxitocina** y **hormona antidiurética**, que se almacenan en la glándula pituitaria hasta que el propio hipotálamo ordena liberarlas al torrente sanguíneo. También produce otras hormonas como la **dopamina** que son usadas exclusivamente para actuar sobre dicha glándula (no se mandan al torrente sanguíneo). Controla prácticamente todos los aspectos del cuerpo: temperatura, frecuencia cardíaca, hambre, sed, líbido, sueño, estado de ánimo.
+Zona en la base del cerebro que controla la glándula pituitaria a través de hormonas y señales eléctricas. Produce **oxitocina** y **hormona antidiurética**, que se almacenan en la glándula pituitaria hasta que el propio hipotálamo ordena liberarlas al torrente sanguíneo. También produce otras hormonas como la **dopamina** que son usadas exclusivamente para actuar sobre dicha glándula (no se mandan al torrente sanguíneo). Controla prácticamente todos los aspectos del cuerpo: temperatura, frecuencia cardíaca, hambre, sed, líbido, sueño, estado de ánimo.
 #### Glándula pituitaria
 También conocida como **hipófisis**, es una glándula del tamaño de un guisante justo debajo del hipotálamo. También llamada "glándula maestra", sus hormonas tienen como objetivo las principales glándulas endocrinas: tiroides, órganos reproductivos y glándulas adrenales/suprarrenales.
 #### Glándula pineal
