@@ -3,10 +3,11 @@ title: "Macronutrientes"
 slug: macronutrientes
 description: "Datos básicos sobre azúcares, grasas, proteínas y agua."
 authors: ["Dr. Fenilalanino"]
-image: "./pexels-lukas-952478.jpg"
+image: "./ai-generated-8733794_1280.webp"
 image_attribution:
-    author: Lukas
-    url: https://www.pexels.com/ca-es/foto/menjar-saludable-verdures-fusta-952478/
+    author: Jan Jakubowski
+    site: Pixabay
+    url: https://pixabay.com/es/illustrations/ai-generado-cocinero-cocina-8733794/
 categories: ["nutrición"]
 tags: ["biología", "química", "apuntes"]
 draft: true

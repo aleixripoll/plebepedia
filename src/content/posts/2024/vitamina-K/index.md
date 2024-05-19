@@ -1,12 +1,13 @@
 ---
 title: "Vitamina K"
 slug: vitamina-k
-description: "Descubierta por el danés Henrik Dam, K de koagulation (coagulación) en alemán."
+description: "K de koagulation (coagulación) en alemán."
 authors: ["Dra. Valina"]
-image: "./pexels-yaroslav-shuraev-8845078.jpg"
+image: "./lettuce-8743189_1280.jpg"
 image_attribution:
-    author: Yaroslav Shuraev
-    url: https://www.pexels.com/photo/green-leaves-in-close-up-photography-8845078/
+    author: Vicki Hamilton
+    site: Pixabay
+    url: https://pixabay.com/es/illustrations/lechuga-verduras-comida-naturaleza-8743189/
 categories: ["nutrición"]
 tags: ["vitaminas", "apuntes"]
 draft: false
