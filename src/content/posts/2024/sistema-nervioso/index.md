@@ -3,11 +3,11 @@ title: "Sistema nervioso"
 slug: sistema-nervioso
 description: "El parasimpático es el de estar parado."
 authors: ["Dr. Fenilalanino"]
-image: "./neurons-8475666_1920.jpg"
+image: ./brain-8743254_1280.jpg
 image_attribution:
     author: Gerd Altmann
     site: Pixabay
-    url: https://pixabay.com/es/illustrations/neuronas-c%C3%A9lulas-del-cerebro-cerebro-8475666/
+    url: https://pixabay.com/es/illustrations/cerebro-explosi%C3%B3n-big-bang-8743254/
 categories: ["neurociencia"]
 tags: ["apuntes"]
 draft: true

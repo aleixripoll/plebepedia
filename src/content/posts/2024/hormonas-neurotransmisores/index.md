@@ -3,11 +3,11 @@ title: "Hormonas y neurotransmisores"
 slug: hormonas-y-neurotransmisores
 description: "Se parecen pero no."
 authors: ["Dra. Valina"]
-image: ./ai-generated-8689555_1280.jpg
+image: ./ai-generated-8154752_1280.jpg
 image_attribution:
-    author: James
+    author: Pete Linforth
     site: Pixabay
-    url: https://pixabay.com/illustrations/ai-generated-brain-nervous-system-8689555
+    url: https://pixabay.com/es/illustrations/ai-generado-cerebro-neuronas-8154752/
 categories: ["neurociencia"]
 tags: ["apuntes"]
 draft: true
@@ -22,7 +22,7 @@ Son mensajeros químicos liberados al torrente sanguíneo por las distintas **gl
 ### Glándulas endocrinas
 
 #### Hipotálamo
-Es una zona en la base del cerebro que controla la glándula pituitaria a través de hormonas y señales eléctricas. Produce **oxitocina** y **hormona antidiurética**, que se almacenan en la glándula pituitaria hasta que el propio hipotálamo ordena liberarlas al torrente sanguíneo. También produce otras hormonas como la **dopamina** que son usadas exclusivamente para actuar sobre dicha glándula (no se mandan al torrente sanguíneo). Controla prácticamente todos los aspectos del cuerpo: temperatura, frecuencia cardíaca, hambre, sed, líbido, sueño, estado de ánimo.
+Zona en la base del cerebro que controla la glándula pituitaria a través de hormonas y señales eléctricas. Produce **oxitocina** y **hormona antidiurética**, que se almacenan en la glándula pituitaria hasta que el propio hipotálamo ordena liberarlas al torrente sanguíneo. También produce otras hormonas como la **dopamina** que son usadas exclusivamente para actuar sobre dicha glándula (no se mandan al torrente sanguíneo). Controla prácticamente todos los aspectos del cuerpo: temperatura, frecuencia cardíaca, hambre, sed, líbido, sueño, estado de ánimo.
 #### Glándula pituitaria
 También conocida como **hipófisis**, es una glándula del tamaño de un guisante justo debajo del hipotálamo. También llamada "glándula maestra", sus hormonas tienen como objetivo las principales glándulas endocrinas: tiroides, órganos reproductivos y glándulas adrenales/suprarrenales.
 #### Glándula pineal
@@ -52,14 +52,12 @@ Algunos neurotransmisores actúan también como hormonas, como ocurre con las **
 - El neurotransmisor solo actúa sobre el sistema nervioso, la hormona puede alterar cualquier función del cuerpo.
 
 
----
+## Referencias
 
-##### Referencias
+- [Cleveland Clinic](https://my.clevelandclinic.org/health/articles/22464-hormones)
 
-https://my.clevelandclinic.org/health/articles/22464-hormones
+- [Psicología y Mente](https://psicologiaymente.com/neurociencias/diferencias-entre-hormona-neurotransmisor)
 
-https://psicologiaymente.com/neurociencias/diferencias-entre-hormona-neurotransmisor
+- [Medline Plus - Hipotálamo](https://medlineplus.gov/spanish/ency/article/002380.htm)
 
-https://medlineplus.gov/spanish/ency/article/002380.htm
-
-https://medlineplus.gov/spanish/adrenalglanddisorders.html
+- [Medline Plus - Enfermedades de las glándulas suprarrenales ](https://medlineplus.gov/spanish/adrenalglanddisorders.html)

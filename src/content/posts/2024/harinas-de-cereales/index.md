@@ -1,6 +1,6 @@
 ---
-title: "Harinas de cereales"
-slug: harinas-de-cereales
+title: "Cereales panificables"
+slug: cereales-panificables
 description: "Trigo contra todos."
 authors: ["Dra. Valina"]
 image: ./pexels-pixabay-162769.jpg
@@ -9,22 +9,26 @@ image_attribution:
     url: https://www.pexels.com/ca-es/foto/pa-camp-estiu-sec-162769/
 categories: ["nutrición"]
 tags: ["pan", "gluten", "apuntes"]
-draft: true
+draft: false
 date: 2024-02-27T07:00:00Z
 ---
 
+_**NOTA:** En realidad todos los cereales de la lista, a excepción del trigo sarraceno, son distintas variades de trigo, llamamos "trigo" a la variedad más extendida o "estándar"._
+
 ### Trigo
-*(en: wheat, ca: blat)*
-Aporta hidratos, proteína, fibra, fitoquímicos (acción antioxidante), vitaminas (principalmente B1-2-3-6-9) y minerales (calcio, hierro, cobre, magnesio, zinc, selenio).
+*[en: wheat, cat: blat]*
+- Hidratos, proteínas, fibra, fitoquímicos (antioxidantes).
+- Vitaminas (principalmente B1-2-3-6-9).
+- Minerales (calcio, hierro, cobre, magnesio, zinc, selenio).
 
 ### Centeno
- *(en: rye, ca: sègol)*
+*[en: rye, cat: sègol]*
 - Menos gluten (= menos esponjoso) que el trigo.
 - Más amargo.
 - Misma fibra, menos proteínas, más vitaminas (B1-2-3-6, E) y más minerales (hierro, fósforo, magnesio).
 
 ### Espelta
- *(en: spelt, ca: espelta)*
+*[en: spelt, cat: espelta]*
 - Su cáscara es dura y le protege de pesticidas (más **"eco"**).
 - Mismo valor nutricional que el trigo.
 
@@ -37,7 +41,7 @@ Aporta hidratos, proteína, fibra, fitoquímicos (acción antioxidante), vitamin
 - Importado de América (= más caro y menos sostenible).
 
 ### Trigo sarraceno
-*(en: buckwheat, ca: fajol)*
+*[en: buckwheat, cat: fajol]*
 - Es un **pseudocereal**, como la quinoa.
 - No contiene gluten (menos esponjoso, más digestivo).
 - Más proteínas y ácidos grasos (omega 3 y 6)
@@ -51,10 +55,8 @@ Aporta hidratos, proteína, fibra, fitoquímicos (acción antioxidante), vitamin
 - La variedad (de cereales y en la dieta en general) es más importante que las modas.
 
 
----
+## Referencias
 
-##### Referencias
+- [El Mundo - La trola de los cereales 'cuquis'](https://www.elmundo.es/papel/boticaria-garcia/2020/03/07/5e611b72fc6c83de468b45b6.html)
 
-https://www.elmundo.es/papel/boticaria-garcia/2020/03/07/5e611b72fc6c83de468b45b6.html
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4998136/
+- [National Center for Biotechnology Information - The contribution of wheat to human diet and health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4998136/)
