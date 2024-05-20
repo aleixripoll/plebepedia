@@ -1,7 +1,7 @@
 ---
 title: "Sistema nervioso"
 slug: sistema-nervioso
-description: "El parasimpático es el de estar parado."
+description: "Siempre me lío con las subdivisiones."
 authors: ["Dr. Fenilalanino"]
 image: ./brain-8743254_1280.jpg
 image_attribution:
@@ -10,7 +10,7 @@ image_attribution:
     url: https://pixabay.com/es/illustrations/cerebro-explosi%C3%B3n-big-bang-8743254/
 categories: ["neurociencia"]
 tags: ["apuntes"]
-draft: true
+draft: false
 date: 2024-04-17T20:00:00Z
 ---
 
