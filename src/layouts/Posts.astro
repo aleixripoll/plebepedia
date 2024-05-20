@@ -34,7 +34,7 @@ const { className, posts, fluid } = Astro.props;
         {post.data.image && (
           <a
             href={`${import.meta.env.BASE_URL}${post.slug}`}
-            class="group block overflow-hidden hover:text-primary sm:rounded-lg drop-shadow-md"
+            class="group block overflow-hidden hover:text-primary sm:rounded-lg"
           >
             <Image
               class={`max-h-44 w-full grayscale-[20%] transition duration-300 group-hover:scale-[1.03] ${
