@@ -25,10 +25,14 @@ export interface Props {
 // distructure frontmatters
 const { title, meta_title, description, image, noindex, canonical } =
   Astro.props;
+
+// i18n
+import { getLangFromUrl } from '../i18n/utils';
+const lang = getLangFromUrl(Astro.url);
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang={lang}>
   <head>
     <script is:inline>
       // This script is identical to the one in ThemeToggle.astro, but with "is:inline" parameter to

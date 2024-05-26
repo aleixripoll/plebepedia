@@ -18,6 +18,12 @@ export interface NavigationLink {
 }
 
 const { main }: { main: NavigationLink[] } = menu;
+
+// i18n
+import LanguagePicker from '../components/LanguagePicker.astro';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
 ---
 
 <header class="header sticky py-1">
@@ -51,6 +57,20 @@ const { main }: { main: NavigationLink[] } = menu;
       </svg>
     </label>
     <!-- /navbar toggler -->
+
+    <LanguagePicker />
+    <ul>
+      <li>
+          <a href={`/${lang}/home/`}>
+            {t('nav.home')}
+          </a>
+      </li>
+      <li>
+          <a href={`/${lang}/about/`}>
+            {t('nav.about')}
+          </a>
+      </li>
+  </ul>
 
     <ul
       id="nav-menu"
