@@ -2,7 +2,7 @@
 title: "13,99 euros"
 description: "Marketing y consumismo, por Frédéric Beigbeder."
 authors: ["Dr. Fenilalanino"]
-image: ./mobile-1087845_1280.jpg
+image: ./mobile-1087845_1280.webp
 image_attribution:
   author: Gerd Altmann
   site: Pixabay

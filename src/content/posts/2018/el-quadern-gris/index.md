@@ -2,7 +2,7 @@
 title: "El quadern gris"
 description: "Autobiografia de Josep Pla."
 authors: ["Dr. Fenilalanino"]
-image: ./dariusz-sankowski-3OiYMgDKJ6k-unsplash.jpg
+image: ./dariusz-sankowski-3OiYMgDKJ6k-unsplash.webp
 image_attribution:
     author: Dariusz Sankowski
     site: Unsplash

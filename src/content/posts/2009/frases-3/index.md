@@ -2,7 +2,7 @@
 title: "Frases #3"
 description: "Recull de frases, tercer volum."
 authors: ["Dr. Fenilalanino"]
-image: ./ai-generated-8776335_1280.jpg
+image: ./ai-generated-8776335_1280.webp
 image_attribution:
     author: beasternchen
     site: Pixabay
