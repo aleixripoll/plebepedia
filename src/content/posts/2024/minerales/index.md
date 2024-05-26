@@ -3,7 +3,7 @@ title: "Minerales"
 slug: minerales
 description: "Todo lo que hay que comer de la tabla periódica."
 authors: ["Dra. Valina"]
-image: "./ai-generated-8741232_1280.png"
+image: "./ai-generated-8741232_1280.jpg"
 image_attribution:
     author: MeditativeKaleidoscope
     site: Pixabay

@@ -2,10 +2,11 @@
 title: "Frases #3"
 description: "Recull de frases, tercer volum."
 authors: ["Dr. Fenilalanino"]
-image: ./pexels-skitterphoto-442420.jpg
+image: ./ai-generated-8776335_1280.jpg
 image_attribution:
-    author: Skitterphoto
-    url: https://www.pexels.com/ca-es/foto/fusta-llibres-edifici-vintage-442420/
+    author: beasternchen
+    site: Pixabay
+    url: https://pixabay.com/es/illustrations/ai-generado-libros-biblioteca-vela-8776335/
 categories: ["literatura"]
 tags: ["citas"]
 draft: false
