@@ -30,4 +30,8 @@ export default defineConfig({
     },
     extendDefaultPlugins: true,
   },
+  i18n: {
+    defaultLocale: "es",
+    locales: ["ca", "es"],
+  }
 });
