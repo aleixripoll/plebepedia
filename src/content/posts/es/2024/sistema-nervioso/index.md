@@ -1,6 +1,5 @@
 ---
 title: "Sistema nervioso"
-slug: sistema-nervioso
 description: "Siempre me lío con las subdivisiones."
 authors: ["Dr. Fenilalanino"]
 image: ./brain-8743254_1280.jpg
