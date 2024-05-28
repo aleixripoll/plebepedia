@@ -10,7 +10,7 @@ image_attribution:
     url: https://pixabay.com/es/illustrations/ai-generado-cocinero-cocina-8733794/
 categories: ["nutrición"]
 tags: ["biología", "química", "apuntes"]
-draft: false
+draft: true
 date: 2024-03-16T19:00:00Z
 ---
 

@@ -10,7 +10,7 @@ image_attribution:
     url: https://pixabay.com/es/illustrations/ai-generado-cristales-geoda-8741232/
 categories: ["nutrición"]
 tags: ["apuntes"]
-draft: false
+draft: true
 date: 2024-02-09T07:00:00Z
 ---
 
@@ -52,7 +52,8 @@ date: 2024-02-09T07:00:00Z
 - **Toxicidad:** Rara ya que el exceso se elimina a través de la orina. Producida principalmente por deficiencia en la función renal.
 
 ### Potasio
-- Es un electrolito como cloro y sodio, actua como regulador de fluidos, pH y nutrientes a nivel **intracelular**, co-actuando con el sodio (regulador extracelular). - Función muscular, mantenimiento de la presión sanguínea. 
+- Es un electrolito como cloro y sodio, actua como regulador de fluidos, pH y nutrientes a nivel **intracelular**, co-actuando con el sodio (regulador extracelular).
+- Función muscular, mantenimiento de la presión sanguínea. 
 - **Fuentes:** Frutas, hortalizas, frutos secos.
 - **Deficiencia:** Rara, se puede producir por deshidratación o deficiencia de magnesio. Síntomas: estreñimiento, rampas o parálisis muscular.
 - **Toxicidad:** Llamada **hiperkalemia**, producida principalmente por fallo renal, síntomas: dificultad para respirar, dolor en el pecho.

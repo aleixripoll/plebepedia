@@ -10,7 +10,7 @@ image_attribution:
     url: https://pixabay.com/es/illustrations/ai-generado-bombilla-bulbo-energ%C3%ADa-8710045/
 categories: ["nutrición"]
 tags: ["vitaminas", "apuntes"]
-draft: false
+draft: true
 date: 2024-03-03T07:00:00Z
 ---
 
