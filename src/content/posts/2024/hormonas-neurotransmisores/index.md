@@ -1,6 +1,5 @@
 ---
 title: "Hormonas y neurotransmisores"
-slug: hormonas-y-neurotransmisores
 description: "Se parecen pero no."
 authors: ["Dra. Valina"]
 image: ./ai-generated-8154752_1280.jpg

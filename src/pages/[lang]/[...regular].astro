@@ -1,0 +1,40 @@
+---
+import Base from "@layouts/Base.astro";
+import Default from "@layouts/Default.astro";
+import PostSingle from "@layouts/PostSingle.astro";
+import { getSinglePage } from "@lib/contentParser.astro";
+
+console.log("test");
+
+const getPosts = await getSinglePage("posts");
+const postsSlug = getPosts.map((item: any) => item.slug);
+
+export async function getStaticPaths() {
+  const posts = await getSinglePage("posts");
+  const pages = await getSinglePage("pages");
+  const allPages = [...pages, ...posts];
+  const paths = allPages.map(page => {
+    const [lang, ...regular] = page.slug.split('/');
+    return { params: { lang, regular: regular.join('/') || undefined }, props: { page }}
+  });
+  return paths;
+}
+
+const { page } = Astro.props;
+const { title, meta_title, description, image } = page.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  {
+    postsSlug.includes(page.slug) ? (
+      <PostSingle post={page} />
+    ) : (
+      <Default data={page} />
+    )
+  }
+</Base>
