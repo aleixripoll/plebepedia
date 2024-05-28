@@ -10,7 +10,7 @@ image_attribution:
     url: https://pixabay.com/es/illustrations/ai-generado-cristales-geoda-8741232/
 categories: ["nutrición"]
 tags: ["apuntes"]
-draft: true
+draft: false
 date: 2024-02-09T07:00:00Z
 ---
 

@@ -10,7 +10,7 @@ image_attribution:
     url: https://pixabay.com/es/illustrations/fruta-ar%C3%A1ndano-baya-comida-azul-8750860/
 categories: ["nutrición"]
 tags: ["apuntes"]
-draft: true
+draft: false
 date: 2024-02-09T07:00:00Z
 ---
 

@@ -9,7 +9,7 @@ image_attribution:
     url: https://www.pexels.com/ca-es/foto/343720/
 categories: ["nutrición"]
 tags: ["vitaminas", "apuntes"]
-draft: true
+draft: false
 date: 2024-02-18T07:00:00Z
 ---
 
