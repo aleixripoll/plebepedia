@@ -4,8 +4,6 @@ import Default from "@layouts/Default.astro";
 import PostSingle from "@layouts/PostSingle.astro";
 import { getSinglePage } from "@lib/contentParser.astro";
 
-console.log("test");
-
 const getPosts = await getSinglePage("posts");
 const postsSlug = getPosts.map((item: any) => item.slug);
 
