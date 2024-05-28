@@ -3,11 +3,10 @@ title: "Vitamina D"
 slug: vitamina-d
 description: "Calciferol para los amigos."
 authors: ["Dr. Fenilalanino"]
-image: "./sun-8762264_1280.webp"
+image: "./pexels-asim-razan-343720.webp"
 image_attribution:
-    author: Aristal Branson
-    site: Pixabay
-    url: https://pixabay.com/es/illustrations/sol-oto%C3%B1o-sale-de-rostro-8762264/
+    author: asim alnamat
+    url: https://www.pexels.com/ca-es/foto/343720/
 categories: ["nutrición"]
 tags: ["vitaminas", "apuntes"]
 draft: false

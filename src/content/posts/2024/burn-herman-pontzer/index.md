@@ -5,9 +5,9 @@ description: "La ciencia del metabolismo energético, por Herman Pontzer."
 authors: ["Dr. Fenilalanino"]
 image: "./cupcakes-8289051_1280.jpg"
 image_attribution:
-    author: Julita
+    author: Slava
     site: Pixabay
-    url: https://pixabay.com/es/photos/az%C3%BAcar-dulce-cubos-calor%C3%ADas-5040276/
+    url: https://pixabay.com/es/photos/magdalenas-pasteler%C3%ADa-panader%C3%ADa-8289051/
 categories: ["literatura", "nutrición"]
 tags: ["metabolismo", "lang-en"]
 draft: false
