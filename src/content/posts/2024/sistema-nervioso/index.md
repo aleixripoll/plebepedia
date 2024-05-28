@@ -1,7 +1,7 @@
 ---
 title: "Sistema nervioso"
 slug: sistema-nervioso
-description: "Siempre me lío con las subdivisiones."
+description: "Resumen de subdivisiones."
 authors: ["Dr. Fenilalanino"]
 image: ./brain-8743254_1280.jpg
 image_attribution:
@@ -14,7 +14,7 @@ draft: false
 date: 2024-04-17T20:00:00Z
 ---
 
-El sistema nervioso se clasifica bien por ubicación o por función.
+El sistema nervioso se clasifica por ubicación y por función.
 
 ### División anatómica
 
@@ -34,6 +34,6 @@ Acciones voluntarias, se subdivide en:
 #### Autónomo
 Acciones involuntarias, se subdivide en:
 
-  - **Simpático:** Cuerpo en modo "activo" (contracción músculo liso, secreción glándulas, acelerar respiración y ritmo cardíaco).
-  - **Parasimpático:** Cuerpo en modo "reposo" (digestión, ralentizar respiración y ritmo cardíaco).
+  - **Simpático:** Cuerpo en modo "activo" (contracción músculo liso, secreción glándulas, acelera respiración y ritmo cardíaco).
+  - **Parasimpático:** Cuerpo en modo "reposo" (digestión, ralentiza respiración y ritmo cardíaco).
   - **Entérico:** Motilidad intestinal.

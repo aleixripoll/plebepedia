@@ -3,7 +3,7 @@ title: "Burn (Quema)"
 slug: burn-herman-pontzer
 description: "La ciencia del metabolismo energético, por Herman Pontzer."
 authors: ["Dr. Fenilalanino"]
-image: "./sugar-5040276_1280.jpg"
+image: "./cupcakes-8289051_1280.jpg"
 image_attribution:
     author: Julita
     site: Pixabay
