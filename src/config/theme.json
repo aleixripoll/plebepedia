@@ -17,9 +17,9 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Mulish:wght@300;400;700",
+      "primary": "Roboto:wght@300;700",
       "primary_type": "sans-serif",
-      "secondary": "Bellota+Text:wght@400",
+      "secondary": "",
       "secondary_type": "sans-serif"
     },
     "font_size": {
