@@ -106,7 +106,7 @@ export default function SearchBar({ searchList }: Props) {
               </a>
             )}
 
-            <ul className="mt-4 mb-2 flex flex-wrap items-center justify-center text-text dark:text-light">
+            <ul className="mt-4 mb-2 flex flex-wrap items-center justify-center">
               {/*<li className="mr-5 flex items-center flex-wrap">
                 <BiUser className="mr-1 h-[18px] w-[18px]" />
                 <>
@@ -152,7 +152,7 @@ export default function SearchBar({ searchList }: Props) {
                 {item.data.title}
               </a>
             </h3>
-            <p className="text-text dark:text-light mb-4">
+            <p className="mb-4">
             {
               item.data.description ? item.data.description :
               item.content?.slice(0, Number(summary_length)) + "..."

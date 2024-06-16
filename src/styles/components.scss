@@ -124,11 +124,11 @@ img[alt$="<"] {
 
 // TODO: remove when all posts use frontmatter img attribution fields
 span.attribution {
-  @apply block text-center italic text-xs relative -top-6 text-text dark:text-light opacity-90;
+  @apply block text-center italic text-xs relative -top-6  opacity-90;
 }
 
 a.attribution {
-  @apply block text-center italic text-xs text-text dark:text-light opacity-90 mt-2 hover:text-primary;
+  @apply block text-center italic text-xs opacity-90 mt-2 hover:text-primary;
 }
 
 .theme-switcher {
