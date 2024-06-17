@@ -8,8 +8,8 @@ image_attribution:
     author: Slava
     site: Pixabay
     url: https://pixabay.com/es/photos/magdalenas-pasteler%C3%ADa-panader%C3%ADa-8289051/
-categories: ["literatura", "nutrición"]
-tags: ["metabolismo", "lang-en"]
+categories: ["literatura"]
+tags: ["nutrición", "metabolismo", "lang-en"]
 draft: false
 date: 2024-03-11T18:00:00Z
 ---

@@ -3,8 +3,8 @@ title: "Psychology: A concise introduction"
 description: "Libro académico de psicología, por Richard A. Griggs y Sherri L. Jackson."
 authors: ["Dr. Fenilalanino"]
 image: ./cover.jpg
-categories: ["literatura", "neurociencia"]
-tags: ["ensayo", "psicología", "lang-en"]
+categories: ["literatura"]
+tags: ["ensayo", "neurociencia", "psicología", "lang-en"]
 draft: false
 date: 2022-08-10T13:16:00Z
 ---

@@ -8,9 +8,9 @@ image_attribution:
     author: Gerd Altmann
     site: Pixabay
     url: https://pixabay.com/es/illustrations/cerebro-explosi%C3%B3n-big-bang-8743254/
-categories: ["neurociencia"]
-tags: ["apuntes"]
-draft: true
+categories: ["apuntes"]
+tags: ["biología", "neurociencia"]
+draft: false
 date: 2024-04-17T20:00:00Z
 ---
 

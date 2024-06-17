@@ -7,8 +7,8 @@ image_attribution:
   author: Hal Gatewood
   site: Unsplash
   url: https://unsplash.com/photos/purple-and-pink-plasma-ball-OgvqXGL7XO4
-categories: ["literatura", "neurociencia"]
-tags: ["ensayo", "psicología", "lang-en"]
+categories: ["literatura"]
+tags: ["ensayo", "neurociencia", "psicología", "lang-en"]
 draft: false
 date: 2014-11-01T18:04:00.001+01:00
 ---

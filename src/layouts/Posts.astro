@@ -47,7 +47,7 @@ const { className, posts, fluid } = Astro.props;
             />
           </a>
         )}
-        <ul class="mb-1 mt-3 flex flex-wrap items-center justify-center text-text dark:text-light">
+        <ul class="mb-1 mt-3 flex flex-wrap items-center justify-center">
           {/*<li class="mr-5">
             {authors
               .filter((author: any) =>
@@ -106,7 +106,7 @@ const { className, posts, fluid } = Astro.props;
             {post.data.title}
           </a>
         </h3>
-        <p class="px-4 mb-2 text-text dark:text-light">
+        <p class="px-4 mb-2">
           {post.data.description
             ? post.data.description
             : post.body?.slice(
