@@ -4,7 +4,7 @@ description: "Estudi sobre els efectes dels estiraments."
 authors: ["Dr. Fenilalanino"]
 image: ./estira.webp
 categories: ["literatura", "dibuixos"]
-tags: ["estudio", "deporte", "fisioterapia"]
+tags: ["deporte", "fisioterapia"]
 draft: false
 date: 2024-06-17T18:00:00Z
 ---
