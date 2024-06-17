@@ -5,7 +5,7 @@ authors: ["Dr. Fenilalanino"]
 image: ./estira.webp
 categories: ["literatura", "dibuixos"]
 tags: ["estudio", "deporte", "fisioterapia"]
-draft: false
+draft: true
 date: 2024-06-16T16:00:00Z
 ---
 
