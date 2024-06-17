@@ -8,8 +8,8 @@ image_attribution:
     author: Pete Linforth
     site: Pixabay
     url: https://pixabay.com/es/illustrations/ai-generado-cerebro-neuronas-8154752/
-categories: ["neurociencia"]
-tags: ["apuntes"]
+categories: ["apuntes"]
+tags: ["neurociencia"]
 draft: false
 date: 2024-03-19T16:00:00Z
 ---

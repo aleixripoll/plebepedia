@@ -8,8 +8,8 @@ image_attribution:
     author: aergtrhyteh
     site: Pixabay
     url: https://pixabay.com/es/illustrations/ai-generado-naranja-chapoteo-agua-8750838/
-categories: ["nutrición"]
-tags: ["vitaminas", "apuntes"]
+categories: ["apuntes"]
+tags: ["vitaminas", "nutrición"]
 draft: false
 date: 2024-03-01T07:00:00Z
 ---

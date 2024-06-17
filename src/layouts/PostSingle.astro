@@ -31,7 +31,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
       <div class="text-center md:col-10">
         <h1 set:html={markdownify(title)} class="h2" />
         <p class="py-2 lg:text-lg font-light">{description}</p>
-        <ul class="mt-2 flex flex-wrap items-center justify-center font-light">
+        <ul class="mt-2 flex flex-wrap items-center justify-center">
           {/*<li class="mx-3">
             {
               allAuthors
@@ -113,7 +113,7 @@ const lastModified = dayjs(remarkPluginFrontmatter.lastModified)
         <div class="content mb-16 text-left">
           <Content />
         </div>
-        <div class="flex flex-wrap items-center justify-between font-light">
+        <div class="flex flex-wrap items-center justify-between">
           <ul class="mb-4 mr-4 space-x-3">
             {
               tags.map((tag: string) => (

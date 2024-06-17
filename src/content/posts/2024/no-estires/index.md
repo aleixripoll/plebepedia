@@ -3,8 +3,8 @@ title: "No estires"
 description: "Estudio sobre los efectos de los estiramientos."
 authors: ["Dr. Fenilalanino"]
 image: ./estira.webp
-categories: ["ciencia"]
-tags: ["deporte"]
+categories: ["literatura", "dibuixos"]
+tags: ["estudio", "deporte", "fisioterapia"]
 draft: false
 date: 2024-06-16T16:00:00Z
 ---

@@ -7,8 +7,8 @@ image: "./pexels-asim-razan-343720.webp"
 image_attribution:
     author: asim alnamat
     url: https://www.pexels.com/ca-es/foto/343720/
-categories: ["nutrición"]
-tags: ["vitaminas", "apuntes"]
+categories: ["apuntes"]
+tags: ["vitaminas", "nutrición"]
 draft: false
 date: 2024-02-18T07:00:00Z
 ---

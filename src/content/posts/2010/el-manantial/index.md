@@ -6,7 +6,7 @@ image: ./pexels-scott-webb-136413.jpg
 image_attribution:
   author: Scott Webb
   url: https://www.pexels.com/ca-es/foto/136413/
-categories: ["literatura", "neurociencia"]
+categories: ["literatura"]
 tags: ["novela", "sociedad", "filosofía"]
 draft: false
 date: 2010-01-10T19:18:00.012+01:00
