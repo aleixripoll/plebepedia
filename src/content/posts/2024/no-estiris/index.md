@@ -1,8 +1,8 @@
 ---
 title: "No estiris"
-description: "Estudi sobre els efectes dels estiraments."
+description: "Els últims estudis diuen que no."
 authors: ["Dr. Fenilalanino"]
-image: ./estira.webp
+image: ./estira_001.webp
 categories: ["literatura", "dibuixos"]
 tags: ["deporte", "fisioterapia"]
 draft: false

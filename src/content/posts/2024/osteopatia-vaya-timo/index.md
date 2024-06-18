@@ -2,7 +2,7 @@
 title: "La osteopatía, ¡vaya timo!"
 description: Ensayo de Rubén Tovar Ochovo.
 authors: ["Dr. Fenilalanino"]
-image: ./foli.webp
+image: ./foli_001.webp
 categories: ["literatura", "dibuixos"]
 tags: ["ensayo", "fisioterapia", "osteopatía"]
 draft: false
