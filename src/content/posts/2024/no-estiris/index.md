@@ -1,6 +1,6 @@
 ---
 title: "No estiris"
-description: "Els últims estudis diuen que no."
+description: "Els estudis diuen que no."
 authors: ["Dr. Fenilalanino"]
 image: ./estira.webp
 categories: ["literatura", "dibuixos"]
