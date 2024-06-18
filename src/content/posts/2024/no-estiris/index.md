@@ -2,7 +2,7 @@
 title: "No estiris"
 description: "Els últims estudis diuen que no."
 authors: ["Dr. Fenilalanino"]
-image: ./estira_001.webp
+image: ./estira.webp
 categories: ["literatura", "dibuixos"]
 tags: ["deporte", "fisioterapia"]
 draft: false
