@@ -4,7 +4,7 @@ slug: vitaminas-general
 description: "Los detalles para otro día."
 authors: ["Dra. Valina"]
 image: "./vitaminas.webp"
-categories: ["apuntes"]
+categories: ["apuntes", "dibuixos"]
 tags: ["vitaminas", "nutrición"]
 draft: false
 date: 2024-02-07T07:00:00Z

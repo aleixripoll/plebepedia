@@ -4,7 +4,7 @@ slug: vitamina-a
 description: "Algunos datos para romper el hielo en las fiestas."
 authors: ["Dr. Fenilalanino"]
 image: "./vitamina_A.webp"
-categories: ["apuntes"]
+categories: ["apuntes", "dibuixos"]
 tags: ["vitaminas", "nutrición"]
 draft: false
 date: 2024-01-04T07:00:00Z
