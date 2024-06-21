@@ -1,6 +1,6 @@
 ---
 title: "No estiris"
-description: "Els estudis diuen que no."
+description: "Terraplanistes a mi."
 authors: ["Dr. Fenilalanino"]
 image: ./estira.webp
 categories: ["literatura", "dibuixos"]
