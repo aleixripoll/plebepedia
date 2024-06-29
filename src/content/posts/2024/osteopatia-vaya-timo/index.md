@@ -5,7 +5,7 @@ authors: ["Dr. Fenilalanino"]
 image: ./foli.webp
 categories: ["literatura", "dibuixos"]
 tags: ["ensayo", "fisioterapia", "osteopatía"]
-draft: false
+draft: true
 date: 2024-06-16T16:00:00Z
 ---
 
