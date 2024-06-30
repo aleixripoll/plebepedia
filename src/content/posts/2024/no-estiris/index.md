@@ -1,5 +1,5 @@
 ---
-title: "Estiraments 101"
+title: "Estiraments sí o no?"
 description: "Terraplanistes a mi."
 authors: ["Dr. Fenilalanino"]
 image: ./estira.webp
