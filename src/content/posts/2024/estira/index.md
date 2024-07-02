@@ -17,10 +17,8 @@ Estudi complet a **Elsevier**: [Los efectos de los estiramientos musculares: ¿q
 
 > Stretching has not been shown to be effective at reducing the incidence of overall injuries.
 
-> To avoid decrease in strength and performance that may occur in athletes due to static stretching before competition or activity, dynamic stretching is recommended for warm-up.
+> To avoid decrease in strength and performance that may occur due to static stretching before competition or activity, dynamic stretching is recommended for warm-up.
 
-> A recent review of stretching for contractures found no improvement in joint mobility orthopedic-related contractures. Orthopedic contractures often result from shortness in non-contractile tissues such as capsuloligamentous structures rather than muscle tightness.
-
-> Researchers have shown that 12 months of stretching is as effective as strengthening exercises or manual therapy in patients with chronic neck pain.
+> A recent review of stretching for contractures found no improvement in joint mobility. Orthopedic contractures often result from shortness in non-contractile tissues such as capsuloligamentous structures rather than muscle tightness.
 
 Estudi complet al **National Center for Biotechnology Information**: [Current concepts in muscle stretching for exercise and rehab](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3273886/).
